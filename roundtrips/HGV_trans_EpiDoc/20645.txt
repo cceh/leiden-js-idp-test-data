@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              To Nilus, stated as the son of Soëris, and his colleague in the collection of the corn-revenues due at Talao and in the district near Sinaru for the produce of the past 30th year, greeting. I have received from you as my salary 400 drachmae, I being responsible for the registration of the books.
+            =>
+         =T>
+      

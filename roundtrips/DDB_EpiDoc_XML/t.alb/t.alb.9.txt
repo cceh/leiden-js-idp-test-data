@@ -1,0 +1,71 @@
+<S=.la
+<D=.18a.tablet<=
+    1. <:instrumentum|reg|istrumentu:> de <:olivis|reg|olibis:> vi in ḍoṃos veteres Maximani 
+=>=D>
+<D=.palimpsest<=
+1. anno [.?] regis
+2. Cresconius et Cresconia
+=>=D>
+
+<D=.18b.tablet<=
+    2. anno decimo (d(omi)ni) regis <:Gunthamundus|reg|Guntamundus:> die pridie idus ianuarias <:ven3.- dente|reg|ben3.- dente:>  
+
+Iulio Maximano ẹṭ Peregus uxor eius et <:subscripturis|reg|subiscripturis:>  coram <:sub4.- scribentibus|reg|sub4.- iscribentibus:> ex culturis suis mancianis sub 
+(d(omi)n(io)) (Fl(avi)) Gemini C
+   
+  5.- atullini (fl(aminis)) (p(er)p(etu)i) particella agri id est domos <:veteres|reg|beteres:> ubi abentur 
+
+    6. <:olive|reg|olibe:> (arb(ores)) sex inter adfines eiusdem agri Africo Donatus a Coro 
+
+    7. <:via|reg|bia:> qui ducit ad Maguḷa a septentrione fixos <:novos|reg|nobos:>  termi8.- nes 
+
+    hac die emit Geminius Felix de (s(upra)s(cri)p(tis)) <:venditoribus|reg|benditoribus:> folles pe9.- cuniae 
+
+    numero nonaginta quos folles nonaginta acceperuṇṭ 
+
+    10. Iulius Maximanus et Peregus uxor eius <:venditores|reg|benditores:> et secum 
+
+    11. sustulerunt coramque signatoribus <:nihil|reg|nicil:> <:quaesiverunt|reg|quesivi:> de preti12.- o 
+
+    agri <:suprascriptis|reg|supraịṣcriptis:> quiquam <:amplius|reg|anplius:> <:deberi|reg|deveri:> sibi 
+
+    res13.- =>=D> 
+<D=.19a.tablet<= 
+13. [pondiderunt a pridie quam venderent (h(abuerunt)) (t(enuerunt)) (p(ossederunt))]
+
+14. [iurisque eorum fuerunt et ex hac die in] <:[empto]15.- rem|reg|[emto]15.- rem:>  
+
+     eorum transtulerunt ut (ḥ(abeat)) (ṭ(eneat)) (p̣(ossideat)) utatur fruatur ip16.- se <:heredesve|reg|eredesbe:> eorum in <:perpetuum|reg|perpetum:> et si quis de (s(upra)s(cri)p(tam)) rem de 
+
+    17. quo agitur mentionem <:quaestionem|reg|questionem:> facere <:voluerit|reg|boluerit:> sui18.- que 
+
+    iuri <:probaverit|reg|probaberit:> <:tunc|reg|dunc:> evinci <:coeperit|reg|queperit:> <:tunc|reg|thunc:>  da19.- [bit] 
+
+     tantum pretium et alte[rum tantum vel quanti] ẹạ ṛẹṣ eo 
+
+    20. <:tempore|reg|tenpore:> <:valuerit|reg|baluerit:> pro <:victe|reg|bicte:> rei recte dari sine dolo malo dolus 
+
+    21. malus abest aberit afuturumque erit <:stipulatus|reg|istipulatus:> est 
+
+    22. Geminius Felix (sp(o)p(on)d(i)d(erunt)) Maximanus et Peregus uxor eiu\s/ 
+=>=D>
+
+<D=.19b.tablet<=
+    23. <:venditores|reg|benditores:> actum Tuletanios anno et die (s(upra)s(cri)p(tis)) ego Lucianus 
+
+    24. petitus a <:Maximanus|reg|Maxinus:> <:venditor|reg|benditor:> eo quod litteras nescit et omne25.-  m pretium accepit quam pro eum <:scripsi|reg|iscripsi:> quam pro uxore 
+
+    26. eius signum <:suum|reg|sum:> <:subter|reg|supter:> faciente signum X Maxima[ni] 
+
+    27. ego Quadratian[us ad] ịụssu patris mei Ianuari ad hunc <:instrumen28.- tum|reg|strumen28.- tum:>  
+
+     interfui et pro se contradi <:vidi|reg|bidi:> ego Victorinus peti29.- tus 
+
+    a Magari qui litteras [nes]c̣ịṭ ạḍ hunc <:instrumentum|reg|strumentu:> inter30.- fuit 
+
+    signum X Magari quam pro eum <:scripsi|reg|scrisi:> quam pro me 
+
+    31. ego Ḷục̣ịạṇụs ṃạg̣ịṣṭẹṛ hụṇc̣ <:instrumentum|reg|ṣṭṛụmentum:> <:scripsi|reg|ṣc̣ṛịḅṣị:> ẹṭ sub32.- [scripsi] 
+=> =D>
+<D=.palimpsest<=
+24a. et ex ac die emerunt =>=D>

@@ -1,0 +1,36 @@
+
+         <T=.de<=
+            ((1))Im 5. Jahr des Caius Caesar Imperator Augustus, am 26. des Monats Sotêr. 
+            ((2))Ich, Hêraklas (?), Sohn des [...]phros, habe zugemessen bekommen von den 
+            Erträgen des 4. Jahres <:<für die 
+                Ein-Artaben-Abgabe=monartabou>|BGU:|:> 
+            <:[...]|BGU:BL II 2, S. 20|:> von Karanis: ((3))Chairêmôn, 
+            Sohn des Sôkratês, an <Artaben=artaba> Weizen <mit 
+                dem gestrichenen staatlichen Maß=metrodemosioxesto> 
+            <epaiton=epaiton> neunundzwanzig 
+            <Artaben=artaba>, <:für 
+                die|BGU:BL II 2, S. 20|:> 
+            <:<Zwanzigstel-Abgabe=eikoste>|BGU:BL II 2, S. 20.|:> 
+            eineinhalb. ((7))<:Derselbe|BGU:BL II 2, S. 20|:> für die 
+            (Abgabe auf) <idioktêtos~grc-Latn=idioktetos> sechs 1/4, 
+            <:für die|BGU:BL II 2, S. 20|:> 
+            <:<Zwanzigstel-Abgabe=eikoste>|BGU:|:> 
+            <:1/4|BGU:BL II 2, S. 20|:>, das sind zusammen 37 
+            <Artaben=artaba> Weizen.
+        =>=T>
+         <T=.en<=
+            ((1))Year 5 of Gaius Caesar Imperator Augustus, 26th of the month of Soter. 
+            ((2))I, Heraklas, son of [...]phros, have had measured to me from the produce of 
+            year 4 for the <:<dues on (land) at one 
+                artaba=monartabou>|BGU:BL II.2 20.|:> 
+            <:[...]|BGU:BL II.2 20|:> of Karanis: Chairemon, son of Sokrates by 
+            <levelled public measure=metrodemosioxesto> 
+            <:<epaiton~grc-Latn=epaiton>|:|:> 
+            twenty nine <artabas=artaba> of wheat, for the 
+            <:<tax of a twentieth=eikoste>|BGU:BL II.2 20.|:> one and 
+            a half; <:the same person|BGU:BL II.2 20|:> for the 
+            dues on <idioktetos~grc-Latn=idioktetos> (land) six 1/4, for the 
+            <:<tax of a twentieth=eikoste>|BGU:BL II.2 20.|:> 1/4 = 
+            for the receipt 37 <artabas=artaba> of wheat.
+        =>=T>
+      

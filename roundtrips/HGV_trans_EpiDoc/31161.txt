@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘For guard-house: Pandbeus son of Pibichis, concerning immune donkeys, male and female, for the officers of the guard-house, the night of the 24th to the 25th.’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((00))
+               =>
+            =D>
+         =T>
+      

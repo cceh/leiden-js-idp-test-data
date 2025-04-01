@@ -1,0 +1,23 @@
+
+         <T=.de
+            <=
+               ((1)) (2. Hd.) An Serenus, den Schreiber der Stadt 
+                      (1. Hd.) von Sarapion, dem Sohn des Thoonis, des Freigelassenen
+                      des Amoitas, des Sohnes des Theon, und der Mutter Didyme,
+                      aus der Stadt Oxyrhynchos. ((4)) Ich deklariere für den (2. Hd.) vierten (1. Hd.) Teil, den ich habe
+                      an Haus samt Zubehör
+                      im Viertel Temgenuthis, meinen Sohn
+                      Ammon von der Mutter Sarapias,
+                      der Freigelassenen des Zoilos, aus derselben Stadt,
+                      der im gegenwärtigen 10. Jahr
+                      im 3. Lebensjahr steht. ((12)) Daher bitte ich, indem ich
+                      die Unterlagen einreiche, ihn zu registrieren,
+                      wie es sich gehört. ((14)) Im 10. Jahr der Imperatores Caesares
+                      Lucius Septimius Severus Pius Pertinax Arabicus Adiabenicus
+                      Parthicus Maximus und Marcus Aurelius Antoninus Pius
+                      Augusti.
+                      (3. Hd.) …
+/*Translation: A. Jördens, P.Louvre 3 183*/
+            =>
+         =T>
+      

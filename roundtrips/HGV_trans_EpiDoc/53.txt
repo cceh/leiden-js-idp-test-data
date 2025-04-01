@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.1 
+               <=
+                  ((1)) ‘Year 49, Phamenoth 11. Sale by Isidorus son of Theon, also called Phaesis son of Teôs, of the dovecot and attached uncultivated lands belonging to him situated in the northern and western part of Pathyris. Purchased by Horus son of Nechouthes.
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((1)) ‘In the 49th year of Ptolemy Euergetes, son of Ptolemy and Cleopatra gods Epiphaneis, and of queen Cleopatra the sister and of queen Cleopatra his wife, goddesses Euergetidae, the priest at Alexandria of Alexander and the gods Adelphi and the gods Euergetae and the gods Philopatores and the gods Epiphaneis and the god Eupator and the god Philometer and the gods Euergetae, the athlophorus of Berenice Euergetis, the canephorus of Arsinoe Philadelphus, the priestess of Arsinoe Philopator being those now in office at Alexandria, likewise at Ptolemais in the Thebaid, on the 11th of the month Phamoneth, at Crocodilopolis, before Heraclides agoranomus of the nome of Peri Thebas: Isidorus son of Theon also called Phaesis son of Teôs, Persian, (officer) of the mercenary cavalry at Crocodilopolis … aged about 50, medium height, fair-skinned, curly-haired, long-faced, straight-nosed, eyes fairly blue has sold the dovecot consisting of twelve spirals, belonging to him, with breeding pigeons,  and the attached uncultivated lands situated on the sand bank and west part of Pathyris whose neighbours are on the south houses of Horus the purchaser, on the north, west, and east the king’s highway, or whatsoever be the neighbours on every side. The purchaser is Horus, son of Nechouthes, Persian, aged about 35, medium-height, fair-skinned, bald on the forehead, long-faced, straight-nosed, left ear bored. Guarantor of eviction and surety for all the terms of this sale is Isidorus also called Phaesis the vendor, whom Horus the purchaser has accepted. I, Heliodorus, have transacted the business.’
+               =>
+            =D>
+         =T>
+      

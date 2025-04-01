@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              ... (to our God) and gracious saviour and to his beloved Son, that they all may succour our body, soul, and spirit. I write this to you in sickness, being very ill and quite unable to rise from my bed, because I am very ill. With regard to what you wrote to me...
+            =>
+         =T>
+      

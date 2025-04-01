@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘The 15th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Pauni 24. Paid to Osis and the associate collectors of money-taxes for the village of Theadelphia by Tois daughter of Sarapion, through the agency of Athenaeus son of Heraclides, for (the naubion-tax on) catoeci 1,8[.]5 copper dr., for extra payments 185 copper dr., for change 35, for the receipt 1½ob.; and to the name of Diodotus also called Ninnarus, son of Anoubion, for (the naubion-tax on) catoeci 1[.]5 copper dr., for extra payments 20, for change 5, for the receipt 1½ ob.; and to the name of Sabinus son of Protarchus for (the naubion-tax on) enaphesii 600, for extra payments 120, for change 15, for the receipt 1½ ob.; and to the name of ... of Heraclides for (the naubion-tax on) catoeci … copper dr., for extra payments 3[.], for change 10, for the receipt 1½ ob.; and to the name of Demarion elder daughter of Herodes for (the naubion-tax on) catoeci 1[. . .] copper dr., for extra payments no, for change 30, for the receipt 1½ ob.; and to the name of … son of Pappion for (the naubion-tax on) catoeci 300 copper dr., for extra payments 130, for change 10, for the receipt 1½ ob.’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

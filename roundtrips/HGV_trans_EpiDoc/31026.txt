@@ -1,0 +1,42 @@
+
+         <T=.fr
+            <D=.ii.column 
+               <=
+                  ((1)) […] de la Ville et […]
+                         les semailles et les autres activités
+                         concernant le domaine jusqu'à la visite bénéfique du très illustre [préfet; mais]
+                         dédaignant tes instructions, Dioskouridès et Sarapammon, sous le
+                         prétexte (d'aller chercher) des graines, prenant les clefs des greniers [et …]
+                  ((6)) ils ont vendu tout le blé aux marchands en gros et la gesse […]
+                         dans les semailles vendue par eux jusqu'à cent artabes et ils transportèrent […] artabes de lentilles
+                         à Hermoupolis pour leur usage personnel et […]
+                         ils ont vendu la plus grande partie de cet orge et ayant [fait] tout cela,
+                         ils se partagèrent l'argent. ((10)) En notre présence, […]
+                         l'un envers l'autre […] ils ont donné […]
+               =>
+            =D>
+            <D=.iii.column 
+               <=
+                         […]
+                  ((2)) […] de la maison
+                         […] y sont compris
+                         […] des coupes à boire
+                         […] des lampes
+                         […] de nombreux coffrets
+                  ((7)) […] et des objets en verre de couleurs variées
+                         […] des anneaux de grande valeur et
+                         […] un veau du village de Temsiris et
+                         [… du fourrage transporté] jusqu'à Boou sur trois bateaux […]
+                ((11)) une partie Dioskouridès l'emporta à Thelphis […]
+                         sa possession, et ne s'en tenant pas là, ils entreprirent […]
+                         de se rendre […] des bois. Ils envoyèrent en effet des acheteurs [en vue de]
+                         leur estimation. Mais la mort de son père
+                         [empêcha] Dioskouridès de les vendre. ((15)) Quant aux porcs à Boou […];
+                         finalement, après tout cela, arrivant à un tel degré
+                         de friponnerie, Dioskouridès promet à Sarapammon […]
+                         et des talents […] et à Ptol[…]
+                         /*Translation: M. Drew-Bear, CPR 35 32*/
+               =>
+            =D>
+         =T>
+      

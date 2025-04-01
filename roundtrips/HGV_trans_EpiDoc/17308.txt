@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘Dionysius to Apion, greeting. The divine Fortune of our masters has ordained that the Italian coinage be reduced to the half of a nummus.  Make haste, therefore, to spend all the Italian silver that you have on purchases, on my behalf, of goods of every description at whatever price you find them. For this purpose I have dispatched an officialis to you. But take notice that should you intend to indulge in any malpractices I shall not allow you to do so. I pray, my brother, that you may be in long health. 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((14)) I have received the letter from the officialis on the 8th of Pharmouthi.’
+               =>
+            =D>
+         =T>
+      

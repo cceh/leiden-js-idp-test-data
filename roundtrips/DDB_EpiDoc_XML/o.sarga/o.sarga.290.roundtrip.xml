@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Θὼθ <g type="dipunct"/>  <num value="11"><hi rend="supraline">ια</hi></num> <g type="dipunct"/> 
+
+    <lb n="2"/><foreign xml:lang="cop">ⲫⲟⲩⲏⲩ</foreign><g type="dipunct"/> 
+
+    <lb n="3"/><expan>μεγ<ex>άλα</ex></expan> <g type="dipunct"/> <subst><add place="inline"><num value="19"><hi rend="supraline">ιθ</hi></num></add><del rend="corrected"><num value="11">ια</num></del></subst> <g type="dipunct"/> <expan>πλή<ex>ρης</ex></expan> 
+
+    <lb n="4"/> <foreign xml:lang="cop"><hi rend="diaeresis">ⲓ</hi>ⲱⲥⲏⲫ</foreign><choice><reg><expan>καμη<ex>λίτης</ex></expan></reg><orig><expan>καμα<ex>λίτης</ex></expan></orig></choice> 
+
+    <lb n="5"/><foreign xml:lang="cop">ⲧⲟⲩϩⲱ</foreign> <g type="dipunct"/> 
+
+    <lb n="6"/><expan>μεγ<ex>άλα</ex></expan> <g type="dipunct"/>  <num value="33"><hi rend="supraline">λγ</hi></num> <g type="dipunct"/> </ab></div>

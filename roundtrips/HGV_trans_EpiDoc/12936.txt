@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) 'To Gaius Julius Pholus, chief of police, from Sophus son of Marcus Saturninus, Dicaeus son of Chaeremon, of Euhemeria in the division of Themistes, encountering me in the village insulted me immoderately with much shameful abuse, and in the scuffle I lost 40 silver drachmae. I beg you to write to the archephodus of the village . . . (Endorsed) To the archephodus: send him up. The 5th year of Gaius Caesar Imperator Augustus, the 22nd of the month Soter. 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((19)) (Addressed) To the archephodus of Euhemeria.’
+               =>
+            =D>
+         =T>
+      

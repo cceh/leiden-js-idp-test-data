@@ -1,0 +1,88 @@
+<S=.grc<D=.A,int<=
+
+    1. ~|(Q(uintus)) Aemilius Saturninus (praef(ectus)) (Aeg(ypti)) 
+
+    2. postulante <:(G(aio))|reg|(C(aio)):> Terentio Sarapammo 
+
+    3.- ne Meviae Dionusario e lege Julia et 
+
+    4. <:Ti<ti>a|reg|tia:> et ex (s(enatus)) (c(onsulto)) (M(arcum)) Julium Alexandrum, 
+
+    5. quo ne ab iusto tutore tutela abeat, 
+
+    6. tutorem dedit. (d(escriptum)) (e(t)) (r(ecognitum)) (e(x)) (e(xemplari)) (b(ibliothecae)) (t(abul  )) (s(uper)s(cripto)) 
+
+    7. actum (Alex(andriae)) ad (Aeg(yptum)) VIIII (Kal(endas)) <:Octobre<s>|reg|octobre:>, 
+
+    8. Saturnino et Gallo <:(co(n)s(ulibus))|reg|cos:>, anno VII (imp(eratorum)) (L(ucii)) Septimi Severi Pii 
+
+    9. Pertinacis arabici Adiabenici |~la 
+=>=D><D=.B,int<=
+
+    11. ~|Parthici maximi et (M(arci)) Aureli 
+
+    12. Antonini (Augg(ustorum)), mense Thot, die 
+
+    13. <#XXVI=26#>. |~la 
+----
+    14. $m2 Μηουία Διονυσάριον <:<:ᾐτησάμη<ν>|reg|αἰτησαμη:>|subst|αιτουμαι:> <κύριον> ἐπιγρα
+
+    15.- φόμενον Ἰούλιον Ἀλέξανδρον, ὡς πρόκι
+
+    16.- ται. Γάιος Ἰούλιος Ἡρακλᾶς ἔγραψα ὑπὲρ αὐτῆς 
+
+    17. γράμματα μὴ εἰδυίης. 
+=>=D><D=.B,ext<=
+
+    18. $m3 ~|<:(G(aii))|reg|(C(aii)):> Juli Heraclae. 
+
+    19. <:(G(aii))|reg|(C(aii)):> Longini Prisci. 
+
+    20. (P(ublii)) Octavi Theophili. 
+
+    21. (M(arci)) Aureli Marci. 
+
+    22. (M(arci)) Juli Felicis. 
+
+    23. <:(G(aii))|reg|(C(aii)):> Domiti Claudiani. 
+
+    24. <:(G(aii))|reg|(C(aii)):> Terenti Sarapammo
+
+    25.- nis. |~la 
+
+    (26, perpendicular) $m4  ~|(Q(uintus)) Aemilius Saturninus (praef(ectus)) (Aeg(ypti)) |~la 
+
+    (27, perpendicular) ~|postulante <:(G(aio))|reg|(C(aio)):> Terenti o(´) Sarapammone |~la 
+
+    (28, perpendicular) ~|M e(´)viae Dionusari o(´) e lege Julia |~la 
+
+    (29, perpendicular) ~|et Titia et ex (s(enatus)) (c(onsulto)) (M(arcum)) Julium |~la 
+
+    (30, perpendicular) ~|Alexandrum, quo ne ab iust o(´) |~la 
+
+    (31, perpendicular) ~|tutore tutela abeat, tutorem dedit. |~la 
+=>=D><D=.A,ext<=
+
+    32. ~|(d(escriptum)) (e(t)) (r(ecognitum)) (e(x)) (e(xemplari)) (b(ibliothecae)) (t(abul  )) (s(uper)s(cripto)) 
+
+    33. actum (Alex(andriae)) ad (Aeg(yptum)), VIIII (Kal(endas)) (Octobr(es)), 
+
+    34. Saturnin o(´) et Gall o(´) <:(co(n)s(ulibus))|reg|cos:> anno VII 
+
+    35. (impp(eratorum)) Caesarum (L(ucii)) Septimi Sev e(´)ri 
+
+    36. Pii Pertinacis arabici Adiab e(´)nici 
+
+    37. Parthici maximi et (M(arci)) Aureli Antonini 
+
+    38. (Augg(ustorum)), mense Thoth, die XXVI. |~la 
+
+    39. $m4 Μηουία Διονυσάριον <:ᾐτησάμην|reg|αἰτησάμην:> κύριον ἐπιγραφό
+
+    40.- μενον Ἰούλιον Ἀλέξανδρον, ὡς πρόκειται. Γάιος Ἰούλιος 
+
+    41. Ἡρακλᾶς ἔγραψα ὑπὲρ αὐτῆς γράμματα μὴ εἰδυίης. 
+
+    42. $m5  Μεβίας Διονυσαρίου <:αἰτουμένης|reg|αἰτουμενην:> 
+
+    43. κύριον Γά ϊ(¨)ον Ἰούλιον Ἀλέξανδρον. =>=D>

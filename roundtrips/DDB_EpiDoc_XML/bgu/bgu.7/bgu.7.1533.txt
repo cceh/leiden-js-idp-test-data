@@ -1,0 +1,61 @@
+<S=.grc<D=.1<=
+
+    1. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    2. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+----
+    3. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+----
+    4. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    5. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    6. [*short-vertical-bar*] *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    7. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    8. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+=>=D><D=.2<=
+
+    1. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    2. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    3. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    4. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    5. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    6. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    7. *short-vertical-bar* ((γίνονται)) <#σμδ=244#> 
+----
+    8. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    9. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    10. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    11. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    12. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    13. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+=>=D><D=.3<=
+
+    1. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    2. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar*  ((γίνονται)) <#πη=88#> 
+
+    3. *short-vertical-bar* *short-vertical-bar* ἄλλοι <#λδ=34#> ((γίνονται)) <#Α=1000#> 
+
+    4. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    5. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 〚*short-vertical-bar* *short-vertical-bar*〛 *short-vertical-bar* *short-vertical-bar* 
+
+    6. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    7. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* 
+
+    8. *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* [*short-vertical-bar*] *short-vertical-bar* *short-vertical-bar* ((λοι)πὸ(ν)) (ἀρ(τάβαι)) <#ρη=108#> ((γίνονται)) <#Αυπδ=1484#>. =>=D>

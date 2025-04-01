@@ -1,0 +1,47 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An Isidô[ros, den 
+            <term target="basilikosgrammateus">Königlichen] Schreiber</term> des 
+            Hêrakleidês-Bezirks des Arsinoïtês,
+            <milestone unit="line" n="3" rend="break"/>von Sôtelês, Sohn des Iôsêpos, des Sohnes des Theomnas, 
+            und der Mutter Erôtion, aus dem Dorf [A]pollônias.
+            <milestone unit="line" n="6" rend="break"/>Mein Sohn I[ôs]êpos, Sohn der Sarra, minderjährig, noch nicht 
+            ausgeschieden (aus der Gruppe der Minderjährigen und überführt) zur 
+            <term target="laographia">Kopfsteuer</term>, ist 
+            gestorben im Monat Tybi des gegenwärtigen vierten Jahres des Traianus Caesar, des 
+            Herren. <milestone unit="line" n="11"/>Hiermit bitte ich darum, daß er 
+            <term target="taxistonteteleutekoton">unter die Verstorbenen</term> 
+            aufgenommen wird.
+            <milestone unit="line" n="13" rend="break"/>(2. Hand) An den 
+            <term target="komogrammateus">Dorfschreiber</term>. Wenn er gestorben ist, dann 
+            <app type="BGU"><lem resp="BL VIII, S. 40">registriere</lem></app> (ihn) und 
+            <app type="BGU"><lem resp="BL IX, S. 25">gib</lem></app> (darüber) eine eidliche handschriftliche 
+            Erklärung ab, wie üblich.
+            <milestone unit="line" n="14" rend="break"/>Im 4. Jahr des Imperator Caesar Nerva Traian[us] Augustus Germanicus 
+            am <app type="BGU_DDbDP"><lem resp="BGU IV 1068; Chrest. Wilck. 62; CPJ II 427">16.</lem></app> 
+            Mecheir.
+            <milestone unit="line" n="18" rend="break"/>(3. Hand) Ich, der oben genannte Sôtelês, 
+            Sohn des Iôsêpos, schwöre beim Imperator Caesa[r <app type="BGU_DDbDP"><lem resp="PACKMANN, ZPE 89, 1991, S. 101 f.">Nerva] Traian[us Optimus] 
+                Augustus [Germanicus]</lem></app> 
+            ...
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To Isido[ros], <term target="basilikosgrammateus">royal scribe</term> 
+            of the Arsinoite nome, Themistos division,
+            <milestone unit="line" n="3" rend="break"/>from Soteles, son of Josepos, the son of Theomnas, mother Erotion, 
+            from the village of Apollonias.
+            <milestone unit="line" n="6" rend="break"/>My son J[os]epos, mother Sarra, a minor, who had not yet ceased (to 
+            be a minor) with respect to the <term target="laographia">poll-tax</term>, died in the month of Tybi of the present 
+            fourth year of Traianus Caesar, the lord. <milestone unit="line" n="11"/>Therefore I request that he is 
+            included amongst <term target="taxistonteteleutekoton">those, who have died</term>.
+            <milestone unit="line" n="13" rend="break"/>(m. 2) To the 
+            <term target="komogrammateus">village scribe</term>. If he died, 
+            <app type="BGU"><lem resp="BL VIII 40">register</lem></app> him and <app type="BGU"><lem resp="BL IX 25">make a report with a 
+                written sworn statement</lem></app>, as usual.
+            <milestone unit="line" n="15" rend="break"/>Year 4 of Imperator Caesar Nerva Traianus Augustus Germanicus, 
+            Mecheir <app type="BGU_DDbDP"><lem resp="BGU IV 1068; Chrest. Wilck. 62; CPJ II 427">16</lem></app>.
+            <milestone unit="line" n="18" rend="break"/>(m. 3) I, Soteles, son of Josepos, the above 
+            mentioned, swear by Imperator Caesa[r <app type="BGU_DDbDP"><lem resp="Packmann, ZPE 89, 1991, 101-102">Nerva] Traian[us Optimus] Augustus 
+                [Germanicus]</lem></app> ...
+        </p></div>
+      </body>

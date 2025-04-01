@@ -1,0 +1,11 @@
+
+            <T=.en
+               <=
+                  ((1))Good Fortune
+(((2)))Nativity of Ptolemais
+(((3)))Year 7 of Severus Alexander
+(((4)))Choiak 6, beginning of the second hour of the day
+/*Translation: O. Neugebauer - H.B. van Hoesen, Greek Horoscopes, No. 227 p. 5*/
+              =>
+           =T>
+        

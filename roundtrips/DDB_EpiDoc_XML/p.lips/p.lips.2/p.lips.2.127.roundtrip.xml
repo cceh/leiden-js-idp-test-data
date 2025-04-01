@@ -1,0 +1,41 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" quantity="25" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><unclear>οι</unclear><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" quantity="25" unit="character"/><gap reason="illegible" quantity="10" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" quantity="25" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ος, οἱ ἓξ <unclear>τ</unclear>ῶν
+
+    <lb n="4"/><supplied reason="lost">κατοίκων ἱππέων. συγγραφοφύλαξ Π</supplied><unclear>το</unclear>λεμαῖ<unclear>ο</unclear>ς.
+
+    <lb n="5"/><handShift new="m2"/> <gap reason="lost" quantity="12" unit="character"/><supplied reason="lost"> καὶ</supplied> <unclear>Π</unclear>αῶπι<unclear>ς</unclear> <unclear>Λ</unclear>υ<unclear>σιμάχου</unclear>
+
+    <lb n="6"/><supplied reason="lost">καὶ </supplied><gap reason="lost" quantity="12" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>α<unclear>λιν</unclear>ου τοῦ καὶ <unclear>Ει</unclear>βορ
+
+    <lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ </supplied><gap reason="lost" quantity="12" unit="character"/><unclear>υ</unclear> του καὶ Ειβο<unclear>ρ</unclear>πα<unclear>β</unclear><gap reason="illegible" quantity="3" unit="character"/>
+
+    <lb n="8"/><supplied reason="lost">οἱ </supplied><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> Πέρσαι τῆς ἐπι</supplied>γονῆς ἔχομεν π<unclear>α</unclear><supplied reason="lost">ρὰ</supplied>
+
+    <lb n="9"/><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> τὰς</supplied> <app type="alternative"><lem><num value="18"><supplied reason="lost">δεκαοκ</supplied>τὼ</num></lem><rdg><num value="28">εἰκοσιοκτώ</num></rdg></app> ἀρτάβας τῶν πυ
+
+    <lb n="10" break="no"/><supplied reason="lost" cert="low">ρῶν ἐφʼ ἡμιολίᾳ,</supplied> ἅς καὶ <choice><reg>ἀποδώσομεν</reg><orig>ἀποδώσω<unclear>μεν</unclear></orig></choice>
+
+    <lb n="11"/><supplied reason="lost">ἐν μηνὶ </supplied><gap reason="lost" quantity="7" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>δεκάτου ἔτους
+
+    <lb n="12"/><supplied reason="lost">Καίσαρος καὶ ἐγγυώμε</supplied><unclear>θ</unclear>α ἀλλήλους εἰς ἔκ
+
+    <lb n="13" break="no"/><supplied reason="lost">τισιν καθότι πρόκει</supplied>ται. καὶ τέθειμαι
+
+    <lb n="14"/><supplied reason="lost">τὴν σ</supplied><unclear>υ</unclear>νγραφὴν <supplied reason="lost">κ</supplied><unclear>υ</unclear>ρίαν παρὰ Πτολεμ<unclear>α</unclear><supplied reason="lost">ί</supplied>
+
+    <lb n="15" break="no"/><supplied reason="lost">ῳ. ἔ</supplied><unclear>γρ</unclear><supplied reason="lost">α</supplied><unclear>ψ</unclear>εν ὑπ<unclear>ὲ</unclear><supplied reason="lost">ρ α</supplied>ὐτῶν Ψοῖφις <choice><reg>Μα
+
+    <lb n="16" break="no"/>ρεπκέμιος</reg><orig>Μα<lb n="16" break="no"/><supplied reason="lost">ρεπ</supplied>κεμις</orig></choice> ἀ<unclear>ξ</unclear><supplied reason="lost">ιωθεὶ</supplied><unclear>ς</unclear> διὰ τὸ μὴ εἰδέναι
+
+    <lb n="17"/>αὐτοὺς γράμ<supplied reason="lost">μα</supplied><unclear>τ</unclear>α.
+
+    <lb n="18"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan> </supplied><num value="10"><unclear>ι</unclear></num><gap reason="lost" quantity="1" unit="character"/> <unclear>Κ</unclear>αίσαρο<unclear>ς</unclear> Ἁθὺρ <num value="16">ι<hi rend="supraline">ϛ</hi></num>. <expan>κεχρη<ex>μάτισται</ex></expan>  <unclear>διὰ</unclear>
+
+    <lb n="19"/><abbr><unclear>Π</unclear><gap reason="lost" quantity="1" unit="character"/><unclear>ολ</unclear></abbr> <expan><unclear>νο</unclear>μογ<supplied reason="lost">ρά<ex>φου</ex></supplied></expan> <expan>Τεβτύνε<ex>ως</ex></expan>.</ab></div>

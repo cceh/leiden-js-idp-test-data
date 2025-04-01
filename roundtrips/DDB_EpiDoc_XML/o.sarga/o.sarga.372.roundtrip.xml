@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> <foreign xml:lang="cop"><choice><reg>ϩⲛⲁⲥ</reg><orig>ϩⲛⲓⲥ</orig></choice></foreign>
+
+    <lb n="2"/>Ἐπὲφ <g type="dipunct"/>  <num value="2">β</num> <g type="dipunct"/> <gap reason="illegible" quantity="3" unit="character"/> 
+
+    <lb n="3"/><foreign xml:lang="cop">ⲓⲱϩⲁⲛⲏⲥ</foreign><expan>καμ<ex>ηλίτης</ex></expan> 
+
+    <lb n="4"/><expan>οἴ<ex>νου</ex></expan> <expan>μεγ<ex>άλα</ex></expan> <g type="dipunct"/>  <num value="66">ξϛ</num> <num value="60"><choice><reg>ἑξ
+
+    <lb n="5" break="no"/>ήκοντα</reg><orig>εκσ<lb n="5" break="no"/>ην<g type="middot"/>τα</orig></choice></num> <num value="6"><choice><reg>ἕξ</reg><orig>ϩηκς</orig></choice></num> 
+
+    <lb n="6"/><expan>οἴ<ex>νου</ex></expan> <expan>μικ<ex>ρὰ</ex></expan> <num value="79">οθ</num> <g type="dipunct"/> <num value="70"><choice><reg>ἑβ
+
+    <lb n="7" break="no"/>δομήκοντα</reg><orig>ευ<lb n="7" break="no"/>μηντα</orig></choice></num> <num value="9"><choice><reg>ἐν
+
+    <lb n="8" break="no"/>νέα</reg><orig>ϩεν<lb n="8" break="no"/>νεα</orig></choice></num> <foreign xml:lang="cop">ⲅⲉⲱⲣⲅⲉ</foreign>
+
+    <lb n="9"/><choice><reg><supplied reason="omitted">ἔ</supplied>γράψα</reg><orig>γραψα</orig></choice> <g type="stauros"/> </ab></div>

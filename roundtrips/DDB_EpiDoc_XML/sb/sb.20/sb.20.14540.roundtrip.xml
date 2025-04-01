@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><handShift new="m2"/>Ἐπεὶφ <num value="16">ιϛ</num>
+
+    <lb n="2"/><g type="check"/> <g type="check"/> Ψενφθοῦς <expan>πρ<ex>εσβύτερος</ex></expan> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><g type="check"/> Ψενφθοῦς <expan>ν<ex>εώτερος</ex></expan> <expan><ex>πυροῦ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><g type="check"/> Περμᾶμις <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><g type="check"/> Σεκῆς <expan>Πικῶτο<ex>ς</ex></expan> <num value="1/6" rend="tick">ϛ</num> <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><g type="check"/> Ὧρος <expan>Παταπῆτο<ex>ς</ex></expan> <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><g type="check"/> Ψεναμοῦνις υἱὸς <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/><handShift new="m1"/><g type="check"/> <g type="check"/> <num value="17">ιζ</num> Ψεντφοῦς <expan>πρ<ex>εσβύτερος</ex></expan> <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/><g type="check"/> Ψεντφοῦς <expan>νεώ<ex>τερος</ex></expan> <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/><g type="check"/> <g type="check"/> Περμᾶμις <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/><supplied reason="lost"><g type="check"/> Σ</supplied><unclear>ε</unclear>κῆτι <expan>Πικῶτο<ex>ς</ex></expan> <num value="1/6" rend="tick">ϛ</num> <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/><supplied reason="lost"><g type="check"/> Ὧρος</supplied> <expan>Παταπῆ<ex>τος</ex></expan> <supplied reason="lost"><expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><supplied reason="lost"><g type="check"/> Ψεναμοῦ</supplied>νι<unclear>ς</unclear> <supplied reason="lost">υἱὸς <expan><ex>πυροῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/></ab></div>

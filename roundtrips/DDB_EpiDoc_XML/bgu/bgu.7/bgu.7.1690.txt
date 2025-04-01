@@ -1,0 +1,51 @@
+<S=.la
+<D=.int<=
+
+    1. Epimachus Longini (mil(es)) (coh(ortis)) <#II=2#> (Theb(aeorum)) ((centuriae)) Octavi Alexan
+
+    2.- [d]ṛị  .4.4.4.4.4.4.4.1 f[i]l[i]ạṃ 
+
+    3. sibi natam esse Loginiam <#VII=7#> (Kal(endas)) (Ianuar(ias)), quae 
+
+    4. proxumae fuerunt, ex Arsute Luci (fil(ia)) hospitae 
+
+    5. suae. idcirco hanc testationem interposuisse 
+
+    6. se dixit propter districtionem (mil(itum)) actum <:(Phil(adelphiae))|reg|(Pil(adelphiae)):>
+
+    7. (hib(ernis)) (coh(ortis)) <#II=2#> (Theb(aeorum)) <#VII=7#> (Kal(endas)) (Ia[nuar(ias)])[ (S(ergio)) Octavio] Laen[ate] 
+
+    8. Pontiano (M(arco)) Antonio Rufino (co(n)s(ulibus)) anno <#XVI=16#> (Imp(eratoris)) (Caes(aris)) 
+
+    9. Traiani Hadriani (Aug(usti)) mense Choeac die <#XXX=30#>  
+
+    10. ~|Ἐπίμαχος Λονγίνου στρατιώτης 
+
+    11. ὁ <:προγεγραμμένος|reg|προγαιγραμμένος:> ἐμαρτυράμην 
+
+    12. θυγατέρα γεγεννῆσθαι <:Λονγινίαν|reg|Λονγινία:>. 
+
+    13. καθὼς <:πρόκειται|reg|πρόκιτε:> |~grc 
+=>=D><D=.ext<=
+
+    1. [Ars]ute Luci (fil(ia)) *middot* hospita[e su]a[e. id]  
+
+    2.- [cir]co hanc te[sta]tionem inter
+
+    3.- [posui]sse se dixi[t propt]er districti
+
+    4.- [one]m (mil(itum)). ac[tum (Phil(adelphiae))] (hib(ernis)) (coh(ortis)) <#II=2#> [(Theb(aeorum))]  
+
+    5. [<#VII=7#> ]([K]al(endas)) (Ianuar(ias)) [(S(ergio)) Octavio Laenate]  
+
+    6. [Ponti]ano (M(arco)) Ant[oni]o Ruf[i]no (co(n)s(ulibus)) ann[o] 
+
+    7. [<#XVI=16#> ]([I]mp(eratoris)) (Caes(aris)) Tra[iani Hadriani (Aug(usti))] 
+
+    8. [mens]e Choeac di[e <#XXX=30#>.] ~|[Ἐπίμαχος] 
+
+    9. [Λονγίν]ου στρατιώ[της ὁ προγεγραμμένος] 
+
+    10. [ἐμαρτ]υράμην θυ[γατέρα γεγεννῆ]
+
+    11.- [σθαι ]<:[Λ]ονγινίαν|reg|[Λ]ονγινία:>, καθ[ὼς π]ρό[κειται]. |~grc =>=D>

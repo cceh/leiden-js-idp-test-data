@@ -1,0 +1,31 @@
+
+         <T=.en
+            <=
+               ((1)) Dionysios sends his greetings to the household. Until now I am in good health and so is
+                      the son. You should in no way give in to weakness, but dispatch
+                      someone and instruct Marakates, (that)
+                      I loaded the boat with sand. After emptying (the boat)
+                      he should haul it up high, since except for this
+                      there is no hope. ((6)) And there are
+                      nine medimnoi of barley with Possikrates.
+                      Possikrates is in good health. Receive from the
+                      Thoapsoi (?) a half-stater after returning
+                      the cloth.
+                      /*Translation: B. Awianowicz, ZPE 178 (2011) 238*/
+            =>
+         =T>
+         <T=.es
+            <=
+               ((1)) Dionisio saluda a los de casa. De momento me encuentro bien y
+                      mi hijo también. Pero vosotros no cedáis al desánimo, sino que envía
+                      tú a alguien y encarga a Maracate lo siguiente:
+                      yo he llenado de arena la canoa; que él, tras vaciarla, la saque a tierra
+                      suspendida en el aire, ya que sin eso no hay esperanza
+                      alguna. ((6)) Hay además nueve medimnos de cebada en casa de Posicrates.
+                      Posicrates está bien también.
+                      Recoge asimismo de manos de los
+                      toapsos el manto, tras entregar una semiestatera para completar el pago.
+                      /*Translation: M. Oller Guzmán, ZPE 192 (2014) 169*/
+            =>
+         =T>
+      

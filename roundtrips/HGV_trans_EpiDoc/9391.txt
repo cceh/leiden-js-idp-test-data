@@ -1,0 +1,20 @@
+
+         <T=.de<=
+            ((1))Im 23. Jahr des Imperator Caesar Titus Aelius Hadrianu[s An]toninus 
+            Augustus Pius. ((3))Gearbeitet hat für Dammarbeiten des vergangenen 22. Jahres 
+            im Hathyr <:5 Tage|BGU_DDbDP:Nach SIJPESTEIJN, ZPE 64, 1986, S. 127, A. 7|:> im Epagathianê(-Kanal) die <:für 5 Tage
+                    |BGU:BL VIII, S. 36|:> angeordnete <:<penthemeros~grc-Latn=penthemeros>
+                        |BGU:BL I, S. 76.|:> für Soknopaiû 
+            (Nêsos) Stotoêtis, Sohn des Apynchis, des Sohnes des Stotoêtis, und der Mutter Tekiasis.
+            (((8)))(2. Hand) Ich, Phanias, habe abgezeichnet.
+        =>=T>
+         <T=.en<=
+            ((1))Year 23 of Imperator Caesar Titus Aelius Hadrianus [An]toninus Augustus 
+            Pius. ((3))Work has been done on the dike works for the past year 22, Hathyr, 
+            <:5 days|BGU_DDbDP:Cf. Sijpesteijn, ZPE 64, 1986, 127, note 7|:> in 
+            the Epagathiane canal, the required <:<penthemeros~grc-Latn=penthemeros>|BGU:BL I 76.|:> <:of 5 days
+                    |BGU:BL VIII 36|:> for Soknopaiou (Nesos) by Stotoetis, son 
+            of Apynchis, the son of Stotoetis, mother Tekiasis.
+            (((8)))(m. 2) I, Phanias, have signed.
+        =>=T>
+      

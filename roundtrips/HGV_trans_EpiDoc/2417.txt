@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘Etearchus to Zenon, greeting. As the water has been released, and as we have no need of it at present, please dam up the outlet in order that the works may be completed and the outcrops of sand cleared away. Farewell. Year 35, Pauni.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((13)) (Addressed) To Zenon.’
+               =>
+            =D>
+         =T>
+      

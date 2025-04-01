@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><foreign xml:lang="la">m</foreign>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <foreign xml:lang="la">Isidorus</foreign>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><foreign xml:lang="la">e</foreign><gap reason="illegible" quantity="1" unit="character"/><foreign xml:lang="la">tone</foreign><gap reason="illegible" quantity="1" unit="character"/> <foreign xml:lang="la">dignationis</foreign>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <foreign xml:lang="la">mihi</foreign> <choice><reg><foreign xml:lang="la">damnavis</foreign></reg><orig><foreign xml:lang="la">demnavis</foreign></orig></choice>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><foreign xml:lang="la">essaria est dignare</foreign>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><foreign xml:lang="la">iem exoneratam quantoc</foreign><gap reason="illegible" quantity="3" unit="character"/>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><foreign xml:lang="la">e</foreign><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="3" unit="character"/><foreign xml:lang="la">est onere puerum</foreign>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

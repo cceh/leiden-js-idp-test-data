@@ -1,0 +1,62 @@
+<S=.la<=
+    1. (C(aius)) Fabullius Macer, optio classis (praetor(iae)) Misenatium, ((triere))
+
+    2. Tigride, emit puerum, natione transfluminianum,
+
+    3. nomine Abban quem <et> Eutychen, siue quo alio nomine
+
+    4. uocatur, annorum circiter septem, pretio denariorum
+
+    5. ducentorum et capitulario portitorio, de (Q(uinto)) Iulio
+
+    6. Prisco, milite classis eiusdem et triere eadem. eum pue
+
+    7.- rum sanum esse ex edicto, et si quis eum puerum
+
+    8. partemue quam eius euicerit, simplam pecuniam
+
+    9. sine denuntiatione recte dare stipulatus est Fabul
+
+    10.- lius Macer, spopondit (Q(uintus)) Iulius Priscus: id fide sua
+
+    11. et auctoritate esse iussit (C(aius)) Iulius Antiochus, mani
+
+    12.- pularius ((triere)) Uirtute.
+
+    13. eosque denarios ducentos, qui (s(upra)) (s(cripti)) sunt, probos recte
+
+    14. numeratos accepisse et habere dixit (Q(uintus)) Iulius Priscus, 
+
+    15. uenditor, a (C(aio)) Fabullio Macro, emptore, et tradedisse ei 
+
+    16. mancipium (s(upra)) (s(criptum)) Eutychen bonis condicionibus *middot*
+
+    17. actum Seleuciae Pieriae, in castris, in hibernis uexilla
+
+    18.- tionis (clas(sis)) (pr(aetoriae)) Misenatium, viiii (kal(endas)) Iunias (Q(uinto)) Seruilio
+
+    19. Pudente et (|A|) Fufidio Pollione <:consulibus|reg|cos:>
+
+    20. $m2 (Q(uintus)) Iulius Priscus, (mil(es)) ((triere)) Tigride, uendedi (C(aio)) Fabullio Macro, optioni
+
+    21. ((triere)) eadem, puerum meum Abbam quem et Eutychen et re
+
+    22.- cepi pretium denarios ducentos ita ut (s(upra)) (s(criptum)) est. 
+
+    23. $m3 (C(aius)) Iulius Sỵṛịanus, suboptio ((triere)) Libero Patre, <:scripsi|corr|cripsi:> rogatus pro Gaio Iulio <:Antiocho|reg|Antiihoc[o]:>, manipulario ((triere)) Uirtute qui negauit se <:litteras|reg|literas:>
+
+    24. scire, eum spondere et fide suam et auctoritate esse <iubere> Abban <:quem et Eutychen|reg|cuen ed eutucen:> puerum <:et|reg|ed:> pretium eius denarios ducentos
+
+    25. ita ut (s(upra)) {s} scr<i>ptum est.
+
+    26. $m4 (C(aius)) Arruntius Ualens, suboptio ((triere)) Salute, signaui.
+
+    27. $m5 (C(aius)) Iulius Isidorus, ((centurio)) ((triere)) Prouidentia, signaui.
+
+    28. $m6 (G(aius)) Iulius Demetrius, <:buccinatoris|reg|bucinatori[s]:>, pricipalis, ((triere)) Uirtute, sig̣nạ[ui].
+
+    29. .3 Domitius  .2[.4][ ((triere))] P̣roụidẹn[tia signaui].
+
+    30. $m8 ~|ἔτους <#δ=4#> <#οϛ=76#> Ἀ̣[ρτεμισ]ίου <:<#κδ=24#>|reg|δ̣κ:> Δομέτιος Γερμανὸ[ς μ]ισθωτὴς κ̣υιντ̣α̣[νῆ]ς Μεισηνά̣τ̣ω̣ν ἔχω̣ [δε]κά
+
+    31.- (τ̣η̣(ν)) [π]ράσ̣[εως τοῦ π]α̣[ιδ]είου Ἀββᾶ τοῦ καὶ Εὐτύχη.|~grc =>

@@ -1,0 +1,38 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="9" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="9" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/> <unclear>Α</unclear>ὐρ<unclear>ήλιο</unclear><supplied reason="lost">ι Κάστωρ</supplied> <abbr>ἀγ<unclear>ορ</unclear></abbr> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><supplied reason="lost">καὶ Σερ</supplied>ηνίων <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="5" unit="character"/><unclear>ο</unclear>ς ἀμφότ<unclear>ε</unclear>
+
+    <lb n="5" break="no"/><supplied reason="lost">ροι</supplied> δεκάπρω<supplied reason="lost">τοι </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κ</supplied>α<unclear>ὶ</unclear> <num value="8">η</num> τοπαρχ<supplied reason="lost">ίας</supplied> 
+
+    <lb n="6"/><unclear>Ἡ</unclear><supplied reason="lost">ρ</supplied>ακλείδου μερ<supplied reason="lost">ίδος</supplied>. <unclear>ἐ</unclear>μετρήθη<unclear>σ</unclear><supplied reason="lost">αν</supplied> 
+
+    <lb n="7"/>ἡ<unclear>μ</unclear>ῖν ἐφʼ ὅρμ<unclear>ου</unclear> <supplied reason="lost">Ἄλ</supplied>σους <expan>μητροπ<unclear>όλ</unclear>ε<ex>ως</ex></expan> 
+
+    <lb n="8"/>μ<supplied reason="lost">έ</supplied>τρῳ δημοσίῳ <supplied reason="lost">ξ</supplied>υστῷ σὺν μ<unclear>έ</unclear>ρ<unclear>ει</unclear> 
+
+    <lb n="9"/><choice><reg>ἑκατοστῇ</reg><orig>ἑ<unclear>κ</unclear>αστοστῇ</orig></choice> μιᾷ <choice><reg>ἡμίσει</reg><orig>ἡμίσυ</orig></choice> <num value="1"/><num value="1/2"/> ὑπὲρ γενήμα
+
+    <lb n="10" break="no"/>τ<supplied reason="lost">ο</supplied><unclear>ς</unclear> τοῦ διεληλυθότος <subst><add place="inline"><num value="9"><unclear>θ</unclear></num></add><del rend="corrected"><num value="8">η</num></del></subst> <unclear>ἔ</unclear>τους ὑπὲρ ἰδιω
+
+    <lb n="11" break="no"/>τ<unclear>ι</unclear><supplied reason="lost">κ</supplied>ῆς κώμης Ψύων Πτολεμαίου 
+
+    <lb n="12"/>εὐθηνιαρχήσαντος διὰ Δίου <app type="editorial"><lem><expan>πρυτα<ex>ν  </ex></expan></lem><rdg><abbr>πρ<unclear>υτ</unclear></abbr></rdg></app> 
+
+    <lb n="13"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ου πυροῦ <choice><reg>ἀρτάβαι</reg><orig>ἀρτάβας</orig></choice> δέκα ὀκτὼ ἥμισυ 
+
+    <lb n="14"/><expan><ex>γίγνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="18">ιη</num> <num value="1/2">𐅵</num>. <expan>Αὐρή<ex>λιος</ex></expan> Σερηνίων <expan>βου<ex>λευτὴς</ex></expan> 
+
+    <lb n="15"/><expan><unclear>σ</unclear><supplied reason="lost">εσ</supplied>η<ex>μείωμαι</ex></expan> τὰς τοῦ πυροῦ ἀρτάβας δέκα ὀκτὼ 
+
+    <lb n="16"/>ἥμισυ <num value="18"/><num value="1/2"/> ὡ<unclear>ς</unclear> <expan><ex>πρόκειται</ex></expan>. Αυρήλιος Κάστωρ <abbr>ἀγο</abbr> 
+
+    <lb n="17"/><expan>βουλ<ex>ευτὴς</ex></expan> <app type="editorial"><lem><expan>ἐκμ<ex>ετρητὴς</ex></expan></lem><rdg><abbr>ε<unclear>κα</unclear></abbr></rdg></app> <abbr>γυ</abbr> συνμεμέτρημαι 
+
+    <lb n="18"/>τὰς τοῦ πυροῦ <expan><ex>ἀρτάβας</ex></expan> δέκα ὀκτὼ ἥμι
+
+    <lb n="19" break="no"/>συ <num value="18"/><num value="1/2"/> ὡς <expan>πρόκ<ex>ειται</ex></expan>. </ab></div>

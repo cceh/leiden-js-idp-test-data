@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              It is my desire that the flow of the wine should remain as it is for some time until the last holding is ready, that we may not seem to press hardly upon the others who have not yet gathered the grapes. Therefore, as stated above, please to delay the account-taking until you learn the capacity of the other holdings, and in the meantime write to me, and thus I shall see what is to be done. Send for Phoebammon the steward, and keep him at hand together with you. (Addressed) Deliver to the most admirable Joseph, clerk, from (?) Charmoson (?).
+            =>
+         =T>
+      

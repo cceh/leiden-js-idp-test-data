@@ -1,0 +1,41 @@
+<S=.grc<=
+    1.  [.?] ([πε]μ̣φθ(έντων)) ἐν (Βαβ̣υ̣λ(ῶνι)) μετ̣ὰ̣ Κοσμᾶ Ἀπφουᾶ α̣.1[.?]
+
+    2. [.?].1ων (μη(νὸς)) (φαμ(ενὼ)θ) <#κγ=23#> (ἰνδ(ικτίονος)) <#ι=10#>
+=><D=.1<=
+
+    3. [.?] (μα̣σ̣[(ερτ)]) ([ἀγκ]ύ̣(ρια?)) *slanting-stroke**slanting-stroke* (λ̣(ε)π(τὰ)) (σιβέ(νινα)) <#β=2#> (λ(ε)π(τὰ)) (στ(ί)π(πινα)) *slanting-stroke**slanting-stroke*
+
+    4. [.?].1 *slanting-stroke**slanting-stroke* <#α=1#> *slanting-stroke**slanting-stroke* *slanting-stroke**slanting-stroke*
+
+    5. [.?](|ρε|) *slanting-stroke**slanting-stroke?* *slanting-stroke**slanting-stroke* <#α=1#> *slanting-stroke**slanting-stroke*
+
+    6. [.?] <#β=2#> <#β̣=2#> [.?] *slanting-stroke**slanting-stroke*
+
+    7. [.?] *slanting-stroke**slanting-stroke?* 
+    
+    8. [.?]
+
+    9. [.?] *slanting-stroke**slanting-stroke*
+
+    10. [.?] *slanting-stroke**slanting-stroke*
+
+    11. [.?] *slanting-stroke**slanting-stroke*
+
+    12. [.?] <#α=1#>
+
+    13. [.?] <#α=1#>
+
+    14. [.?].1
+14. lost.?lin
+=>=D><D=.2<=
+
+    15. ἀπὸ (χω(ρίου)) Ἐμβόλου
+
+    16. (ὁ(μοῦ)) (μασ(ερτ)) .1
+
+    17. (ἀγκύ(ρια)) .1
+
+    18. (λ(ε)π(τὰ)) (σιβέ(νινα)) .1
+
+    19. <:(λ(ε)π(τὰ))|subst|(λ(ε)).1((τὰ)):> (στίπ̣(πινα)) <#κ=20#>=>=D>

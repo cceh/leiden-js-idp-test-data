@@ -1,0 +1,16 @@
+
+         <T=.fr
+            <=
+               ((1)) Instructions pour les lettres de Rufus.
+                      Depuis la porte de la Lune, marche jusqu’aux greniers et quand tu
+                      seras arrivé à la première rue, tourne à gauche derrière les
+                      thermes où il y a ... et va à l’ouest. Descends les degrés et ...
+                      monte et tourne à droite et après l’enceinte (du?) ..., sur la
+                      droite, il y a un immeuble de sept niveaux. Au-dessus du portail, il y
+                      a une Tyche (?) et en face une fabrique de paniers. ((11)) Renseigne toi
+                      sur place ou auprès de la concierge et tu seras informé. Appelle
+                      ... Il te répondra ...
+                     /*Translation: J. Gascou, CdE 87 (2012) 309-310 */
+            =>
+         =T>
+      

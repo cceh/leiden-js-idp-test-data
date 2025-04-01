@@ -1,0 +1,59 @@
+
+         <T=.de<=
+            ((1))An Aurelius Isidotos alias <:Hôrigenês
+                |BGU:BL I, S. 49|:>, den 
+            <Königlichen Schreiber=basilikosgrammateus> des 
+            Hêrakleidês-Bezirks des Arsinoïtês, der die Amtsgeschäfte [der] Strategie 
+            stellvertretend ausübt,
+            (((3)))von den Aurelii Longinus alias Zosimos, Sohn des Leonidês, und 
+            <:[K]tesi[as alias Polydeukês]|BGU_DDbDP:NACHTERGAEL, CE 80, 2005, S. 236 f.|:> und (ihren) Genossen, den <Sitologen
+                    =sitologos> des Dorfes Karanis.
+            (((5)))Monatsabrechnung in summarischer Übersicht des Monats Payni des 
+            gegenwärtigen [24. Jahres] <:vom Ertrag|BGU_DDbDP:Vgl. SIJPESTEIJN, ZPE 100, 1994, S. 265 f.|:> desselben Jahres. ((6))Die uns im Sprecher 
+            zugemessenen (Mengen) belaufen sich in diesem [Monat für die] 
+            <annona~la=annona> auf 53 <Artaben=artaba> Weizen, 
+            33 <Artaben=artaba> Gerste, davon von [Karanis] selbst 30 
+            <Artaben=artaba> Weizen, 30 
+            <Artaben=artaba> Gerste [und] vom Dorf Kerkesûcha 20 
+            <Artaben=artaba> Weizen, 3 
+            <Artaben=artaba> Gerste, <:P[tolemaïs (?)]|:|:> 
+            3 <Artaben=artaba> Weizen, <:das sind|:|:> 
+            <:für andere Dörfer|BGU:BL I, S. 49|:> 23 
+            <Artaben=artaba> Weizen, 3 (<Artaben=artaba>) 
+            Gerste, das sind die oben erwähnten;
+            (((14)))und als Übertrag vom vorigen Monat 118 
+            <Artaben=artaba> Weizen, 173 
+            <Artaben=artaba> Gerste, mit dem Übertrag 171 
+            <Artaben=artaba> Weizen, 206 Artaben Gerste.
+            (((18)))Im 24. Jahr des Marc[us Au]rel[ius] Severus Antoninus Parthicus 
+            Maximus Brita[nnicus] Maximus [Germanicus Maximus <:Pius|BGU:BL I, S. 49|:>]
+            Augustus, am [x.] Epeiph.
+        =>=T>
+         <T=.en<=
+            ((1))To Aurelius Isidotos alias <:Horigenes|BGU:BL I 49|:>, 
+            <royal scribe=basilikosgrammateus> of the Arsinoite nome, 
+            Herakleides division, administering  the concerns of the office of the 
+            <strategos=strategos>,
+            (((3)))from the Aurelii Longinus alias Zosimos and <:[K]tesi[as] 
+                alias [Polydeukes]|BGU_DDbDP:Nachtergael, CE 80, 2005, p. 236 f.|:> and 
+            associates, <sitologoi=sitologos> of the village of Karanis.
+            (((5)))Monthly summary of the month of Payni of the present [year 24] 
+            <:from the produce|BGU_DDbDP:Vgl. Sijpesteijn, ZPE 100, 1994, S. 265 f.|:> of the same year. ((6))Measured to us at the granary 
+            for the above mentioned village in this month there are for the 
+            <annona~la=annona> 53 <artabas=artaba> of wheat, 
+            33 <artabas=artaba> of barley, of which for Karanis itself 
+            (there are) 30 <artabas=artaba> of wheat, 30 
+            <artabas=artaba> of barley, and for the village of Kerkesoucha 
+            20 <artabas=artaba> of wheat, 3 <artabas=artaba> 
+            of barley, for P[tolemais (?)] 3 <artabas=artaba> of wheat, = 
+            on behalf of other villages 23 <artabas=artaba> of wheat, 3 
+            <artabas=artaba> of barley, = the above mentioned. And from the 
+            balance of the account of the previous month 118 <artabas=artaba> 
+            of wheat, 173 <artabas=artaba> of barley, with the balance of 
+            this account 171 <artabas=artaba> of wheat, 206 
+            <artabas=artaba> of barley.
+            (((18)))Year 25 of Marc[us Au]rel[ius] Severus Antoninus Parthicus Maximus 
+            Brita[nnicus] Maximus [Germanicus Maximus <:Pius|BGU:BL I 49|:>] 
+            Augustus, Epeiph [x].
+        =>=T>
+      

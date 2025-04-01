@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><supplied reason="lost">Ὡρο</supplied>σκόπος <space extent="unknown" unit="character"/> Καρκίνῳ
+<lb n="2"/><supplied reason="lost">Ἥλι</supplied>ος <space extent="unknown" unit="character"/> Διδύμοις
+<lb n="3"/><supplied reason="lost">Ἑρμ</supplied><unclear>ῆ</unclear>ς <space extent="unknown" unit="character"/> Καρκίνῳ, <expan>Διδύ<unclear>μ</unclear><ex>οις</ex></expan>
+<lb n="4"/><choice><reg><supplied reason="lost">Ἀφρ</supplied>οδί<supplied reason="lost">τ</supplied>η</reg><orig><supplied reason="lost">Ἀφρ</supplied><unclear>ο</unclear>δ<unclear>ί</unclear><supplied reason="lost">τ</supplied>ω</orig></choice> <space extent="unknown" unit="character"/> Κρ<supplied reason="lost">ι</supplied>ῷ, <expan>Διδύ<unclear>μ</unclear><ex>οις</ex></expan>
+<lb n="5"/><supplied reason="lost">Σ</supplied>ελήνη <space extent="unknown" unit="character"/> Ἰχθύσι, <expan>Διδύ<unclear>μ</unclear><ex>οις</ex></expan>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> Ζεὺς <space extent="unknown" unit="character"/> Παρθένῳ
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Κ</unclear>ρ<unclear>όν</unclear>ος <space extent="unknown" unit="character"/> Παρθένῳ
+<milestone rend="horizontal-rule" unit="undefined"/>
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> Ἄρης <space extent="unknown" unit="character"/> Καρκίνῳ
+</ab></div>

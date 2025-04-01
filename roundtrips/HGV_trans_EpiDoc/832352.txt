@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) [Julius Serenus, collector of money taxes at Elephantine, and] Apollonios [son of Amonios and
+Valerion son of] Memerk( ) who are nominated [to the collectorship in place of Harpchemis.
+Pa]premethis son of Pachnoubis, (((4))) [his mother being NN has paid] for the contributions of the
+18th year, for the [military station around the palm yard which was call]ed Sandantes, [fourteen
+drachmas, 1/2 obol, 2 chalkoi] Year 19, [month, day. 2nd hand I, Julius Serenus,] have received together (with
+my colleagues).
+/*Translation with slight modifications: Aly, ZPE 212 (2019) 220*/
+            =>
+         =T>
+      

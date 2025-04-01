@@ -1,0 +1,33 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab> 
+
+    <lb n="1"/><g type="stauros"/> ⲁⲛⲟⲕ ⲡⲁⲡⲛⲟⲩⲧⲉ ⲡϣⲏⲣⲉ ⲛⲙⲁⲑⲁⲓⲟⲥ ⲙ<unclear>ⲉⲛ</unclear>
+
+    <lb n="2"/>ⲙⲁⲣⲓⲁⲙ ⲉⲛⲥϩⲁⲓ ⲛⲡⲉⲛⲓⲱⲧ ⲇⲁⲛⲓⲏⲗ ⲡⲣⲙ ⲡ<choice><reg xml:lang="grc">κάστρον</reg><orig>ⲕⲁⲥⲧⲣⲟⲛ</orig></choice>
+
+    <lb n="3"/>ⲛϫⲏⲙⲉ ϫⲉ ⲧⲛ<choice><reg xml:lang="grc">ὁμολογεῖν</reg><orig>ϩⲟⲙⲟⲗⲟⲅⲉⲓ</orig></choice> ⲁⲩⲱ ⲧⲛ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig><expan>ⲥⲧⲟⲓⲭ<ex>ⲉⲓ</ex></expan></orig></choice> ⲉⲧⲣⲉⲛ
+
+    <lb n="4" break="no"/>ⲥⲁⲛⲭ ⲙⲙⲟⲕ <choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> ⲑⲉ ⲉⲧⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛⲁⲧⲁϣⲛ
+
+    <lb n="5"/>ⲉⲧⲃⲉ ϫⲉ ⲁⲕ<choice><reg xml:lang="grc">δωρίζειν</reg><orig>ⲧⲱⲣⲓⲍⲉ</orig></choice> ⲙⲡⲉⲕⲏⲓ ⲛⲁⲛ ⲁⲩⲱ <supplied reason="lost">ⲛϯⲛⲁ</supplied>
+
+    <lb n="6" break="no"/>ⲕⲁⲁⲕ ⲛⲥⲱⲓ ϣⲁ ⲉⲛⲉϩ ⲉⲓϣⲁⲛⲕⲁⲁⲕ ⲛ<supplied reason="lost">ⲥⲱⲓ</supplied>
+
+    <lb n="7"/>ⲛⲧⲟⲕ ⲉⲧⲟ ⲛⲡϫⲟⲉⲓⲥ ⲙⲡⲉⲕⲏⲓ ⲁⲛⲟⲕ <expan>ⲡⲁⲡⲛ<ex>ⲟⲩ</ex>ⲑ<ex>ⲓⲟⲥ</ex></expan>
+
+    <lb n="8"/>ⲁⲓⲥϩⲁⲓ ⲛⲧⲁϭⲓϫ ⲁⲩⲱ ⲧⲓ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig><expan>ⲥⲧⲟⲓⲭ<ex>ⲉⲓ</ex></expan></orig></choice> <g type="stauros"/>
+
+    <lb n="9"/><g type="stauros"/> ⲁⲛⲟⲕ ⲃⲓⲕⲧⲱⲣ ⲡϣⲏⲣⲉ ⲛⲡⲁⲧⲏⲣⲙⲟⲩⲧⲉ ϯⲟ <supplied reason="lost">ⲙⲛⲧⲣⲉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/>ⲡϣⲏⲣⲉ ⲛⲓⲱϩⲁⲛⲛⲏⲥ ⲁϥ<choice><reg xml:lang="grc">αἰτεῖν</reg><orig>ⲏⲧⲉⲓ</orig></choice> ⲙⲙⲟⲓ ⲁⲓⲥϩⲁⲓ ϩⲁⲣⲟϥ ϫⲉ ⲙⲉϥ<choice><reg xml:lang="grc">νοεῖν</reg><orig>ⲛⲟⲓ</orig></choice> ⲛⲥϩⲁⲓ
+
+    <lb n="11"/>ⲁⲩⲱ ϯⲱ ⲙⲛⲧⲣⲉ <g type="stauros"/> ⲁⲛⲟⲕ ⲁⲣⲓⲥⲧⲟⲫⲁⲛⲏ<supplied reason="lost">ⲥ</supplied> <supplied reason="lost">ⲓⲱⲁⲛⲛ</supplied>ⲏ<supplied reason="lost">ⲥ</supplied> ⲧⲓⲟ ⲙⲛⲧⲣⲉ <g type="stauros"/>
+
+</ab></div> 
+
+<div n="v" type="textpart"><ab> 
+    <lb n="12"/><foreign xml:lang="grc">ἔγγραφον <expan>γενάμ<ex>ενον</ex></expan> <expan>παρ<ex>ὰ</ex></expan> <expan>Παπνουθ<ex>ίου</ex></expan> <expan><unclear>υ</unclear><ex>ἱ</ex>ο<ex>ῦ</ex></expan> <choice><reg>Μαθαίου</reg><orig>Μαθαῖος</orig></choice> <g type="stauros"/> 
+
+    <lb n="13"/>πρ Δανιήλ <g type="stauros"/></foreign> 
+
+</ab></div> </div>

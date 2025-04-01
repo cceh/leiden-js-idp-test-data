@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1))To the camel-driver, 20 maria. To Hermesias the linenweaver, 6.
+            =>
+         =T>
+      

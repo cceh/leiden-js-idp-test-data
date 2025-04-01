@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              I leave as my heirs my daughter x and her foster-brother y and z, z of the house and court in the quarter which I previously mortgaged in security for the (dowry) brought to him upon his wife (in accordance with) the contract of marriage drawn up between them, and my daughter and her foster-brother jointly in equal shares of the two houses owned by me ... one in the ... quarter and the other in the quarter, ...’
+            =>
+         =T>
+      

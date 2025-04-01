@@ -1,0 +1,7 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> <expan>ἔσχ<ex>ον</ex></expan> <expan>δ<ex>ιὰ</ex></expan> <expan>Ἀββ<ex>ᾶ</ex></expan> Βασιλ<supplied reason="lost">ε</supplied><unclear>ί</unclear><supplied reason="lost">ου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>κεράτια <num value="3"><choice><reg>τρία</reg><orig>τρεί<unclear>α</unclear></orig></choice></num> <num value="1/2"><unclear>ἥ</unclear><supplied reason="lost">μισυ</supplied></num> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><handShift new="m2" cert="low"/></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>στοιχεῖ. <handShift new="m1"/>διʼ <expan>ἐ<unclear>μ</unclear><ex>οῦ</ex></expan> <app type="alternative"><lem><unclear>Χρι</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>Χρι</unclear><supplied reason="lost">στοδώρου</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg><rdg><unclear>Χρι</unclear><supplied reason="lost">στοφώρου</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+</ab></div>

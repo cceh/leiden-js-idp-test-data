@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><g type="slanting-stroke"/>
+
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><num value="142">ρμβ</num>
+
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>σ<g type="middot"/> <app type="alternative"><lem>κ<g type="slanting-stroke"/><hi rend="superscript">τ</hi></lem><rdg><expan>κ<ex>α</ex>τ<ex>αβολῆς</ex></expan><certainty match=".." locus="value"/></rdg></app> <num value="32">λβ</num>
+</ab>
+      </div>

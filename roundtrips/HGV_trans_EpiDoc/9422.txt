@@ -1,0 +1,33 @@
+
+         <T=.de<=
+            ((1))<:[An den]|BGU_DDbDP:GONIS, Tyche 13, 1998, S. 260, Nr. 251|:>[ 
+            <:<Dorfschreiber=komogrammateus>|BGU_DDbDP:GONIS, Tyche 13, 1998, S. 260, Nr. 251.|:>] 
+            des Dorfes 
+            <:Philopatôr Apiados|BGU_DDbDP:BL XI, S. 23|:>
+            (((3)))von [...]mûnis, Sohn des Stotoêtis. ((4))Gemäß den Anordnungen des 
+            <Präfekten=eparchosAiguptou> Ulpius Prim[ia]nus, 
+            <vir clarissimus~la=lamprotatos>, melde ich den mir im selben Dorf 
+            Ap[i]as gehörenden halben Teil von 11 <Aruren=aroura> 
+            <klêros katoikikos~grc-Latn=kleroskatoikikos> und 3 
+            <Aruren=aroura> 
+            <:<Zuschlagsland=epibole>|BGU:BL IX, S. 24.|:>, verbrieft auf 
+            Tasês, Tochter des Stotoêtis, 
+            ((14))als <nicht (vom Nil) überschwemmt=abrochos> im 
+            <:gegenwärtigen 3. Jahr|BGU:BL IX, S. 24|:> ...
+        =>=T>
+         <T=.en<=
+            ((1))[<:To the|BGU_DDbDP:N. Gonis, Tyche 13, 1998, 260|:> 
+            <:<village scribe=komogrammateus>
+                |BGU_DDbDP:N. Gonis, Tyche 13, 1998, 260.|:>] of the village of 
+            <:Philopator Apiados|BGU_DDbDP:BL XI 23|:>,
+            (((3)))[from ...]mounis, son of Stotoetis. ((4))According to the orders of the 
+            <Prefect=eparchosAiguptou> Ulpius Prim[ia]nus, 
+            <vir clarissimus~la=lamprotatos>, I register the half portion of the 
+            <katoikic allotment=kleroskatoikikos> of 11 
+            <arouras=aroura> belonging to me near the same village of Ap[i]as, and  
+            <:<of epibole=epibole>|BGU:BL IX 24.|:> of 3 
+            <arouras=aroura>, being registered in the name of Tases, son of Stotoetis, 
+            which <have remained uninundated=abrochos> for <:the present year 3
+                |BGU:BL IX 24|:> [...]
+        =>=T>
+      

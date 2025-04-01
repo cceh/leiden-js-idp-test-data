@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              The exegetes requests you to dine at the temple of Demeter to-day, which is the 9th, at the 7th hour.
+            =>
+         =T>
+      

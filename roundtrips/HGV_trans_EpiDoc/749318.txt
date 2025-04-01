@@ -1,0 +1,31 @@
+
+         <T=.en
+            <D=.ii.column 
+               <=
+                  ((1)) 27th bread loaves 6 …;
+                         oil 4 …;
+                         small expense 4 …;
+                         barber’s shop 2 …;
+                  (((5))) small fish …;
+                         grapes …;
+                         28th bread loaves …;
+                         oil …;
+                         small fish …;
+                (((10))) fuller’s shop …;
+                         29th small expense …;
+                         bread loaves …;
+                         oil …;
+                         30th small expense …;
+                (((15))) bread loaves …;
+                         oil …;
+                         small expense …;
+                         …;
+                         chicken …;
+                (((20))) other expense …;
+                         garlands …;
+                         …
+/*Translation: A. Syrkou, APF 63 (2017) 271*/
+               =>
+            =D>
+         =T>
+      

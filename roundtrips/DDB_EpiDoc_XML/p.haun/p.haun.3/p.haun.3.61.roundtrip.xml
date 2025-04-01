@@ -1,0 +1,6 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><handShift new="m1"/> ἐγράφη μηνὶ Παχὼν <num value="2">β</num><gap reason="illegible" quantity="1" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="2"/><g type="stauros"/> Βελισάριος <choice><reg>στοιχεῖ</reg><orig>στυχῖ</orig></choice> μοι τοῦτό μου τὸ πιττάκιν ὡς <choice><reg>πρόκειται</reg><orig>πρόκιτε</orig></choice> <g type="stauros"/> <g type="stauros"/> <g type="stauros"/> </ab></div>

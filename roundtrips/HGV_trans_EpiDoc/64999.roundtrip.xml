@@ -1,0 +1,18 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="B" type="textpart">
+               <div n="v" type="textpart">
+                  <p>
+                     <milestone unit="line" n="8"/> A quadrangular trapezoid 48 cubits in length, 10 cubits (sic! understand “fingers”) in width, 5 fingers in thickness, 2 fingers at the top. We proceed as follows. I add the width and the top, 10 and 2, totals 12, half of which is 6. Once more we multiply by 5 of the thickness, totals 30. (Multiply) by the length of 48 cubits, the result is 1,440. (Divide) by 192 and (convert) the remainder into fingers. The result is 7 (sc. solid cubits) and 12 fingers. This way for similar cases. 
+                    </p>
+               </div>
+            </div>
+            <div n="C" type="textpart">
+               <div n="r" type="textpart">
+                  <p>
+                     <milestone unit="line" n="5"/> I do it the following way: I add the width, 16 and 12, totals 28, half of which is 14. We add the thickness, 6 and 8, totals 14, half of which is 7. (Multiply) by 14, totals is 98. (Multiply) by the length of 28 cubits, the result is 2,744. This I divide by 288 and divide the remainder in 12 fingers (sc. divide the remainder by 12 to convert into fingers). The result is 9 (sc. solid cubits) and 12 2/3 fingers. This way for similar cases. 
+                    </p>
+               </div>
+            </div>
+         </div>
+      </body>

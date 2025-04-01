@@ -1,0 +1,17 @@
+
+         <T=.fr
+            <=
+               ((1)) De la part de l’officium civil (à ...).
+               ((2)) Ceux dont on donne ci-dessous la liste (qui ont été dénoncés ? par la dame X),
+               ((3)) originaire (de ... et qui les a aussi)
+               ((4)) accusés (de ... à la cour ?),
+               ((5)) ont fait l’objet (de la part de l’autorité de mon Seigneur, le) très magnifique
+               ((6)) (praeses ...) d’un ordre de comparution.
+(Au reçu de cette lettre de l’officium), présentez-les sans faute aux agents (dépêchés à cet effet, en sorte que les) ordres (soient exécutés).
+               (((10))) Il s’agit
+               (((11))) de Phoib(...);
+               (((12))) de Boèthios (...)
+/*Translation: J. Gascou, CdE 89 (2014) 134*/
+            =>
+         =T>
+      

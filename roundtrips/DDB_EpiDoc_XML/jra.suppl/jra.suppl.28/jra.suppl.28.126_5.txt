@@ -1,0 +1,22 @@
+<S=.grc
+<D=.surface.interior<=
+    1. <#III=3#> Idus (April(es)) Ertoriot[.?]
+
+    2. [.?] <#CC=200#> (r(eprobo)) <#VIII=8#>
+
+    3. .5
+=>=D>
+<D=.surface.interior<=
+    1. lost.1lin(?) 
+
+    2. M[odesto et Arinthei] [.?]
+
+    3. v[.?] 
+
+    4. <#XVII=17#> (K[al(endas)]) [(Mai(as))] Felix m[ensor] 
+
+    5. [olei fori] (K[arthag(iniensis)]) sus[cepimus] 
+
+    6. vestig.5lin
+=>=D>
+      

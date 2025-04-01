@@ -1,0 +1,10 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ⲃⲉ ⲛⲟⲩⲱⲧ ⲁⲩⲱ <gap reason="illegible" quantity="2" unit="character"/> ⲛ
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ϣⲁⲧⲉⲛϭⲏⲛⲧⲥ <hi rend="supraline">ⲛ</hi>ⲥⲱⲛ
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ⲧⲁⲥⲉ <hi rend="supraline">ⲛ</hi><choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig><expan>ϩⲟⲗⲟⲕ<ex>ⲟⲧⲧⲓⲛⲟⲥ</ex></expan></orig></choice>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ⲱⲣϫ ⲁⲛⲥⲙⲉⲛ ⲧⲉ<hi rend="diaeresis">ⲓ</hi>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>ⲟⲥ ⲧⲓ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig><expan>ⲥⲧⲟⲓⲭ<ex>ⲉⲓ</ex></expan></orig></choice> ⲧⲉⲓ<choice><reg xml:lang="grc">ὁμολογία</reg><orig>ϩⲟⲙⲟⲗⲟⲅⲓⲁ</orig></choice> <g type="stauros"/>
+</ab>
+      </div>

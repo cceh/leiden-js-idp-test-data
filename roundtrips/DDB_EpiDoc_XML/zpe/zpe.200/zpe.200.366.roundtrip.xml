@@ -1,0 +1,34 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><handShift new="m1"/><unclear>π</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ἵνα μὴ</supplied> 
+
+    <lb n="2"/>μετανάστης γέν<supplied reason="lost">ωμαι ἐκ τῆς</supplied> 
+    
+    <lb n="3"/>ἰδίας, κατέφυγον ἐπὶ σὲ δεό
+
+    <lb n="4" break="no"/>μενος, ἐάν σοι δόξῃ, κελεῦσαι 
+
+    <lb n="5"/>γραφῆναι τῶι τῆς Θεμίστου καὶ 
+
+    <lb n="6"/>Πολέμωνος μερίδων στρατηγῶι
+
+    <lb n="7"/>ἀπολ<unclear>ῦ</unclear>σαί με, ἵνʼ ὦ ὑπὸ σοῦ βεβοη
+
+    <lb n="8" break="no"/>θημένος. διευτύχει. 
+
+    <lb n="9" rend="indent"/>Ζωίλος <expan><ex>ἐτῶν</ex></expan> <num value="42">μβ</num> <expan><ex>οὐλὴ</ex></expan> <expan>δακτύ<ex>λῳ</ex></expan> <expan>χε<ex>ιρὸς</ex></expan> <expan>ἀριστ<ex>ερᾶς</ex></expan>.
+
+    <lb n="10"/><expan><ex>ἔτους</ex></expan> <num value="14">ιδ</num> Αὐτοκράτορος Καίσαρος Τίτου
+
+    <lb n="11" rend="indent"/>Αἰλίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ
+
+    <lb n="12" rend="indent"/>Εὐσεβοῦς, Παῦνι <num value="21"><hi rend="supraline">κα</hi></num>.
+
+    <lb n="13"/><handShift new="m2"/><expan><ex>ἔτους</ex></expan> <num value="14">ιδ</num> Παῦνι <num value="21"><hi rend="supraline">κα</hi></num>.
+
+    <lb n="14" rend="outdent"/><handShift new="m3"/>μηδενὸς ἐπεχομένου 
+
+    <lb n="15"/>ἔντυχε <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> τῷ στρατηγῷ. 
+</ab></div>

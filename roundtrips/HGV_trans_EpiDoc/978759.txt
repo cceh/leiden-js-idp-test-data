@@ -1,0 +1,24 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                         …
+                  ((1)) an Kolluthos, Goldschmied: 210.000 (plus?) Tal.;
+                  (((2))) an Sarapodoros, Goldschmied: 28.000 (plus?) Tal.;
+                  (((3))) an Kolluthos, Amtsdiener: 1.200 (plus?) Tal.;
+                  (((4))) an Paesios und Lytis: … 100 Tal.; und für das Bad (?): … Tal.;
+                  (((6))) an Ammonios, scholasticus: … Tal.;
+                  (((7))) an Kolluthos, als Preis für …: 50.000 Tal.;
+                  (((8))) an Ti…, Sarazene: 14.100 Tal.;
+                (((9))) an Kolluthos, ebenso: 93.000 Tal.; für Rettichöl: 800 Tal.; für Kleinbeträge: 200 Tal.;
+                (((12))) an Ammonios, Weinhändler: 30.000 Tal.; …
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((13)) Zusammen: 15.500 Tal.
+/*Translation: A. Jördens, P.Louvre 3 216*/
+               =>
+            =D>
+         =T>
+      

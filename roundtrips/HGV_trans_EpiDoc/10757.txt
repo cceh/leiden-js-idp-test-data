@@ -1,0 +1,18 @@
+
+            <T=.en
+            <=
+               ((1))To Hermes, son of Didymos. From Polemon, son of Heuremon, Persian of the epigone. 
+((1))I wish to lease from you the beans sown by you in the present second year of Imperator Caesar Nerva Trajanus Augustus Germanicus 
+and the turnips sown between the beans on two arourae out of the three arourae of kleros-land, forming part of six arourae, 
+the rent of the whole of the two arourae being, in kind, 25 artabae of beans measured with the 4 choinikes-measure owned by yourself, 
+Hermes, and in money 40 silver drachmae, besides 2 artabae of turnips measured with the aforesaid measure. 
+((10))I shall pay to you the 40 drachmae and 2 artabae of turnips on the 15th of the coming month of Tybi of the present second year, 
+and the beans on the - - of the month of Pauni. The transport-charges for the expedition concerning the 2 arourae shall be chargeable to me, 
+but the transport of the crops up to the village to you. And you shall also guarantee the lease, 
+you having no power to transfer it or to work the land yourself, also remaining valid the lease with payment in advance which I got from you, 
+Hermes, on three arourae of wheat forming part of the six arourae mentioned above. 
+(((21)))(Date and subscription on behalf of the lessee who is illiterate).
+/*Translation: B.A. van Groningen, P.Fam. Tebt. 5*/
+            =>
+         =T>
+        

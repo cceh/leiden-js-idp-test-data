@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><supplied reason="lost">Πλα</supplied>ν<unclear>τᾶ</unclear>ς Πλῆνι <expan>Ψαχῶ<ex>τος</ex></expan>
+
+    <lb n="2"/><supplied reason="lost"><expan>χα<ex>ίρειν</ex></expan></supplied> <choice><reg>μεμέτρημαι</reg><orig>μεμέτρημε</orig></choice> παρ<supplied reason="lost">ὰ</supplied> 
+
+    <lb n="3"/><supplied reason="lost">σ</supplied>οῦ ὑπὲρ λόγου <app type="editorial"><lem><unclear>κ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg resp="BL 3.270"><expan>κλη<supplied reason="lost">ρου<ex>χικῶν</ex></supplied></expan></rdg><rdg>κα<unclear>υ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/></rdg></app>
+
+    <lb n="4"/>ἐδάφων δεκ<unclear>άτ</unclear><supplied reason="lost">ου</supplied> 
+
+    <lb n="5"/>ἔτους Νέρωνο<unclear>ς</unclear> <unclear>τ</unclear><supplied reason="lost">οῦ</supplied> 
+
+    <lb n="6"/>κυρίου <expan><ex>πυροῦ ἀρτάβας</ex></expan> <num value="6">ϛ</num> <num value="1/2"><expan><ex>ἥμισυ</ex></expan></num> <num value="1/4"><expan><ex>τέταρτον</ex></expan></num> 
+
+    <lb n="7"/>Ἐπεὶφ <num value="30"><hi rend="supraline">λ</hi></num>. </ab></div>

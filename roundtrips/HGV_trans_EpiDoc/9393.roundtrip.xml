@@ -1,0 +1,16 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 4. Jahr des Imperator Caesar Marc[us] Aurelius Antoninus Augustus und 
+            des Imperator Caesar Lucius Aurelius Verus Augustus.
+            <milestone unit="line" n="5" rend="break"/>Gearbeitet hat für Dammarbeiten desselben 4. Jahres vom 14. bis 
+            18. Mesorê im <app type="BGU"><lem resp="BL V, S. 13; vgl. V, S. 14 und I, S. 76">(Kanal) Psenna </lem></app> für Karanis Ptolemaios, Sohn des Onnôphris, 
+            des Sohnes des Pakysis, (und der Mutter) Tkateïs.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 4 of Imperator Caesar Marc[us] Aurelius Antoninus Augustus and 
+            Imperator Caesar Lucius Aurelius Verus Augustus.
+            <milestone unit="line" n="5" rend="break"/>Work has been done on the dike works of the same year 4, Mesore 
+            14 to 18 in <app type="BGU"><lem resp="BL V 13; cf. V 14 and I 76">(the canal) of Psenna </lem></app> 
+            for Karanis by Ptolemaios, son of Onnophris, the son of Pakysis, (mother) Tkateis.
+        </p></div>
+      </body>

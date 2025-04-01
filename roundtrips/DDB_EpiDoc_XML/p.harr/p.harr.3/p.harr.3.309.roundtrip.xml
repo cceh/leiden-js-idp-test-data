@@ -1,0 +1,19 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/>lost.lin
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+    
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> ἐπειδὴ ἄρτι καιρὸς
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> ἐὰν <app type="editorial"><lem resp="PN W.G. Claytor (from photo)"><surplus>μὴ</surplus> Διονῦς <add place="above">μὴ</add> ἀγοράσῃ</lem><rdg>Διονυσαγόρας ἀγοράσ<add place="above">ῃ</add></rdg></app>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> αγορα<gap reason="illegible" quantity="2" unit="character"/>στω σοι <g rend="extension" type="filler"/>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>α<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τι <num value="2"><expan><ex>δίχαλκον</ex></expan></num> καὶ
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/>lost.lin
+</ab>
+      </div>

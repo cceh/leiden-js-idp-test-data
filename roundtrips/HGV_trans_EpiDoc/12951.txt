@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Gaius Julius Amarantus from Orsenouphis elder son of Aphrodisius, of Euhemeria in the division
+of Themistes. I desire to lease for 6 years from the present 13th year of Tiberius Caesar Augustus of the lands belonging to Gaius Julius son of (?) Alexander ... in the area of the said village a holding of
+3 arurae in the fifth field, which is adjoined on the south by the property of Evander son of Ptolemaeus, on the north by state (land (?)), on the west by the properties of the aforesaid Evander, on the east by a plot of state land separated by a dyke, on condition that I pay a yearly rental on each arura, including the one dromos-artaba of wheat which I shall receive for seed, of 6½ artabae of wheat measured by the bronze … dromos-measure which is equivalent to 331/6(choenices), and additional payments of 2 artabae for every 100 artabae, and a yearly total offering of 1 artaba and 1 cock. All the acts of cultivation I will perform and execute yearly and I will pay the yearly rental regularly in the month of Pauni at the village in new and clean corn, the measuring to be carried out by me fairly, and I will execute all duties and payments in accordance with the procedure up to the 12th year of Tiberius Caesar Augustus ; and at the expiration of the period I will deliver the holding free of unirrigated land, coarse grass, and dirt of all sorts, if you consent to the lease on these terms. Farewell. I, Gaius Julius son of Amarantus, agree to the lease on the terms aforesaid. The 13th year of Tiberius Caesar Augustus, Choiak 5.’
+
+            =>
+         =T>
+      

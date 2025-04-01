@@ -1,0 +1,41 @@
+<S=.grc
+<=
+    1. *rho-cross* χ̣
+
+    2. *rho-cross* χ
+
+    3. *rho-cross* χ
+
+    4. *rho-cross* χ
+
+    5. *rho-cross* χ
+
+    6. *rho-cross* χ
+
+    7. *rho-cross* χ
+
+    8. *rho-cross* χ̣
+
+    9. *rho-cross* χ
+
+    10. *rho-cross* χ̣
+
+    11. *rho-cross* χ̣
+
+    12. *rho-cross* χ
+
+    13. *rho-cross* χ
+
+    14. *rho-cross* χ
+
+    15. *rho-cross* χ
+
+    16. *rho-cross* χ
+
+    17. *rho-cross* χ
+
+    18. *rho-cross?* χ
+
+    18. lost.?lin
+=>
+      

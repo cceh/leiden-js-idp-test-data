@@ -1,0 +1,6 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">  ἀπέλυσ</supplied>εν καὶ μαρτυρῶ <g type="stauros"/> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀπέλ</supplied>υσεν <choice><reg>καὶ</reg><orig>κὲ</orig></choice> <choice><reg>μαρτυρῶ</reg><orig>μαρτοιρῶ</orig></choice> <supplied reason="lost"><g type="stauros"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><handShift new="m3"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀπέλυσε</supplied>ν καὶ μαρτυρῶ <g type="stauros"/> </ab></div>

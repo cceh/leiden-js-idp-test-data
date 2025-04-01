@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) In the 40th year of Caesar on the 30th of Choiak, Marsisouchos son of Marres has paid to Heraklas, the agent of Syrion, public banker of the Arsinoite (nome), for the syntaximon of the same year, for Theadelphia, eight silver (drachmas) = 8 dr., 
+               ((5)) and on the 10th of Tybi four dr. = 4 dr.,
+               ((6)) and on the 30th of Tybi four dr. = 4 dr.,
+               ((7)) and on the 29th of Pharmouthi four dr . = 4 dr., 
+               ((8)) and on the 30th of Pharmouthi four dr. = 4 dr.,  
+               ((9)) and on the [21-29th] of Pauni twelve dr. = 12 dr.,
+               ((10)) and on the 28th of Epeiph eight dr., ½ obol, 2 chalkoi = 8 dr., ½ obol, 2 chalkoi.
+/*Translation by Richard Warga, BASP 53 (2016) 134*/
+            =>
+         =T>
+      

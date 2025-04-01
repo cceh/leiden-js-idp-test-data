@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><num><hi rend="supraline"><gap reason="illegible" quantity="1" unit="character"/></hi></num> <num value="4">δ</num> 
+<lb n="2"/><supplied reason="lost">Μ</supplied>άρωνι <num value="1"><hi rend="supraline">α</hi></num><num value="1"><hi rend="supraline">α</hi></num>
+<lb n="3"/><supplied reason="lost">Ἥ</supplied>ρᾳ <num value="2"><hi rend="supraline">β</hi></num> 
+<lb n="4"/><supplied reason="lost">Ῥ</supplied>ώμῃ <num value="4"><hi rend="supraline">δ</hi></num> 
+<lb n="5"/><supplied reason="lost">Ε</supplied>ὐτύχῃ <num value="2"><hi rend="supraline">β</hi></num>
+<lb n="6"/><supplied reason="lost">Τρ</supplied>αιαν<supplied reason="lost">ῇ</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+
+</ab>
+      </div>

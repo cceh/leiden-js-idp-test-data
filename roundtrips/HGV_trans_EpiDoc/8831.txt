@@ -1,0 +1,30 @@
+
+         <T=.en
+            <D=.v 
+               <D=.i.column 
+                  <=
+                     ((1)) ... written to him ... Please ...
+                  =>
+               =D>
+               <D=.ii.column 
+                  <=
+                     ((9)) about Pachos ...
+                            we summoned Pachos because Aphthonetos had written
+                            ⟦the following letter to Aphthonetos
+                            and because an accusation of murder was brought against him by ...
+                            him ...⟧
+                            to investigate about the murder of which NN accused (him) ⟦and, if he would be found guilty, to procure ...⟧
+                            ...
+                            ⟦... as Pachos came immediately⟧
+                  =>
+               =D>
+               <D=.iii.column 
+                  <=
+                              ...
+                     ((26)) Theodotos ...
+                              /*Translation: G. Baetens – W. Clarysse, APF 62 (2016) 400*/
+                  =>
+               =D>
+            =D>
+         =T>
+      

@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Heraklous to Pompeius greeting and all good wishes for his health. As soon as the letter reaches you, come immediately. 
+((3)) Since Apeis died, Serapous does not give up annoying me at home. Since … that: Bring the memoranda, with her (or me?) saying that: 
+((6)) Two memoranda have been sent. I do not give money, she has repulsed us, saying that: You have not paid the tax on sales. 
+((8)) If the letter reaches you, come immediately. If not, I shall leave the house. If you don't come, I shall sit on a donkey and come to the Arsinoite …
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((14)) (Traces of the address). /*Translation: N. Litinas, CdE 88 (2013) 309*/
+               =>
+            =D>
+         =T>
+      

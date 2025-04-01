@@ -1,0 +1,16 @@
+
+         <T=.fr
+            <=
+               ((1)) Au très puissant Conseil d'Hermoupolis la Grande, ancienne, très vénérable et très brillante, par l'intermédiaire d'Aurélios Korellios
+Alexandros, chevalier qui a accompli ses milices, gymnasiarque, bouleute, prytane en charge de la cité, et de quelque manière qu'on le nomme,
+(((8))) de la part d'Aurélios Hermès, fils de Tatéris, d'Hermoupolis, inscrit dans le quartier Est de la ville; ((10)) je veux de mon plein gré prendre à bail de la
+Caisse municipale pour deux ans à compter du présent moi de Hathyr de la présente 14e année, une maison à un seul niveau, neuve, sise a Hermoupolis 
+dans le quartier Est de la ville, à côté du local voûté au-dessous du portique (nord/sud) de l'avenue d'Antinoupolis, en vu d'y habiter, moi et les miens, 
+((18)) pour un loyer mensuel de huit drachmes que je verserai chaque mois sans délai, et à la fin du temps fixé, je la restituerai avec les portes [précisément 
+telle que] je l'ai reçue; au cas où une surenchère se produirait, il sera possible de relouer à d'autres. ((25)) Interrogé j'ai donné mon accord. [An 14]
+de l'Empereur César Publius Licinius [Gallienus], Germanicus Maximus, [Persicus] Maximus, Pius Felix Augustus, le 13 de Hathyr. ((31)) (2e main) Aurélios
+Hermès, fils de Tatéris, j'ai pris le bail comme il est écrit ci-dessus. Aurélios Koprès j'ai écrit pour lui qui affirme ne pas savoir ses lettres.
+/*Translation: from CPR 35 with the addition of line numbers*/
+            =>
+         =T>
+      

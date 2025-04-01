@@ -1,0 +1,34 @@
+<S=.grc<=
+    1. lost.?lin
+
+    1. *parens-upper-opening* κάμηλοι [.?]
+
+    2. *parens-lower-opening* δύο <#=2#>
+
+    3. *parens-punctuation-opening* σκυτοπ[ωλ ][.?]
+
+    4. *parens-punctuation-opening* ἀορταί [.?]
+
+    5. *parens-punctuation-opening* τετραδε[.?]
+
+    6. *parens-punctuation-opening* σαγματ[.?]
+
+    7. *parens-punctuation-opening* τριχεαι [.?]
+
+    8. λιβανω̣[.?]
+
+    9. ζμύρνη̣ [.?]
+
+    10. *parens-punctuation-opening* καυνακ[.?]
+
+    11. παρδαλ[.?]
+
+    12. *parens-upper-opening* στέφανον̣ [.?]
+
+    13. *parens-middle-opening* περί σου [.?]
+
+    14. *parens-middle-opening* παραγενη̣[.?]
+
+    15. *parens-lower-opening* ἀργυρίου 
+
+    16. lost.?lin =>

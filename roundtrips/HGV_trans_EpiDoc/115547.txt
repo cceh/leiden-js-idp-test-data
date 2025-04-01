@@ -1,0 +1,26 @@
+
+            <T=.de
+            <=
+               ((1))(1) --- und 2 kleine für Wein, deren [Preis x Dr. war.]
+((2))Ferner (eine Liste derer), von denen ich Pfänder habe: [Von ---] eine Hacke für 1 Dr.; von Tothes (?) ein Pokal gegen 4 Dr.; von Am[--- ---] 
+((5))gegen 2 Dr.; von Aristis ein (?) Weinkühler [gegen x Dr.]; von Kotys ein Untergewand gegen x Dr.; [von ---] ein Untergewand gegen 2 Dr.; 
+von Pto[lemaios (?)] ein Zweizahn gegen x Dr.; [von ---] eine Axt und ein kupferner Becher [---] 
+(((10)))und lalielki (?) (und) ein Ring (?) [und] zwei [---], diese habe ich gegen [x] Dr.; [von ---] 2 Erntesicheln und eine Hacke gegen 2 Dr.; 
+von Kotys eine Erntesichel und [--- ebenso (?)] 
+((15))eine Erntesichel [--- gegen] 1 Dr.; 
+von Antheros ein (?) elki[--- gegen] 10 Dr.; von der Gart[enbesitzerin (?)] Smithis 2 kupferne [---], einer g[roß (?) ---], der andere kleiner, 
+((20))[---] gegen 8 Dr.; 
+[von --- ein (?) ---] gegen 1 Dr.; von Timaios ein [---] für die Jagd auf [---] gegen [x Dr.; von ---]tis eine (?) Spindel [und] zwei [---] und ein Kupfergefäß für Frauen 
+((25))gegen 8 Dr.; von Alexandra ein Handmesser gegen 1 Dr. und zwei kupferne Pokale und ein Weinbecher (und) ein Spiegel gegen 8 Dr.; 
+von Proros ein Metzgermesser, 
+(((30)))welches ein Zerteiler (?) ist, (und) ein kupfernes Maß, welches eine viertel (Kotyle) war, gegen 2 Dr. und ein Beil (und) ein Bohrer (und) drei Eisen gegen 5 Dr.; 
+von Kotys ein kupfernes Ei gegen 2 Dr.; 
+((35))von der Gemüsehändlerin Smithis ein Leintuch und eine Kupferkanne und ein Pokal gegen 8 Dr.; 
+eine eiserne Trense und ein Stirnband und Zügel von Heliodoros für 5 Dr.; von Pyrrhias ein leinenes 
+((40))Frauenuntergewand gegen 8 Dr.; 
+zwei Paar neue Halbschuhe, welche meine waren, zum Preis von 6 Dr.; von Thoas ein Sack aus Werg gegen 4 Dr.; von Thaibis ein Leintuch [---] 3 Kästchen [---] 
+(((45)))eiserne [---] --- für 2 Dr. 4 Ob.; [---] ein Reif für 1 Dr.; eine [---] Wasserkanne gegen 4 Dr.; diese ---
+/*Translation: B. Kramer - D. Hagedorn, P.Worp 13*/
+            =>
+         =T>
+        

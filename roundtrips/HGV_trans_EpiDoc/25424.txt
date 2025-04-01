@@ -1,0 +1,12 @@
+
+            <T=.en
+               <=
+               ((1)) (1st hand) ... to Theon (?) Zopyrus greets the most honorable Theon. 
+(((4)))I have received the deed for the 1 ½ ¼ arouras for ... and ... being part part of the kleroi of Isizelmis and Zazelmis. 
+(((10)))Its neighbours: to the south, Claudia Heraclia and others; to the north and east, Iason, son of Ptolemaeus, and others; to the west, a mound. 
+(((15)))Tesenptollis from the village of Thmoinetei in the Cynopolite nome, and Sambion, son of Dositheus, whose mother is Demarion, 
+from Psychis in the (district) Pasko in the Hermopolite nome. The scribe’s fee is yours, as you wish.
+/*Translation: P.Leid.Inst. 1 27 R*/
+              =>
+           =T>
+        

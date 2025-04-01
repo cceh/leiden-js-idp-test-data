@@ -1,0 +1,48 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" quantity="7" unit="character"/>δ<unclear>ροσι</unclear>η<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">καὶ Κολλούθου Πανκολλαύχιος</supplied>
+
+    <lb n="2"/>μητρὸς Εὖτος κα<supplied reason="lost">ι</supplied> <gap reason="lost" quantity="25" unit="character" precision="low"/>
+
+    <lb n="3"/>τιος καὶ Δακὸς <gap reason="lost" quantity="15" unit="character" precision="low"/> <supplied reason="lost">καὶ Πανκολλαύ</supplied>
+
+    <lb n="4" break="no"/>χιος Πενήνιο<unclear>ς</unclear> <supplied reason="lost">μητρὸς</supplied> <gap reason="lost" quantity="20" unit="character" precision="low"/>
+
+    <lb n="5"/>καὶ τῶν λοιπ<unclear>ῶν</unclear> <supplied reason="lost">ἐπ</supplied>ισ<supplied reason="lost">τ</supplied><unclear>α</unclear><supplied reason="lost">τῶν τῶν πολιτικῶν</supplied>
+
+    <lb n="6"/>ποτίμου <hi rend="diaeresis">ὕ</hi>δατος ὑδραγ<unclear>ω</unclear>γεί<unclear>ω</unclear><supplied reason="lost">ν</supplied> <gap reason="lost" quantity="10" unit="character" precision="low"/> <supplied reason="lost">διʼ</supplied>
+
+    <lb n="7"/>ἡμῶν τῶν προκειμέν<supplied reason="lost">ων· αἰτούμεθα ἐπισταλῆ</supplied>
+
+    <lb n="8" break="no"/>ναι ἐκ τοῦ πολιτικοῦ λόγου ὑ<supplied reason="lost">πὲρ</supplied> <gap reason="lost" quantity="10" unit="character" precision="low"/>
+
+    <lb n="9"/>αὐτῆς <choice><reg>ὑδροπαροχίας</reg><orig>ὑδροπαριχ<unclear>ί</unclear>ας</orig></choice> <unclear>μ</unclear>ονου<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <unclear>επ</unclear><gap reason="lost" quantity="11" unit="character"/>
+
+    <lb n="10"/><choice><reg>νυμφαίων</reg><orig>νυφα<unclear>ί</unclear>ων</orig></choice> ἀπὸ μηνὸς Θὼθ ἕως Ἁθὺρ <supplied reason="lost">καὶ αὐτοῦ</supplied>
+
+    <lb n="11"/>τοῦ ἐνεστῶτος <num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan> <subst><add place="inline">τοῦ</add><del rend="corrected">τοκ</del></subst> κυρίου ἡμῶν <supplied reason="lost">Γαλλιηνοῦ</supplied>
+
+    <lb n="12"/>Σεβαστοῦ μηνῶν <num value="3">τριῶν</num>, ἑκάστου μηνὸς <supplied reason="lost">δραχμῶν</supplied>
+
+    <lb n="13"/><num value="500">πεν<unclear>τ</unclear><supplied reason="lost">α</supplied>κοσίων</num>, τὰς συναγομένας ἀργ<supplied reason="lost">υρίου δραχμὰς</supplied>
+
+    <lb n="14"/><num value="1500"><choice><reg>χι<supplied reason="lost">λ</supplied>ίας</reg><orig>χει<supplied reason="lost">λ</supplied><unclear>ίας</unclear></orig></choice> <unclear>π</unclear>εντακοσίας</num>, <expan><ex>γίνονται</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="1500">Αφ</num>, λόγο<supplied reason="lost">υ φυλασσο</supplied>
+
+    <lb n="15" break="no"/>μένου <supplied reason="lost">τῇ π</supplied>όλει <supplied reason="lost">κ</supplied>αὶ τῇ βουλῇ περὶ οὗ <supplied reason="lost">ἔχουσι</supplied>
+
+    <lb n="16"/>παντὸ<supplied reason="lost">ς δικαίου</supplied>· διευτυχεῖτε.
+
+    <lb n="17"/><expan><ex>ἔτους</ex></expan> <num value="14">ι<supplied reason="lost">δ</supplied></num> <supplied reason="lost">Αὐτοκρ</supplied>άτορος  Καίσαρος Πο<supplied reason="lost">υπλίου</supplied>
+
+    <lb n="18"/>Λικι<unclear>ν</unclear><supplied reason="lost">νίου Γαλλι</supplied>ηνοῦ Γερμανικοῦ Μ<supplied reason="lost">εγίστου</supplied>
+
+    <lb n="19"/>Π<unclear>ε</unclear><supplied reason="lost">ρσικοῦ Με</supplied>γ<unclear>ί</unclear>στου Εὐσεβοῦς Εὐτυ<supplied reason="lost">χοῦς</supplied>
+
+    <lb n="20"/>Σεβ<supplied reason="lost">αστοῦ</supplied> <app type="editorial"><lem><supplied reason="lost" cert="low">Τῦβ</supplied>ι <num value="9"><unclear>θ</unclear></num><g type="slanting-stroke"/></lem><rdg resp="BL 10.264"><gap reason="lost" extent="unknown" unit="character"/>θ</rdg><rdg resp="Wessely"><supplied reason="lost">Φαμενώ</supplied>θ</rdg></app> <handShift new="m2"/>οἱ προκείμε<unclear>ν</unclear><supplied reason="lost">οι αἰτού</supplied>
+
+    <lb n="21" break="no"/>με<supplied reason="lost">θα ὡς πρόκει</supplied>ται· <expan>Α<ex>ὐρήλιος</ex></expan> Σιλβανὸς <supplied reason="lost">Ἑρ</supplied>
+
+    <lb n="22" break="no"/>μ<unclear>ε</unclear><supplied reason="lost">ίου <expan>ἔγρ<ex>αψα</ex></expan> <expan>ὑ<ex>πὲρ</ex></expan> αὐτῶν μὴ εἰδότ</supplied>ων γράμματ<supplied reason="lost">α</supplied>
+</ab></div>

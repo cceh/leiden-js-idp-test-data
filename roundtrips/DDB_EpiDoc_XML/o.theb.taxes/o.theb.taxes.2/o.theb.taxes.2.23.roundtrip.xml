@@ -1,0 +1,22 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart">
+<ab>
+<lb n="1"/><expan><ex>ἔτους</ex></expan> <num value="30">λ</num> Παχὼνς <num value="19"><hi rend="supraline">ιθ</hi></num>
+
+<lb n="2"/>πέπτωκεν ἁλι
+
+<lb n="3" break="no"/>κῆς διὰ Κλειτάν
+
+<lb n="4" break="no"/>δρου Καρουρ
+
+<lb n="5"/><expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num>
+
+<lb n="6"/><gap reason="ellipsis" quantity="4" unit="line"><desc>Demotic</desc></gap>
+</ab>
+</div>
+<div n="v" type="textpart">
+<ab>
+<lb n="1"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Demotic</desc></gap>
+</ab>
+</div>
+         </div>

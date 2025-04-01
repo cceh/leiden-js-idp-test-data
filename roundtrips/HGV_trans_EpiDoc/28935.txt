@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              Sarapas to his sister Diogenis, greeting. I pray always to all the gods for you, and you know from close experience my goodwill even though I do not write to you; but you have never thought proper to send me greetings in a letter. A year to-day I have been away from you and al the time you have not thought proper to give me tidings about yourself or your brother Horion,how he is; for I love him greatly. Have you produced us a male child? For I pray that you may agree in this, as you entirely deserve. Tell me now about anything here that you want, for with the help of the gods I am hastening to set out to you. I greet you all. I pray for your health. (Addressed) To my sister Diogenis.
+            =>
+         =T>
+      

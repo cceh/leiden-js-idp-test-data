@@ -1,0 +1,27 @@
+
+         <T=.de<=
+            ((1))An die <Sitologen=sitologos> von Karanis. 
+            Ich habe erhalten <:unter Abgabe einer eidlichen handschriftlichen 
+                Erklärung|BGU_DDbDP:Nach GUNDEL, CE 47, 1972, S. 207 f.|:> <:vom
+                    Saatgut|BGU:BL I, S. 23|:> des 22. Jahres des Antoninus Caesar, 
+            des Herren: ((3))(2. Hand) 77. 
+            <Kleruchie=cleruchy>. <:Komon|BGU:l. Komôn, BL I, S. 23|:>, Sohn des Menêreus, für 2 1/2 1/8 1/32 <Aruren
+                    =aroura> <:des Senecanischen (Landguts)
+                        |BGU_DDbDP:P. Hamb. I 3, Komm. zu Z. 9 (S. 13)|:> bei Karanis, 
+            für 1/2 1/8 <Aruren=aroura> Pachtland bei Kerkesûcha.
+        =>=T>
+         <T=.en<=
+            ((1))To the < sitologoi =sitologos>
+            of Karanis. 
+            <:I received under declaration with a written sworn statement 
+                |BGU_DDbDP:Cf. Gundel, CE 47, 1972, 207f.|:>
+            <:from the seed grain|BGU:BL I 23|:>
+            of year 22 of Antoninus Caesar, the lord. ((3))(m. 2) 
+            77th <cleruchy=cleruchy>. 
+            <:Komon|BGU:BL I 23|:>, son of Menereus. At Karanis 
+            for 2 1/2 1/8 1/32 <arouras=aroura> 
+            <:on the Senecan (estate)|BGU_DDbDP:P.Hamb. I 3.9 comm. (p. 13)|:>,
+            at Kerkesoucha for 1/2 1/8 of an <aroura=aroura>
+            of revenue (land).
+        =>=T>
+      

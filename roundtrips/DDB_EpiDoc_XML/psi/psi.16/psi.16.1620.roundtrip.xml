@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>τοὺς
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>χια <gap reason="illegible" quantity="3" unit="character"/>γελη <choice><reg>καὶ ἐὰν</reg><orig>κἂν</orig></choice>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> ἀν<unclear>α</unclear>βάλωμεν
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ἀνα</supplied>βολὰς ἡμῶν οὐκ
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ἀνα</supplied>βαλεῖν ὅ τι <unclear>ο</unclear>ὐκ <unclear>ε</unclear>
+<lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear>λ<gap reason="lost" quantity="2" unit="character"/><unclear>β</unclear><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>φασιν <app type="alternative"><lem>ἀναβ<unclear>ε</unclear>
+<lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/><unclear>η</unclear>κ<gap reason="lost" quantity="5" unit="character"/></lem><rdg>ἀναβ<unclear>ε</unclear><supplied reason="lost">βλ</supplied><unclear>η</unclear>κέναι<certainty match=".." locus="value"/></rdg></app><unclear>ν</unclear>τα ἐπὶ τοῦ γύου
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="5" unit="character"/><unclear>ασ</unclear><gap reason="illegible" quantity="1" unit="character"/> <space extent="unknown" unit="character"/>
+<lb n="9"/><supplied reason="lost">ἔ</supplied><unclear>ρρ</unclear>ωσο  <app type="alternative"><lem><figure><figDesc>monogram</figDesc></figure></lem><rdg>ερ</rdg><rdg>θ</rdg></app>
+</ab>
+
+      </div>

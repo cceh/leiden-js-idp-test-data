@@ -1,0 +1,25 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><subst><add place="inline">ἐνια<unclear>ύ</unclear>σι<supplied reason="lost" cert="low">ος</supplied></add><del rend="corrected">ενια<gap reason="illegible" quantity="1" unit="character"/>σι</del></subst> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>Ἀπολ<unclear>λ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>ὁ <expan>προγεγρα<ex>μμένος</ex></expan> ὀ<supplied reason="lost">μνύω Τιβέριον</supplied>
+<lb n="4"/>Καίσαρα <supplied reason="lost">Νέον Σεβαστὸν</supplied> 
+<lb n="5"/>Αὐτοκ<unclear>ρ</unclear><supplied reason="lost">άτορα θεοῦ Σεβαστοῦ</supplied>
+<lb n="6"/>υἱὸν <choice><reg>ἦ</reg><orig>εἶ</orig></choice> <unclear>μ</unclear><supplied reason="lost">ὴν ἐξ ὑγιοῦς καὶ ἐπ’</supplied> <choice><reg><supplied reason="lost">ἀλη</supplied>
+<lb n="7" break="no"/>θείας</reg><orig><supplied reason="lost">ἀλη</supplied><lb n="7" break="no"/>θίας</orig></choice> <choice><reg>ἐπιδεδ<supplied reason="lost">ωκέναι</supplied></reg><orig>ἐπεδ<unclear>εδ</unclear><supplied reason="lost">ωκέναι</supplied></orig></choice> <supplied reason="lost">τὴν γραφὴν τῶν</supplied> 
+<lb n="8"/>ἀνδρῶ<unclear>ν</unclear> <unclear>κ</unclear><supplied reason="lost">αὶ γυναικῶν τῶν παρ’ ἐμοὶ</supplied>
+<lb n="9"/>καὶ τῷ ἀδελ<supplied reason="lost">φῷ οἰκούντων</supplied>
+<lb n="10"/>καὶ μηδέ<unclear>να</unclear> ἕτερον μήτε Ῥωμαῖ<unclear>ο</unclear><supplied reason="lost">ν</supplied>
+<lb n="11"/>μηδ’ ἀπελεύθερον μηδ’ <expan>Ἀλεξα<ex>νδρέα</ex></expan>
+<lb n="12"/>μηδ’ ἄλλον μηδένα παρὲξ τῶ<unclear>ν</unclear>
+<lb n="13"/><expan>προγεγρα<ex>μμένων</ex></expan> <choice><reg>οἰκεῖν</reg><orig>οἰκῖν</orig></choice> παρ’ ἐμοὶ καὶ τῷ <expan>ἀδελ<unclear>φ</unclear><ex>ῷ</ex></expan>
+<lb n="14"/>καὶ μηδὲν δι<unclear>εψ</unclear>εῦσθαι. εὐορκοῦν
+<lb n="15"/>- τι μέν μοι εὖ εἴη, ἐπιορκοῦντι δὲ τὰ 
+<lb n="16"/>ἐναντία. <expan><ex>ἔτους</ex></expan> <num value="20">κ</num> Τιβερίου Καίσαρος,
+<lb n="17"/><space extent="unknown" unit="character"/> Σεβαστοῦ, <app type="alternative"><lem>Παχ<gap reason="illegible" quantity="2" unit="character"/></lem><rdg><expan>Παχ<ex>ων</ex></expan> <num value="1"><unclear>α</unclear></num></rdg></app>
+<lb n="18"/>Ἀπολ<unclear>λ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="19"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="19"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

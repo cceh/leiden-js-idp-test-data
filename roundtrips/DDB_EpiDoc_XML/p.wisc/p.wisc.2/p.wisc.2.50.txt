@@ -1,0 +1,84 @@
+<S=.grc<D=.1<=
+
+    1. [.?]~|[manu]mitti placuit |~la 
+
+    2. [.?]~|unum manumitti |~la 
+
+    3. [.?]~|lo (|Aug|) (|lib|) Crispino*slanting-stroke* |~la 
+
+    4. [.?]~|[M. Gaio Orfito et] L. Aṛrio Pudente cos. |~la 
+
+    5. ~|anno (V(I)) (Imp(eratoris)) (Caes(aris)) M. Aureli Antonini ([Au]g(usti)) ẹṭ (Imp(eratoris)) (Caes(aris)) L. Aureli |~la 
+
+    6. ~|[Veri (Aug(usti)) mense ][.?][  die  ][.?] bsịḥ|~la .1~|trio |~la 
+
+    7. [.?].2~|ulum e|~la .2~|ṃ Velio P̣oṛḅo |~la 
+
+    8. [.?].1~|t|~la .2~|ẹạc |~la 
+
+    9. [.?].1[.2]ονιακὸς ἀρχιραβδοῦχος 
+
+    10. [.?]~|[test]ạṭ[a] est eos qui signaturi erant |~la 
+
+    11. [.?].3[.1] ~|genuisse eo die |~la 
+
+    12. [.?]~|[ex incerto patre se enix]ạṃ esse filium eumque 〚m〛 |~la 
+
+    13. ~|[vocitare          ][.?]  ideoque <:ha<n>c|reg|hac:> testationem |~la 
+
+    14. [.?] ~|Ạẹḷia Sentia |~la 
+
+    15. ~|[interposuisse dixit quia lex Papia Poppaea] p[r]ọhibet spurios spuriasve |~la 
+
+    16. ~|[M. Gaio Orfito et L. Arrio Pudente cos.] (Ḳạl(end)) (|Novembr|) anṇọ [VI] |~la 
+
+    17. ~|(Imp(eratoris)) (Caes(aris)) M. Aureli Antonini (Aug(usti)) et ([I]mp(eratoris)) (Caes(aris)) L. Aureli Vẹṛị ([Au]g̣(usti)) |~la 
+
+    18. [.?]~|ṣọṇidum patrem Ti. Claudius |~la 
+
+    19. [.?].1~|ḷ|~la .2~|ium p|~la .1~|ọṣṣe |~la 
+
+    20. *low-punctus* ~|c *low-punctus* l *low-punctus* |~la 
+
+    21. [.?] ~|c̣um sim cives Latinus m|~la .2 
+
+    22. [.?].1 ~|uxorem duxịṣṣẹ Ạẹḷịạṃ Le|~la .2~|inem |~la 
+=>=D><D=.2<=
+
+    23. .1[.?] 
+
+    24. ~|ro[.?] 
+
+    25. i[.?] |~la 
+
+    26. .1[.?] 
+
+    27. ~|C. Iụḷị[.?] 
+
+    28. test[at  ][.?] 
+
+    29. quị[.?] |~la 
+
+    30. .1 ~|tab[ulas (?)][.?] 
+
+    31. (adi(isse)) cr[evisseque  ][.?] 
+
+    32. actum [.?] |~la 
+----
+    33. ~|ạp̣|~la .1[.?] 
+
+    34. ~|Orfito et Pudente cos. [.?] 
+
+    35. C. Iulius Noninus (mil[(es)])[ (leg(ionarius)) ][.?]  
+
+    36. profiteor apud Veiṃ|~la .1[.?] 
+
+    37. ~|et Eutuche arkarịum [.?] 
+
+    38. servam meam maior[em ][.?] 
+
+    39. nec habere eam plus. 
+
+    40. C. Iulius Noninus (mil(es)) (leg(ionarius)) [.?] 
+
+    41. Velio Neṃẹṣio Ruf[o  ][.?] |~la =>=D>

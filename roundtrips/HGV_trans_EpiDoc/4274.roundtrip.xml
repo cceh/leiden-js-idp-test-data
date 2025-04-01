@@ -1,0 +1,16 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1" rend="break"/>Von Peukestes:
+               <milestone unit="line" n="2" rend="break"/>Niemand darf weitergehen. Es ist die Kammer eines Priesters.
+               <note>translated by Johannes Kern as part of the Papyrology course at Würzburg (taught by Birgit Breuer, WS 2021/22)</note>
+            </p>
+         </div>
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1" rend="break"/>Of Peukestes
+               <milestone unit="line" n="2" rend="break"/>No one is to pass. The chamber is that of a priest.
+               <note>Translation: E.G. Turner, JEA 60, 1974, S. 240</note>
+            </p>
+         </div>
+      </body>

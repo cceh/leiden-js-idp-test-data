@@ -1,0 +1,35 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            ... <milestone unit="line" n="1"/>[ich melde mich] und [die Meinen für die] 
+            <term target="katoikianapographe">Haushaltsmeldung</term> [des] vergangenen 28. Jahres 
+            des Aure[lius Commodus] Antoninus C[aesar, des Herren im selben] Viertel, in dem ich mich 
+            auch für die <term target="katoikianapographe">Haushaltsmeldung</term> [des 14. Jahres] 
+            gemeldet [habe. <milestone unit="line" n="6"/>Und ich bin] der oben genannte Chaireas, 
+            <app type="BGU"><lem resp="BL I, S. 21">Wollwäscher</lem></app> <term target="epikekrimenos">der Standesprüfung 
+                untezogener</term> 
+            <term target="laographoumenos">Kopfsteuerpflichtiger</term>, 54 Jahre (alt), ohne 
+            Kennzeichen, <milestone unit="line" n="9"/>und (ich melde auch) meine [Ehefrau] Dioskoria, Tochter des 
+            An[...], des Sohnes des [Sa]rapiôn, und der Mutter Thôtar[ion alias Sara]pias, aus der 
+            <term target="metropolis">Metropole</term> [...] 34 Jahre (alt), <milestone unit="line" n="14"/>und 
+            die gemeinsamen [Kinder – – –]mias, 15 Jahre (alt), ohne Kennzeichen, und [...]rios, 9 
+            Jahre (alt), und Chaireas [...] und Dios[kor– – –]. <app type="BGU_DDbDP"><lem resp="BL X, S. 12">Hiermit reiche ich 
+                (die Meldung) ein.</lem></app> [...]
+            <milestone unit="line" n="19" rend="break"/>Im 29. Jahr des Aurelius C[ommodus Antonius] des Herren, am [x.] Payn[i].
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            ... <milestone unit="line" n="1"/>[I register myself] and [my family for the] <term target="katoikianapographe">house-by-house 
+                registration</term> of the past 28th year of Aure[lius 
+            Commodus] Antoninus C[aesar, the lord in the same] <term target="amphodon">quarter</term>, 
+            in which I registered in the <term target="katoikianapographe">[house by-house] 
+                registration</term> of [year 14] as well. 
+            <milestone unit="line" n="6"/>[And I am] Chaireas the above mentioned, <app type="BGU"><lem resp="BGU I 21">woolwasher</lem></app>, <term target="laographoumenos">subject to poll-tax</term>, 
+            <term target="epikekrimenos">scrutinized</term>, 54 years old, without a distinguishing 
+            mark, <milestone unit="line" n="9"/>and (I register) [my wife] Dioskoria, daughter of An[– – –, son of 
+            Sa]rapion, mother Thotar[ion alias Sara]pias from the 
+            <term target="metropolis" xml:lang="grc-Latn">me[tropolis</term>] 
+            [...] 34 years old and <milestone unit="line" n="14"/>[the children] from both of them [...]mias, 15 years 
+            old, without a distinguishing mark and [...]rios, 9 years old, and Chaireas [...] and 
+            Dios[kor – – –]. <app type="BGU_DDbDP"><lem resp="BL X 12">Therefore I submit (this registration)</lem></app> [...]
+            <milestone unit="line" n="19" rend="break"/>Year 29 of Aurelius C[ommodus Antoninus], the lord, Payni [x].
+        </p></div>
+      </body>

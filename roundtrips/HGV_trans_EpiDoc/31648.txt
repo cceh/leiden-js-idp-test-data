@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              Eudaemonis to my lord Ptolemaeus, greeting. I am again writing you this my letter, first sending you salutations, and secondly praying to al the gods that you may receive them in health and prosperity along with all our friends. I salute Pallas and Nila and all our friends. I pray for your health. (Addressed) To Ptolemaeus from Eudaemonis.
+            =>
+         =T>
+      

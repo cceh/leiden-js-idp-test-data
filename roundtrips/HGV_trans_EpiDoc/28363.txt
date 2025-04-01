@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Antonius son of Ptolemaeus invites you to dine with him at the table of the lord Sarapis in the house of Claudius Sarapion on the 16th at 9 o'clock.
+            =>
+         =T>
+      

@@ -1,0 +1,27 @@
+
+         <T=.en
+            <=
+               ((1)) Assessment [for?], tenth (?) indiction:
+             (((2))) Sabinus son of Mys 22,300 talents
+             (((3))) keph( ) 4800 talents
+             (((4))) heirs of Heras the deacon, 6600 talents
+             (((5))) keph( ) 800 (plus?) talents
+             (((6))) wife of Chairemon, 2203 talents
+             (((7))) Hatres son of Ptollas, 7000 talents
+             (((8))) Ouenaphris [?] talents
+             (((9))) keph ( ) [?] talents
+           (((10))) wife of Marcus, [?] talents
+           (((11))) heirs of Antiouris, 28,350 talents
+           (((12))) keph ( ) 800 talents
+           (((13))) Heras son of Serapion, 3320 talents
+           (((14))) Pankrates, 1250 talents
+           (((15))) Tapaeis, 1630 talents
+           (((16))) Syros, 2350 talents; /*in the right margin*/ Kanaout, 8000 (plus?) talents
+           (((17))) Helene, 4000 (plus) talents
+           (((18))) keph( ) 4000 talents
+           (((19))) Elias, 6500 (plus) talents
+            (((20))) keph( ) [?] talents; [total:] 144,000 talents.
+             /*Translation: C.M. Sampson, BASP 51 (2014) 62*/
+            =>
+         =T>
+      

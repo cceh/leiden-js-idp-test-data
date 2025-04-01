@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘… that my honoured leader is in good health. And now therefore I have written about him to brother Eutolmius, and I have written about brother Heraiscus to the same Eutolmius, introducing him to those to whom you are to give the letter. Heraiscus should be present along with you. Attend to your children and your household, as I asked you, and write to me about anything you want in Antinoupolis, for I am pleased with you. Greet your children, whom I pray may be preserved from the evil eye, and your consort. Brother Apunchis salutes you. Forward under seal to Alexandria to brother Latkios the letter enclosed with this. I pray for your health, brother.
+‘To Theodosius by a safe friend because it is of great importance to our friends.’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) ‘From Ammonius (xystophorus?) to brother Andronicus.’
+               =>
+            =D>
+         =T>
+      

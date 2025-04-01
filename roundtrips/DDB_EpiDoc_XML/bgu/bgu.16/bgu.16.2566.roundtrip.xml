@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/>παῤ <unclear>α</unclear><supplied reason="lost">ὐτοῦ τὰς καθηκούσας χειρογραφίας.</supplied>
+
+    <lb n="2"/>μετρήσατε τάς προκειμέν<supplied reason="lost">ας</supplied>
+
+    <lb n="3"/>πυροῦ ἀρτάβας ὀγδοήκοντα καὶ
+
+    <lb n="4"/>τέσσαρες, <choice><reg>ὀλύρας</reg><orig>ὀλύρης</orig></choice> ἀρτάβας τρι
+
+    <lb n="5" break="no"/>άκοντα <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="84">πδ</num>,
+<expan>ὀλ<ex>ύρας</ex></expan> <num value="30">λ</num>
+
+    <lb n="6"/><expan><ex>ἔτους</ex></expan> <subst><add place="inline"><num value="28">κη</num></add><del rend="corrected"><num value="20">κ</num><gap reason="illegible" quantity="1" unit="character"/></del></subst> Καίσαρος Ἁθὺρ <num value="30">λ</num></ab></div>

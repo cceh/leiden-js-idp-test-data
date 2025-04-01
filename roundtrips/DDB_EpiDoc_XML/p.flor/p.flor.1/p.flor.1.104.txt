@@ -1,0 +1,6 @@
+<S=.grc<D=.r<=
+
+    1. /*PFlor 1,104,r reprinted in (ref=p.vind.pher;;Anhang=PVindPherAnhang)*/
+=>=D><D=.v<=
+
+    1. /*PFlor 1,104,v reprinted in (ref=p.flor;2;271=PFlor 2,271)*/=>=D>

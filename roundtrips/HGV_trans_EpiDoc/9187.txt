@@ -1,0 +1,20 @@
+
+         <T=.de<=
+            ((1))Im 3. Jahr des Marcus Aurelius Antoninus Pius Felix Augustus, am 4. Tybi. 
+            ((4))<:Eingezahlt hat an Koprês|BGU:BL I, S. 64|:> und (seine) 
+            <:Genossen|BGU:BL I, S. 64|:>, 
+            <:<Einnehmer=praktorstephanikou>|BGU:BL I, S. 64.|:> 
+            <des Kranzgeldes=praktorstephanikou> des Dorfes Neilû Polis Melas 
+            der <prophêtês=prophetes>, achtundzwanzig Drachmen, das sind 28 
+            Drachmen.
+        =>=T>
+         <T=.en<=
+            ((1))Year 3 of Marcus Aurelius Antoninus Pius Felix Augustus, Tybi 4. 
+            ((4))Paid to <:Kopres|BGU:BL I 64|:> and his 
+            <:associates|BGU:BL I 64|:>, 
+            <:<collectors=praktorstephanikou>|BGU:BL I 64.|:> 
+            <of the crown tax=praktorstephanikou> of the village of Neilou Polis, 
+            (by) Melas, <prophetes~grc-Latn=prophetes>, twenty eight drachmas, 
+            = 28 drachmas.
+        =>=T>
+      

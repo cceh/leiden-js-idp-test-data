@@ -1,0 +1,34 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>τιμὴν ὧ<unclear>ν</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>καὶ ὀμν<unclear>υ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>κον μ<unclear>ηδ</unclear><supplied reason="lost">ὲν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>ἔστ<supplied reason="lost">ι δέ·</supplied> 
+
+    <lb n="6"/>σησάμ<unclear>ο</unclear><supplied reason="lost">υ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>μελαν<unclear>θίου</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/><choice><reg>κορίου</reg><orig>κορου</orig></choice> ξηρ<supplied reason="lost">οῦ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/>ὀριγάνου <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><unclear>σ</unclear>ινά<unclear>πε</unclear>ως <supplied reason="lost"><expan><ex>ἀρτάβης</ex></expan> <num value="1">α<certainty match="../@value" locus="value"/></num> </supplied> <expan><unclear>τ</unclear><supplied reason="lost">ά</supplied>λ<ex>αντα</ex></expan>  <num value="8"><unclear>η</unclear></num> 
+
+    <lb n="11"/>μ<gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex cert="low">ἀρτάβης</ex></expan> <num value="1">α</num>  <expan><supplied reason="lost">τά</supplied><unclear>λ</unclear><ex>αντα</ex></expan>  <num value="4">δ</num> 
+
+    <lb n="12"/>κνήκο<unclear>υ</unclear>    <expan><ex cert="low">ἀρτάβης</ex></expan> <num value="1">α</num>  <expan>τ<supplied reason="lost">ά</supplied>λ<ex>αντα</ex></expan>  <gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="13"/>φάβατ<unclear>ος</unclear>   <expan><ex>ἀρτάβης</ex></expan>   <num value="1">α</num>  <expan>τάλ<ex>αντα</ex></expan>    <num value="6"><unclear>ϛ</unclear></num> 
+
+    <lb n="14"/>κυμίνου   <expan><ex>ἀρτάβης</ex></expan>   <num value="1">α</num>  <expan>τ<supplied reason="lost">ά</supplied>λ<ex>αντα</ex></expan>  <num value="8">η</num> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="15"/><handShift new="m2"/> <expan>Αὐρ<ex>ήλιος</ex></expan> Ἡρακλ<unclear>ῆ</unclear><supplied reason="lost">ς</supplied> ἐπ<supplied reason="lost">ι</supplied>δέδ<unclear>ωκα</unclear> <expan>πρ<ex>οσφωνῶν</ex></expan> 
+
+    <lb n="16"/>ὡς <expan>πρόκ<ex>ειται</ex></expan>. <expan>Αὐρ<ex>ήλιος</ex></expan> <unclear>Θ</unclear>έων <expan>ἔγρ<ex>αψα</ex></expan> <expan>ὑ<ex>πὲρ</ex></expan> αὐτοῦ <expan>γρ<ex>άμματα</ex></expan> μὴ <expan>εἰ<supplied reason="lost"><ex>δότος</ex></supplied></expan><supplied reason="lost">.</supplied> </ab></div>

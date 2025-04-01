@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    … Send me the receipt … the 4th. Greetings. Petosiris … to take four keramia.
+                =>
+            =T>
+        

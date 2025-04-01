@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Heraclides also called Diogenes and Sarapion also called Diogenes, both sons of Diogenes and ex-gymnasiarchs of Oxyrhynchus, and however they are styled, through their guardian Hermes, have leased to Harmiusis son of Heras and Taphibis, from Tischinakitoou, for four years dating from the present 27th year out of their property at Taampemou in the holding of Philonicus and Charas a half share of five arourae and the vacant spaces, owned by them in common with Demetria daughter of Antimachus with respect to the other half; to be sown and cultivated in each year the half with wheat and the other half with green stuffs, at the fixed rent for the said half share in each year of the four years’ period of 8 artabae of wheat on deposit and 40 drachmae. And the lessee acknowledges that he owes to the landlords arrears upon the said land for the past year 3 artabae of wheat, which he will pay as a deposit in the present year together with the deposit of the rent, guaranteed completely against all risks. If in the succeeding years any of the land becomes unirrigated, an allowance shall be made to the lessee, the landlords being responsible for the annual taxes upon the land and retaining the ownership of the produce until they have recovered their yearly dues...
+            =>
+         =T>
+      

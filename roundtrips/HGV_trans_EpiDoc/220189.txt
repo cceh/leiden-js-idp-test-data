@@ -1,0 +1,14 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1))C'est le prêtre Paul, le fils du sachô, qui écrit à son cher père Joseph: ((5))je suis chez toi/vous avec apa Paul j'ai ... les livres ... 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((10))À remettre à Joseph de la part de Paul (le fils?) du sachô. De fait, le topos a besoin d'eux. ((15))Prie pour moi!
+               =>
+            =D>
+         =T>
+      

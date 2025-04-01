@@ -1,0 +1,34 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/><handShift new="m14"/><num value="106">ρϛ</num>
+
+    <lb n="2"/><handShift new="m1"/><supplied reason="lost">Οὐαλερίῳ</supplied> Ἀμμωνιανῷ τῷ καὶ Γεροντίῳ λ<supplied reason="lost">ογισ</supplied><unclear>τ</unclear><supplied reason="lost">ῇ</supplied> <choice><reg>Ὀξυρυγχίτου</reg><orig><unclear>Ὀ</unclear>ξυρυγχείτου</orig></choice>
+
+    <lb n="3"/><supplied reason="lost">παρὰ Αὐρηλίου</supplied> Σαραπίωνος Ἡροδότου ἀπὸ τῆς <expan>λαμ<ex>πρᾶς</ex></expan> καὶ <expan>λαμ<ex>προτάτης</ex></expan> Ὀξ<supplied reason="lost">υρυγχιτ</supplied><unclear>ῶν</unclear> πόλεως δημοσίου ἰατροῦ.
+
+    <lb n="4"/><supplied reason="lost">ἐπεστάλην τῇ</supplied> χθὲς ἡμέρᾳ, ἥτις ἦν Μεχεὶρ <num value="26">κϛ</num>, ἐκ <choice><reg>βιβλιδίων</reg><orig>βιβλειδίων</orig></choice> <supplied reason="lost">ἐπιδοθέ</supplied><unclear>ν</unclear>των σοι ὑπὸ Οὐαλερίου  Νουνδιναρίου
+
+    <lb n="5"/><gap reason="lost" quantity="9" unit="character"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> ὥστε γενέσθαι ἐν ἐποικίῳ α<unclear>ὐτ</unclear>ο<unclear>ῦ</unclear> <unclear>Π</unclear><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="4" unit="character"/>ειω καὶ <choice><reg>ἐπιδεῖν</reg><orig>ἐφιδῖν</orig></choice> τὴν περὶ τοῦ πλη
+
+    <lb n="6" break="no"/><supplied reason="lost" cert="low">γέντος  </supplied><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><unclear>τ</unclear>ου κ<unclear>αὶ</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>φύ</unclear>λακος Μουεῖτος διάθεσιν καὶ <choice><reg>ἐγγράφως</reg><orig>ἐνγράφως</orig></choice> σοι <unclear>π</unclear><supplied reason="lost">ρο</supplied>σφωνῆσαι. ὅθεν ἐν τῷ ἐποικίῳ <unclear>γε</unclear>
+
+    <lb n="7" break="no"/><supplied reason="lost">νόμενος</supplied> <choice><reg>ἐπεῖδον</reg><orig><unclear>ἐφῖδον</unclear></orig></choice> <unclear>τὸν</unclear> αὐτὸν Μ<supplied reason="lost">ο</supplied><unclear>υ</unclear>εῖν <choice><reg>κλινήρη</reg><orig>κλεινηρην</orig></choice> ὄντα ἔχοντα κατὰ μὲν τοῦ β<unclear>ρέγ</unclear>ματ<unclear>ο</unclear>ς <subst><add place="inline">διαίρεσιν</add><del rend="corrected">διαιρεσ<unclear>ι</unclear>ς</del></subst> μετὰ ψιλώσεως
+
+    <lb n="8"/><supplied reason="lost">τοῦ</supplied> <unclear>ὀστέο</unclear>υ καὶ κατὰ τῆς κορυφῆς τραύματα δύο <num value="2"/> με<unclear>τ</unclear>ὰ ψιλ<unclear>ώσεω</unclear>ς τοῦ ὀσ<supplied reason="lost">τέ</supplied>ου καὶ <unclear>κά</unclear><supplied reason="lost">τ</supplied><unclear>ωθ</unclear>εν τούτων τραύματα
+
+    <lb n="9"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ἐ</supplied>πὶ τοῦ δεξιοῦ μέρους τῆς κεφα<unclear>λῆς</unclear> καὶ κατὰ τοῦ ἀριστεροῦ κροτά<supplied reason="lost">φου </supplied><gap reason="lost" atLeast="5" atMost="6" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> οἰδήματος καὶ κατὰ τῶ<unclear>ν</unclear> <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" atLeast="0" atMost="2" unit="character"/>
+
+    <lb n="10"/><supplied reason="lost">τοῦ</supplied> <unclear>ἀ</unclear>ριστεροῦ ὠτί<supplied reason="lost">ου οἴ</supplied>δημα μετὰ π<unclear>ελιώμα</unclear>τος καὶ κατὰ τῆς δεξιᾶς ὠμο<supplied reason="lost">πλάτης κα</supplied><unclear>ὶ</unclear> τοῦ ὤμου οἴδημα μετὰ πελιώματος
+
+    <lb n="11"/><supplied reason="lost">καὶ κ</supplied>ατὰ τῆς δεξιᾶς <choice><reg>χειρὸς</reg><orig>χι<supplied reason="lost">ρὸ</supplied>ς</orig></choice> κατὰ τοῦ με<unclear>γίστου</unclear> δακτύλων πλῆγμα μετʼ <unclear>οἰδ</unclear><supplied reason="lost">ήματο</supplied><unclear>ς</unclear> καὶ κατὰ τοῦ <choice><reg>βραχίονος</reg><orig>βραχείωνος</orig></choice> τῆς δεξιᾶς
+
+    <lb n="12"/><choice><reg>χειρὸς</reg><orig>χιρὸς</orig></choice> οἴδημα μετ<supplied reason="lost">ὰ</supplied> <unclear>π</unclear>ελιώματος καὶ κατὰ τοῦ ἀριστεροῦ μηροῦ τρῶ<supplied reason="lost">σιν </supplied><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ως καὶ τοῦ γονατίου ἄνωθεν <subst><add place="inline">τρῶσιν</add><del rend="corrected">τρωσις</del></subst>
+
+    <lb n="13"/>καὶ <unclear>ἐ</unclear><supplied reason="lost">πὶ</supplied> <unclear>το</unclear>ῦ δεξιοῦ μ<unclear>ηρ</unclear>οῦ <choice><reg>τρώσεις</reg><orig>τρώσις</orig></choice> δύο <num value="2"/> <choice><reg>πέρας</reg><orig><subst><add place="inline">τερας</add><del rend="corrected">πέρας</del></subst></orig></choice> εἰς πέρα<unclear>ς</unclear> <supplied reason="lost">κ</supplied><unclear>αὶ</unclear> <unclear>κ</unclear>ατὰ <supplied reason="lost">πάσης τῆς</supplied> ἀριστερ<unclear>ᾶς</unclear> <unclear>πλευ</unclear>ρᾶς τρῶσιν· ὅθεν <choice><reg>προσφωνῶ</reg><orig>προσφονῶ</orig></choice>.
+
+    <lb n="14"/><expan><ex>ἔτους</ex></expan> <num value="10">ι</num> <supplied reason="lost">καὶ</supplied> <num value="8">η</num> τ<supplied reason="lost">ῶ</supplied><unclear>ν</unclear> κυρίων <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> ἡμῶν Κωνσταντίνου καὶ Λ<supplied reason="lost">ικινίο</supplied><unclear>υ</unclear> Σ<unclear>ε</unclear>βαστῶν, ἐπὶ ὑπατ<supplied reason="lost">ε</supplied><unclear>ί</unclear>ας
+
+    <lb n="15"/>Και<unclear>κινίου</unclear> Σαβ<unclear>εί</unclear><supplied reason="lost">νου</supplied> καὶ Οὐεττίου Ῥουφίνου τῶν λα<unclear>μπροτάτων</unclear> <unclear>Μεχ</unclear><supplied reason="lost">εὶρ <num value="27">κζ</num></supplied>.
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="16"/><handShift new="m2"/> <unclear>Αὐρήλιος</unclear> <supplied reason="lost">Σαρα</supplied><unclear>π</unclear>ίων <choice><reg>ἐπιδέδωκα</reg><orig>ἐπειδέδωκα</orig></choice> <unclear>προσ</unclear>φων<unclear>ῶν</unclear> ὡς πρόκειται.
+</ab></div></div>

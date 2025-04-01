@@ -1,0 +1,19 @@
+
+         <T=.de
+            <=
+               ((1)) … im fünfzehnten Jahr (nach dem Konsulat) des famosissimus Flavius Basilius, am zweiundzwanzigsten Thoth, 
+in der fünften Indiktion. An das dikaion der Kapelle der heiligen Südkirche von Hermupolis, 
+(vertreten) durch Dich, den Verwalter Basileides aus Hermupolis, von Aurelios Lulus, Sohn des Pkylios und der Mutter …, 
+aus derselben Stadt. ((6)) Ich anerkenne, … gepachtet zu haben von dem dikaion derselben (heiligen?) Kirche auf -jährige Dauer, 
+gerechnet von der Ernte der mit Gott kommenden sechsten Indiktion und ihr selbst, die derselben heiligen Kirche gehörenden xy. Aruren ohne Bewässerungsanlagen, 
+gelegen … im Wachdienstbereich derer aus dem Dorf … des hermopolitischen Gaues …
+(((15))) … zu Aussaat und Anbau der Früchte, welche immer ich möchte, 
+zu einem dafür festgesetzten Pachtzins jedes Jahr an Gerste xy Artaben und an Goldsolidi zwei abzüglich zwölf Keratien, welchen Pachtzins … derselben heiligen Kirche durch Dich,
+denselben Verwalter, folgendermaßen: ((20)) die Zinsgerste … neu, rein und gesiebt mit dem athenischen Maß im Monat Epeiph jedes Jahr, 
+und ich werde abliefern die Gerste beim Speicher derselben heiligen Kirche mit meinen eigenen Tieren, das Geld aber im Monat Phaophi jedes Jahr unverzüglich. 
+((25)) Der Pachtvertrag ist maßgeblich und festbleibend, und auf Befragen habe ich zugestimmt. Ich, der vorliegende Aurelios Lulus, Sohn des Pkylios, 
+habe gepachtet wie vorliegt. Ich, Aurelios Menas, Sohn des Basileios, aus Hermupolis, habe auf seine Bitte hin für ihn geschrieben, da er die Schrift nicht kennt.
+/*Translation: A. Jördens, P.Louvre 3 208*/
+            =>
+         =T>
+      

@@ -1,0 +1,77 @@
+<S=.la<D=.int<=
+
+    1. [(C(aius)) Antistius Nomissianus filiam suam] Zenarion uirginem e lege Iuliạ [quae de maritandis ordinibus(?)] 
+
+    2. [lata est liberorum procrea(?)]ṇdorum causa in matrimonio [eam collocauit, uxorem eam(?)] 
+
+    3. [duxit (M(arcus?)) Petronius Seruilliu]ṣ, eique dotis dixit et debit ea omnị[a quae (i(nfra?)) (s(cripta?)) (s(unt?)) pro eadem] 
+
+    4. [(s(upra?)) (s(cripta?)) ad uicum Philadelphiam p]aternas ad (|iuger|) *middot* (|du|) *middot* a et semis semis [catoecicas in loco Cor(?)][.3] 
+
+    5. [in eodem uicó paternas ammina(?)]ṣ tres et semis, partem dimidiaṃ [.7][ ampelitis et in] 
+
+    6. [aureis enotion perlongu(?)]ṃ (tetar(ta?)) dua et semis, cottatia [(tetar(ta?)) i et (s(emis?)) fiunt (tetar(ta?)) iiii] 
+
+    7. [argentea claria par i pondo stat(?)]ẹri vii et in ueste aestumata [tunica et (palliol(um?)) et pallium] 
+
+    8. [Scyrina (dr(achmas?)) (|Aug|) cdxxx e]t, para[fer(?)]na *dipunct* tunica et (palliol(um?)) [tribacum et heratianon(?)] 
+
+    9. [et epicarsium et  aeramenta Uenere(?)]m et cadium (dr(achmas?)) xxxxviii [et osyptrum et arca(?)][.4][s]
+
+    10. [lecythoe duae et cadium (alter(um?))] ṣtatmo mnae vii et (|q̣ụạ[dr]|)[ et arclam ligneam, cathedran,] 
+
+    11. [pyxidam, cophinum et seruam ]([p]aṭer(nam?)) Heraidam. [item et (M(arcus?)) Petronius Seruillius] 
+
+    12. [suamet ipse intulisse se dixit ad ui(?)]cum Phi[la(?)]delph[iam paterna (iug(er ?)) (|fr|) duas in loco ]
+12. lost.?lin(?)  
+=>=D><D=.ext<=
+
+    1. [(C(aius?)) Antistiu]ṣ Nomissianus filiam suam uirginem [Zenarion e lege(?)] 
+
+    2. [Iuli(?)]ạ quae de maritandis ordinibus lat[a est liberorum pro(?)]
+
+    3.- [creando(?)]rum causa in matrimonio eam collo[cauit, uxorem eam(?)]
+
+    4. [duxit(?)] (Ṃ(arcus?)) Petronịus Seruillius eique ḍ[otis dixit et dedit ea omnia(?)] 
+
+    5. [quae (i(nfra?)) (s(cripta?)) (s(unt?)) pro ead]ẹm (s(upra?)) (s(cripta?)) a uicu[m(?)] P̣hiladel[phiam paternas ab (|iuger|) dua] 
+
+    6. [et semis et quadr(?)]ạns catoecicas in locó Cor[.16] 
+
+    7. [.11][ in eo]ḍem uicó paternas amm[inas tres et semis, par(?)]
+
+    8.- [tem dimidiam (?)][.7][ a]ṃpelitis et iṇ [au(?)]ṛẹis enotion p[e(?)]rloṇ
+
+    9.- [gum (tetar(ta?)) dua et semis] cottatia (tetar(ta?)) una et seṃis, fiunt (te[ta]ṛ(ta?)) iiii, 
+
+    10. [arge(?)]ṇṭ[e(?)]ạ c̣ḷạṛịạ p̣ạṛ ụṇum pondo stateri vii et in uẹṣte aestumat[a(?)] tuni
+
+    11.- [ca e(?)]ṭ palliolum et pallium Scyrina (dr(achmarum?)) *middot* (Aug(ust ?)) cdxxx et heratianon et ẹp̣ị
+
+    12.- [car(?)]ṣium et aeramenta Uenerem et cadium (dr(achmarum?)) (Aug(ust ?)) xxxxviii et osyptrum et <:arcam(?)|reg|arca:> 
+
+    13. [.4]ṣ, <:lecythos duos(?)|reg|lecythoe duae:> et cadiụṃ (alter(um?)) statmó mnae *middot* ṿịị (quadr(ans?)) et arclam li
+
+    14.- [gnea(?)]m, <:cathedram(?)|reg|cathedran:>, <:pyxidem(?)|reg|pyxidam:>, cọphiṇum et seruam paternam Heraidan *middot* et 
+
+    15. [pa(?)]ṛaferṇa tunica et (palliol(um?)) tribacum. item et (M(arcus?)) P̣etronius Seruillius 
+
+    16. [sua(?)]ṃet ipse intulisse se dixi[t a(?)]d uic[um(Philadel(fiam))pa(?)]ṭerna (iug(er ?)) (fr(umentarias?)) duas in loc̣ó
+16. lost.?lin(?)  
+=>=D><D=.v<=
+
+    17. ~|[.29]
+
+    18. [Μ]άρκος Α̣[.13]γ̣οληνος 
+
+    19. ἐ̣σφράγι[σα ][.?]
+
+    20. <:Μάρκος Οὐ[αλέ]ρ[ιος Μοντα]νὸς=BL 12.122|ed|Μάρκος Οὐ[ά]ρ̣[ιος] [.5]νος:> ἐσφ[ράγι]κα  
+
+    21. Τίτος Φλάουιος Ἰουλια̣ν̣ὸς ἐσφράγ[ι]σ̣α 
+
+    22. Λο̣ύ̣κιος Οὐαλέ̣ριο̣ς <:<:Λ̣οικρητανὰς|alt|Λουκρητ<ι>ανὸς:>=BL 12.122|ed|Λ̣οικρητανὰς:> ἐσφρά[γισα] 
+
+    23. Π̣ούπ̣λιος Μ̣[.7]θ̣ινὸς ἐσφ<ρ>άγισα|~grc 
+
+    24. [.?] sịg̣navi=>=D>

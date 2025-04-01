@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              To Anubion, strategus of the Oxyrhynchite nome. I, Ptollas son of Ision and Stephanous, of the city of Oxyrhynchus, having been presented along with others by the amphodogrammateus of the same cily now in office for the collection of corn-receipts at the metropolis from the produce of the current 20th year in the district of Pakerke in the eastern toparchy, do swear by the fortune of the lord Emperor Marcus Aurelius Severus Antoninus Pius Augustus that I will take up at the proper time the said office and will discharge it, appearing whenever I may be required and presenting myself at the regular monthly statements, so as to incur blame in no respect... /*Endorsement on the verso.*/
+            =>
+         =T>
+      

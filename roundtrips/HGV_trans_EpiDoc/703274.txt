@@ -1,0 +1,23 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) In the 15th year of Caesar, on Hathyr ..., he has paid for the syntaxis of Theadelphia: Harthotes 4 silver dr. through N.N.,
+(((5))) on Choiak 15, four dr.,
+(((6))) on Tybi 19, four dr. = 4 dr.,
+(((7))) on Mecheir 24, four drachmas = 4 dr.,
+(((8))) on Phamenoth 26, four dr. = 4 dr.,
+(((9))) on Pachon 10, (for) Pharmouthi, dr. 4, on Pachon … Harthotes has paid for the syntaxis four dr. = 4 dr.,
+((12)) on Pauni 14, four dr. = 4 dr.,
+(((14))) on Epeiph …, four dr. = 4 dr.,
+(((15))) on Mesore …, four dr. = 4 dr,
+ …
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((17)) obsure notation
+               =>
+            =D>
+         =T>
+      

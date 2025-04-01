@@ -1,0 +1,45 @@
+<S=.la
+<D=.i.column<=
+    1. [.?].1
+
+    2. [.?] <:<:(Nicae(nus))|reg|(Nice(nus)):>|alt|<:(Nicae(a))|reg|(Nice(a)):>:>
+
+    3. [accepit <:(stip(endi))|alt|(stip(endium)):>] [.?] ([d]ṛ(achmas)) <#CCXLVII=247#> (s(emis))
+
+    4. [ex eis]
+
+    5. [.?]<#.1V=#> <:(a(sses))=PN R. Ast (from photo)|ed|((obolos)):> <#IV=4#>
+
+    6. [.?]<#.2X̣II=#>
+
+    6. lost.?lin
+=>=D>
+<D=.ii.column<=
+    1. (L(ucius)) Clodi[us] 
+
+    2. accepit [<:(stip(endi))|alt|(stip(endium)):>] [.?] [(dr(achmas)) <#CCXLVII=247#> (s(emis))]
+
+    3. [ex eis]
+
+    4. in v[ictum] [.?] [<#V=5#> <:(a(sses))=PN R. Ast|ed|((obolos)):> <#IV=4#>]
+
+    5. faena[ria] [.?] [<#XII=12#>]
+
+    6. calig[as fascias] [.?]
+
+    7. saturṇ[alicium (k(astrense))] [.?]
+
+    8. in le.1[.?]
+
+    9. tuni[ca] [.?]
+
+    9. [.?]
+
+    10. [.?].3[.?]
+
+    11. [.?].1[.2] p̣o.1[.?]
+
+    12. [e]t hab[uit ex (pri(ore))] [.?]
+
+    12. lost.?lin
+=>=D>

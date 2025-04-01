@@ -1,0 +1,22 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1))[---] seinem Bruder Herakleides Gruß und Glück bei guter Gesundheit. Telephanes, der [Dir] den Brief [übergeben hat], ist uns brüderlich [verbunden]. Seine Frau,---, deren Personenbeschreibung unten angefügt ist, ist Erbin von Gütern ihres Vaters und ihres Großvaters. Fortwährend bedrängte
+er mich nun, mit ihm zu gehen - - -. ((8)) Da [ich] ihn aber in Hinblick auf (seine) Bemühung darum, dass das Gut nicht aufgegeben werde, abgewimmelt und ihn vertröstet habe, dass auch das Brieflein denselben Zweck erfüllen werde, wirst Du [mir] eine große Freude bereiten, wenn Du seine Angelegenheit durchführst und Dich darum so kümmerst, als ob auch ich anwesend wäre, damit er, wenn er zurückkommt, von dem Eifer, den Du unseretwegen entfaltet hast, berichten kann, und Du wirst mir eine große Freude bereiten, wenn Du Dich um Dich selbst kümmerst, damit Du gesund bleibst. Lebewohl! 
+[ NN, Tochter des ---], Makedonin, etwa 20 Jahre alt, mittelgroß, [---] von weißer Gesichtsfarbe, mit rundem Gesicht, etwas stupsnäsig [---] [Wenn Du von] Herakleides, dem Sohn des Lagos (?),die bronzenen [---
+empfangen hast, [- - -]. /*Translation: K. Maresch*/
+               =>
+            =D>
+            <D=.v,ctr 
+               <=
+                  ((20)) An Herakleides
+               =>
+            =D>
+            <D=.v,ms 
+               <=
+                  ((23)) Über [die Erbschaft...(?)]
+               =>
+            =D>
+         =T>
+      

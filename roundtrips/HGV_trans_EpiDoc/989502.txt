@@ -1,0 +1,8 @@
+
+         <T=.de
+            <=
+               ((1))  Duftendes Öl (salka) ... mit Moschus aromatisiertes Öl ... Duftendes Öl (myron) ... Postbote (?) ... Puder ... Scheren ...
+/*Translation: H. Essler, P.Würzb. 2 54*/
+            =>
+         =T>
+      

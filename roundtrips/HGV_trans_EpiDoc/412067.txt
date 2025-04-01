@@ -1,0 +1,21 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Philotas [...] he should hurry himself. 
+                         Apollonios to his brother Isidotos,
+                         greetings and may you be in good health.
+                         I am also healthy. At the ninth hour
+                         it reached our ears [...]
+                         somebody was dragged towards
+                         [...]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((8)) To Isidotos
+                         /*Translation: M. Barbiero (via PN)*/ 
+               =>
+            =D>
+         =T>
+      

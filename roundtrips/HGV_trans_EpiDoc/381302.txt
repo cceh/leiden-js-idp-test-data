@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Year 31, Choiak 13. The memorandum given to Phileas by Kleon in Krokodilon Polis. (((4))) To Phileas. I happen to [be ...] physically unwell, and I can not conduct any of the [works]. ((8)) Could you please order [...] to go to [...].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((12)) Year 3[1 ...].
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 128, © Peeters*/
+               =>
+            =D>
+         =T>
+      

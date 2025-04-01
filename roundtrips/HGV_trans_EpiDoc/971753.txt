@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    I, Gaius, checked … of Publius Aelius Nikaios … 7, loads 3 … freight … .
+                =>
+            =T>
+        

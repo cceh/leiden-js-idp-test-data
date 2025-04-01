@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              Account of articles at order of Eugenetor in a double sack :— 1 double basket of nuts, 5 other small ones, 1 wicker crate, 1 sheepskin, 1 scraper, 8 pairs of men’s..., 6 pairs of women’s ditto, 2 donkey straps (?), 1 horse's ditto, 1 three-flagon jar, 1 bag(?) of ..., 2 hold-alls containing 3 half-sets of glass, 4 ... cups and 1 ..., 4 plates, 2 bowls, 1 saucer.
+            =>
+         =T>
+      

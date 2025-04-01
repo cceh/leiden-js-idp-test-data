@@ -1,0 +1,22 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 3. 
+            <term target="cleruchy">Kleruchie</term>. Pageis, Sohn des Pe[.]mgis, für 
+            3 1/4 1/16 <term target="aroura">Aruren</term> <app type="BGU_DDbDP"><lem><term target="basilikege">Königsland
+                </term></lem></app> <app type="BGU_DDbDP"><lem resp="Nach CALDERINI - Diz. V, S. 81 f.">des 
+                    Philodamianischen (Landguts) </lem></app> 
+            bei Karanis, <milestone unit="line" n="4" rend="break"/>für 2 1/4 1/16 <term target="aroura">Aruren</term> 
+            <term target="basilikege">Königsland</term>.
+            <milestone unit="line" n="5" rend="break"/>(2. Hand) 4 2/3
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>From the seed reserves of year 22 of Antoninus Caesar, the lord. 3rd 
+            <term target="cleruchy">cleruchy</term>. Papeis, son of Pe[.]mgeus. At Karanis 
+            3 1/4 1/16 <term target="aroura">arouras</term> of 
+            <app type="BGU_DDbDP"><lem><term target="basilikege">royal (land)</term></lem></app> on 
+            the <app type="BGU_DDbDP"><lem resp="According to Calderini, Diz. V p. 81f.">Philodamian (estate)</lem></app>,
+            <milestone unit="line" n="4" rend="break"/>2 1/4 1/16 <term target="aroura">arouras</term> of 
+            <term target="basilikege">royal (land)</term>.
+            <milestone unit="line" n="5" rend="break"/>(m. 2) 4 2/3
+        </p></div>
+      </body>

@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>             <expan><ex>δραχμαὶ</ex></expan> <num value="400">υ</num> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>             <expan><ex>δραχμαὶ</ex></expan> <num value="400">υ</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <expan>Ἰσιδώ<ex>ρου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="640">χμ</num> 
+
+    <lb n="4"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>               <expan><ex>δραχμαὶ</ex></expan> <num value="300">τ</num> 
+
+    <lb n="5"/><abbr><gap reason="lost" quantity="6" unit="character"/>οσι</abbr>         <expan><ex>δραχμαὶ</ex></expan> <num value="1080">Απ</num> 
+
+    <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> Τι</supplied><unclear>βε</unclear>ρίνου     <expan><ex>δραχμαὶ</ex></expan> <num value="1000"><unclear>Α</unclear></num> </ab></div>

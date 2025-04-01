@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ‘… Clearchus, supercargo and guard, which we discharged at the Serapeum in Rhacotis.
+‘Berenice’s barge, carrying capacity 200, Heraclides master on board; lighter of Dositheus and Dionysius, carrying capacity 200, Achilleus pilot on board. Discharge at the garden of Simaristos.’
+            =>
+         =T>
+      

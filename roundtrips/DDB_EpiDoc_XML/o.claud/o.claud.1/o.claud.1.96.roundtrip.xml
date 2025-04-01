@@ -1,0 +1,24 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <num value="22">κβ</num> <choice><reg><expan>ἄρ<supplied reason="omitted">ρ</supplied>ω<ex>στοι</ex></expan></reg><orig>ἀρω</orig></choice> 
+
+    <lb n="2"/><supplied reason="lost">Οὐαλέ</supplied>ρις <expan>Σεκοῦντ<ex>ος</ex></expan>        <num value="22">κβ</num> 
+
+    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/><unclear>ς</unclear> 
+
+    <lb n="4"/><supplied reason="lost">Ὧρος</supplied> <choice><reg>Βουκόλου</reg><orig>Βουκώλου</orig></choice> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><gap reason="lost" quantity="4" unit="character"/>ων                     <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><unclear>ς</unclear>                      <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><supplied reason="lost">Πρία</supplied>μος                  <milestone rend="paragraphos" unit="undefined"/> <note xml:lang="en">?</note><gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="8"/><supplied reason="lost">Ταρκ</supplied>υς                      <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><supplied reason="lost">Μᾶρκ</supplied>ος Τριβάτις           ρ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><supplied reason="lost">Τριβάτις</supplied> <choice><reg>Πύρ<supplied reason="omitted">ρ</supplied>ος</reg><orig>Πύρος</orig></choice>  <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/><supplied reason="lost">Κουίντο</supplied>ς Τρι<supplied reason="lost">βάτις </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

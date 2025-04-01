@@ -1,0 +1,100 @@
+<S=.la
+<D=.9b.tablet<=
+    1. [anno       (d(omi)ni) regis Gunthamundi sub die ][.?] 
+
+    2. [vendentibus Vigilianus et Aegyptia iugalis eius necnon] 
+
+    3. [etiam Secundianus Germanus eius et subscripturis coram] 
+
+    4. [subscribentibus particellas agrorum in diversis lo] 
+
+    5.- [cis cum] <:vocabulis|reg|bocabulis:> suis id est primo in loco Siciliones de Susa
+
+    6.- [nu] ṃassa in quo sunt (arb(ores)) <:olive|reg|olibe:> plus minus duodeciṃ inter ad
+
+    7.- fines eiusdem agri a Marino Ianuarius a Coro Fortunatianus Saṭ
+
+    8.- [ur]ṇ[i] ab Africo <:Venenatus|reg|benenatus:> a meridiano <:novos|reg|nobos:> termines fixos 
+
+    9. item alio in loco in Siciliones in Gunfliones gemiones duos 
+
+    10. in quo sunt in uno (arb(ores)) <:olive|reg|olibe:> sex inter adfines eiusdem agṛị 
+
+    11. ab Africo (s(u)p(ra)s(cripto)s) termines a Coro <:Victorinus|reg|bictorinus:> a Marino ẹṭ 
+=>=D>
+<D=.10a.tablet<=
+    12. ạḅ orịẹṇṭẹ <:latericiis|reg|ḷạṭẹṛẹṭịs:> aquaris <:vergentibusque|reg|bergentibusque:> suis item ạ[lio] 
+
+    13. [in l]ọc̣ọ lọc̣ụs ạḅẹṇṭẹ <:olive|reg|olibe:> arbores duạṣ cum omnibus eius pẹṛtiṇ[en]t[i]
+
+    14.- [bus] ạ Ṃạṛịno <:Victorinus|reg|ḅịc̣ṭorinus:> ab ọṛiẹṇṭẹ Fortu[na]tianus ab Africo <:[la]15.- [tericiis]|reg|[la]15.- [tereti]s:> aquaris <:vergentibusque|reg|bergentibusque:> suis item in alio loco in 
+
+    16. Ṣịc̣[iliones] de Susanu inter adfines eiusdem agri a meridi[ano] 
+
+    17. [.25] ạḅ ọc̣c̣ịḍẹṇṭẹ eṭ ab Africo ḍọṇạtuṣ 
+
+    18. [.12][ sive quibus adfinibus cum quibus eos] <:[sol]19.- [visse]|reg|[sol]19.- [vensisse]:> <:[monstraverunt]|reg|[monstrarunt]:> [venditores ex hereditate paren] 
+
+    20.-  [tum cum transitis suis haec omnia superius comprehensa] 
+
+    21. [hac die emit ][.?][ a (s(upra)s(cri)ptis) venditoribus (f(ol)l(es))] 
+
+    22. [pecuniae numero trecentos sex et triginta quos (f(ol)l(es))] 
+=>=D>
+<D=.10b.tablet<=
+    23. [trecentos sex et triginta cuius rei ]<:[suprascriptae]|reg|[sspscriptae]:> 
+
+    24. [acceperunt memorati venditores et secum sustulerunt] 
+
+    25. [coramque signatoribus nihil] <:quaesiverunt|reg|[quesivi]:> [sibi ex eodem pretio rei] 
+
+    26. <:[suprascriptae]|reg|[sspscriptae]:> [quiquam amplius deberi sibi respondiderunt] 
+
+    27. [a pridie quam venderent (h(abuerunt)) (t(enuerunt)) (p(ossederunt)) iuris eorum omnia fuerunt et] 
+
+    28. [ex hac die in nomine ]<:[emptorum]|reg|[emtorum]:> [suorum transtulerunt ut hab] 
+
+    29.- eat possideat utatur fruatur ipsi <:heredesve|reg|eredesbe:> eor
+
+    30.- um in <:perpetuum|reg|perpetum:> ẹṭ ṣị quis de memoratam rem cum 
+
+    31. omni iure ad se pertinenti de quo agitur mentionem 
+
+    32. <:quaestionem|reg|questionem:> facere voluerit suique iuri <:probaverit|reg|probaberit:> 
+
+    33. <:dum|reg|du:> <:evinci|reg|ebinci:> <:coeperit|reg|queperit:> <:tunc|reg|thunc:> dabit tantum pretium et 
+=>=D>
+<D=.11a.tablet<=
+    34. [alterum tan]tum vel quanti ea res eo tempore <:value35.- [rit]|reg|balue35.- [rit]:> [pro] <:victe|reg|bicte:> rei recte dari sine dolo malo dolus 
+
+    36. [malus a]best aberit afuturumque erit istipulatus 
+
+    37. [est] <:emptor|reg|emtor:> <:spopondiderunt|reg|respopondiderunt:> Vigilianus et Egip
+
+    38.- [tia iug]alis eius simulque et Secundianus Germanu[s] 
+
+    39. [eius v]enditores actum Tuletianos anno et die <:suprascriptis|reg|issp:> eg[o] 
+
+    40. [Lucia]nus magister petitus a Ṿịg̣ịḷịạṇụṣ et iugalis ẹị[us] 
+
+    41. [vendito]res qui litteras nescint signum <:suum|reg|sum:> f[a]
+
+    42.- [ciente] quam pro se quam pro iugalis <:sua|reg|sue:> sicuti <:su43.- [pr]ascriptum|reg|su43.- [pr]asṣ:> <:vendidit|reg|bendidit:> omnem pretium accep[it et subscripsi] 
+=>=D>
+<D=.11b.tablet<=
+    44. signum X <:Vigiliani|reg|bigiliani:> ego Donatus pe[titu]
+
+    45.- s a Secundianus Germanus eius eo [quod] <:[l]46.- itteras|reg|[l]46.- ite:> nescịṭ <:subter|reg|supter:> signum fac[ient]
+
+    47.- es signum X <:Secundianus|reg|secundanus:> G̣ẹṛmanus ei
+
+    48.- us ego Fidentius ạḍ ḥunc istrumentu inter[fui] 
+
+    49. et signavi ego Ṛẹṣṭị[tutu]ṣ petitus a <:Victor|reg|ḅịc̣ṭor:> eo qu[od lit] 
+
+    50.- teras nescit ad hunc <:instrumentum|reg|strumentum:> interfui et sig[num] 
+
+    51. faciente X signavi ego <:Quoduultdeus|reg|q̣ụọdḅụḷḍẹus:> ad hunc 
+
+    52. <:instrumentum|reg|strumentum:> interfui ego Lucianus magister <:scrip53.- si|reg|scriḅ53.- ṣị:> eṭ <:subscripsi|reg|ṣụḅṣc̣ṛịḅsi:> 
+=>=D>

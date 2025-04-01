@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><num value="120">ρκ</num> <expan><ex>ὧν</ex></expan>
+
+    <lb n="2"/><expan>ἀπην<ex>έχθησαν</ex></expan> <num value="40">μ</num> <expan><ex>τριώβολον</ex></expan>
+
+    <lb n="3"/><expan>ἀνηλώ<ex>θησαν</ex></expan> <num value="42">μβ</num> <expan><ex>τέταρτον</ex></expan>
+
+    <lb n="4"/><expan><ex>γίνονται</ex></expan> <num value="82">πβ</num> <expan><ex>τριώβολον</ex></expan> <expan><ex>τέταρτον</ex></expan>
+
+    <lb n="5"/><expan><ex>λοιπαὶ</ex></expan> <num value="37">λζ</num> <expan><ex>δυόβολος</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <expan><ex>τέταρτον</ex></expan> <expan><ex>ὧν</ex></expan>
+
+    <lb n="6"/><expan>ὀψών<ex>ιον</ex></expan> <add place="above">τοῦ Θωὺθ</add> <num value="15">ιε</num> καὶ <expan>Φα<ex>ῶφι</ex></expan> <num value="15">ιε</num> <expan><ex>γίνονται</ex></expan> <num value="30">λ</num>
+
+    <lb n="7"/><del rend="erasure"><expan><ex>λοιπαὶ</ex></expan> <num value="22">κβ</num> <expan><ex>δυόβολος</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <expan><ex>τέταρτον</ex></expan> <expan><ex>ὧν</ex></expan></del>
+
+    <lb n="8"/><del rend="erasure">Ἁθὺρ <num value="10">ι</num> <expan><ex>ὧν</ex></expan></del> <del rend="erasure"><expan><ex>λοιπαὶ</ex></expan> <num value="7">ζ</num> <expan><ex>ἥμισυ</ex></expan></del>
+
+    <lb n="9"/><expan><ex>λοιπαὶ</ex></expan> <num value="7">ζ</num> <expan><ex>δυόβολος</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <expan><ex>τέταρτον</ex></expan>
+
+    <lb n="9a"/><del rend="erasure"><num value="3">γ</num> <expan><ex>ἥμισυ</ex></expan> <expan><ex>δυόβολος</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan></del>
+
+    <lb n="10"/>κείμεναι <expan><ex cert="low">δραχμαὶ</ex></expan> <num value="5">ε</num>
+
+    <lb n="10a"/><del rend="erasure"><expan><ex>γίνονται</ex></expan> <num value="11">ια</num> <expan><ex>ἥμισυ</ex></expan> <expan><ex>δυόβολος</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan></del>
+
+    <lb n="11"/><del rend="erasure">καὶ</del> <expan><ex>γίνονται</ex></expan> <num value="12">ιβ</num> <expan><ex>δυόβολος</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <supplied reason="omitted"><expan><ex>τέταρτον</ex></expan></supplied></ab></div>

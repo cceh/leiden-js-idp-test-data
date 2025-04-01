@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb n="1"/><choice><reg>πρόκειται</reg><orig>πρόκιται</orig></choice>. Αὐ<unclear>ρ</unclear><supplied reason="lost">ήλ</supplied><unclear>ι</unclear>ο<unclear>ς</unclear> Ἀπασίων Ὡρι<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb n="2"/><choice><reg>ἀξιωθείς</reg><orig>ἀξιωθὶ<unclear>ς</unclear></orig></choice> <unclear>ἔγρ</unclear>αψα ὑπὲρ αὐτοῦ ἀγραμ<supplied reason="lost">μάτου</supplied> <supplied reason="lost">ὄντος.</supplied>
+
+<lb n="3"/><handShift new="m2"/> διʼ ἐμ<supplied reason="lost">οῦ Π</supplied>λουτίωνο<unclear>ς</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+ </ab></div>
+<div n="v" type="textpart"><ab>
+<lb n="4"/><supplied reason="lost"><handShift new="m3"/> </supplied><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>χρυ<ex>σοῦ</ex></expan> <expan>νο<ex>μίσματα</ex></expan> <num value="6">ϛ</num> <num value="1/2">𐅵</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+      </div>

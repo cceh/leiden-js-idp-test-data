@@ -1,0 +1,12 @@
+<S=.grc
+<=
+1. lost.?lin
+1. ~|بسم الـله vac.? [الرحمن الرحيم]|~ar 
+2. [*long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* οὐκ ἔστι (Θ(εὸ)ς)] ε̣ἰ̣ μ̣ὴ̣ ὁ̣ (Θ(εὸ)ς̣) μ̣όν̣ος *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* 
+3. [Μααμετ ἀπό]σ̣τ̣ο̣λ̣ος Θεοῦ
+4. ~|لا اله الا الـله وحده vac.?[محمد رسول الـله]|~ar   
+5. [*long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* Αβδε]λ̣α̣ζιζ υἱὸς *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* *long-vertical-bar* 
+6. [Μαρουαν] σ̣[ύ]μ̣β̣ο̣υ̣λ̣ο̣ς
+6. lost.?lin
+=>
+      

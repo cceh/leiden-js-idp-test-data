@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               (Translation: P. L. Bat. 19.34)
+(((1)))Herais, she lived 7 years.
+            =>
+         =T>
+      

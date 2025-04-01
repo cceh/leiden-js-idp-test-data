@@ -1,0 +1,15 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><space extent="unknown" unit="character"/>  <gap reason="illegible" quantity="2" unit="character"/> <num value="8">viii</num> 
+
+    <lb n="3"/><abbr><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>h</unclear><gap reason="illegible" quantity="1" unit="character"/></abbr> <num value="127">cx<unclear>x</unclear>vii</num> <expan>s<ex cert="low">emis</ex></expan> 
+
+    <lb n="4"/><abbr><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></abbr> <num value="7">vii</num> <expan>s<ex cert="low">emis</ex></expan> 
+
+    <lb n="5"/><abbr><gap reason="lost" extent="unknown" unit="character"/><unclear>ctr</unclear></abbr> <num value="111">cxi</num>
+</ab>
+      </div>

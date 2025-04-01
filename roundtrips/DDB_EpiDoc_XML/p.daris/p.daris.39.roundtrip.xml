@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><g type="stauros"/>
+
+    <lb n="2"/><choice><reg><supplied reason="lost">π</supplied>αρέσχεν</reg><orig><supplied reason="lost">π</supplied>αράσχεν</orig></choice> Φοιβάμμων
+
+    <lb n="3"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ω</unclear>θ<gap reason="lost" quantity="1" unit="character"/> ὑπὲρ μηνὸς <num value="1">πρώτης</num>
+
+    <lb n="4"/>καὶ<num value="2">δευτέρας</num> ἑξαμήνο<unclear>υ</unclear>
+
+    <lb n="5"/><num value="10">δεκάτη<supplied reason="lost">ς</supplied></num> <expan><hi rend="diaeresis">ἰ</hi>νδικ<ex>τίονος</ex></expan> τὰ <choice><reg>αἱροῦν
+
+    <lb n="6" break="no"/>τά</reg><orig>ἑροῦν<lb n="6" break="no"/>τά</orig></choice> σοι π<supplied reason="lost">λ</supplied>ήρης.
+
+    <lb n="7" rend="indent"/>Θέων
+
+    <lb n="8"/>συ<unclear>σ</unclear>τ<supplied reason="lost">ά</supplied>τ<supplied reason="lost">ης</supplied> <choice><reg><expan>σεσημείωμ<ex>αι</ex></expan></reg><orig><expan>σεσημίομ<ex>αι</ex></expan></orig></choice>
+
+    <lb n="9" rend="indent"/><gap reason="lost" quantity="1" unit="character"/> Φ<supplied reason="lost">αῶ</supplied>φι
+</ab></div>

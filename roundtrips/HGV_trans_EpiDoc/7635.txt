@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) [...] the sluice gates in Montila are closed and the canal [...] I have shut [...] near
+                      Boukolon Kome [... Know that] the dykes and the bridges cannot [...] to deliberate whether it
+                      is necessary to close one sluice gate in Ptolemais. ((5)) Farewell. Year 29, Epeiph 5.
+                      /*Translation: B. van Beek, P.Petr. Kleon 18*/
+            =>
+         =T>
+      

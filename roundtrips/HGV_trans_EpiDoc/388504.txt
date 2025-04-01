@@ -1,0 +1,9 @@
+
+            <T=.en
+            <=
+               ((1))  [...] wood  [...] you have given order  [...] to send us the money and ropes and he does not send it. 
+               ((5)) Please give order to deliver to us, so that we may distribute to the  [...].
+               /*Translation: B. Van Beek in P.Petr.Kleon, p. 242, © Peeters*/
+            =>
+         =T>
+        

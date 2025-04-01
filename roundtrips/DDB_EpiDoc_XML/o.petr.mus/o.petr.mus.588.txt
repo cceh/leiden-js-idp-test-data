@@ -1,0 +1,52 @@
+<S=.grc
+<D=.i.column<=
+1. *stauros* (δ(ιὰ)) Γεωργίου .4
+
+2. *middot* <:(Ἠλία(ς)) Καλ.4=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Ἠλίου Ψαλ.5:>
+
+3. *middot* Μηνᾶ <:Ἰσάκ=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|.1ου η*slanting-stroke*:> <#α=1#>*slanting-stroke*
+
+4. *middot* .2ε̣.2 *middot* Ἀπολλωvestig 
+
+5. *middot* Σ̣ο̣λομὼ̣ν̣ (ο̣ρ̣ε̣( )) <#α=1#>*slanting-stroke*
+
+6. .2λη.1κη̣.1ο̣μου .2
+
+7. Βασιλείου <:(Ἰερε(μίου)) <#β=2#>=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|(Ἰερα̣κ̣(ίωνος?)) <#β=2#>*slanting-stroke*:> 
+
+8. Μ̣αθ̣ία *slanting-stroke* (Σενουθ(ίου)) <#α=1#>*slanting-stroke*
+
+9. 〚.1lin〛
+
+10. <:Πισατε (Φιλοθέ(ου))=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Ἀπίω̣ν̣ (Φιλοθ(έου?)):> <#β=2#>*slanting-stroke*
+
+11.  <:*middot* Ζαήλ=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|<:(Ἀ̣ζαρ(ίου?))|reg|(Ἀ̣ζαλ(ίου?)):>:> Σ̣ε̣ο̣υ̣ήρου
+
+12. *middot* Ὁνορίου Φηυ̣ <#β=2#>*slanting-stroke*
+
+13. *middot* Ἰωσὴφ Παπᾶ <#α=1#>*slanting-stroke*
+
+14. *middot* <:(Βίκτ(ωρ)) (Πατερμου(θίου))=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|(Ἀρκ̣α̣δ̣(ίου?)) (Π̣α̣σ̣ερρ̣ί̣(ου)):> <#α=1#>*slanting-stroke*
+
+15. vestig.1lin
+=>=D><D=.ii.column<=
+1. Σαμουὴλ (Ἰωσ(ήφ)) <#α=1#>*slanting-stroke*
+
+2. *middot* <:(Ἀβρ(αὰμ)) (Δεμε(τρίου))=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Ἀβραείμου:> <#α=1#>*slanting-stroke*
+
+3. *middot*  (Γερμα(νοῦ)) <:(Παύ̣λ̣(ου))=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Πα.3:> <#β=2#>*slanting-stroke*
+
+4. (Στεφ(άνου)) <:(Πεσ̣υ̣νθ(ίου))=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|(Παθ.3θ( )):> .3
+
+5. (Ἀθαν(ασίου)) <:(Κο̣λλ[ούθ(ου?)])=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Κα̣λλvestig:>
+
+6.  <:(Μάρκ(ος)) Α.3=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Μαρκια̣νοῦ:> .?
+
+7. Μο̣.8
+
+8. <:Κατσουτσι=A. Delattre, J.-L. Fournet, APF 59 (2013) 171.|ed|Και̣σου.3:> .2
+
+9. Ν̣ωε Ἰερημίου <#α=1#>*slanting-stroke*
+
+=>=D>
+      

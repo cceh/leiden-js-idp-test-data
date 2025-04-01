@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><num value="2">β</num>
+
+    <lb n="2"/>Ψεντεμψῶς <expan>Πάσιο<ex>ς</ex></expan>
+
+    <lb n="3"/>Ψάις <choice><reg><expan>νεώτ<ex>ερος</ex></expan></reg><orig><expan>νεότ<ex>ερος</ex></expan></orig></choice> Ψάιτος
+
+    <lb n="4"/>Παπενᾶς <app type="alternative"><lem><expan>Πα<unclear>θ</unclear>ερμο<ex>ύθιος</ex></expan></lem><rdg><expan>Πα<unclear>π</unclear>ερμο<ex>ύθιος</ex></expan></rdg></app>
+
+    <lb n="5"/><subst><add place="inline">Σανσνῶς</add><del rend="corrected">παπνσνως</del></subst> <subst><add place="inline"><abbr>Παπερμο</abbr></add><del rend="corrected">παπενα</del></subst>
+
+    <lb n="6"/><del rend="erasure"><gap reason="illegible" quantity="10" unit="character"/></del>
+
+    <lb n="7"/><supplied reason="lost">Ἁ</supplied>τρῆς Σα<unclear>ν</unclear><gap reason="lost" extent="unknown" unit="character"/></ab></div>

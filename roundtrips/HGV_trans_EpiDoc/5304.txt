@@ -1,0 +1,16 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘In the reign of Ptolemy and Cleopatra, also called Tryphaena, the sister, gods Philopatores and Philadelphi, the 4th year, the priest of Alexander being so and so and the rest of the formula as written at Alexandria, 8th of the month Dius = 8th Thoth. Sochotes son of Sesnosis, Arsinoite, acknowledges to Sosibius also called Psellus and Ptolemy also called Petesouchos, the two sons of Protarchus also called Harmais, Macedonians, but according to the terminology of their agreement, Persians of the Epigonê, that he has received from them, both on their own behalf and on behalf of their brother Protarchus also called Harmaiis, son of Protarchus, in bronze currency eight talents 2,500 drachmae and the interest, being the loan which Sochotes made to the aforementioned according to the contract of loan registered at the same record office on 5th Mecheir of the 33rd year in which they were entered as mutually responsible for this loan; and neither Sochotes himself nor any other acting for him shall take proceedings against the aforementioned … either about the loan herein described which has determined and Sochotes has received back, or any matter set down in this contract … or any other debt or matter written or unwritten in the past up to the present day. If he takes proceedings, the proceedings and the accusation made by Sochotes himself or by any other on his behalf concerning any of these subjects shall be completely invalid, and in addition Sochotes shall pay to the aforesaid or to anyone of them against whom he proceeds an immediate fine of 500 drachmae of coined silver and the damage. This contract is valid everywhere. Drawn up through Ptolemy son of Marres.
+‘I, Heraclides have transacted the business, Year 4, Thoth 8.
+‘I, Sochotes, son of Sesnos, Arsinoite, agree that I have received back the loan of the 8 talents and the 2,500 drachmae of copper and the interest; and I will take no proceedings as is set down; and I have registered the contract at the record office of the borrowers. Ptolemy son of Ptolemy wrote for him at his request since he asserted that he was illiterate.’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((44)) (Verso, endorsement) ? date, then ‘Agreement of Sochotes with Sosibius and Ptolemy’.
+               =>
+            =D>
+         =T>
+      

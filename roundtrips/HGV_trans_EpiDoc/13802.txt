@@ -1,0 +1,15 @@
+
+         <T=.it
+            <D=.msup 
+               <=
+                 [Translation from Montevecchi, Contratti 1950] Io Harmiusis figlio di Petesuchos persiano della discendenza, dichiaro di impegnare me stesso per due anni dal momento suddetto per lavovare e fare tutto cio’ che mi sara’ comandato e tesserae dovunque vorra’ il soprascritto Heron figlio di Haruotes, giorno per giorno; in cambio della quale prestazione lo stesso Heron paghera’ per me per il tempo suddetto parimenti la tassa che a me spetta del Villaggio di Tabtynis per la capitazione e quella per la tessitura, e l’importo dell’epitritone di quella per i lavori delle dighe, e la tassa per i bagni e quella per l’acqua potabile, e, come mercede in natura per il medesimo period suddetto, 1 artaba di grano al mese, di 40 choenices (1) di Tebtynis, e per il vestiario e l’olio 28 dramme d’argento all’anno; non rimanendo io assente di giorno dall’abitazione di Heron, ma accompagnandolo in ogni luogo secondo l’usanza; ma per ogni giorno nel quale io non rimanga presso di lui, io paghero’ a Heron due dramme d’argento e faro’ ogni cosa come sta scritto.
+	Ha scritto per lui Sarapione figlio di Tolemeo, perche’ egli e’analfabeta. (Io), Heron figlio di Aruotes, (dichiaro che) il contratto e’ stato concluso da me cosi’ come sta scritto. 
+               =>
+            =D>
+            <D=.ctr 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,34 @@
+
+         <T=.de<=
+            ((1))[Im] 5. [Jahr] des Lucius Septimius [Severu]s Pius [Pertin]ax Augustus [...]. 
+            ((4))Wir, Lyncheus, Sohn des Lyka[riôn] und (seine) Genossen, 
+            <Sitologen=sitologos> des Dorfes Apias, haben zugemessen bekommen vom 
+            <:Ertrag|BGU_DDbDP:Vgl. Sijpesteijn, ZPE 100, 1994, S. 267-268|:> desselben Jahres 
+            ((8))auf Stotoêtis, Sohn des Stotoêreus, durch Kephalon für die 
+            <(Abgabe der) ~|katoikoi|~la ~la=katoikon> von Apias an Weizen, 
+            (gemessen) <mit dem gestrichenen staatlichen Maß=metrodemosioxesto> 
+            <epaiton=epaiton> fünfzehn 
+            <Artaben=artaba>, das sind 15 
+            <Artaben=artaba> Weizen.
+            (((15)))Ich, [P]ôliôn, <im Losverfahren=enklero_1> 
+            <:für die|BGU_DDbDP:BL XI, S. 20|:> 
+            <:<sitologia~grc-Latn=sitologia>|BGU_DDbDP:BL XI, S. 20.|:>, habe zugemessen bekommen die fünfzehn 
+            <Artaben=artaba> Weizen.
+        =>=T>
+         <T=.en<=
+            ((1))[Year] 5 of Lucius Septimius [Severu]s Pius [Pertin]ax Augustus [date?]. 
+            ((4))We, Lyncheus, son of Lyka[rion] and associates, 
+            <sitologoi~grc-Latn=sitologos> of the village of Apias, have had 
+            measured to us <:from the produce|BGU_DDbDP:Cf. Sijpesteijn, ZPE 100, 1994, 265-66|:> of the same year ((8))with respect to Stotoetis, son of 
+            Stotoetis, through Kephalon, son of Apias, for the <dues on 
+                ~|katoikoi|~la ~la=katoikon> by 
+            <levelled public measure=metrodemosioxesto> 
+            <:<epaiton~grc-Latn=epaiton>|:|:> fifteen 
+            <artabas=artaba> of wheat = 15 
+            <artabas=artaba> of wheat.
+            (((15)))(m. 2) I, [P]olion, 
+            <:<sitologos~grc-Latn=sitologos>|BGU_DDbDP:BL XI 20.|:> 
+            <elect=enklero_1>, have had measured to me the said fifteen 
+            <artabas=artaba> of wheat.
+        =>=T>
+      

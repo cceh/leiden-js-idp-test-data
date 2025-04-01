@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> <hi rend="diaeresis">Ἰ</hi>ωάννης <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><abbr>συμμαχ</abbr> ἀπ<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> κέρματος </supplied> 
+
+    <lb n="3"/><expan>μυριάδ<ex>ας</ex></expan> τετρα<supplied reason="lost">κοσίας <num value="4000000"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>δεκάτης <hi rend="diaeresis">ἰ</hi>νδ<supplied reason="lost">ικτίονος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><handShift new="m2"/> κέρματος <supplied reason="lost">μυριάδας τετρακοσίας <num value="4000000"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

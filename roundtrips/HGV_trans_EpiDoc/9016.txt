@@ -1,0 +1,19 @@
+
+         <T=.de<=
+            ((1))Im 31. Jahr des Marcus Aurelius Commodus Antoninus Caesar, des Herren.
+            ((3))<:Gearbeitet hat|BGU:BL I, S. 34|:> für <:Dammarbeiten
+                |BGU_DDbDP:Nach SIJPESTEIJN - Penthemeros-Certificates, S. 6 mit A. 3|:> 
+            des 31. Jahres vom 13. bis 17. <:Mesorê|BGU:BL I, S. 34|:>
+            <:im Wüstenkanal von Patsôntis|BGU:BL I, S. 34; vgl. BL V, S. 10|:> 
+            für Philadelphia <:5 Tage|BGU_DDbDP:nach Sijpesteijn, ZPE 64, 1986, S. 127, A. 7|:> 
+            <:Hermas|BGU:BL I, S. 34|:>, Sohn des Gryllos.
+        =>=T>
+         <T=.en<=
+            ((1))Year 31 of Marcus Aurelius Commodus Antoninus Caesar, the lord. 
+            ((3))<:Work has been done|BGU:BL I 34|:> 
+            <:on the dike works|BGU_DDbDP:|:> of year 31, <:Mesore|BGU:|:> 13 to 17 
+            <:in the desert canal of Patsontis|BGU:BL I 34; cf. BL V 10|:> for
+            Philadelphia, <:five days, |BGU_DDbDP:Cf. Sijpesteijn, ZPE 64, 1986, 127, note 7|:> by <:Hermas|BGU:BL I 34|:>, son 
+            of Gryllos.
+        =>=T>
+      

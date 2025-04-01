@@ -1,0 +1,10 @@
+
+         <T=.fr
+            <D=.b.fragment 
+               <=
+                  ((2)) [An x de l'Empereur] César [Publius Licinius Gallienus] Germanicus Maximus [Pius Felix] Augustus en Choiak [le x]
+                  ((5)) (2e main) [Aurélius ...] bouleute, je demande [x talents d'argent] 600 drachmes comme il est écrit ci-dessus. /*Translation: CPR 35 81 with the addition of line numbers*/
+               =>
+            =D>
+         =T>
+      

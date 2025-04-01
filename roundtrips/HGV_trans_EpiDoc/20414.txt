@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              To Philonicus also called Hermodorus, basilico-grammateus, and Dionysius and a second Dionysius, keepers of the archives and officers in charge of the selection, and to Apollonius, ex-exegetes and scribe of the city, from Apollonius ... of the city of Oxyrhynchus, living in the West Quay quarter. My slave...., born in the house to my female slave ..., has reached the age of 13 years in the past 5th year of Hadrianus Caesar the lord. I therefore declare that I am rated at 12 drachmae by a poll-tax list of the 2nd year of Hadrianus Caesar the lord at the said quarter, and I swear by the Emperor Caesar Trajanus Hadrianus Augustus that I have made no false statement. /*Date and docket of registration.*/
+            =>
+         =T>
+      

@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><expan><ex>ὑπὲρ</ex></expan></supplied> <expan><unclear>τρ</unclear><supplied reason="lost">οφ<ex>ῆς</ex></supplied></expan>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><ex>ὑπὲρ</ex></expan> <expan>τρ<supplied reason="lost">οφ<ex>ῆς</ex></supplied></expan>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><expan><ex>ὑπὲρ</ex></expan></supplied> <expan>τροφ<ex>ῆς</ex></expan> <app type="alternative"><lem>μουλ<unclear>α</unclear>ρ<supplied reason="lost">ίου</supplied></lem><rdg>μουλ<unclear>α</unclear>ρ<supplied reason="lost">ίων</supplied></rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ὑπὲρ</ex></expan> <expan>τροφ<ex>ῆς</ex></expan> <app type="alternative"><lem><choice><reg>βουρδῶ<supplied reason="lost">νος</supplied></reg><orig>βουρδό<supplied reason="lost">νος</supplied></orig></choice></lem><rdg><choice><reg>βουρδώ<supplied reason="lost">νων</supplied></reg><orig>βουρδό<supplied reason="lost">νων</supplied></orig></choice></rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ὑπὲρ</ex></expan> <expan>τ<unclear>ρ</unclear>οφ<ex>ῆς</ex></expan> <choice><reg>μύκλο<supplied reason="lost">υ</supplied></reg><orig>μίκρο<supplied reason="lost">υ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ὑπὲρ</ex></expan> <expan>τροφ<ex>ῆς</ex></expan> <app type="alternative"><lem><expan>ἵππ<ex>ου</ex></expan></lem><rdg><expan>ἵππ<ex>ων</ex></expan></rdg></app> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

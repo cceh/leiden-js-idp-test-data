@@ -1,0 +1,18 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1)) Maron greets his brother Ammon. You are advised to pay to A...syros the drachmas for three hundred and fifty lamps, 
+each lamp at four drachmas - - - we have gone (?) there in connection with the bookkeeping (?) of your son and he correctly (?) keeps (?) it (?) ... 
+(((9)))We have loaded for you, for Hates the Syenite, coarse ground barley, three loads and I shall add the rushes. 
+He must make over the drachmas so that you may receive these things. I wish you health. Farewell. 
+               =>
+            =D>
+            <D=.v 
+                <=
+                    ((14))Deliver it to Ammon, councilor, from Maron councilor of Oxyrhynchus. 
+                    /*Translation: P.Select 5*/
+                =>
+            =D>
+            =T>
+        

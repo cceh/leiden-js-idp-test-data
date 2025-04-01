@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) To my lord Hadokles, son of Claudius,
+                      Heraklammon, son of Heraklammon (?),
+                      greetings. You have furnished …
+                      four artabas of wheat by the public (measure), total,
+                      4 art. by public (measure). I, the above-named, have signed
+                      for the 7th indiction.
+                      /*Translation: R.S. Bagnall – G. Tallet, ZPE 196 (2015) 187*/
+            =>
+         =T>
+      

@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1))Asklas and partners, overseers of the granary of the temples, to Harsonis the younger, 
+son of the same. We have received [from you] the bath tax of the 14th year of Aurelius Antoninus Caesar 
+the lord, Phamenoth 30.
+            =>
+         =T>
+      

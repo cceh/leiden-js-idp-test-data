@@ -1,0 +1,15 @@
+
+         <T=.de<=
+            ((1))Im 14. Jahr, am [x.] Phaô[phi]. [Eingezahlt hat] Marôn, Sohn des Ptolemaios, für 
+            <:<‘Heubündelsteuer’=monodesmiachortou>|BGU:BL I, S. 49.|:> und <andere Arten (von 
+                    Abgaben)=allaeide> für das vergangene 13. Jahr zwanzig 
+            Drachmen, das sind 20 Drachmen, [...], <:Quittungsgebühr|BGU:BL I, S. 49|:>.
+        =>=T>
+         <T=.en<=
+            ((1))Year 14, Phao[phi x]. Maron, son of Ptolemaios, [paid] for 
+            <:<monodesmia~grc-Latn=monodesmiachortou>|BGU:BL I 49.|:> 
+            <of hay=monodesmiachortou> and <other 
+                dues=allaeide> of the past year 13 twenty drachmas, = 20 drachmas, 
+            [...], <:<receipt charge=sumbolikon>|BGU:BL I 49.|:>.
+        =>=T>
+      

@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ἀπ</supplied><unclear>ὸ</unclear></rdg></app> <app type="alternative"><lem>Πέτρος</lem><rdg><app type="alternative"><lem>Πέτρου</lem><rdg>Πέτρος</rdg></app></rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>τ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <abbr><gap reason="lost" extent="unknown" unit="character"/>τ</abbr></rdg></app>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>τη μηνὶ <gap reason="lost" extent="unknown" unit="character"/>
+
+
+</ab></div>

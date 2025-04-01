@@ -1,0 +1,16 @@
+
+         <T=.en
+            <=
+               ((1)) In the reign of Ptolemy,
+                      god Philometor, year n,
+                      and the rest of the customary formulas as
+                      written in Alexandria, in the month of Panemos
+                      and Pachon 19, in
+                      the city of the Oxyrhynchi of the Thebaid.
+               ((7)) […]krates son of Aris[…
+                      (verb) (to)
+                      …] and (to) Thatres […]
+                      /*Translation: N. Gonis, APF 62 (2016) 110*/
+            =>
+         =T>
+      

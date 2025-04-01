@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) To Dionysodorus, strategus of the Arsinoite noma, from Mysthes and Pelopion both sons of Pelops, of Euhemeria in the division of Themistes. 
+((7)) On the 16th of Phamenoth of the present 17th year of Tiberius Caesar Augustus, as I was making an inspection of the lands which we farm belonging to 
+Marcus Aponius Saturninus in the area of the aforesaid village, ((16)) we found that the young wheat and the barley which we have on the farm had been grazed down 
+by the sheep of Harmiusis son of Heras, herdsman, Aunes son of Minches being witness to it; (((26))) the consequent damage amounts to five artabae of wheat and nine artabae of barley. 
+I therefore request that he be brought before you for the ensuing punishment. Farewell.
+/*Translation with slight modifications: P.Ryl. 2 131*/
+            =>
+         =T>
+      

@@ -1,0 +1,25 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="it" type="translation" xml:space="preserve">
+            <div n="A" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> Coccio
+                         di Paolo di Pisraelios.
+                         Zacharias di Pietro, 1/2 solido.
+                         Misael di Selchos, 1/2 solido.
+                         Elias di Apa Kyros, 1 solido e 1/3.
+                         Enoch di Illoustrios, 2/3 di solido.
+                         … di Georgios, 1/3 di solido.
+                         … di Haraf, 1/3 di solido. … di …mot, 1 solido e 1/3.
+               </p>
+            </div>
+            <div n="B" type="textpart">
+               <p>
+                  <milestone unit="line" n="10"/> … Ioan(nes) di Th( )l, … di solido.
+                           Marco, 6 solidi e 1/3.
+                           David di Athanasios, 2/3 di solido.
+                           Abraham di Pesymthios, 1 solido e 2/3.
+                           <note>Translation: R. Pintaudi – A. Soldati, AnalPap 30 (2018) 64</note>
+               </p>
+            </div>
+         </div>
+      </body>

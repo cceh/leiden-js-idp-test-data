@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+   
+    
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+    
+    <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>παρὰ <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>τοῦ περιστερ<supplied reason="lost">εῶνος</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>τετρακοσίας <num value="400"/> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><expan>Ἡρ<ex>ακλείδης</ex></expan> <expan>ἐπη<ex>κολούθηκα</ex></expan>. 
+
+    <lb n="7"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap> </ab></div>

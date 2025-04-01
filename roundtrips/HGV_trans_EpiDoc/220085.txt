@@ -1,0 +1,8 @@
+
+            <T=.fr
+               <=
+                   ((1))Avec constance, j’ai attendu le Seigneur. Il a prêté attention à moi et il a entendu ma prière …
+/*Translation: A. Delattre - N. Vanthieghem, JCoptStud 16 (2014) 111*/
+               =>
+            =T>
+        

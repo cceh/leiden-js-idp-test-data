@@ -1,0 +1,9 @@
+<S=.grc<=
+    1. (Lang: Demotic 2 lines) 
+
+    3. (Lang: Demotic 5 char) ((ἔτους)) <#λ=30#> Παχὼνς <#ιζ̄=17#> 
+
+    4. Τλοu͂ς ((δραχμὴν)) <#α=1#>. 
+
+    5. (Lang: Demotic 3 lines)
+=>

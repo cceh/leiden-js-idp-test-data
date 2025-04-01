@@ -1,0 +1,25 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((11)) Im 27. Jahr der Königsherrschaft des Ptolemaios, des Sohnes des Ptolemaios, und der des Sohnes Ptolemaios,
+                           zur Amtszeit des Priesters des Alexander und der Theoi Adelphoi, zur Amtszeit der Kanephore der Arsinoe Philadelphos,
+                           derer in Alexandrien, im Monat Xandikos, in Birta im Ammoniterland.
+                  ((14)) Es hat verkauft Nikanor, der Sohn des Xenokles, aus Knidos, 〚Kleruche von den Reiter des Tubias〛 \einer der Leute des Tubias/,
+                           Zenon, dem Sohn des Agreophon, aus Kaunos, einem der Leute des Dioiketen Apollonios,
+                           ein sidonisches Sklavenmädchen mit Namen Sphragis, etwa sieben Jahre alt, für fünfzig Drachmen.
+                  ((17)) Gewährsmann ist NN, Sohn des Ananias, Perser, Kleruche 〚von den Reitern〛 derer des Tubias.
+                           Zeugen: 〚[NN], Sohn des Agathon, Perser〛; NN, Sohn des -onas, Richter; Polemon, Sohn des Straton, Makedone,
+                           〚beide〛 Kleruche von den Reitern des Tubias; Timopolis, Sohn des Botes, aus Milet;
+                           Herakleitos, Sohn des Philippos, aus Athen; Zenon, Sohn des Timarchos, aus Kolophon; Demostratos,
+                           Sohn des Dionysios, aus Aspendos, alle vier von den Leuten des Dioiketen Apollonios.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Kaufvertrag über eine Sklavin.
+                         /*Translation: St. Pfeiffer, APF 56 (2010) 248*/
+               =>
+            =D>
+         =T>
+      

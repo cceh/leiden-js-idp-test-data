@@ -1,0 +1,26 @@
+<S=.grc
+<D=.2.document<=
+    1. ~|(exempl(um)) (postcon[s(ulatum)]) (d(ominorum)) (n(ostrorum)) Valente <#VI=6#> et Valent<ini>ạṇọ (Ịụn(iore)) <#II=2#> perpetụịṣ [Augustis] [.?]
+
+    2. (ind(ictionis)) Theodoro pro nauclero Sotericḥụṣ (ạḍṿọc̣(atus)) (d(ixit))|~la  Θεόδ̣ωρος προ ναυ.1[.?]
+
+    3. .3δ[ε]δώκως ἐκ πλήρους πρ̣ο̣.3α̣γ̣.5ν̣.2ο̣δ̣.5φι.2[.?]τ̣ὸ ἀσφαλ[ές] [.?]
+
+    4.  ~|(Fl(auius)) Crati[nus (v(ir)) (cl(arissimus))] (praef(ectus)) (ann(onae)) (Alex(andreae)) (d(ixit))|~la  ὑπο̣[ca.15]φι.1 Tην [.?]
+
+    5. ~|et (res(ponsit))|~la  πρὸς τὸ δικαστήριον α̣δ̣.1λ̣[ca.15]δεκτη̣[.?]
+
+    6. δέχο̣μ̣α̣ι ἀπὸ ὁρρίων Ἀλεξανδρείας ἐν[ca.15] π̣ροτ̣[.?]
+
+    7. μοι[.3]κ̣αὶ τὰς τοῦ γ̣.3 εκ.το.5[.?]
+
+    8. O[ὐάλεντο]ς Aὐγούστου τὸ ἕκτον καὶ [Oὐαλεντινιάνου νέου τὸ δεύτερον]
+
+    9. ~|(Fl(auius)) C̣ratinụ[s (v(ir)) (cl(arissimus))] ([pra]ef(ectus)) (ann(onae)) (Alex(andreae)) (d(ixit))|~la  ὑπο̣[.?]
+
+    10. α̣[.?] [Θ]εόδωρ̣ο̣ς π[.?]
+
+    11. vestig  [.?] vestig 
+
+    11. lost.?lin
+=>=D>

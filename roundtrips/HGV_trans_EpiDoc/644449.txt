@@ -1,0 +1,31 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) (2. Hd.) Es wurde verlesen in Euergetis, wobei auch Keph---  anwesend war, im 38. Regierungsjahr am 24. Paophi
+(((3))) (1. Hd.) Boethos grüßt die Bürger von Euergetis im Herakleopolites. Wir haben unten die Kopien der Briefe angefügt, die der König 
+und die Königinnen mir geschrieben haben, ebenso wie (die Kopien) der [Erlasse?], die von ihnen an [euch?] (geschickt wurden).
+Da ihr also den ausgesprochenen Eifer des Königs und der Königinnen festgestellt habt und ----
+               =>
+            =D>
+            <D=.a.fragment 
+               <=
+                  ((1)) --- König [Ptolemaios und Königin Kleopatra die Schwester und Königin Kleopatra die Ehefrau ---]
+               =>
+            =D>
+            <D=.v 
+               <D=.text.main 
+                  <=
+                     (((8))) (1. Hd.) An die Bürger von Euergetis im Herakleopolites
+                  =>
+               =D>
+               <D=.margin.left 
+                  <=
+                     (((10))) (3. Hd.) Boethos (fügt an?) die Briefe des Königs und der Königinnen an die (?) --- bezüglich der (Stadt-)Gründung. 
+Im 38. Regierungsjahr am [xy.] Phaophi.
+/*Translation: Ch. Armoni, ZPE 228 (2023) 20*/
+                  =>
+               =D>
+            =D>
+         =T>
+      

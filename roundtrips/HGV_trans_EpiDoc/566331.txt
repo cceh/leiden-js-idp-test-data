@@ -1,0 +1,26 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1))  À Zénon de la part de Psenobastis, bonjour!
+                          Si tu es d'accord, ce serait bien que tu écrives
+                          à Pauês, le basilicogrammate,
+                          d'accueillir avec attention toute demande raisonnable
+                          que nous lui ferons. ((5)) Sache que
+                          nous et les pêcheurs à l'épervier nous
+                          sommes en train de louer les services (?) de ceux
+                          qui pèchent à la force des bras (?) afin que personne
+                          d'autre ne pénètre sur les
+                          îles. ((10)) Écris donc à Pauês de ne pas
+                          nous faire obstacle.
+                          Bonne chance.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((13)) Psenobastis
+                           /*Translation: J.-L. Fournet, AncSoc 45 (2015) 87-88*/
+               =>
+            =D>
+         =T>
+      

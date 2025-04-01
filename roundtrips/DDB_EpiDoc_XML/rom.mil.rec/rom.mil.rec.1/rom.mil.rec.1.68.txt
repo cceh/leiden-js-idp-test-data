@@ -1,0 +1,145 @@
+<S=.la<D=.1<=
+
+    1. [.?] 
+
+    2. [.?] .2 
+
+    3. lost.5lin
+
+    8. [.?]x̣ (s(emis)) 
+
+    9. [.?]ịi (s(emis)) 
+
+    10. lost.6lin
+
+    17. 
+
+    18. [.?].1lvi (s(emis)) 
+
+    19. lost.4lin
+
+    23. [.?].1s 
+=>=D><D=.2<=
+
+    1. (L(ucio)) Aṣinio (co(n)s(ule)) 
+
+    2. (Q(uintus)) Ịụlius Proculus (Ḍam(asco)) 
+
+    3. [accepit] (stip(endium)) i (an(ni)) iii do{10mini}10 (dr(achmas)) ccxlvii (s(emis)) 
+
+    4. ex eis 
+
+    5. f̣ạẹṇạria (ḍṛ(achmas)) x 
+
+    6. ịṇ ṿ[ic]ṭum (dṛ(achmas)) lxxx 
+
+    7. caḷ[i]g̣as fascias (dr(achmas)) xii 
+
+    8. ṣạtụṛṇạlicium (k(astrense?)) (dr(achmas)) xx 
+
+    9. .4r.2torium (dr(achmas)) lx 
+
+    10. ex[p]ẹṇsas (dr(achmas)) clxxxii 
+
+    11. reḷịq̣ụạs deposuit (dr(achmas)) lxv (s(emis)) 
+
+    12. et habụịṭ ex (prio(re)) (d[r](achmas)) cxxxvi 
+
+    13. fiṭ (ṣụṃm(a)) (dr(achmae)) cci (s(emis)) 
+
+    14. $m2 accepit (stip(endendium)) ii anni (eiusd(em)) (ḍṛ(achmas)) c̣cxḷvii (s(emis)) 
+
+    15. ẹx̣ eis 
+
+    16. f̣ạenaria (dr(achmas)) x 
+
+    17. iṇ ṿictum (dr(achmas)) lxxx 
+
+    18. caligas fascias (dr(achmas)) xii 
+
+    19. aḍ ṣigna (dr(achmas)) iv 
+
+    20. exp̣ensas (dr(achmas)) cvi 
+
+    21. reliquas deposuit (dr(achmas)) cxli (s(emis)) 
+
+    22. et habuit ex p̣ṛor[.?] (dr(achmas)) cci (s(emis)) 
+
+    23. fịt [su]mma omnis (dr(achmae)) cccxli[ii] 
+
+    24. $m3 ac̣cẹ[pit ]([sti]p̣(endium)) iii (a[nn(i)])[ ei]ụṣ [(dr(achmas))] c̣c̣xlvị[i] (ṣ(emis)) 
+
+    25. [e]x̣ e[i]ṣ 
+
+    26. faenạrịa [(dr(achmas)) x] 
+
+    27. [in victu]ṃ (ḍṛ(achmas)) [lx]x̣x̣ 
+
+    28. [calig]ạṣ [f]ạṣc̣ias (ḍṛ(achmas)) [xii] 
+
+    29. ịṇ vẹstim[e]ṇṭ[i]ṣ (dṛ(achmas)) c̣[xl]v (s(emis)) 
+
+    30. expensaṣ [(dr(achmas)) c]cx̣ḷṿii (s(emis)) 
+
+    31. hạbet in deposito (dr(achmas)) cccx̣lịiii 
+
+    32. $m4 Rennius Innocens 
+=>=D><D=.3<=
+
+    1. $m1 <:Gaius|reg|c:> Valerius Germanus Tyro 
+
+    2. accepit (stip(endium)) i (an(ni)) iii (do(mini)) (dr(achmas)) ccxlvii (s(emis)) 
+
+    3. ex ẹis 
+
+    4. faenaria (dr(achmas)) x 
+
+    5. in v[i]ctum (ḍr(achmas)) lxxx 
+
+    6. caligas fascias (dr(achmas)) xii 
+
+    7. satụrnalịc̣ịụṃ (k(astrense?)) (dr(achmas)) xx 
+
+    8. in vestimeṇ[t]ịṣ (dr(achmas)) c 
+
+    9. expensaṣ (dr(achmas)) ccxx̣ii 
+
+    10. reliquas (depọ(sitas)) (dr(achmas)) xxṿ (s(emis)) 
+
+    11. et habuit (dr(achmas)) xx̣[i] 
+
+    12. fit summạ omṇịṣ (dr(achmae)) x̣lvi (s(emis)) 
+
+    13. $m2 accepit (stip(endium)) ii anni eius (dṛ(achmas)) ccx̣lvii (s(emis)) 
+
+    14. ex eis 
+
+    15. faenaria ([d]r(achmas)) x 
+
+    16. in victum (ḍr(achmas)) ḷxx̣x 
+
+    17. caligas fascias (dr(achmas)) xii 
+
+    18. ad signa (dṛ(achmas)) ịv 
+
+    19. exp̣ensas (dr(achmas)) cvị 
+
+    20. rẹ[li]q̣ụas deposuit (dr(achmas)) cxli (s(emis)) 
+
+    21. eṭ ḥabuit ex p̣ṛiore (dr(achmas)) xlvị (ṣ(emis)) 
+
+    22. f[it s]umma omn<i>s (dr(achmae)) [c]ḷx̣x̣x̣ṿị[ii] 
+
+    23. $m3 ac̣cep̣ịt (stip(endium)) iii anṇ[i] ẹ[i]ụ[s] (ḍṛ(achmas)) ccxlvịị (s(emis)) 
+
+    24. ex eịs 
+
+    25. fạe[n]ạria (ḍṛ(achmas)) x 
+
+    26. ịṇ ṿictum (ḍṛ(achmas)) lx̣x̣x̣ 
+
+    27. c̣aḷ[i]g̣as fascias (dr(achmas)) x̣ii 
+
+    28. ịṇ ṿestimentis (dr(achmas)) cxlv (s(emis)) 
+
+    29. habet [i]n deposito (dr(achmas)) clxxxviii =>=D>

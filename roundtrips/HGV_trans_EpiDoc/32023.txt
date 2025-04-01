@@ -1,0 +1,11 @@
+
+         <T=.fr
+            <D=.iii.column 
+               <=
+                  ((5)) et dans ledit village une habitation vétuste inhabitée (?)
+                         et à l'Ouest de cette dernière un enclos dans lequel un troupeau de porcs d'une valeur de 200 drachmes
+/*Translation: CPR 35 71*/
+               =>
+            =D>
+         =T>
+      

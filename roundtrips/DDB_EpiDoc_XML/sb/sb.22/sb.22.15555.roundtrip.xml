@@ -1,0 +1,82 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r,1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" quantity="8" unit="line"/>
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/><gap reason="lost" quantity="9" unit="line"/>
+</ab></div><div n="r,2" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τῆ</supplied>ς <num value="1">α</num> τὸ <num value="1/9" rend="tick">θ</num>  
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <num value="2">β</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">τῶ</supplied><ex>ν</ex></expan> <num value="3">γ</num> <num value="1/3" rend="tick">γ</num>
+
+    <lb n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">τῶ</supplied><ex>ν</ex></expan> <num value="4">δ</num> <num value="1/3" rend="tick">γ</num> <num value="1/9" rend="tick">θ</num>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><num value="5">ε</num> <num value="1/2">𐅵</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <num value="6">ϛ</num> <num value="2/3" rend="tick">𐅷</num>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num value="7">ζ</num> <num value="2/3" rend="tick">𐅷</num> <num value="1/9" rend="tick">θ</num>
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <num value="8">η</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="9"/><expan>τῶ<ex>ν</ex></expan> <num value="9">θ</num> <num value="1">α</num>
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan>τῶ<ex>ν</ex></expan> <num value="10">ι</num> <num value="1">α</num> <num value="1/9" rend="tick">θ</num>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <expan>τῶ<ex>ν</ex></expan> <num value="11">ια</num> <num value="1">α</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <expan>τῶ<ex>ν</ex></expan> <num value="12">ιβ</num> <num value="1">α</num> <num value="1/3" rend="tick">γ</num>
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> τῶν <num value="13">ιγ</num> <num value="1">α</num> <num value="1/3" rend="tick">γ</num> <num value="1/9" rend="tick">θ</num>
+
+    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>τῶν <num value="14">ιδ</num> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/> τῶν <num value="15">ιε</num> <num value="1">α</num> <num value="2/3" rend="tick">𐅷</num>
+
+    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> τῶν <num value="16">ιϛ</num> <num value="1">α</num> <num value="2/3" rend="tick">𐅷</num> <num value="1/9" rend="tick">θ</num>
+
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> τῶν <num value="17">ιζ</num> <num value="1">α</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> τῶν <num value="18">ιη</num> <num value="2">β</num>
+</ab></div><div n="r,3" type="textpart"><ab>
+
+    <lb n="1"/><expan>τῶ<ex>ν</ex></expan> <num value="19">ιθ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><expan>τῶ<ex>ν</ex></expan> <num value="20">κ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><expan>τῶ<ex>ν</ex></expan> <num value="30">λ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><expan>τῶ<ex>ν</ex></expan> <num value="40">μ</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><expan>τῶ<ex>ν</ex></expan> <num value="50">ν</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><expan>τ<supplied reason="lost">ῶ<ex>ν</ex></supplied></expan><supplied reason="lost"> <num value="60">ξ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><expan>τ<supplied reason="lost">ῶ<ex>ν</ex></supplied></expan><supplied reason="lost"> <num value="70">ο</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/><expan>τ<supplied reason="lost">ῶ<ex>ν</ex></supplied></expan><supplied reason="lost"> <num value="80">π</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><expan>τ<supplied reason="lost">ῶ<ex>ν</ex></supplied></expan><supplied reason="lost"> <num value="90">ϙ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <num value="1/5" rend="tick">ε</num> <num value="1/15" rend="tick">ιε</num>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <num value="1/6" rend="tick">ϛ</num> <num value="1/18" rend="tick">ιη</num>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <num value="1/7" rend="tick">ζ</num> <num value="1/21" rend="tick">κα</num>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1/8" rend="tick">η</num> <num value="1/24" rend="tick">κδ</num>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1/3" rend="tick"><unclear>γ</unclear></num> <num value="1/9" rend="tick"><unclear>θ</unclear></num> <num value="1/27" rend="tick">κζ</num>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1/3" rend="tick"><unclear>γ</unclear></num> <num value="1/10" rend="tick"><unclear>ι</unclear></num> <gap reason="illegible" quantity="1" unit="character"/>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/></ab></div></div>

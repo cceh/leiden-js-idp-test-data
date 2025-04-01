@@ -1,0 +1,44 @@
+
+         <T=.de<=
+            ((1))Im 7. Jahr des Lucius Septimius Severus Pius Pertinax Arabicus Adiabenicus 
+            Parthicus <:Maximus|BGU:BL I, S. 14|:> und des Marcus Aurelius 
+            <:Antoninus|BGU:BL I, S. 14|:>, der Augusti, am 20. Payni.
+            (((5)))Wir, <:Lampôn|BGU:BL VII, S. 10|:>, Ptolemaios und 
+            Papirius, die Schreiber <:der|BGU:BL I, S. 14|:> 
+            <:<Sitologen=sitologos>|BGU:BL I, S. 14.|:> des Dorfes 
+            Neilû Polis haben zugemessen bekommen im Speicher 
+            <:des|BGU:BL I, S. 14|:> oben erwähnten Dorfes 
+            <mit dem gestrichenen staatlichen Maß=metrodemosioxesto> 
+            <:vom Ertrag|BGU_DDbDP:Vgl. Sijpesteijn, ZPE 100, 1994, S. 267-268|:> 
+            desselben Jahres <:für|BGU:BL I, S. 14|:> <:<die Abgabe auf 
+                Staatsland=demosia_2>|BGU:BL I, S. 14.|:> für Soknopaiû Nêsos: 
+            ((9))Païs, Sohn des Satabûs, zehn <Artaben=artaba> Weizen, 
+            das sind 10 <Artaben=artaba> Weizen, 10 Abûs, Sohn des Satabûs, 
+            ebenso fünfzig <Artaben=artaba> Weizen, das sind 50 
+            <Artaben=artaba> Weizen, ((12))[und] S[tot]oêt[i]s, Sohn 
+            des Satabûs, ebenso zweiundzwanzig einhalb ein zwölftel 
+            <Artaben=artaba> Weizen, das sind 22 1/2 1/12 
+            <Artaben=artaba> Weizen.
+        =>=T>
+         <T=.en<=
+            ((1))Year 7 of Lucius Septimius Severus Pius Pertinax Arabicus Adiabenicus Parthicus 
+            <:Maximus|BGU:BL I 14|:> and of Marcus Aurelius 
+            <:Antoninus|BGU:BL I 14|:>, (both) Augusti, Payni 20. ((5))We, 
+            <:Lampon|BGU:BL VII 10|:> and Ptolemaios and Papeirios, scribes of 
+            <:the|BGU:BL I 14|:> 
+            <:<sitologoi~grc-Latn=sitologos>|BGU:BL I 14.|:> of the 
+            village of Neilopolis, have had measured to us at the granary 
+            <:of the|BGU:BL I 14|:> above mentioned village by 
+            <levelled public measure=metrodemosioxesto> 
+            <:from the produce|BGU_DDbDP:Cf. Sijpesteijn, ZPE 100, 1994, 265-67|:> of 
+            the same year for the <:<dues on state 
+                land=demosia_2>|BGU:BL I 14.|:> for Soknopaiou Nesos. 
+            ((9))Pais, son of Satabous, ten <artabas=artaba> of wheat 
+            = 10 <artabas=artaba> of wheat, ((10))Abous, son of 
+            Satabous, the son of a man named likewise, fifty <artabas=artaba> of 
+            wheat = 50 <artabas=artaba> of wheat and ((12))S[tot]oet[i]s, 
+            son of Satabou[s], the son of a man named likewise, twenty two and a half and a twelfth 
+            <artabas=artaba> of wheat = 22 1/2 1/12 
+            <artabas=artaba> of wheat.
+        =>=T>
+      

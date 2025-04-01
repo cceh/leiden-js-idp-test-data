@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              ... Asclepiades said, “Grant me .. days.” Sopater said, “ Fifteen will suffice for you.” Tryphon said, “On this condition, however, that if payment is demanded from me before the end of the period, I shall have the right of arrest against him.” Sopater said, “That is completely provided for you, even without a petition and a memorandum, by the declaration, the undertaking of the surety, and the trustworthy note of hand on behalf of the father.” Asclepiades said, “So far as my share is concerned.” Tryphon said, “The [two?] are mutual sureties, for there is one appeal and one fine.” Sopater said to Ascle- piades, “Take care that you return within the fifteen days and pay in the whole amount of the fine, as your surety for it is mutual, in order that the most estimable Tryphon may have the security.”
+            =>
+         =T>
+      

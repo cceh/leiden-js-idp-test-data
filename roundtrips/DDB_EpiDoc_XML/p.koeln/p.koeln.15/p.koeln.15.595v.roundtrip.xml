@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="v" type="textpart">
+<div n="A" subtype="fragment" type="textpart">
+<ab>
+<lb n="1"/><handShift new="m2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">Μεχ</supplied><unclear>ε</unclear>ὶρ <num value="12"><hi rend="supraline"><unclear>ιβ</unclear></hi></num>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>ε<gap reason="illegible" quantity="1" unit="character"/> <num value="18">ιη</num>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ἡδέος
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>θ<unclear>η</unclear> <num value="110">ρι</num>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>η</unclear>κ<gap reason="illegible" quantity="1" unit="character"/>ς
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <space extent="unknown" unit="character"/> <num value="51">να</num>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num value="179"><unclear>ρ</unclear>οθ</num>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+</div>
+<div n="B" subtype="fragment" type="textpart">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ι</unclear>ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>γλ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+</div>
+</div>
+      </div>

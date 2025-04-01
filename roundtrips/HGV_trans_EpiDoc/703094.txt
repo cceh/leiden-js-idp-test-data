@@ -1,0 +1,24 @@
+
+         <T=.en
+            <D=.v 
+               <D=.i.column 
+                  <=
+                     (((1))) […] … from four silver drachmae 1.950 bronze drachmae.
+                     (((2))) From those (?): expenses:
+                     (((3))) […] …
+                     (((4))) […] on the 12th: 310; on the 14th: 310; Total: 800
+                  =>
+               =D>
+               <D=.i.column 
+                  <=
+                     (((1))) On the 14th: 315
+                     (((2))) on the 15th: 3[05] (?)
+                     (((3))) on the 16th: 3[00] (?)
+                     (((4))) on the 17th: 230. Total: 1.150
+                     (((5))) Total altogether: 1.950//
+                              /*Translation: S.D. Almasry Aish, APF 62 (2016) 55 - only verso*/
+                  =>
+               =D>
+            =D>
+         =T>
+      

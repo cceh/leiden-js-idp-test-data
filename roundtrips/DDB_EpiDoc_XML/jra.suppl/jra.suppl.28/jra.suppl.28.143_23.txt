@@ -1,0 +1,25 @@
+<S=.la
+<D=.surface.exterior<=
+    1. vestig.3lin
+
+    4. fieri [.?]
+
+    5. [.?] ((summa)) ((mille)) (p(ondo)) (l(ibras)) <#III=3#>
+
+    6. fie[ri] [.?]
+
+    7. vestig.1lin
+
+    8. (fier(i)) [.?]
+
+    9. vestig.1lin
+
+    10. [.?]XIIII .1 ((summa)) <#LXIII=63#>
+
+    11. [.?] (n(umero)) XIIII.3XCVII 
+
+    12. et (|Vol|) (as(copae)) a (B(yzacena?)) (n(umero)) <#DLXIIII=564#> et (k(entenaria)) <#.2LXXỊỊ=72-?#> 
+
+    13. ((summa)) ((mille)) <#DCCLXXXII=782#> (p(ondo)) (l(ibras)) <#XXXV=35#>
+=>=D>
+      

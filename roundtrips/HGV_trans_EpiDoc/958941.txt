@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) Petorzmethis, tax collector at Elephantine. Germanos son of Maecianus has paid for the price
+of the produce of public date palm of the 17th year 4 debased dr., 2 ch. ((4)) Year 18 of Hadrian, the
+lord, 22nd Phaophi.
+/*Translation: S.A. Aly, ZPE 219 (2021) 154*/
+            =>
+         =T>
+      

@@ -1,0 +1,6 @@
+<S=.grc
+<=
+1. <:vestig |alt|*stauros?* ἀ̣π̣ὸ̣ vestig χ̣α̣η̣λ̣:>
+2. <:vestig |alt|vestig  (φ̣(ο)ρ̣( )) vestig :>
+=>
+      

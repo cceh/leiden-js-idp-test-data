@@ -1,0 +1,12 @@
+
+            <T=.en
+               <=
+               ((1))...] we Aurelius Makarios, son of Makarios (?) and Aurelius Poimen son of Phoibammon(?) and Aurelius Sabinus, 
+son of Johannes, tenants, of the same place greet [N.N.]. (((4)))We acknowledge under mutual security that we have received from your brillancy the between 
+each other agreed and stipulated price of one hundred and twenty-five jars of new, indigenous and excellent wine, each jar containing seven doubles, 
+(each double containing) six measures, while your brillancy supplies the jars, sum total 125 jars each containing 7 doubles, (each double containing) six measures. 
+((8))Those we shall necessarily deliver in the month Mesore of the harvest of the xth indiction 
+                /*Translation: P.Select 2*/
+              =>
+           =T>
+        

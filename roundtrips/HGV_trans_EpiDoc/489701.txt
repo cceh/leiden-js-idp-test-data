@@ -1,0 +1,22 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1)) (1e main) (...) en vertu d’un contrat portant sur le prêt, contrat déposé auprès du
+                         bureau notarial de (...) et dont le notaire est Démé(trios ?), et je reconnais rece­voir
+                         de toi trois cents artabes de blé que je te restituerai aussi au mois de (...) de
+                         l’année prochaine; et ((8)) je n’ai commis aucune infraction au contrat ni aucun acte
+                         de fraude (...) sur aucun des points indiqués, ni en rapport avec le remboursement
+                         du prêt, et je te restituerai les trois cents artabes (...) dans les limites du délai, sans
+                         que je t’aie laissé m’intenter ni procès ni jugement ni action frauduleuse, sous
+                         l’autorité d’aucun magistrat et tribunal, et moi, sans que je ne t’en aie intenté
+                         aucun sous les mêmes autorités, et sans que j’aie contracté le prêt sur une inscrip­tion
+                         du terrain. ((13)) Mais si j’enfreins l’une de ces dispositions, qu’il te soit permis de
+                         forcer la restitution à mes dépens de la somme prévue dans le contrat, etque je sois
+                         tenu par mon serment.
+                ((16)) (2e main) Moi, Philon, j ’ai prêté le serment royal inscrit ci-dessus (...)
+                         /*Translation: M. Bagnoud – J. Chaney – K. Novoa – V. Pochon – P. Schubert – M. Tomcik – A. Tschanz, CdE 89 (2014) 352*/
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="ellipsis" quantity="10" unit="line"><desc>Coptic</desc></gap>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="11"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Coptic</desc></gap> 
+
+    <lb n="13"/><note xml:lang="en">coptic</note> <expan>χρ<ex>υσοῦ</ex></expan> <expan>νο<ex>μίσματα</ex></expan> <num value="2">β</num> ἀπὸ <expan><ex>κερατίων</ex></expan> <num value="22">κβ</num> <num value="1/2">𐅵</num> ἐκ <expan>τ<ex>οῦ</ex></expan>
+
+    <lb n="14"/><expan>χωρ<ex>ίου</ex></expan> <expan>Ὥρο<ex cert="low">υ</ex></expan>.</ab></div></div>

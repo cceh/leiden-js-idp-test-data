@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" subtype="part" type="textpart"><ab>
+<lb n="1"/>Ἀγαθοκλῆς
+</ab></div>  
+<div n="B" subtype="part" type="textpart"><ab>
+ <lb n="2"/><app type="alternative"><lem><abbr>ομολ</abbr></lem><rdg>ὁ <abbr>μολ</abbr></rdg></app>
+<lb n="3"/>γηγλ<gap reason="illegible" quantity="1" unit="character"/>
+</ab></div>
+<div n="C" subtype="part" type="textpart"><ab> 
+<lb n="4"/>ὁ <unclear>τοῦ</unclear> Διός
+</ab></div>
+
+      </div>

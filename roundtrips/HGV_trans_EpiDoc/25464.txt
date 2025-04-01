@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) To the elders of the villages below-written. Send out irrigation-guards on to the banks of the Upper Patemite district, from Skar 100 …, from Thathis 100, from Temenkorkis of the Shepherds 100 ..., from Sinageris 100, from Telbonthis 100 ... The .. of the month Sebastus …
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((00))
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,7 @@
+<S=.grc
+<D=.A+C<=/*A and C reprinted in P.Ross.Grg. 2.18, 70-75*/
+=>=D>
+<D=.B<=/*B reprinted in P.Ross.Grg. 2.18, 76-81*/
+=>=D>
+<D=.D+E<=/*D and E reprinted in P.Ross.Grg. 2.18, 42-45*/
+=>=D>

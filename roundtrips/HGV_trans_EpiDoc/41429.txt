@@ -1,0 +1,11 @@
+
+         <T=.fr
+            <D=.ii.column 
+               <=
+                  ((1)) … drachmes; pour Aiôn, bouvier … drachmes; pour moi, Ereus (?), de même 40 drachmes; / Pour le fonctionnaire …; … drachmes;
+(((6))) Phaninouthis, charpentier (?) …; palmier … drachmes; en vue de la couverture … drachmes; poutres …; pour les ânes et les âniers … drachmes; …  (une ligne perdue?)
+/*Translation: A. Martin, AnalPap 26 (2014) 233*/
+               =>
+            =D>
+         =T>
+      

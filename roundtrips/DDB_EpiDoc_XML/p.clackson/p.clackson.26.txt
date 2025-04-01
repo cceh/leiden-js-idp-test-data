@@ -1,0 +1,12 @@
+<S=.cop
+<=
+    1. *stauros* ~|(ἰνδ(ι)κ(τίωνος)) *dipunct* <#ζ=7#> *dipunct* (Παῦ(νι)) *dipunct* <#ε=5#>|~grc  ⲙⲁ ⲛ
+
+    2.- ⲛⲉⲡⲏⲣⲅⲟⲥ *dipunct* *filler(extension)* ~|(ἅμαξ(αι)) *dipunct* 
+
+    3. <#γ=3#> *dipunct* (σάκ(κοι)) *dipunct* <#ιε=15#> *filler(extension)*  
+
+    (4, indent)(σί(του)) ((ἀρτάβαι)) <#μ̣ε=45#>|~grc 
+
+    5. [ⲉⲧ]<:μυλών=grc|reg|[ⲙⲟⲩⲗⲟ]ⲛ:>
+=>      

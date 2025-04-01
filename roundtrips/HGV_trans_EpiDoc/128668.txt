@@ -1,0 +1,12 @@
+
+         <T=.de
+            <=
+               ((1))Decke für Kleiderabgabe [...]
+		((2))Xestai für den Tempel des Heiligen [...]
+		((3))große Xestai 4 [...]
+		((4)) Baukalia [...]
+		((5)) Kollatha von Wein [...]
+ 	  	((6))Liste der Cheiti[?]
+            =>
+         =T>
+      

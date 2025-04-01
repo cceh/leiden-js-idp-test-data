@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><num value="3">γ</num> Διερναις
+<lb n="2"/><num value="12"><hi rend="supraline">ι</hi>β</num> Τια<hi rend="diaeresis">ι</hi> <space quantity="4" unit="character"/> <num value="11"><hi rend="supraline">ια</hi></num> Διουρπλιζ
+<lb n="3"/><del rend="erasure"><num><gap reason="illegible" quantity="2" unit="character"/></num> <app type="alternative"><lem>Διου<gap reason="illegible" quantity="3" unit="character"/><unclear>χ</unclear>ος</lem><rdg>Διού<supplied reason="omitted">ρ</supplied><unclear>πλιχ</unclear>ος</rdg></app></del>
+<lb n="4"/><num value="1">α</num> Δ<unclear>ε</unclear>ζίβαλος
+<lb n="5"/><num value="2"><unclear>β</unclear></num> Ζουραι
+<lb n="6"/><num><gap reason="illegible" quantity="1" unit="character"/></num>  Ἀυιζινα
+<lb n="7"/><num value="5"><unclear>ε</unclear></num>  Ποτάμων
+<lb n="8"/><g type="check"/> Ἕρτωσις
+<lb n="9"/><g type="check"/> Διδυμίων
+<lb n="10"/>Παπείρις
+<lb n="11"/>Ἀντίστις
+<lb n="12"/>Δαδας
+</ab>
+      </div>

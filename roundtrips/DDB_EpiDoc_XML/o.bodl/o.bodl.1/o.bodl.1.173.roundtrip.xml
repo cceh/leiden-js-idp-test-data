@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>ἱεροῦ <num value="1/6" rend="tick">ϛ</num>. 
+
+    <lb n="2"/>ἔτους <num value="34">λδ</num> Παχὼν <num value="26">κϛ</num> <expan>με<ex>μέτρηκεν</ex></expan> εἰς τὸν ἐν 
+
+
+    <lb n="3"/>Διὸς <expan>πόλ<ex>ει</ex></expan> τῆι <expan>μ<ex>εγάληι</ex></expan> <expan>θη<ex>σαυρὸν</ex></expan> εἰς τὸ <num value="34">λδ</num> <expan><ex>ἔτος</ex></expan> ὑπὲ<unclear>ρ</unclear> τ<unclear>ο</unclear>ῦ <expan>τόπ<ex>ου</ex></expan> 
+
+    <lb n="4"/><expan><supplied reason="lost">Π</supplied>ετεαροῆ<ex>ρις</ex></expan> καὶ Ἡρακλῆς <expan><ex>πυροῦ</ex></expan> δέκα 
+
+    <lb n="5"/><supplied reason="lost">μίαν τρί</supplied><unclear>το</unclear>ν <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="11">ια</num> <subst><add place="inline"><num value="2/3">𐅷</num></add><del rend="corrected">γ</del></subst>. <expan>Ἡρα<ex>κλείδης</ex></expan>. 
+
+    <lb n="6"/><handShift new="m2"/> <gap reason="lost" quantity="10" unit="character"/> <expan><unclear>π</unclear>υρο<ex>ῦ</ex></expan> <surplus><expan><ex>πυροῦ</ex></expan></surplus> <num value="11">ια</num> <num value="2/3">𐅷</num> <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="11">ια</num> <num value="2/3">𐅷</num>. 
+
+    <lb n="7"/><handShift new="m3"/> <gap reason="lost" quantity="8" unit="character"/><supplied reason="lost"> δέκα μ</supplied><unclear>ία</unclear>ν δίμοιρον <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="11">ια</num> <num value="2/3">𐅷</num>. </ab></div>

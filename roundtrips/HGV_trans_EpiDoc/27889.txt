@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Account of barley owing for the 12th year on account of arrears of the Upper Leucopurgite Toparchy. Of barley in arrears for the 1th year 5 1/24 artabae for Terton Petochnoubeos (are to be deducted) from the 8 23/24 owing for Bousiris Sinarchebeos, leaving 3 11/12; formerly paid 2 1/2 artabae. For the 12th year, Poampimenis 39/48 artaba, Sinkere 4 7/16 artabae, Terton 10 1/24 artabae.’
+            =>
+         =T>
+      

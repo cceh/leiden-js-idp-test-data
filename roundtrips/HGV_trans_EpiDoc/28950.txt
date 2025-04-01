@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) Ammonios asks you to dine at the banquet of the lord Sarapis in the dining hall of the Sarapeion on the 9th, beginning from the 9th hour.
+            =>
+         =T>
+      

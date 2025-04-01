@@ -1,0 +1,24 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="illegible" quantity="4" unit="character"/> χαίρει<unclear>ν</unclear>. 
+
+    <lb n="3"/><choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> παρέλαβόν σου τὸ 
+
+    <lb n="4"/><expan>παιδίο<ex>ν</ex></expan> ερ<gap reason="illegible" quantity="1" unit="character"/><subst><add place="inline">ητρικὴν</add><del rend="corrected"><del rend="erasure">ι</del>ερ<gap reason="illegible" quantity="1" unit="character"/>ητρικην</del></subst> 
+
+    <lb n="5"/><choice><reg>τέχνην</reg><orig>τέκνην</orig></choice> <add place="above"><unclear>καὶ</unclear></add> τοῦ καὶ τοῦ 
+
+    <lb n="6"/><abbr>γρ</abbr> κ<gap reason="illegible" quantity="3" unit="character"/>πεσόντος καὶ 
+
+    <lb n="7"/><choice><reg><supplied reason="omitted">πε</supplied>πληρωκότ</reg><orig>πληροκότ</orig></choice><expan><ex>ος</ex></expan> αὐτοῦ 
+
+    <lb n="8"/>τὸν χρόνον 
+
+    <lb n="9"/><expan>ὁμολ<ex>ογῶ</ex></expan> μήπο <gap reason="illegible" quantity="4" unit="character"/> 
+
+    <lb n="10"/>σοι περὶ μηδενὸ<supplied reason="lost">ς</supplied> 
+
+    <lb n="11"/><unclear>ἁπ</unclear>λῶς. <expan><ex>ἔτους</ex></expan> <num value="5">ε</num> 
+
+    <lb n="12"/><g type="slanting-stroke"/> <g type="slanting-stroke"/> <expan>Παχὼ<ex>ν</ex></expan> <num value="29">κθ</num>. </ab></div>

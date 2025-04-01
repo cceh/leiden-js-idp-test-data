@@ -1,0 +1,24 @@
+<S=.grc<=
+    1. *parens-punctuation-opening* Ἀππιανῶι δ[.?] 
+
+    2. *parens-punctuation-opening* ὁ ἐργάτης ὁ π[.?]
+
+    3. *parens-punctuation-opening* Θρασὼ καὶ Ἀργ̣[ιάδ ][.?]
+
+    4. *parens-punctuation-opening* της εἶναι ε̣ὐ̣[.?]
+
+    5. *parens-punctuation-opening* μους ἐργάτα[ς ][.?]
+
+    6. *parens-punctuation-opening* ὅπως καὶ τη[.?]
+
+    7. vac.?
+
+    7. *parens-punctuation-opening* <:ἐκεῖ|reg|ἐκῖ:> ἐλθεῖν .1[.?]
+
+    8. *parens-punctuation-opening* ἀναπληρ[.?]
+
+    9. *parens-punctuation-opening* 〚<:εἰς|reg|ἰ̣ς̣:> τὴν α.1[.?] 〛
+
+    10. 〚.3〛ας[.?]
+
+    11. [.?].2 <:εἰς|reg|ἰς̣:> τ̣ὴ̣ν̣ Ἀργιάδ̣α =>

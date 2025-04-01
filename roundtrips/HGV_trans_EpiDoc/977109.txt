@@ -1,0 +1,10 @@
+
+            <T=.de
+            <=
+                ((1)) (1. Hd.) [- - - ] 8 1/3 (Artaben) Weizen - - - Sechzehn Artaben Weizen und zwei Drittel, das macht 16 2/3. Leb wohl. Im 20. Jahr, am 11. Epeiph.
+                (((4))) (2. Hd.) Menelaos (sc. ordnet an): „Empfange (sc. als Lohn?) sechzehn Artaben Weizen und zwei Drittel, das macht 16 2/3“.
+                (((6))) (3. Hd., Demotisch) „Bitte empfange 16 2/3 Artaben Weizen, deren Hälfte 8 1/3 ist, das macht wieder 16 2/3 - - - oben - - -.“ Im 20. Jahr, [am 11.] Epeiph.
+                /*Translation: R. Vecchiato, P.KölnSarapion 12*/  
+            =>
+         =T>
+        

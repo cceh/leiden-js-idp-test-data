@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) To Heron son of Didymos, from NN son of Orsenouphis from the village of Tebtunis. ((3)) I wish to lease from you what you happen to cultivate around the village of Tebtunis, 
+from the present year till the next common diamisthosis  of farmers, one aroura of royal land, or so, in the so-called Drymos, 
+formerly of Orsenouphis son of Phanesis in return for its customary rent and other rates in accordance with the custom of the land, ((10)) sowing it yearly with whatever I wish, 
+and I will perform all the yearly works which are proper, at my own expense, in addition I will give you yearly one(?) artaba of wheat with the tetra-choinix measure of the granary of Tebtunis. 
+((14)) Upon you, Heron, lie (all?) what is imposed (for the deficit?) in the village (Tebtunis) per capita upon you both at Polydeukia in the Themistes (?) and other external districts (?), 
+as the lease is made on these terms. ((17)) I, Heron son of Didymos, have leased according to all the foregoing conditions. Year ? of Antoninus and Verus the lords Augusti . . .
+/*Translation: M.G. Elmeghrabi, APF 61 (2015) 169*/
+            =>
+         =T>
+      

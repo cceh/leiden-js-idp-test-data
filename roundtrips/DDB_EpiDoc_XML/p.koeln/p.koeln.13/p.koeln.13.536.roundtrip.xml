@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ου</unclear>
+<lb n="2"/>πρὸς <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ί<unclear>ων</unclear>α ἀρχέμπορον 
+<lb n="3"/><del rend="erasure"><gap reason="illegible" quantity="3" unit="character"/></del> συνθεσι μοι <choice><reg>συκίων</reg><orig>συκύων</orig></choice>
+<lb n="4"/>ἀγoράσαι καὶ <choice><reg>σφόγγους</reg><orig>σφόγους</orig></choice> <num value="2">δύο</num>  
+<lb n="5"/><choice><reg>τραυματικοὺς</reg><orig>δραυματικοὺς</orig></choice> καὶ σφόγ
+<lb n="6" break="no"/>γους <choice><reg>νεωτέρους</reg><orig>νεοτέρους</orig></choice> λευκοὺς 
+<lb n="7"/><subst><add place="inline">ὀφ<supplied reason="omitted">θ</supplied>αλμικοὺς</add><del rend="corrected">οθαλμικους</del></subst> <num value="10">δέκα</num>. 
+</ab>
+      </div>

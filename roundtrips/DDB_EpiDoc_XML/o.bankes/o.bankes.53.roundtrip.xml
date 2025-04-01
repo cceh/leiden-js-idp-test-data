@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>β<g type="s-etous"/> δε <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>· ἐδεξάμην <supplied reason="lost" cert="low">παρὰ</supplied>
+<lb n="4"/><supplied reason="lost" cert="low">σοῦ</supplied> <expan><unclear>δ</unclear>ραχ<ex>μὴν</ex></expan> <num value="1">μίαν</num> ὀνό<unclear>μ</unclear><supplied reason="lost">ατος</supplied> 
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ος. <expan><ex>ἔτους</ex></expan> <num value="13">ιγ</num> <choice><reg>Αὐρηλίου</reg><orig>Αὐρηλείου</orig></choice>
+<lb n="6"/><supplied reason="lost">Ἀντω</supplied><unclear>ν</unclear>ίνου Καίσαρος τοῦ κυρίου
+<lb n="7"/><supplied reason="lost">Ἀρ</supplied>μενιακοῦ Μηδικοῦ Παρθικοῦ
+<lb n="8"/><supplied reason="lost">Γερ</supplied>μανικοῦ μεγίστου,
+<lb n="9"/>Φαμενὼθ <num value="21"><hi rend="supraline">κα</hi></num>. 
+</ab>
+      </div>

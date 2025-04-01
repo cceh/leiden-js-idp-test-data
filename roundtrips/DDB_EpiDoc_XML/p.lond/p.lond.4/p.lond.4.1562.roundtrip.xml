@@ -1,0 +1,58 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><space extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>δ<ex>ιὰ</ex></expan> Ψάλος Διανη         <expan>νο<ex>μίσματος</ex></expan> <num value="1/6" rend="tick">ϛ</num> 
+
+    <lb n="3"/><expan>δ<ex>ιὰ</ex></expan> Μακαρίο<add place="above">υ</add> Πκαμε<gap reason="illegible" quantity="1" unit="character"/>   <expan>νο<ex>μισμα  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><expan>δ<ex>ιὰ</ex></expan> Πνει Λεωντ<unclear>ί</unclear>ο<supplied reason="lost">υ <expan>νο<ex>μισμα  </ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><expan>δ<ex>ιὰ</ex></expan> <choice><reg>Ἡρακλίου</reg><orig>Ἡράκλιος</orig></choice> <choice><reg><expan>Ἑρμαῶ<ex>τος</ex></expan></reg><orig>Ἑρμαω<supplied reason="lost">ς</supplied></orig></choice> <expan>νο<ex>μισμα  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><expan>δ<ex>ιὰ</ex></expan> <choice><reg>Ἰωάννου</reg><orig>Ἰωαννης</orig></choice> Ὀν<supplied reason="lost">νο</supplied>φρ<supplied reason="lost">ίου</supplied> <expan>νο<ex>μισμα  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><expan>δ<ex>ιὰ</ex></expan> <choice><reg>Θεοδοσίου</reg><orig>Θεσδοσιος</orig></choice> Ἰ<supplied reason="lost">ωσ</supplied><unclear>ὴφ</unclear> <supplied reason="lost"><expan>νο<ex>μίσματος</ex></expan></supplied> <num value="1/6" rend="tick"><unclear>ϛ</unclear></num> 
+
+    <lb n="8"/><expan>δ<ex>ιὰ</ex></expan> Πνει Γεωρ<supplied reason="lost">γίου <expan>νο<ex>μισμα  </ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><expan>δ<ex>ιὰ</ex></expan> <gap reason="lost" quantity="3" unit="character"/>αμο<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><expan>δ<ex>ιὰ</ex></expan> <expan>Ἑρμαῶ<ex>τος</ex></expan> Ἀπατηρ <expan>νο<ex>μίσματος</ex></expan> <num value="1/6" rend="tick">ϛ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>δ<ex>ιὰ</ex></expan> <choice><reg>Θεοδοσίου</reg><orig>Θεοδόσιος</orig></choice> Πκαυλ<unclear>ε</unclear> <expan>νο<ex>μίσματος</ex></expan> <num value="1/6" rend="tick">ϛ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><expan>δ<ex>ιὰ</ex></expan> Δανιὴλ Θεοδοσίο<add place="above">υ</add>  <expan>νο<ex>μίσματος</ex></expan> <num value="1/6" rend="tick">ϛ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><expan>δ<ex>ιὰ</ex></expan> <choice><reg>Πέτρου</reg><orig>Πέτρος</orig></choice> Βασιλίο<add place="above">υ</add> <expan>δ<ex>ιὰ</ex></expan> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><expan>δ<ex>ιὰ</ex></expan> <abbr>Πεκυ</abbr> <expan>Κολλούθ<ex>ου</ex></expan> <expan>νο<ex>μισμα  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><expan>δ<ex>ιὰ</ex></expan> <choice><reg>Ἠλία</reg><orig>Ἠλιας</orig></choice> Βαρ<unclear>ό</unclear>ο<add place="above">υ</add>      <expan>νο<ex>μισμα  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><expan>δ<ex>ιὰ</ex></expan> <expan>Κολλούθ<ex>ου</ex></expan> Μ<unclear>ι</unclear>ᾶς     <expan>νο<ex>μισμα  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/><expan>δ<ex>ιὰ</ex></expan> Πεκυσίο<add place="above">υ</add> <choice><reg><expan>Ἑρμαῶ<ex>τος</ex></expan></reg><orig>Ἑρμαώς</orig></choice> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><expan>δ<ex>ιὰ</ex></expan> Ἰωάννο<add place="above">υ</add> <gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>
+</div>
+<div n="v" type="textpart"><ab>
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="10"/><foreign xml:lang="cop"><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ϣⲏ</supplied>ⲣⲉ ⲉϥϩⲛ <num value="15">ⲙⲛⲧ<supplied reason="lost">ⲉ</supplied></num> <supplied reason="lost">ⲛⲣⲟⲙⲡⲉ ⲛⲡⲉⲛⲛⲟϫϥ ⲛⲏⲧⲛ</supplied>
+
+    <lb n="11"/><supplied reason="lost">ⲉϩ</supplied>ⲣⲁⲓ <choice><reg xml:lang="grc">εἰ</reg><orig>ⲉⲓ</orig></choice> <choice><reg xml:lang="grc">δέ</reg><orig>ⲇⲉ</orig></choice> ⲉⲧⲉⲧⲛϣⲁⲛϩⲉ ⲉⲣⲟⲥ <unclear>ⲁ</unclear><supplied reason="lost">ⲛⲣ ⲡ</supplied>ⲁⲓ ⲧ<supplied reason="lost">ⲁⲣⲛ</supplied>ϣ<supplied reason="lost">ⲱ</supplied><unclear>ⲡⲉ</unclear>
+
+    <lb n="12"/><supplied reason="lost">ⲉⲛ</supplied><choice><reg xml:lang="grc">ὑποκεῖσθαι</reg><orig><supplied reason="lost">ϩⲩ</supplied>ⲡⲟ<supplied reason="lost">ⲕ</supplied><unclear>ⲓ</unclear>ⲥⲑⲁⲓ</orig></choice> ϩⲁ <choice><reg xml:lang="grc">πρόστιμον</reg><orig>ⲡⲣⲟⲥⲑⲉⲙⲱ<supplied reason="lost">ⲛ</supplied></orig></choice> ⲛⲓⲙ ⲉⲣⲉⲧⲉⲧⲛⲙⲛⲧϫⲟⲉⲓⲥ
+
+    <lb n="13"/>ⲛⲁ<choice><reg xml:lang="grc">ὁρίζειν</reg><orig><supplied reason="lost">ϩⲟⲣⲓⲥ</supplied>ⲉ</orig></choice> ⲙⲙⲟϥ ⲉϫⲱⲛ ⲁⲛⲟⲕ ⲡⲉ<supplied reason="lost">ϭⲱ</supplied>ϣ <choice><reg xml:lang="grc">πρεσβύτερος</reg><orig><expan>ⲡⲣⲉ<ex>ⲥⲃⲩⲧⲉⲣⲟⲥ</ex></expan></orig></choice> ⲡϣⲛ ⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig>ⲙⲁⲕⲁⲣⲓⲟⲥ</orig></choice> ϭⲁⲙⲟⲩⲗ
+
+    <lb n="14"/><supplied reason="lost">ⲡⲣⲱⲙ</supplied> <supplied reason="lost">ⲡ</supplied><choice><reg xml:lang="grc">ἐποίκιον</reg><orig><supplied reason="lost">ⲉⲡ</supplied><unclear>ⲏⲕⲉⲓ</unclear>ⲟⲛ</orig></choice> ⲡⲁϭ<unclear>ⲁ</unclear>ⲩⲛⲉ ⲛⲧⲁⲩ<choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲣⲁⲕⲁⲣⲉ</orig></choice> ⲙⲙⲟⲓ ⲁⲓⲥϩⲁⲓ ϩⲁⲣ<unclear>ⲟⲟ</unclear>ⲩ ϫⲉ ⲙⲁⲩ<choice><reg xml:lang="grc">νοεῖν</reg><orig>ⲛⲟⲉⲓ</orig></choice> <g type="stauros"/> </foreign>
+</ab></div></div>

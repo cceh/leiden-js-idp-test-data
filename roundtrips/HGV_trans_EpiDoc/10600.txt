@@ -1,0 +1,57 @@
+
+            <T=.en
+            <D=.1 
+               <=
+                  ((1))From Nemeion, collector of the laographia in Philadelphia. Due for Epeiph of the 2nd year of Nero Claudius Caesar Augustus Germanicus imperator, are the unpaid taxes of the first year.
+(((6)))Herakles, son of Pouris, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((7)))Horos, son of Pnepheros, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((8)))Onnophris, son of Pnepheros, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((9)))Phasis, son of Hatres, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((10)))Phasis, a son, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((11)))Petesouchos, son of Ischeis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((12)))Sambas alias Ischeis, son of Ischeis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((13)))Phasis, son of another Phasis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((14)))Phasis, son of Phasis, the son, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((15)))Polyphantes, son of Polyphantes, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((16)))Horos, son of Apollonios, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((17)))Petermotes, son of Peseris, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((18)))Harphaesis, son of Harphaesis, 45 dracmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((19)))Pylades, son of Herakleas, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((20)))Pemsas, Haryotes, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((21)))Pankrates, son of Haryotes, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((22)))Pebos, son of Herakleas, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((23)))Herakles, son of Pebos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((24)))Herakles, son of another Pebos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi.
+               =>
+            =D>
+            <D=.2 
+               <=
+                  (((25)))Kallis, son of Harphaesis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((26)))Another Kallis, son of Harpaesis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((27)))Harphaesis, son of Mysthes, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((28)))Herakles, son of Petesouchos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((29)))Teos, son of Horos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((30)))Peinaus, son of Horos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((31)))Sambas, son of Horos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((32)))Pachnoubis, son of Horos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((33)))Apynchis, son of Horos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((34)))Horos, son of Abis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((35)))Pete(mounis?), son of Akousilaos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((36)))Peteouchos, son of Petesouchos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((37)))Zoilos, son of Thyon, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((38)))Hatres, son of Kephalon, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((39)))Peeris, son of Ptollis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((40)))Petouchos, son of Panoubis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((41)))Praxias, son of Harpaesis, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((42)))Herakles, son of Herakles, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((43)))Sambas, son of Aropos, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((44)))Horion, son of Horion, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((45)))Satabous, son of Horion, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((46)))Ptollis, son of Dios, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((47)))Dios, son of Dios, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((48)))Pomes, son of Pomes, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+(((49)))Protion, Praxion, 45 drachmas 1 diobolon, dike-tax 2 drachmas 6 tetraboloi
+               =>
+            =D>
+         =T>
+        

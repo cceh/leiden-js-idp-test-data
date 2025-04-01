@@ -1,0 +1,26 @@
+<S=.grc
+<=
+    1. [.?] ~|(F̣ḷ(aviis)) Areobindo et Arda[bure (v(iris)) (c(larissimis)) (cons(ulibus)) ][.?]  |~la 
+
+    2. [ ]~|[cum obtu]ḷịṣṣet libellum <:Theonis|reg|theone:> [ex (offic(io)).]|~la [ ὁποῖον λίβελλον ][.?] 
+
+    3. ~|[(Fl(avius)) Anthemiu]s [I]sidorus Theofilus (v(ir)) (c(larissimus)) (praes(es)) (pṛ[ovinc(iae)]) <:(Arc(adiae)) (d(ixit))=BL 12.142|ed|(Arcad(iae)):>.|~la [ ἀνάγνωθι. ~|et recitavit.|~la  πρὸς τὴν ὑμετέραν ἐξουσίαν παρὰ ][.?]  
+
+    4. [.9].3ο̣ν χρεῶσται ἡμέτεροι ἓξ <#=6#> τὸν ἀριθ[μὸν ][.?] 
+
+    5. [.9] πεφευγότων καὶ ἑτέρων ἐν διακατοχ[ῇ γενομένων ][.?] 
+
+    6. [.7][ πρ]ο̣σ̣τάξαι προνοίᾳ τῶν ἐκβιβαστῶν .1[.?] 
+
+    7. [.8][ π]εφευγότων πραγμάτων ἐπιγνῶνα[ι ][.?] 
+
+    8. [.9].1[.1]ι ἐπ̣ʼ ὀνόματα̣ .2[.1].2 ἀπο̣πιπ̣[τ][.1].3[.?] 
+
+    9. ~|[(Fl(avius)) Anthemi]us Isidorus Theofilus (v(ir)) (c(larissimus)) (praes(es)) (p[rovinc(iae)])[ <:(Arc(adiae)) (d(ixit))=BL 12.142|ed|(Arcad(iae)):> ][.?] |~la 
+
+    10. [.9]σ̣ο.4ον ἰδίαι̣ χρεῖα̣ι̣ [.?] 
+
+    11. .1lin 
+
+    12. lost.?lin 
+=>

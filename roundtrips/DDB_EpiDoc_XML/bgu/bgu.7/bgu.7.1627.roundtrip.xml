@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Μεσορή <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>Διογ<ex>ένης</ex></expan> <expan>πράκ<ex>τωρ</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num> <expan><ex>ὀβολοὺς</ex></expan> <num value="14">ιδ</num> 
+
+    <lb n="3"/>Κανῖνις              <expan><ex>δραχμὰς</ex></expan> <num value="46">μϛ</num> 
+
+    <lb n="4"/><expan>Ὡρίωνο<ex>ς</ex></expan>           <expan><ex>δραχμὰς</ex></expan> <num value="104">ρδ</num> 
+
+    <lb n="5"/>Φαῶφι <expan>ὁμ<ex>οίως</ex></expan> 
+
+    <lb n="6"/>Διογένης             <expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num> 
+
+    <lb n="7"/>Κανῖνις              <expan><ex>ὀβολοὺς</ex></expan> <num value="18">ιη</num> 
+
+    <lb n="8"/><expan>Ὡρίωνο<ex>ς</ex></expan>           <expan><ex>δραχμὰς</ex></expan> <num value="24">κδ</num> 
+
+    <lb n="9"/><expan>γ<ex>ίνονται</ex></expan> <expan>ἐπ<ex>ὶ τὸ αὐτὸ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <subst><add place="inline"><num value="19">ιθ</num><add place="above"><num value="8">η</num></add></add><del rend="corrected"><num value="19">ιθ</num><del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del></del></subst>  <num value="3">γ</num> </ab></div>

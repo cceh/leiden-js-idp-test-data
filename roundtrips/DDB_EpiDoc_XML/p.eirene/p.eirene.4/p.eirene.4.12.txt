@@ -1,0 +1,29 @@
+<S=.grc
+<=
+    (1, centered)χμγ *stauros* <#ϙ̣θ̣=99#>
+
+    (2, indent)Φαρμοῦθι *slanting-stroke**slanting-stroke* <#ι=10#> *slanting-stroke**slanting-stroke* (κερ(άτια)) <#τρία=3#> *slanting-stroke**slanting-stroke* <#γ=3#> *slanting-stroke**slanting-stroke*
+
+    (3, outdent)*stauros* (λό(γος)) Φοιβάμμωνος Φαμενὼθ *slanting-stroke**slanting-stroke* <#κη̣=28#>
+
+    (4, indent)κεράτια <#τρία=3#> *slanting-stroke**slanting-stroke* <#γ=3#> *slanting-stroke**slanting-stroke*
+
+    5. (οὕ(τως)) <#τέταρτον=1/4#> κατὰ ἡμέρας
+
+    6. Φαμενὼθ *slanting-stroke**slanting-stroke* <#κ̣δ̣=24#> *slanting-stroke**slanting-stroke* <:(τέκ(τονι?))|alt|(τέκ(τοσι?)):> <#ἓν=1#> *slanting-stroke**slanting-stroke* α
+
+    7. Φαμενὼθ *slanting-stroke**slanting-stroke* <#κ̣ε̣=25#> *slanting-stroke**slanting-stroke* <:(τέκ(τονι?))|alt|(τέκ(τοσι?)):> <#ἓν=1#> *slanting-stroke**slanting-stroke* <#α=1#>
+
+    8. Φαμενὼθ *slanting-stroke**slanting-stroke* <#κ̣ζ=27#> *slanting-stroke**slanting-stroke* <:(τέκ(τονι?))|alt|(τέκ(τοσι?)):> <#ἓν=1#> *slanting-stroke**slanting-stroke* <#α=1#>
+
+    9. Φαμενὼθ [.2] <:(τέκ(τονι?))|alt|(τέκ(τοσι?)):> <#ἓν=1#> *slanting-stroke**slanting-stroke* <#α=1#>
+
+    10. Φαρμοῦθι [ca.8]
+
+    11. ~|ϩⲓ̣ ϣⲱϣ[ⲧ]|~cop  [ca.8]
+
+    12. [Φαρ]μ̣οῦθ̣[ι] [ca.9]
+
+    12. lost.?lin
+=>
+      

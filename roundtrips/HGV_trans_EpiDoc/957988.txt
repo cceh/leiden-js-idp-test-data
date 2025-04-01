@@ -1,0 +1,19 @@
+
+         <T=.fr
+            <=
+               ((1)) [... ont été mesurées et embarquées pour le compte du village d’Aphrodité, représenté par ses] protocomètes?, représentés par [...],
+               (((2))) sur les bateaux du monastère de la Métanoia, représenté les très pieux abba
+                      [... et ...], moines et diaconètes, au titre de l’annone
+                      de la cinquième indiction six mille vingt artabes du canon de blé pur?, ((4)) frais de transport, taxes de 1 %
+                      et de 5 % inclus, total: 6020 art. de blé seulement.
+               (((6)))Et pour votre garantie et celle du Trésor Public, j’ai émis
+                      cette quittance selon les termes sus-mentionnés. ((7)) Par moi, Mênas, secrétaire;
+                      je suis d’accord avec cette quittance de six mille vingt artabes de ...
+                      selon les termes sus-mentionnés. Écrit le [... du mois de ...] de la cinquième indiction. [...] ...
+             (((11))) [Et pour le compte de Bêsis fils] d’Anoubiôn, soldat, représenté par Apollôs, protocomète,
+                      sur les bateaux du monastère de la Métanoia, représenté les très pieux abba [...
+                      et ...], moines et diaconètes, au titre de l’annone de la cinquième indiction, [x] artabes de blé [...], frais de transport inclus. ((14)) Par moi, Mênas, secrétaire;
+                      je suis d’accord selon les termes sus-mentionnés. Écrit le 6 Tybi de la 5e indiction. /*Translation with minor modifications: J.-L. Fournet, JJP 50 (2020) 123-124*/
+            =>
+         =T>
+      

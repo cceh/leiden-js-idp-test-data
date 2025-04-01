@@ -1,0 +1,13 @@
+<S=.grc
+<=
+1.  [ Φ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ἐν ὀνόματι τοῦ Θεοῦ τοῦ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ]
+2. [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ἐλεήμονος καὶ φιλανθρώπου *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ]
+3. ~|[بسم اللّه الرحمن الرحيم]|~ar 
+4. [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* οὐκ ἔστιν θεὸς εἰ μὴ ὁ Θεὸς μόνος *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ]
+5. [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* Μααμετ ἀπόστολος τοῦ Θεοῦ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ]
+6. ~|[لا إله إلّا اللّه محمّد رسول اللّه]|~ar 
+7. [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* Ἀβδελαζιζ υἱὸς] *long-vertical-bar**long-vertical-bar**long-vertical-bar* [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ]
+8. [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* Μαρουαν σύμβο]υ̣λος *long-vertical-bar**long-vertical-bar**long-vertical-bar* η [ *long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar**long-vertical-bar* ]
+9. ~|ـ[پـ]ـسم الله [الرحمن الرحپم]ـ |~ar 
+=>
+      

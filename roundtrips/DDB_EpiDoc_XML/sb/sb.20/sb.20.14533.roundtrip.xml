@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> γνῶ<supplied reason="lost">σις </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><app type="alternative"><lem>δισα<unclear>κ</unclear><supplied reason="lost">κίαν</supplied></lem><rdg>δισα<unclear>κ</unclear><supplied reason="lost">κίας</supplied></rdg></app>
+
+    <lb n="3"/><unclear>σ</unclear>τολὰς <choice><reg>Εὐλ<gap reason="lost" extent="unknown" unit="character"/></reg><orig><subst><add place="inline">ὐλ<gap reason="lost" extent="unknown" unit="character"/></add><del rend="corrected">ευλ<gap reason="lost" extent="unknown" unit="character"/></del></subst></orig></choice>
+
+    <lb n="4"/><choice><reg>σπάθιον</reg><orig>σπαθιν</orig></choice>
+
+    <lb n="5"/>τάβλα
+
+    <lb n="6"/><gap reason="lost" atLeast="3" atMost="4" unit="character"/>κι</ab></div>

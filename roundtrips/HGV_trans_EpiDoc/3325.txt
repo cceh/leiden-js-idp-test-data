@@ -1,0 +1,22 @@
+
+            <T=.fr
+            <D=.r 
+               <=
+                  ((1))Au roi Ptolémée salut Pasis, fils de Hareus, ibiobosque. Je suis lésé par Hôros, fils de Hôros, de Philôtéris, 
+dans la méris d’Héracleidès. Il prétend que j’ai souscrit à sa fille Tsénamounis un reçu en langue égyptienne, pour une somme de 420 drachmes, 
+reçu que je n’ai pas souscrit. ((3))Je te prie donc, ô roi, d’ordonner à Diophanès le stratège d’écrire à Néphérôs, l’archiphylacite du bourg, 
+qu’il envoie Hôros devant Diophanès pour être jugé contradictoirement avec moi; ((5))et, s’il apparaît que je n’ai pas souscrit ce reçu, 
+je demande qu’il me soit remis et que, pour l’acte dont Hôros s’est rendu coupable, il reçoive le châtiment approprié; enfin, s’il nie, 
+qu’il fasse une ὑπογραφή devant Diophanès, afin que, grâce à toi, ô roi, j’obtienne justice. 
+Sois heureux. 
+((1))A Sôsibios. De préférence concilie-les; sinon, envoie-le pour qu’ils soient jugés devant les laocrites. An 1, 30 Gorpiaios – 13 Tybi.
+
+               =>
+            =D>
+            <D=.v 
+               <=
+                  An 1, 30 Gorpiaios – 13 Tybi. Pasis, ibiobosque, contre Hôros, sur le tort qui lui est fait. /*Translation: O. Gueraud, P.Enteux. 50*/
+               =>
+            =D>
+         =T>
+        

@@ -1,0 +1,31 @@
+
+         <T=.de
+            <D=.i.column 
+               <=
+                  ((2)) … 3 1/12 1/24 Art.
+                         … Ar. …
+               =>
+            =D>
+            <D=.ii.column 
+               <=
+                  ((1)) aus Karanis, von Katökenland: Ptolemais, Tochter des D[…]
+                         aus Kerkesucha, von Katökenland: Philoxenos, Sohn des Du[los …]
+                         aus Karanis, von Katökenland: derselbe […]
+                         88. (Kleruchie) aus Karanis, von öffentlichem Land: Mysthes, Sohn des Pat[konnis …]
+                  (((5))) 12. (Kleruchie) aus Karanis, von öffentlichem Land: Petsiris, sein Bruder […]
+                         31. (Kleruchie) Ptolemaios, Sohn des Patron […]
+                         15. (Kleruchie) Turbon, Sohn des Charmos […]
+                         aus Karanis, von Katökenland: Serapion, Sohn des Heron […]
+                         aus Karanis, von Katökenland: Kasis, Arzt […]
+                (((10))) 84. (Kleruchie) aus Karanis, von öffentlichem Land: Zenas, Sohn des Pasion […]
+                         aus Karanis, von Katökenland: Amules, Sohn des Pasion […]
+                         24. (Kleruchie) aus Kerkesucha, von öffentlichem Land, an Gerste: Syrion, Sohn des Isidoros [ …]
+                         aus Karanis, von Katökenland: derselbe […]
+                         26. (Kleruchie) aus Karanis, von öffentlichem Land: derselbe […]
+                (((15))) 66. (Kleruchie) Melanas, Sohn des Melanas […]
+                         aus Karanis, von Katökenland: …
+/*Translation: A. Jördens, P.Louvre 3 181*/
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,26 @@
+<S=.grc<D=.r<=
+
+    1. <#ια=11#> <#ι=10#> <#β=2#> ([Π]άχ(ων)) <#α=1#> (Φαρμ(οῦ)θ(ι)) <#κγ=23#> (λ(οι)π(ὰ)) (δημ(οσίων)) (ἰνδ(ικτίονος)) <#δ=4#> (λ(οι)π(ὰ)) (τι(μῆς)) [.?] 
+
+    2. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* (νο(μισμάτια)) <#μη=48#> <#κδ '=1/24#> (Θεαγενίδ(ος)) 
+
+    3. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* (νο(μισμάτια)) <#οδ=74#> <#δ '=1/4#> (Θεαξέ(νιδος)) (κώμ[η(ς)]) [.?]  
+
+    4. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* ((νομισμάτια)) <#μθ=49#> (Θεαξέ(νιδος)) (οὐσί(α)) 
+
+    5. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* ((νομισμάτια)) <#ϛ=6#> <#ϛ '=1/6#> <#κδ '=1/24#> Θιαλαάλ[ι ][.?] 
+
+    6. *low-punctus* *low-punctus* *low-punctus* *low-punctus* (νο(μισμάτια)) <#ια=11#> Θαμβ[ατόρι ][.?] 
+
+    7. *low-punctus* *low-punctus* *low-punctus* 
+=>=D><D=.v<=
+
+    1. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* (λ(οι)π(ὰ)) *unintelligible* 
+
+    2. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* 
+
+    3. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* 
+
+    4. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* [(νο(μισμάτια))] <#νγ=53#> <#ϛ '=1/6#> <#η '=1/8#> <#μη '=1/48#> 
+
+    5. *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* *low-punctus* (νο(μισμάτια)) <#φκβ=522#> <#η '=1/8#> =>=D>

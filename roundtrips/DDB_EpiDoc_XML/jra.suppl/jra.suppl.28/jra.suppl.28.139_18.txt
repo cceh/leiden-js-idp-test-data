@@ -1,0 +1,40 @@
+<S=.la
+<D=.surface.exterior<=
+    1. ([pri]d(ie)) Nonas (Mai(as)) ad (Oct(obrem))
+
+    2. [((centenarius))] [.?]inus ((centenaria)) <#VIIII=9#> (p(ondo)) (l(ibras)) <#XCIIII=94#>
+
+    3. [((centenarius))] [.?] ((centenaria)) <#XIII=13#> (p(ondo)) (l(ibras)) <#XLII=42#>
+
+    4. [((centenarius))] [.?] ((centenaria)) <#VII=7#> (p(ondo)) (l(ibras)) <#LXVI=66#>
+
+    5. [((centenarius))] [.?]nus ((centenaria)) <#IIII=4#> (p(ondo)) (l(ibras)) <#LXXXVII=87#>
+
+    6. ((centenarius)) Victor a Serve ((centenaria)) <#V=5#> (p(ondo)) (l(ibras)) <#XVIII=18#>
+
+    7. ((centenarius)) Felix ((centenaria)) <#V=5#> (p(ondo)) (l(ibras)) <#XIIII=14#>
+
+    8. ((centenarius)) Inventus ((centenaria)) <#XXXV=35#> (p(ondo)) (l(ibras)) <#LXII=62#>
+
+    9. ((centenarius)) Victor a Nobis ((centenaria)) <#XXVII=27#> (p(ondo)) (l(ibras)) <#XVIII=18#>
+
+    10. ((summa)) <#CXI=111#> (p(ondo)) (l(ibras)) <#XI=11#>
+
+    11. (inpletu(r)) (|Vol|) (as(copae)) a (B(yzacena?)) (n(umero)) <#LXVIII=68#> ((centenaria)) <#CXI=111#> (p(ondo)) (l(ibras)) <#X=10#>
+
+    12. fieri in (condit(orio)) (Z(eugitano?)) ψ (n(umero)) <#CLXXXIIII=184#>
+
+    13. [et (a(mphorae?)) (g(emellariae?)) (n(umero))] <#[C]LXVII=167#> <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#LXII=62#> fisci
+
+    14. et (Tebelbucit(an qz)) (as(copae)) a (B(yzacena?)) (n(umero)) <#CCCCXLVI=446#>
+
+    15. et (k(e)nt(enaria)) <#LXV=65#> [Macrinenses]
+
+    16. (as(copae)) a (B(yzacena?)) <#LV=55#> et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#CCLXXXV=285#>
+
+    17. (|Vol|) (as(copae)) a (B(yzacena?)) (n(umero)) <#((duo milia))CCLXXV=2275#>
+
+    18. (o(lei?)) (R(omae?)) (c(anon?)) (as(copae)) (n(umero)) <#DCCLVII=757#> <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#((mille)) CCXXXII=1232#>
+
+    19. ((summa)) <#VIIIDCCCII=8802#> (p(ondo)) (l(ibras)) <#LXXV=75#>
+=>=D>

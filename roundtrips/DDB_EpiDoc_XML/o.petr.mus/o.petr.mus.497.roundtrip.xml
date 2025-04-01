@@ -1,0 +1,23 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">Π</supplied>μενχήους</reg><orig><supplied reason="lost">Π</supplied>μενχῆς</orig></choice>
+
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan>Παμώνθ<ex>ου</ex></expan>
+
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">Π</supplied>εβῶτος</reg><orig><supplied reason="lost">Π</supplied>εβῶς</orig></choice>
+
+<lb n="4"/><abbr><gap reason="lost" extent="unknown" unit="character"/></abbr> ὃς <expan>κ<ex>αὶ</ex></expan> <expan><unclear>Κ</unclear>αλ<ex>ῆς</ex></expan> <choice><reg>Πικῶτος</reg><orig>Πικ<unclear>ῶ</unclear>ς</orig></choice>
+
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>ς <expan>Πετοσ<unclear>ο</unclear>ρφί<ex>βιος</ex></expan>
+
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <app type="editorial"><lem><abbr>Πετεαρπ</abbr></lem><rdg><expan>Πετεαρπ<ex>ρήους</ex></expan></rdg></app> 
+
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>μις <choice><reg>Ἐριέως</reg><orig>Ἑριεῦς</orig></choice>
+
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg>Ἐριέως</reg><orig>Ἑριεῦς</orig></choice>
+
+<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ων
+
+<lb n="10"/><app type="editorial"><lem><abbr><gap reason="lost" extent="unknown" unit="character"/>ρουη</abbr></lem><rdg><expan><supplied reason="lost">Πετεα</supplied>ρουή<ex>ριος</ex></expan></rdg></app>
+
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

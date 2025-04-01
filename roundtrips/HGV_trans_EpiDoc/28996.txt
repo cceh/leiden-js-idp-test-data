@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Apollonius requests you to dine at the table of the lord Sarapis on the occasion of the approaching coming of age of his brothers at the temple of Thoëris...
+            =>
+         =T>
+      

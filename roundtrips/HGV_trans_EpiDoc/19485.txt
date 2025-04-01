@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) Proclamation of M. Petronius Mamertinus, praefect of Egypt: I wished both to visit the regions beyond Coptos and to complete the conventus of the nomes . . . but since I conjecture that the time will not be sufficient to do both and I know besides that the greater part of the cases depending on my court have already received proper settlement through the local courts on the spot, the conventus for the Thebaid and the Heptanomia will be held by me as usual. Date.
+            =>
+         =T>
+      

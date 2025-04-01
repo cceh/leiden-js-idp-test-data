@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> Ἁθὺρ <num value="30">λ</num>  <num value="2">β</num> <expan>ἰνδ<ex>ικτίωνος</ex></expan> 
+
+    <lb n="2"/><expan><ex>ὑπὲρ</ex></expan> <choice><reg><expan>διαγραφ<ex>ῆς</ex></expan></reg><orig><expan>διακραφ<ex>ῆς</ex></expan></orig></choice> Παρεβω
+
+    <lb n="3" break="no"/><supplied reason="lost">λ</supplied>ῆς <num value="1">α</num> <choice><reg><expan>κ<ex>ανόνος</ex></expan></reg><orig><expan>κω<ex>ανόνος</ex></expan></orig></choice> <gap reason="lost" quantity="4" unit="character"/>σια κεράτια 
+
+    <lb n="4"/>ἓξ <expan><ex>κεράτια</ex></expan> <num value="6">ϛ</num> <g type="stauros"/> <expan>δ<ex>ι</ex></expan> ἐμοῦ <expan>πετ<g type="apostrophe"/>τηρ<ex>ίου</ex></expan> 
+
+    <lb n="5"/><expan>γί<ex>νεται</ex></expan> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <expan><ex>κεράτια</ex></expan> <num value="2">β</num> <hi rend="supraline">δύο</hi> </ab></div>

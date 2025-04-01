@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>λόγος χαλκῶν 
+
+    <lb n="2"/><num value="6">ϛ</num> ὄψον <num value="2"><expan><ex>διώβολον</ex></expan></num> 
+
+    <lb n="3"/><choice><reg>παιδαρίο<supplied reason="omitted">ι</supplied>ς</reg><orig>παιδαρίος</orig></choice> <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/4" rend="tick">δ</num> 
+
+    <lb n="4"/><del rend="erasure"> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> </del> <expan><ex>ὀβολοῦ τέταρτον</ex></expan> <num value="1/4"/> 
+
+    <lb n="5"/><num value="7">ζ</num> λάχανα <expan><ex>ὀβολοῦ τέταρτον</ex></expan> <num value="1/4"/> </ab></div>

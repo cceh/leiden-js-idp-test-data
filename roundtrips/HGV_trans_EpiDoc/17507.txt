@@ -1,0 +1,10 @@
+
+            <T=.en
+            <=
+               ((1)) Measured to the public account from the produce of the past 8th year of our lords the Valeriani and Gallienus, 
+               Augusti, through the granary of the district of Seruphis in the western toparchy by Spartiates also called Chaeremon, 
+               ex-gymnasiarch, through Agathus, a deposit of a hundred artabae. Signed by me, Aurelius Sarapion, decemprimus, 100 art. 
+               /*Translation: A.S. Hunt, P.Oxy. 17 2126*/
+            =>
+         =T>
+        

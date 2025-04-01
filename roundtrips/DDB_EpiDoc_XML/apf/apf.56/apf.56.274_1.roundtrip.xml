@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><choice><reg>ὑπατείας</reg><orig><unclear>ὑπ</unclear>ατίας</orig></choice> τοῦ δεσπότου ἡμῶ<supplied reason="lost">ν Ὁνορίου</supplied>
+
+    <lb n="2"/><unclear>τ</unclear>οῦ αἰωνίου <choice><reg>Αὐγούστου</reg><orig>Ἀγούστου</orig></choice> τὸ <num value="11">ια</num> <unclear>κ</unclear><supplied reason="lost">αὶ Φλαουίου</supplied>
+
+    <lb n="3"/><choice><reg>Κωνσταντίου</reg><orig>Κωσταντίου</orig></choice> τοῦ <expan>λαµπρ<ex>οτάτου</ex></expan> π<supplied reason="lost">ατρικίου</supplied> <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
+
+    <lb n="4"/>ὁµολογεῖ Αὐρήλιος <hi rend="diaeresis">Ἰ</hi><unclear>σι</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <choice><reg cert="low">ἐλαιουργός</reg><orig><unclear>αιλ</unclear>ε<unclear>ουργω</unclear><gap reason="illegible" quantity="1" unit="character"/></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab> </div>

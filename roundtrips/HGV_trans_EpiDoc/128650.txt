@@ -1,0 +1,10 @@
+
+         <T=.de
+            <=
+((1))Im dritten (?) Jahr des Imperator Caesar … am 14. des Monats Dystros, am. 14. Tybi, in … der … Meris des arsinoitischen Gaues. Es bekundet Heron, 
+((5))Sohn des NN, Perser der Abstammung nach, ungefähr X Jahre alt, Kennzeichen an der rechten Seite seines Stirnes, gegenüber NN, Tochter des NN, ungefähr vierundfünfzig Jahre alt, mit ihrem Sohn Sokrates, dem Sohn des NN, als Vormund … ungefähr fünfundzwanzig Jahre alt, Kennzeichen …, 
+((10))daß er von ihr persönlich aus ihrem Haus fünf-… Silberdrachmen und X Artaben an neuem, reinen, unverfälschten Weizen im Vier-Choinix-Maß erhalten hat, deren beider Rückgabe soll Heron der NN im Monat 
+((15))Payni des laufenden dritten (?) Jahres aus dem Ernteertrag desselben Jahres machen …
+            =>
+         =T>
+      

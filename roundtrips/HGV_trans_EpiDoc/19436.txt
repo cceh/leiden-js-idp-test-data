@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.1 
+               <=
+                  [Translation from Johnson, Ancient Egypt 1933, Kol. I] Edict of the Emperor Caesar Marcus Aurelius Severus Antoninus Augustus. But now I must rather refer to divine power the reasons and reflections whereby I should worthily show my gratitude to the gods for preserving me in safety in the midst of such peril. Wherefore I believe that thus I am able to render proper service to their majesty in dignified and reverent worship if I bring with me to share in sacrifice to the gods as many myriads as owe obedience to me. Accordingly I bestow Roman citizenship on all my subjects throughout the world, no one except the dediticii being denied the rights of citizenship. For it is proper that my people should not only share in the common burdens (of citizenship) but should also share in the joy of my victory. This ordinance shall extend (?) the might of the Roman people since that same honour has been granted to others whereby the Romans have been held in honour – . 
+               =>
+            =D>
+            <D=.2 
+               <=
+                  [Translation from Lewis, Life in Egypt 1983, Kol II, lines 17-30] All Egyptians who are in Alexandria, and particularly country folk who have fled thither from elsewhere and can easily be identified, are absolutely by every means to be expelled, not, however, dealers in pigs and river-boat men and those who bring in reeds ((20))for heating the baths. But expel all the rest, who disturb the city by their very numbers and their lack of occupation. I am informed that at the festival of Sarapis and on certain festal days – and even on other days as well – Egyptians observe the custom of bringing in bulls and some other animals for sacrifice. They are not to be prevented from coming for that. The ones to be prevented are those who flee the countryside where they belong in order ((25))to avoid farmwork, not those who converge upon Alexandria out of a desire to view the glorious city or come here in pursuit of a more cultured existence or on occasional business. 
+And further along: Amongst the linen weavers the true Egyptians can easily be recognized by their speech, which reveals that they are affecting the appearance and dress of others. What is more, in the way they live their manners, ((30))the opposite of urbane behavior, reveal them to be Egyptian rustics. 
+               =>
+            =D>
+         =T>
+      

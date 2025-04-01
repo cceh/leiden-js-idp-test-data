@@ -1,0 +1,30 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/>διὰ τοῦ <num value="5">ε</num> βρεβίου 
+
+    <lb n="2"/>διπλᾶ <g type="unintelligible"/>  <num value="88">πη</num> 
+
+    <lb n="3"/>διὰ τοῦ <choice><reg cert="low">πραι<supplied reason="omitted" cert="low">πο</supplied>σίτου</reg><orig>πραισίτου</orig></choice> <g type="unintelligible"/> <expan>διπλ<ex>ᾶ</ex></expan> <num value="150">ρν</num> 
+
+    <lb n="4"/>διὰ τοῦ <choice><reg>στατιωναρίου</reg><orig>στατιωναρίω</orig></choice> 
+
+    <lb n="5"/><expan>διπλ<ex cert="low">ᾶ</ex></expan> <num value="104">ρδ</num> καὶ <expan>κολ<ex>οφώνια</ex></expan> <num value="16">ιϛ</num> 
+
+    <lb n="6"/><num value="29">κθ</num>. 
+
+    <lb n="7"/>Θὼθ <num value="17">ιζ</num> <expan>διπλ<ex cert="low">ᾶ</ex></expan> <num value="3160"><unclear>Γ</unclear>ρξ</num> <expan>λιμ<ex>ιτανέος</ex></expan> <num value="19">ιθ</num> 
+
+    <lb n="8"/><num value="18">ιη</num> <expan>διπλ<ex>ᾶ</ex></expan> <num value="115">ριε</num> 
+
+    <lb n="9"/>δοῦλος <expan>πρα<ex cert="low">ιποσίτου</ex></expan> <expan>διπ<ex>λοῦν</ex></expan> <num value="1">α</num> 
+
+    <lb n="10"/><subst><add place="inline"><abbr>σαρατουρ</abbr></add><del rend="corrected">σαρα<del rend="erasure">σ</del>τουρ</del></subst> <expan>διπ<ex>λᾶ</ex></expan> <num value="3">γ</num> 
+
+    <lb n="11"/><abbr>Νιλάμμων</abbr> <expan>κολ<ex>οφώνιον</ex></expan> <num value="1">α</num> 
+
+    <lb n="12"/>διὰ <choice><reg>Πυθιοδώρου</reg><orig>Ποιθιοδώρου</orig></choice> 
+
+    <lb n="13"/><num value="19">ιθ</num> <expan>διπλ<ex>ᾶ</ex></expan> <num value="20">κ</num> 
+
+    <lb n="14"/><gap reason="lost" quantity="1" unit="character"/> <abbr>δ</abbr> <abbr>λε</abbr>. </ab></div>

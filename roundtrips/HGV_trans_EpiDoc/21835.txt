@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Athanasius to Sarapion, agent, greeting. Give Gennadius the carpet-maker for the price of a carpet on the occasion of the visit of the dux 2,250,000 denarii, equivalent to 1,500 talents. I pray for your health. The 45th, 27th, and 11th year, Tubi 8.
+            =>
+         =T>
+      

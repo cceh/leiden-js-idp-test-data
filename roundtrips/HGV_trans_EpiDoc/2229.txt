@@ -1,0 +1,33 @@
+
+         <T=.en
+            <D=.A 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.FrA 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.B 
+               <=
+                  ((1)) (lines 10–20) ... Neither any of the stratêgoi nor of the epistatai nor of the epimelêtai nor of the praktores nor of the chrêmatistai 
+nor of the oikonomoi nor of the [ --- ] nor of the others tending to business in charge of royal or civic or priestly matters is to arrest anyone 
+for a private debt or (private) wrongdoing, nor is any of these officials to detain, either in homes or other places because of a private hatred, 
+free men; but they are to bring them up….
+(J. Bauschatz, Law and Enforcement, p. 250)
+               =>
+            =D>
+            <D=.C,1 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.C,2 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,10 @@
+
+            <T=.en
+            <=
+               ((1))Philonides to his father, greetings. I hope you are in good health; I am well too. 
+((2))Also in our previous letters we have written you that we have neither the [...] nor the linen cloths. As soon as we get them, [we will [send them. 
+((3))You should know that Sat]yros is in Memphis, ill, and that [he is staying in] the Asklepieion. Greetings. [Year ...], Pharmouthi [...].
+               /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 38, © Peeters*/
+            =>
+         =T>
+        

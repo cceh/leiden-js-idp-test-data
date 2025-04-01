@@ -1,0 +1,28 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="3" unit="character"/> 
+
+    <lb n="2"/>Ἁθὺρ <gap reason="lost" quantity="2" unit="character"/>λομαους ἀρ<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><choice><reg>ξύλα</reg><orig>ξύλ<add place="above">λ</add>α</orig></choice> <expan><ex>δραχμὰς</ex></expan> <num value="8">η</num> <expan>ὑπ<ex>ὲρ</ex></expan> φυλάκ<supplied reason="lost">ων </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>τῷ <choice><reg>ἀκταρίῳ</reg><orig>ἀκταριος</orig></choice> <expan>Ῥόδ<ex>ια</ex></expan> <num value="2">β</num><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>τῷ <choice><reg>ἀκταρίῳ</reg><orig>ἀκταριος</orig></choice>  <num value="1">α</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>εἰς <abbr><unclear>ἁ</unclear>ρμ</abbr> <expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num> διὰ Ἀς<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>τῷ <abbr>νεακ</abbr> <expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/>Ἁθὺρ <num value="21">κ<unclear>α</unclear></num> εἰς ακον <expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><expan>Ἁθ<ex>ὺρ</ex></expan> <num value="25">κε</num> δι<supplied reason="lost">ὰ</supplied> Πελοῦε καὶ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/>εἰς <supplied reason="lost">β</supplied>αλανεῖον <expan><ex>δραχμὰς</ex></expan> <num value="2">β</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/><num value="26">κϛ</num> <supplied reason="lost">εἰ</supplied>ς ακον <expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/><expan>Ῥόδ<ex>ια</ex></expan> <num value="1">α</num> <expan><ex>δραχμὰς</ex></expan> <num value="6">ϛ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num> ἄρτ<supplied reason="lost">οι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>Ῥόδ<ex>ια</ex></expan> <num value="1">α</num> <expan><ex>δραχμὰς</ex></expan> <num value="6">ϛ</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num> <expan><ex>δραχμὰς</ex></expan> <num value="7">ζ</num> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>

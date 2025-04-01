@@ -1,0 +1,23 @@
+<S=.la
+<D=.a+b.fragment<=
+1. lost.?lin
+1. *dash*[.?]
+2. *dash*[.?]
+3. *dash*[.?]
+4. *dash* A[.?]
+5. *dash* Si[.?]
+6. *dash* A[.?]
+7. *dash* A[.?]
+8. *dash* Pl[.?]
+8. lost.?lin
+9. *dash* G[.?]
+10. *dash* Au[rel(?)] [.?]
+10. lost.?lin
+=>=D>
+<D=.c.fragment<=
+1. lost.?lin
+1. Becchu[f(?)] [.?]
+2. lost.1lin
+3. *dash*[.?]
+3. lost.?lin
+=>=D>

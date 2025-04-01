@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              ...of my debtors Theon and Pekusis sons of Ammonius, Theon of the half of a one-storeyed house and court, and Pekusis of an eighth part of another house and courts and yard, with the other conditions contained in the memorandum of transfer. When I therefore pursued my right of entry upon the transferred property, I found that the father of the debtors, Ammonius son of Ammonius, had presented to you a memorandum by means of which he hoped that my execution might be prevented, wherein he vainly relates that he was ignorant of the securities which had been given to me, and that he has had hypothecated to himself...
+            =>
+         =T>
+      

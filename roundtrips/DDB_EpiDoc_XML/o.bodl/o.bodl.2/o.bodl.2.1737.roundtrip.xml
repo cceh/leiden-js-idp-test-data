@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><choice><reg>κοπριζει<unclear>τ</unclear></reg><orig>κοπριδει<unclear>τ</unclear></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><expan><ex>γίν  </ex></expan> <expan>ἀνδ<ex>ρ  </ex></expan> <num value="5">ε</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><num value="22">κβ</num> <expan>ἀνδ<ex>ρ  </ex></expan> <num value="1">α</num> ὑδραγ<unclear>ω</unclear><supplied reason="lost">γ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><num value="23">κγ</num> <expan>ἀνδ<ex>ρ  </ex></expan> <num value="1">α</num> ὑδραγω<unclear>γ</unclear><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

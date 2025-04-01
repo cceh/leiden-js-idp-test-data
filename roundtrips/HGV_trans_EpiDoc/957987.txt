@@ -1,0 +1,20 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1)) Ont été mesurées et embarquées pour le compte de Minos [...]
+                  (((2))) sur le bateau du monastère de la Métanoia, représenté par le très pieux abba [...], moine
+                         et diaconète, au titre de l’annone de la troisième indiction [...] pour
+                         la ville, meris des gloriosissimes Komêtas et Athanasios, ((4)) pour [...],
+                         deux artabes un sixième de blé pur, ((5)) total: 2 1/6 art. de blé pur seulement, frais de transport
+                         et taxe de 1% inclus – artabes qui [...].
+                  (((8))) Par moi, Philippe, secrétaire [...].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((9)) [...] de Minos, 2 1/6 artabes de blé. /*Translation with minor modifications: J.-L. Fournet, JJP 50 (2020) 116*/
+               =>
+            =D>
+         =T>
+      

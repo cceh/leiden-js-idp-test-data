@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    Sigillios to Firmus, many greetings. I want you to know ... of linen ... of wool ....
+                =>
+            =T>
+        

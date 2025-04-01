@@ -1,0 +1,5 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><app type="alternative"><lem><num atLeast="11" atMost="29"><gap reason="illegible" quantity="2" unit="character"/></num></lem><rdg><num atLeast="21" atMost="29"><unclear>κ</unclear><gap reason="illegible" quantity="1" unit="character"/></num><certainty match=".." locus="value"/></rdg></app> Θὼθ <expan>δι<ex>ὰ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><expan>κριθ<ex>ῆς</ex></expan> <expan><unclear>μ</unclear><ex>άτια</ex></expan> <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><choice><reg>σεσημείωμαι</reg><orig>σεσημίω<unclear>μαι</unclear></orig></choice> Σερ<supplied reason="lost">ῆνος</supplied></ab></div>

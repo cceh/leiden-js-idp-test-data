@@ -1,0 +1,14 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 41. 
+            <term target="cleruchy">Kleruchie</term>.  Komôn, vaterlos, für 1/2 
+            <term target="aroura">Arure</term> <app type="BGU"><lem resp="BL I, S. 20"><term target="basilikege">Königsland</term> 
+                bei Patsôntis </lem></app>.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>From the seed reserves of year 22 of Antoninus Caesar, the lord. 41st 
+            <term target="cleruchy">cleruchy</term>. Komon, father unknown. At 
+            <app type="BGU"><lem resp="BL I 20">Patsontis</lem></app> 1/2 an <term target="aroura">aroura</term> 
+            of <term target="basilikege">royal (land)</term>.
+        </p></div>
+      </body>

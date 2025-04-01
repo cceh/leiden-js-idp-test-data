@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              To ... from Diemous daughter of Colluthus, of the city of Oxyrhynchus], with her euardian Sarapion son of ..., of the said city .... I shut up the door of my house and the door of the terrace, and on my return I found that a box which I had in the terrace had been unfastened and that there had been abstracted from it two gold bracelets of the weight of four minae, a gold figure of Bes, and two large silver bracelets, and that the door of the terrace had been lifted. As I have some suspicion against my neighbours Heras son of Kalathus, weaver, and those working with him, because my house is easy of access from the house of Heras, I present this petition and request that, if you think fit, you should come for a personal inspection, and that Heras and his associates, whose names he will himself give, should be brought before you and the proper inquiry made, in order that I may be able with your assistance to discover my property. /*Date and signature of Diemous written for her by Sarapion.*/
+            =>
+         =T>
+      

@@ -1,0 +1,23 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Polykrates to his father, greetings. If you are in good health and everything else is as you wish,
+                         this would be fine. We are in good health too. I have often written to you to come over and introduce
+                         me, so that I may be relieved from my present unemployment. And now, if it is possible and
+                         nothing of the works prevents you, try to come for the Arsinoeia. I am convinced that if you come,
+                         I will be easily introduced to the King. ((5)) Know that I have received from Philonides 70 drachmas.
+                         From this I have left half for daily expenses, the remainder I have paid for the loan. That happens
+                         because we do not get all our money at once, but in small instalments. Do write us yourself also,
+                         so that we may know how you are and so that we do not worry. Take care of yourself that you may
+                         be well and that you may come to us in good health. Respectfully.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((10)) To Kleon.
+                           /*Translation: B. Van Beek, P.Petr. Kleon 13*/
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,30 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1" rend="indent"/><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>
+
+    <lb n="2" rend="indent"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>ἔτους <num value="2"><unclear>β</unclear></num> Μεχεὶρ <num value="2"><hi rend="supraline">β</hi></num>
+
+    <lb n="4"/>βασιλεύοντος Πτολεμαίου τοῦ Πτολεμαίου
+
+    <lb n="5"/>καὶ Ἀρσινόης θεῶν Φιλοπατόρων ἔτους <num value="2"><unclear>β</unclear></num>
+
+    <lb n="6"/>Μεχεὶρ <num value="2"><hi rend="supraline">β</hi></num>, ὁμολογῶ <add place="above">Ἀλέξανδρος Ἀντιγόνου</add> ἔχειν ἀπὸ τῆς ἐν Κροκοδ<unclear>ί</unclear>
+
+    <lb n="7" break="no"/>λων πόλει τραπέζης ἐφʼ ἧς Ἡλιόδωρος <expan><ex>τάλαντα</ex></expan> <num value="5">ε</num> θε
+
+    <lb n="8"/>μα<unclear>τ</unclear>ισθέν μοι θέμα παρὰ Φιλοξένης Θράισση<supplied reason="lost">ς</supplied>
+
+    <lb n="9"/><unclear>τ</unclear>ῆς Ἐπικράτους ἀνθʼ ὑπερβολίου οὗ <choice><reg>ἐποιήσατο</reg><orig>ἐποήσατο</orig></choice>
+
+    <lb n="10"/><num value="1"><hi rend="supraline">α</hi></num> <unclear>το</unclear>ῦ ἐνεστῶτος μηνὸς <expan>Με<ex>χεὶρ</ex></expan> παιδίσκης δ<unclear>ο</unclear><supplied reason="lost">ύ</supplied>
+
+    <lb n="11" break="no"/>λης ἧς <choice><reg>ἐπριάμην</reg><orig>ἐπ<unclear>ρι</unclear>άμη<unclear>ς</unclear></orig></choice> παρὰ Θεο<unclear>δο</unclear>σίας τῆς Ἰάσον<unclear>ος</unclear>· <gap reason="illegible" quantity="2" unit="character"/>
+
+    <lb n="12"/><gap reason="lost" quantity="5" unit="character"/>το ὑπε<unclear>ρβ</unclear>όλιον ὃ ὑπερέβαλον καὶ τη<unclear>ς</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><del rend="erasure"><gap reason="illegible" quantity="7" unit="character"/>β<gap reason="illegible" quantity="1" unit="character"/></del><unclear>σ</unclear><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ασεξ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="14"/><choice><reg><gap reason="lost" extent="unknown" unit="character"/>σημει<unclear>ω</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></reg><orig><gap reason="lost" extent="unknown" unit="character"/>σημι<unclear>ω</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></orig></choice>
+</ab></div>

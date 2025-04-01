@@ -1,0 +1,11 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><g type="stauros"/> ⲡⲉⲛⲉⲓⲱ<supplied reason="lost">ⲧ ⲡⲉⲧⲥϩⲁⲓ <hi rend="supraline">ⲙ</hi>ⲡϥϣⲏⲣⲉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>ⲡⲁ ⲧ<choice><reg xml:lang="grc">διακονία</reg><orig>ⲇⲓⲁ<supplied reason="lost">ⲕⲟⲛⲓⲁ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲧⲓ ⲟⲩ<choice><reg xml:lang="grc">κάδος</reg><orig>ⲕⲁⲇⲟⲥ</orig></choice></supplied>
+
+    <lb n="3"/>ⲛⲏⲣ<hi rend="supraline">ⲡ</hi> ⲛϣ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><foreign xml:lang="grc"><expan>γί<ex>νεται</ex></expan> <expan>οἴν<ex>ο</ex>υ</expan> <expan>κ<ex>ά</ex>δ<ex>ος</ex></expan> <num value="1"><unclear>α</unclear></num>. <expan>μ<ex>ηνὸς</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></foreign>
+
+    <lb n="5"/><g type="stauros"/> ⲇⲁⲛⲓⲏⲗ <choice><reg xml:lang="grc">στοιχεῖν</reg><orig><expan>ⲥⲧⲟⲓⲭ<ex>ⲉⲓ</ex></expan></orig></choice> <app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><supplied reason="lost"><space extent="unknown" unit="character"/></supplied></rdg></app> </ab></div>

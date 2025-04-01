@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              From Seuthes to Sarapion, cultivator, greeting. Give Heraclius, donkey-driver, one artaba of vegetable seed by oil-makers’ measure, total 1 art. Good-bye. The 9th which
+              = the 8th which = the 1st year. Mesore 30.
+            =>
+         =T>
+      

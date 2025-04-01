@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Θὼτ <num value="3"><hi rend="supraline">γ</hi></num> 
+<lb n="2"/>Μάρωνι <num value="5"><hi rend="supraline">ε</hi></num>
+<lb n="3"/>Ἥρᾳ <num value="3"><hi rend="supraline">γ</hi></num>
+<lb n="4"/>Ῥώμῃ <num value="5"><hi rend="supraline">ε</hi></num>
+<lb n="5"/>Εὐτύχῃ <num value="5"><hi rend="supraline">ε</hi></num>
+<lb n="6"/>Τραιανῇ <num value="7"><hi rend="supraline">ζ</hi></num>
+<lb n="7"/>Φιλοσεράπι <num><hi rend="supraline"><gap reason="lost" extent="unknown" unit="character"/></hi></num>
+<lb n="8"/>κρηπεῖδι <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/>Λουτῆρι <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="10"/>Μέσῃ <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="11"/><app type="alternative"><lem><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>στ</unclear><supplied reason="lost">ομωτηρίῳ</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+<lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+     </div>

@@ -1,0 +1,39 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>ὑπ<ex>ὲρ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>Φαμ<unclear>εν</unclear>ὼθ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>πρ<unclear>ο</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>ε<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><space extent="unknown" unit="character"/> 
+
+    <lb n="6"/><handShift new="m2"/> ἔτο<supplied reason="lost">υς <num value="7">ζ</num> Αὐτοκράτορος Καίσαρος Τίτου</supplied> 
+
+    <lb n="7"/>Α<unclear>ἰλ</unclear><supplied reason="lost">ίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς </supplied><gap reason="lost" extent="unknown" unit="character"/>. <expan><unclear>διέγ</unclear><ex>ραψεν</ex></expan> Φ<unclear>α</unclear>ν<supplied reason="lost" cert="low">ομγεὺς</supplied>  
+
+    <lb n="8"/><expan><supplied reason="lost">ὑ</supplied>π<ex>ὲρ</ex></expan> κα<unclear>τ</unclear>ʼ <supplied reason="lost">ἄνδρα <expan>ζυτ<ex>ηρᾶς</ex></expan> δραχμὰς τέσσαρας</supplied>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num>, ὁμ<supplied reason="lost">οίως</supplied> 
+
+    <lb n="9"/>Φαρμο<supplied reason="lost">ῦθι      </supplied><gap reason="lost" quantity="15" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> Παχ<unclear>ὼ</unclear>ν <num value="13">ιγ</num> φ<unclear>ο</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/>καὶ ἄλλ<supplied reason="lost">ων <unclear>εἰδῶν</unclear> <expan>δραχ<ex>μὰς</ex></expan> τέσσαρα</supplied><unclear>ς</unclear>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num>, <expan>Μεσο<ex>ρὴ</ex></expan> <expan>ἐπαγ<ex>ομένων</ex></expan> <num value="4">δ</num> <expan><unclear>ὑ</unclear><supplied reason="lost">π<ex>ὲρ</ex></supplied></expan> 
+
+
+    <lb n="11"/><supplied reason="lost">το</supplied>ῦ <expan><unclear>αὐ</unclear><ex>τοῦ</ex></expan> <num value="7">ζ</num> <supplied reason="lost">ἔτ</supplied><unclear>ο</unclear><supplied reason="lost">υς      </supplied><gap reason="lost" quantity="12" unit="character"/> 
+
+    <lb n="12"/><space extent="unknown" unit="character"/> 
+
+    <lb n="12"/><handShift new="m3"/> <unclear>ἔ</unclear><supplied reason="lost">τους ὀγδόου Αὐτοκρ</supplied>άτορος Καίσαρος Τίτου 
+
+    <lb n="13"/><supplied reason="lost">Αἰλίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ Εὐσε</supplied>βοῦς, <expan>Ἁδριαν<ex>οῦ</ex></expan> <num value="12">ιβ</num>. 
+
+    <lb n="14"/><supplied reason="lost"><expan>διέγρ<ex>αψεν</ex></expan> <unclear>Φανομγεὺς</unclear> Φανομγέως τοῦ Πεθέως <expan>ὑπ<ex>ὲρ</ex></expan> </supplied><expan><supplied reason="lost">ζυ</supplied><unclear>τ</unclear><ex>ηρᾶς</ex></expan> κατʼ <supplied reason="lost"><expan>ἄνδ<ex>ρα</ex></expan></supplied> ἄλλας <expan><ex>δραχμὰς</ex></expan> <expan>τ<ex>έσσαρας</ex></expan>, <expan><ex>γίνονται</ex></expan> <expan><ex cert="low">δραχμαὶ</ex></expan> <num value="4">δ</num>, 
+
+    <lb n="15"/><gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" quantity="15" unit="character"/><supplied reason="lost">     δραχμὰς τρεῖς <num value="4"><expan><ex>τετρώβολον</ex></expan></num>, <expan><ex>γίνονται</ex></expan></supplied> <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>, Μεσορὴ <num value="3">γ</num> 
+
+    <lb n="16"/>φ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="15" unit="character"/><supplied reason="lost">     δραχμὰς τρεῖς</supplied> <num value="3"><expan><ex>τριώβολον</ex></expan></num>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num>, <num value="9">θ</num> <expan><ex>ἔτους</ex></expan> Θ<unclear>ὼ</unclear><supplied reason="lost">θ  </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="17"/><expan>ἐπ<unclear>ι</unclear><ex cert="low">μερισμοῦ</ex></expan> <gap reason="lost" quantity="15" unit="character"/> </ab></div>

@@ -1,0 +1,40 @@
+<S=.la
+<D=.surface.interior<= 
+    1. [.?].1n m.1[.?]
+
+    2. [.?]n c[.?]
+
+    3. vestig.2lin 
+
+    5. [.?]r ((centenarius)) <#XLXXXỊỊ=#>
+    =>=D> 
+<D=.surface.exterior<= 
+    1. ((centenarius?)) [.?] [(p(ondo)) (l(ibras))] [.?] 
+
+    2. ((centenarius)) Obbaḷụṣ [(p(ondo)) (l(ibras))] [.?]
+
+    3. ((centenarius)) Mẹtrịạnus (p(ondo)) (l(ibras)) <#VIIICCCC̣XX̣=8420#>
+
+    4. ((centenarius)) Lạmpạdius (p(ondo)) (l(ibras)) <#ĪĪĪCC=3200#>
+                    
+    5. ((centenarius)) Marinus (p(ondo)) (l(ibras)) <#V̄ĪĪDCCCḶXVIII=7868#>
+                    
+    6. ((centenarius)) Ṭuṭus (p(ondo)) (l(ibras)) <#((mille)) CCCC=1400#>
+                    
+    7. ((centenarius)) .7 (p(ondo)) (l(ibras)) .6
+                    
+    8. ((centenarius)) Ḷịṿịạṇụs (p(ondo)) (l(ibras)) <#((mille)) D[.?]=1500-?#>
+                    
+    9. ((centenarius)) .3n.1 (p(ondo)) (l(ibras)) <#((mille?)) .1[.?]=1000-?#>
+                    
+    10. ((centenarius)) Ḅ.4 (p(ondo)) (l(ibras)) [.?] 
+                    
+    11. ((centenarius)) (N.4an(u)s) .2XV.1 (p(ondo)) (l(ibras)) <#IIIIC̣C̣XIIII=4214#>
+                    
+    12. ((centenarius)) .3du.1us (p(ondo)) (l(ibras)) <#ĪĪX.1=2010-?#>
+                    
+    13. ((centenarius)) Ig̣nu.4 (p(ondo)) (l(ibras)) <#ĪĪĪĪCC=4200#> 
+                    
+    14. (f(ieri)) (n̄(umero)) ((centenaria)) <#C̄C̄C̄C̄XLII=442#> (p(ondo)) (l(ibras)) <#XCIII=93#>
+
+    =>=D> 

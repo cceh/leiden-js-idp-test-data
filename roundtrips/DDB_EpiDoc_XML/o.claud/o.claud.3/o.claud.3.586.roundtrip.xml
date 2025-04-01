@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><supplied reason="lost">Θεόπομπος Διο</supplied>σκ<supplied reason="omitted">ό</supplied>ρου <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" quantity="8" unit="character"/><choice><reg><supplied reason="lost">ὁμο</supplied>λογῶ</reg><orig><supplied reason="lost">ὁμο</supplied>λωγῶ</orig></choice> <unclear>εἰλ</unclear><supplied reason="lost">ηφέναι </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> ὑ</supplied>πὲρ μηνὸς Φ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><gap reason="lost" quantity="11" unit="character"/>τα ἔτου<supplied reason="omitted">ς</supplied> <expan><ex>ἔτους</ex></expan> <num value="8"><unclear>η</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

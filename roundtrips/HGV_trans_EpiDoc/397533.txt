@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.i.column 
+               <=
+                  ((8)) … and Castrensis the slave of (?), column 31, … 
+               =>
+            =D>
+            <D=.ii.column 
+               <=
+                  ((2)) Pamas, son of T[ ], column 5, Pauni …; column 18, Thoth …, Peteesis …; column 19, Epeiph …, Herakles …,
+                  ((8)) Esouris son of A[ ] …; column 8 Epeiph …, ? column 20, Athyr 12 …, Ptolemaios …, column, 12 Mesore …, Sabinus …,
+                ((14)) Satabous …; column 6 Pauni 2 …, column 20, Hathyr …
+                         /*Translation: N. Reggiani, P.Cair.Mich. 2 12 F*/
+               =>
+            =D>
+         =T>
+      

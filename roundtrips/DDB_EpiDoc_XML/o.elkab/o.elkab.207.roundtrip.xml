@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" quantity="1" unit="line"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> τοῦ κυρίου <expan><ex>δραχμὰς</ex></expan> <num value="16">ιϛ</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan><ex>ἔτους</ex></expan></supplied> <num value="4">δ</num> Φαρμοῦ<supplied reason="lost">θι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><handShift new="m2"/> <expan>Βήσιο<ex>ς</ex></expan> ἐχ<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan>μερισ<ex>μοῦ</ex></expan> 
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <num value="15"><unclear>ι</unclear>ε</num> <expan>χω<ex>ματικοῦ</ex></expan> <note xml:lang="en">?</note></ab></div>

@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    … myrrh and pepper … Greetings from … and Serapous and … . Greet Satorneilos … . … security … . Pauni 20-29 … .
+                =>
+            =T>
+        

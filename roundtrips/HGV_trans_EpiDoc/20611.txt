@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Hierax, strategus of the Oxyrhynchite nome, to Claudius Serenus, assistant. A copy of the application which has been presented to me by Leonides also called Serenus is herewith sent to you. Take a public physician and view the dead body referred to, and having delivered it over for burial make a report in writing. Signed by me. The 23rd year of Marcus Aurelius Commodus Antoninus Caesar the lord, Athur 7.
+              To Hierax, strategus, from Leonides also called Serenus, whose mother is stated as Tauris, of Senepta. At a late hour of yesterday the 6th, while a festival was taking place at Senepta and the castanet-players were giving their customary performance at the house of Plution my son-in-law ..., his slave Epaphroditus, aged about 8 years, wishing to lean out from the bed-chamber(?) of the said house and see the castanet-players, fell and was killed. I therefore present this application and ask you, if it please you, to appoint one of your assistants to come to Senepta in order that the body of Epaphroditus may receive proper laying out and burial.
+              /*Date and signature of Leonides.*/
+            =>
+         =T>
+      

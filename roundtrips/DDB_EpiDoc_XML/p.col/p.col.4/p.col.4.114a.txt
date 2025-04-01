@@ -1,0 +1,13 @@
+<S=.grc<D=.a<=
+
+    1. lost.?lin
+
+
+    1. *parens-middle-opening* κατὰ λοιπὰ σοὶ μελέτω
+
+    2. *parens-middle-opening* περὶ ἡμῶν ὅπως μηθένος
+
+    3. *parens-lower-opening* <:ὑστερῶμεν|reg|ὑσστερῶμεν:> 
+
+    (4, indent)ἔρρωσθε
+=>=D>

@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘To Gaius Arrius Priscus, chief of police, from Papus son of Papus. In the month of Pachon of the 20th year of Tiberius Caesar Augustus, as I was talking to Ancherimphis and his wife Thenapunchis, a door-keeper of Euhemeria in the division of Themistes, concerning the tin cups and … and other utensils and the 6o dr. of silver which they thievishly carried off from my house, he subjected me to no common outrage. I entreat you therefore to write to the archephodus of the village to bring them before you for the ensuing punishment. Farewell. 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((20)) (Endorsed) To the archephodus: send them up.’
+               =>
+            =D>
+         =T>
+      

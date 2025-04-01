@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              Theon to his esteemed Tyrannus, many greetings. Heraclides, the bearer of this letter, is my brother. I therefore entreat you with all my power to treat him as your protégé. I have also written to your brother Hermias asking him to communicate with you about him. You will confer upon me a very great favour if Heraclides gains your notice. Before all else you have my good wishes for unbroken health and prosperity. Good-bye.
+              /*Addressed ‘To Tyrannus, dioecetes.*/
+            =>
+         =T>
+      

@@ -1,0 +1,21 @@
+
+         <T=.en
+            <D=.1 
+               <=
+                  ((1)) Dionysodoros to king Ptolemy, greetings. I am wronged by the desmophylax in Kerkesoucha. 
+For I was passing time with my kinsman, Apollonios, and he asked me for certain records which he had given me to watch over; 
+but when I was unable to find these, he, becoming angry with me, thought it fitting that Spinther, the phylakitês in Kerkesoucha, detain me. 
+And he (i.e., Spinther),
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((13)) leading me off to the desmôtêrion there, told the desmophylax the reason for my detention so that, 
+if Apollonios should command it, he (i.e., the desmophylax) might release me. But now he has led me off to the desmôtêrion 
+in Krokodilopolis, claiming that I am a wrongdoer; and though Apollonios thought it fitting that he release me, he did not obey. 
+Wherefore, I need you to [….]
+(J. Bauschatz, Law and Enforcement, p. 139)
+               =>
+            =D>
+         =T>
+      

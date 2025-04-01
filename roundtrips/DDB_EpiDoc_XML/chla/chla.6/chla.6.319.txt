@@ -1,0 +1,107 @@
+<S=.la<D=.FrA,r,1<=
+
+    1. [(Aurel(ius)) Rufinus Iustillo suo] 
+
+    2. [salutem.] 
+
+    3. $m2 (ạc̣[c(epta)]) .2[.?] 
+
+    4. Grat[o et Se]leu[co ]([co(n)]ṣ(ulibus)) 
+
+    5. $m1  quiḍ ṃiḥị scrịber[e] ḍig̣nạṭ[u]s sit 
+
+    6. Antonius Seleucus (u(ir)) *middot* (c(larissimus)) *middot* <:consularis|reg|c[o]s:> noster, 
+
+    7. domine fili, ut scires subiẹc̣i 
+
+    8. et peṭo compellas ordinatum (Aug(ustorum)) 
+
+    9. (n(ostrorum)) <:(liḅ(erti))=Ch.L.A. 48,p.54|ed|(liḅ(ertum)):> equitibus siụ[e] mulionib[us q]ụ[i] 
+
+    10. in (vexiḷl(atione)) Appadanenṣ[i ]([d]eg(unt)) horḍ[eu]ṃ 
+
+    11. ex praedis f̣ịṣc̣alib[u]s dare ṣẹcun
+
+    12.- [dum ][.3].1[.14].4 
+=>=D><D=.FrA,r,2<=
+
+    13. ḥ[ord]ẹuṃ [.?] 
+
+    14. .6[.?] 
+
+    15. dari praẹ.2[.?] 
+
+    16. mem 
+=>=D><D=.Fr,r<=
+
+    17. [.?].4[.1].4[.?] 
+
+    18. [.?][ q]ụaerenda aḅ .1[.?] 
+
+    19. [.?].2eri dign[atu]s .1[.?]
+
+    20. [.?].1[.?] 
+=>=D><D=.FrA,v<=
+
+    1. $m3 [.?].1[.2].2o Iustillo (t[rib(uno)])[ (coh(ortis))] 
+
+    2. ([Aur]el(ius)) Rufinus (proc(urator)) (Aug(ustorum)) (n(ostrorum)) 
+
+    3. (praep(ositus)) (praetent(urae)) 
+=>=D><D=.FrB,r,1<=
+
+    1. (A[u]ṛ[el(ius)])[ Rufinus Iustillo suo] 
+
+    2. [.?] ṣ[alute]m. 
+
+    3. $m2  (acc̣(epta)) [.12]bṛ 
+
+    4. Grạ[to et Seleuco (co(n)s(ulibus))] 
+
+    5. $m1 qui[d] mihi scri[ps]ẹriṭ Anṭọnius 
+
+    6. Se[l]eucụṣ [(u(ir)) *middot*] (c(larissimus)) *middot* <:consularis|reg|cos:> (n(oster)) [do]ṃiṇ[e f]i[l]i ụt
+
+    7. scires subieci et p̣et[o] c̣oṃpel[l]as 
+
+    8. Sozontem librari[u]ṃ (ḷeg(ionis)) xvi (F(lauiae)) [(F(irmae)) An]toni
+
+    9.- n[i]anae satisfacẹre Ha[ni]ṇae. An
+
+    10.- tonius Seleucus (u(ir))*middot* (c(larissimus)) *middot* <:consularis|reg|cos:> (n(oster)) .1[.5]c̣ị[.1]eṛe 
+
+    11. dịg̣ṇaṭus ẹṣt. $m3 op[t]o t[e, d]ominẹ f̣ịḷị, [felicissimum] 
+
+    12. muḷ[tis] annis be[n]e ualeṛ[e.]
+
+    13. [.?].2[.?] 
+
+    14. [.?](|el|) *middot* ṣ[.11].2[.3] 
+
+    15. [.?].1aeq.1[.?]
+
+    16. [.?].1a ad me[.?] 
+=>=D><D=.FrB,r,2<=
+
+    17. .1[.?] 
+
+    18. [.?] 
+
+    19. .1[.?] 
+
+    20. .9[.?] 
+
+    21. coḷlegam .3[.?] 
+
+    22. sente eo.3[.?] 
+
+    23. poterit de.3[.?] 
+
+    24. <:aestimaturum(?)=Ch.L.A. 48,p.54|ed|aestimaturam(?):>
+=>=D><D=.FrB,v<=
+
+    1. $m4 [.?] Iustiḷlo (tr[ib(uno)])[ (coh(ortis))] 
+
+    2. [(Aurel(ius))] Ṛufiṇus (proc(urator)) (Aug(ustorum)) (n(ostrorum))
+
+    3. (p̣ṛaep(ositus)) (praeṭ(enturae)) =>=D>

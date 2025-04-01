@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) The assistants (hyperetai) were appointed thus: on Sunday and Thursday, those from Thmoinepsobthis; on Monday and Saturday, those from Kolobe.
+                      /*Translation: R. Ast, P.Bagnall 2*/
+            =>
+         =T>
+      

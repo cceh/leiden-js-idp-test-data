@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              The year after the third consulship of our masters Crispus and Constantinus, the most illustrious Caesars. To Flavius Sarapion, centurion on the staff of the most eminent catholicus, from Aurelius’ Heracles son of Coelacius, senator of the illustrious and most illustrious city of Oxyrhynchus, superintendent of ... I swear the holy divine oath by our masters the Emperor and Caesars that I have received from the produce of the 12th indiction 24,235 pounds, for the coming visit 10,000 pounds, and for provisioning the most noble soldiers quartered at Babylon under Severianus, praepositus, 14.235 pounds, and the expenses, to carry down and make the distribution of them in ful whenever I am ordered, and I will produce the receipts for the delivery, without giving any cause for complaint; otherwise may I be liable to the penalties of the divine oath. The aforesaid consulship, Tubi 18.
+            =>
+         =T>
+      

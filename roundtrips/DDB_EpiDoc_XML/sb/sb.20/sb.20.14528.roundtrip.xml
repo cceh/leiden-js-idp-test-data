@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <choice><reg><supplied reason="lost">περ</supplied>
+
+    <lb n="2" break="no"/>αιτέρω</reg><orig><supplied reason="lost">περ</supplied><lb n="2" break="no"/><unclear>α</unclear>ητέρω</orig></choice> Ἀραβ<supplied reason="lost">ικά </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="3"/><expan><ex>καὶ</ex></expan> <choice><reg>μικρὰ</reg><orig>μιγρὰ</orig></choice> <num value="17">ιζ</num>
+
+    <lb n="4"/>ἀσταταρία <num value="1">α</num>
+
+    <lb n="5"/>κακάβι<supplied reason="omitted">α</supplied> <num value="3">γ</num>
+
+    <lb n="6"/><expan>ποτώρ<ex>ιον</ex></expan> <expan>πλῆρ<ex>ες</ex></expan> <num value="1">α</num>
+
+    <lb n="7"/>λακά<unclear>ν</unclear>ια <num value="2">β</num>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

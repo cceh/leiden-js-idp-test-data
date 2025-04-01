@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((12))… until the 5th of … of the current 4th
+year of Imperator Caesar Titus Aelius Hadrianus
+Antoninus Augustus Pius. Year 4 of Imperator
+Caesar Titus Aelius Hadrianus Antoninus Augustus
+Pius. Year 4 of Imperator Caesar Titus Aelius
+Hadrianus Antoninus Augustus Pius, Epeiph. I,
+Kastor, registered (it) as aforesaid. /*Translation: N. Gonis, P.Harr. 3 312*/
+            =>
+         =T>
+      

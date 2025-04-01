@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>Τοτοῆς <num value="3"><expan><ex>τριώβολον</ex></expan></num> <supplied reason="lost"><num value="1"><expan><ex>ὀβολὸς</ex></expan></num></supplied> 
+
+    <lb n="3"/>Πανᾶς <num value="4"><expan><ex>τετρώβολον</ex></expan></num> 
+
+    <lb n="4"/>Ταυβάστις <expan><ex>ὀβολὸς</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> 
+
+    <lb n="5"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Demotic</desc></gap>  </ab></div>

@@ -1,0 +1,10 @@
+
+         <T=.de
+            <=
+               ((1)) Wir schwören den gewohnten Eid, daß ... uns ... des Heiligtums des Serapis, des größten Gottes, innerhalb der dort festgefügten Steine, 
+((6)) und daß wir durchführen das seit undenklichen Zeiten Gewohnte. Wenn wir gut schwören, wird es uns wohl ergehen, wenn wir aber schlecht schwören, das Gegenteil.
+(((10))) Im zehnten Jahr des Tiberius Claudius Caesar Augustus Germanicus Imperator, im Monat Neos Sebastos, am xy.
+/*Translation: A. Jördens, P.Louvre 3 177*/
+            =>
+         =T>
+      

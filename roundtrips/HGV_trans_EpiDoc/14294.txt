@@ -1,0 +1,16 @@
+
+         <T=.fr
+            <=
+               ((1))Aurelius Abous, fils d'Asemis, du bourg de Philadelphie, 
+               chef des bergers d'Antonius Philoxenos, le très puissant ancien procurator, 
+((5))à Aurelius Kalamos, fils d'Hatres, du bourg de Sentrepaei, 
+locataire de petit bétail du dit Antonius Philoxenos, salut. 
+(((10)))J'ai reçu de toi, 
+sur celles que tu détiens du notable (Antonius Philoxenos), 
+douze chèvres que j'inscrirai parmi les entrées dans ma comptabilité et, après interrogation, j'ai stipulé.
+(((15)))Aurelius Abous, âgé de 35 ans, cicatrice à la jambe gauche.
+(((18)))L'an 14 de notre maître Gallien Auguste, le 3 de Pachon. 
+/*Translation: from Schwartz, RechPap 3 (1964) p. 57 with the addition of line breaks*/
+            =>
+         =T>
+      

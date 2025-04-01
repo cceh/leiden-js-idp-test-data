@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) Domitius [Phannianus, and] Germanus, collectors of money taxes at Elephantine. Zmithis,
+who is also called [NN], his mother being Thinpsentos, and [NN, ((5)) his mother being] Thinpachoumis,
+each of them [has paid] 4 debased drachmas, = [8 debased drachmas], for the contributions of the
+12th year of Antoninus Caesar the lord, Phamenoth [day]
+/*Translation with slight modifications: Aly, ZPE 212 (2019) 218*/
+            =>
+         =T>
+      

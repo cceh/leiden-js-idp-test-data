@@ -1,0 +1,20 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>(2. Hand) 5
+            <milestone unit="line" n="2" rend="break"/>(1. Hand) An <app type="BGU_DDbDP"><lem resp="BL X, S. 12">[Hêrakl]eidês</lem></app>, 
+            den <term target="basilikosgrammateus">Königlichen Schreiber</term> des 
+            Hêrakleidês-Bezirks des Arsinoïtês,
+            <milestone unit="line" n="4" rend="break"/>von Thermûtharion, Tochter des M[...], registriert im 
+            <term target="amphLin">Leinwebereien-Viertel</term>, mit dem Verwandten Sotas, Sohn 
+            des Dios, als <term target="kurios">Vormund</term> – – –
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>(m. 2) 5
+            <milestone unit="line" n="2" rend="break"/>(m. 1) To <app type="BGU_DDbDP"><lem resp="BL X 12">[Herakl]eides</lem></app>, 
+            <term target="basilikosgrammateus">royal scribe</term> of the Arsinoite nome, 
+            Herakleides division,
+            <milestone unit="line" n="4" rend="break"/>from Thermoutharion, daughter of M[...] registered in the 
+            <term target="amphLin">Linen-factories’ quarter</term> with her 
+            <term target="kurios">guardian</term> and kinsman Sotas, son of Dios, who [...]
+        </p></div>
+      </body>

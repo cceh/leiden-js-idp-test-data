@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><expan>σί<ex>του</ex></expan> <expan>ἀ<unclear>ρ</unclear><supplied reason="omitted">τ</supplied><ex>άβαι</ex></expan> <expan>σί<ex>του</ex></expan> <expan>ἀ<unclear>ρ</unclear><supplied reason="omitted">τ</supplied><ex>άβαι</ex></expan> <expan>σί<ex>του</ex></expan> <expan>ἀρτ<ex>άβαι</ex></expan> <num value="844">ωμδ</num> μ<add place="above"><gap reason="illegible" quantity="1" unit="character"/></add><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><expan>σί<ex>του</ex></expan> <expan>ἀρτ<ex>άβαι</ex></expan> σὺν <expan>θ<ex>εῷ</ex></expan> <expan>γνῶ<ex>σις</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><expan><ex>ὑπὲρ</ex></expan> π<unclear>ά</unclear>κτου <expan>δι<ex>ὰ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><expan><ex>ὑπὲρ</ex></expan> <choice><reg>ἑαυτοῦ</reg><orig>ἑ<unclear>α</unclear>υτ<add place="above">ῷ</add></orig></choice> <expan>δι<ex>ὰ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><g type="stauros"/> <choice><reg><expan>ἔκθ<ex>εσις</ex></expan></reg><orig><expan><unclear>ἔχ</unclear>θ<ex>εσις</ex></expan></orig></choice> τοῦ διαγρ<unclear>ά</unclear><supplied reason="lost">φου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><space extent="unknown" unit="character"/>
+<lb n="7"/><g type="tachygraphic-marks"/>
+<lb n="8"/><g type="tachygraphic-marks"/>
+<lb n="9"/><g type="tachygraphic-marks"/>
+</ab></div>

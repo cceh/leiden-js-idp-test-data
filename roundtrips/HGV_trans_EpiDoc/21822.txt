@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              From Aurelius Eudaemon also called Helladius, formerly eutheniarch, cosmetes, exegetes, hypomnematographus, senator of the most illustrious city of Alexandria, ex-gymnasiarch, senator, prytanis in office of the illustrious and most illustrious city of Oxyrhynchus.
+              The question of the transport of provisions for the most noble soldiers does not admit even a brief delay, and for this reason, and since letters from his excellency the dioecetes Aurelius Proteas, as well as from his excellency Ammonius, are urging us on this matter, and the boats to receive the supplies are already at anchor, it became necessary to summon a special general meeting of the senate at a suitable place, in order that a discussion may be held on this single subject, and the obligations performed as quickly as possible. Accordingly in order that every one, being informed of this, may willingly act as senator (?) to-day, which is the 15th, the letters are publicly exhibited. I thought it right that you should know by this proclamation that I have instructed you, being now in possession of the facts, to assemble swiftly in view of the orders, since no other subject remains for the present meeting, and to vote upon the elections of those who are to serve.
+              The 2nd (?) year, (month) 15.
+            =>
+         =T>
+      

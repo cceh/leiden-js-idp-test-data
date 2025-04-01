@@ -1,0 +1,31 @@
+<S=.grc
+<D=.r<=
+1. Αὐρήλιος ̣.2[ca.4].1 [.?]
+2. <:κυρει|alt|κύριε:> ἔγ̣ρ̣αψ̣α (|π.1|) [.?]
+3. Φαρμοῦθι <#θ̄=9#> *slanting-stroke**slanting-stroke?* <#ι̣ε=15#> (ἰ[ν]δ̣[(ικτίονος)]) [.?]
+4. $m2 *stauros* ὁ κατο[.?]
+5. ὁ κατο[.?]
+6. $m3 ὁ κατο[.?]
+7. $m2 ὁ κατο[.?]
+8. $m3 ὁ κατο[.?]
+9. $m2 ὁ κατο[.?]
+10. $m3 ὁ κατο[.?]
+11. $m2 ὁ κατοι̣[.?]
+12. $m1 Θὼθ *slanting-stroke**slanting-stroke* Μεχεὶρ *slanting-stroke**slanting-stroke* Παῦνι [.?]
+13. Φαῶ̣φι *slanting-stroke**slanting-stroke* Φαμενώθ *middot* Ἐπεί[φ]
+14. Ἁ̣θ̣ύρ̣ *slanting-stroke**slanting-stroke* Φ̣αρμ̣οῦθι *slanting-stroke**slanting-stroke* Μεσ[ορή]
+15. Χοι̣ά̣κ *slanting-stroke**slanting-stroke* Παχών *slanting-stroke**slanting-stroke*
+=>=D>
+<D=.v<=
+
+16.  α̣λ̣ βαλ̣ [γαλ] [.?]
+17.  ελ̣ βε̣λ̣ [γελ] [.?]
+18.  η̣λ̣ βη̣λ [γηλ] [.?]
+19.  [ιλ] β[ι]λ̣ γι̣λ̣ [.?]
+20.  ο̣λ βολ γολ [.?]
+21.  υ̣λ̣ βυλ γυλ [.?]
+22.  ω̣λ̣ β̣ω̣λ̣ γωλ [.?]
+
+
+=>=D>
+      

@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) Numerius to his most honoured brother Longinus, many greetings. Whatever you give to Doras
+                      who brings the ostracon, consider that you are giving it to me. ((7)) As for the bags, do not worry, since
+                      I bring them tomorrow or the day after tomorrow at the latest. But if the caravan comes by, expect
+                      me there. Farewell, most honoured.
+                      /*Translation: A. Bülow-Jacobsen, O.Did. 345*/
+            =>
+         =T>
+      

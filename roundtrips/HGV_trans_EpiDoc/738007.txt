@@ -1,0 +1,17 @@
+
+         <T=.en
+            <=
+               ((1)) Philopator alias Theogenous arouras 27¼ 
+(((2))) artabas of wheat 64½ shoreland of Sok(nopaiou) [Ne]s(os)
+(((3))) Aion son of Syros (ar.) 2 (art. of wheat) 4
+(((4))) Satabous son of Horion and Petesouchos
+(((5))) son of Gameas (ar.) 8 (art. of wheat) 18
+(((6))) Asklas son of Esouris (ar.) [x] (art. of wheat) 4[(?)]
+(((7))) Apynchis son of Syros (ar.) 2 (art. of wheat) [y].
+(((8))) Heron son of Paiamis (ar.) 1 [(art. of wheat) y]
+(((9))) Pnepheros Moueis son of Isch[yras (ar.) x (art. of wheat) y]
+(((10))) [Petes]ouchos son of S[... (ar.) x (art. of wheat) y]. 
+/*Translation: R.P. Salomons, ZPE 204 (2017) p. 200*/
+            =>
+         =T>
+      

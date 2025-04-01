@@ -1,0 +1,17 @@
+
+            <T=.en
+               <=
+                  ((1))For the buildings [...]
+(((3)))for 2000 bricks used for the walls which have been built, at the rate of 80 dr. for 10,000 bricks: 16 dr.
+(((5)))to builders and their assistants: 8 dr.
+(((6)))for mats used in plastering, 270 cubits at 3/4 ob.: 33 dr. 4 1/2 ob.
+(((7)))for plastering at 4 dr. for 100 cubits: 11 dr.
+(((8)))total: 68 dr. 4 1/2 ob.
+(((9)))for the unfinished building (?) near the hay-loft: 2000 bricks (?)
+(((10)))for those who dug the foundation and - - - 
+(((11)))for bricks used for the walls raised in height: 9960 bricks
+(((12)))at a price for 10,000 bricks at 80 (dr.): 79 dr. 4 ob.
+                  /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 252, © Peeters*/
+               =>
+         =T>
+        

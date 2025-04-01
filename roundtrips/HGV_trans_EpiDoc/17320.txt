@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ‘… of the city of Oxyrhynchus, Apolinarius said: “He is a linen weaver by craft, but is bound to be an advocate for a man fulfilling his trade. For he has with him as fellow worker Paul (present here in court), who is his pupil and has come to him to gain practice in his craft. You too, my master, are well aware that these men, by their own activity, are of no small usefulness to the public services. They contribute much to the anabolicum, and you know all that has to be manufactured by them. But in this pressing need the builders take on themselves to regard these men only as idlers (?). They pass over the builder who benefits from their help, and are bent on doing a great wrong to a man who is a peaceful linen weaver. For they are tearing him away from the craft he has learned, and wish to teach him another, the builder’s craft. He has to be guarded in his wife’s house so that no violence may be done to him by the builders. He requests the strategus and logistes to attend to his case.”
+‘Maximianus, vir perfectissimus, iuridicus Aegypti, said: “The strategus and the logistes will take care that in regard to these persons’ charges, if he has learned this craft and is actively engaged in this trade, he is not to be transferred to another.”’
+            =>
+         =T>
+      

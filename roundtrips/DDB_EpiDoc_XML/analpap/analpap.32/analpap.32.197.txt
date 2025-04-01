@@ -1,0 +1,84 @@
+<S=.la
+<D=.i.column<= 
+    1. lost.?lin
+
+    1. ~|[.?].1
+
+    2. [.?]η
+
+    3. <:[.?]α̣παει||alt||[.?] [Π]α̣πάει| [.?] [Τ]α̣πάει:> <#ρϛ=106#>
+
+    4. [.?] <#χμη=648#>
+
+    5. [.?]υ <#ψθ=709#>
+
+    6. [.?]<#σλα=231#>
+
+    7. [.?].1ο̣υ <#υπα=481#>
+
+    8. [.?] <#ρμ=140#>
+
+    9. [.?]
+
+    10. [.?]
+
+    11. [.?]
+
+    12. $m2 [.?] (|[.?]ν̣ι̣ο̣|)
+
+    13. [.?]δ
+
+    14. [.?].6
+
+    15. [.?].1|~grc  
+
+    15. lost.?lin
+=>=D> 
+<D=.ii.column<= 
+    1. lost.?lin
+
+    1. ((centuria)) <#[vii]=7#> ([pi]l(i)) (p̣r(ioris)) [*middot* o]ṿ aṃ[.?]
+
+    2. ((centuria)) [<#vii=7#> (pr(incipis))] (p̣r(ioris)) *middot* ov pọ[.?]
+
+    3. ((centuria)) <#vii=7#> (pr(incipis)) (post(erioris)) ov ḍ.1[.?]
+
+    4. ((centuria)) <#vii=7#> (h(astati)) (pr(ioris)) *middot* ov dị.1[.?]
+
+    5. *slanting-stroke**slanting-stroke* vac.? ov dị[.?]
+
+    6. ((centuria)) <#vii=7#> (h(astati)) (post(erioris)) [o]ṿ ḍ[.?]
+
+    7. ((centuria)) <#[v]iii=8#> (pil(i)) (pr(ioris)) [*middot*] [.?]
+
+    8. *slanting-stroke**slanting-stroke* vac.? [.?]
+
+    9. ((centuria)) <#viii=8#> (pil(i)) (pọṣṭ(erioris)) [.?]
+
+    10. ((centuria)) <#viii=8#> (pr(incipis)) (pr(ioris)) [*middot* o]ṿ [.?]
+
+    11. *slanting-stroke**slanting-stroke* vac.? ov[.?]
+
+    12. [.?] ((centuria)) <#viii=8#> (pr(incipis)) (posṭ(erioris)) [.?]
+
+    13. [.?] ((centuria)) <#viiii=9#> (pil(i)) (pr(ioris)) *middot* o[v] [.?]
+
+    14a. [.?].2
+
+    14. *slanting-stroke**slanting-stroke* vac.? ov[.?]
+
+    15a. [.?].1ḅẹị
+
+    15. [.?] ((centuria)) <:.2||alt||vi(?)|q(?):> <#viiii=9#> (pr(incipis)) (pr(ioris)) *middot* o[v] [.?]
+
+    16a. [.?].2ọc
+
+    16. *slanting-stroke**slanting-stroke* vac.? ov[.?]
+
+    17. [.?]〚.5〛
+
+    18. [.?].1 vac.? .3[.?]
+
+    18. lost.?lin
+=>=D>
+      

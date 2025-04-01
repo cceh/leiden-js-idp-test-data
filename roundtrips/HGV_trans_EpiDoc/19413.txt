@@ -1,0 +1,16 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) Papeiris dem Apollonios, dem verehrtesten Strategen des Apollonopolites Heptakomias, Freude. 
+                  ((4)) Ich will, dass Du erfährst, dass ich allein die Bestallung für Deinen Nomos und ein Schiff mit 4000 Artaben Ladung erhalten habe, nachdem ich den Antrag auf den Nomos gestellt und Besarion sich dafür eingesetzt hatte. ((8)) Gerade bestallt, wurde ich vom Procurator zur Liturgie herangezogen, so dass ich das Priesteramt des Verbandes der Kapitäne innehabe. ((12)) Tu mir den Gefallen, Liebster, und nimm meine Leute auf, obwohl ich nicht anwesend bin, um Dich, den Verehrtesten, zu begrüßen und befiehl mir wie einem, der in der Lage ist, sich für Dich zu bemühen; ((17)) Du weißt sehr wohl, dass ich noch 8 andere zu je 10.000 Artaben unter den Schiffen, die ich besitze, habe, so dass die Kornspeicher Deines Nomos leergeräumt werden. Wisse nun, Herr, dass, wenn ich das Priesteramt des Verbandes der Kapitäne dem Procurator … ((23)) Im 2. Jahr des Kaisers Hadrian, des Herren. Epeiph 16 (10. Juli 118). Ich wünsche, dass Du gesund bist. 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Zu übergeben an Apollonios den Strategen von Heptakomia.
+                         /*Translation: M. Kortus, P.Giss.Apoll. 31*/
+               =>
+            =D>
+         =T>
+      

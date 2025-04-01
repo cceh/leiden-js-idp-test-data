@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               (From: J. Rowlandson, Women and Society in Greek and Roman Egypt, 1998, no. 142.)
+
+(((1))) …[Laws long ago have been made], most eminent prefect, which empower women who are adorned with the right of three children ((5)) to be mistresses of themselves and act without a guardian in whatever business they transact, especially those who know how to write. ((10)) Accordingly, as I too enjoy the happy honour of being blessed with children and as I am a literate woman able to write with a high degree of ease, ((15)) it is with abundant security that I appeal to your highness by this my application with the object of being enabled to accomplish without hindrance whatever business I ((20)) henceforth transact, and I beg you to keep it without prejudice to my rights in your eminence’s office, in order that I may ((25)) obtain your support and acknowledge my unfailing gratitude. Farewell. I, Aurelia Thaisous also called Lolliane, have sent this for presentation. Year 10, Epeiph 21. (((30))) /*Annotation*/ Your application shall be kept in the [office].
+
+            =>
+         =T>
+      

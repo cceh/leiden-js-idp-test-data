@@ -1,0 +1,15 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Ich habe erhalten <app type="BGU_DDbDP"><lem resp="Nach GUNDEL, CE 47, 1972, S. 207 f.">unter Abgabe einer eidlichen handschriftlichen    
+                Erklärung</lem></app> vom Saatgut 
+            des 9. Jahres des Antoninus und des Verus, der Herren Augusti, am 12. Hadrianos: 
+            <milestone unit="line" n="4"/>Sabeinos, Sohn des Erôs, für 7 1/2 
+            <term target="aroura">Aruren</term>.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app type="BGU_DDbDP"><lem resp="Cf. Gundel, CE 47, 1972, 207f.">I received under declaration with a written sworn statement
+                </lem></app> from the seed grain of 
+            year 9 of Antoninus and Verus, the lords Augusti, Hadrianos 12. 4 Sabeinos, son 
+            of Eros. For 7 1/2 <term target="aroura">arouras</term>.
+        </p></div>
+      </body>

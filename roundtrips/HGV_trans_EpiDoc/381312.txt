@@ -1,0 +1,22 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) … out of all my possessions,
+                         and having been asked the formal question, I assented.
+                         (Second hand) I, Aurelius Ioannes, son of Macarius, the
+                         aforementioned, received the
+                         three artabas of wheat as principal, and I shall return (them)
+                         at the predetermined time, as aforementioned.
+                  ((7)) I, Aurelius Ioannes, son of Ioseph,
+                         having been asked, wrote on his behalf in his presence since he is illiterate.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Contract …
+                         /*Translation: A. Benaissa, APF 60 (2014) 202*/
+               =>
+            =D>
+         =T>
+      

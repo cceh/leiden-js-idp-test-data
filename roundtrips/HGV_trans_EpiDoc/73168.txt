@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+((1)) 7th before the Kalends of November (i.e. October 26). Unit of 46 men,
+(((2))) of which: 1 on one-and-a-half pay;
+(((3))) 6 cavalry; 
+(((4))) 1 second-in-command; 
+(((5))) 15 on exercise; 
+(((6))) 1 look-out; 
+(((7))) 1(?) [...]
+            =>
+         =T>
+      

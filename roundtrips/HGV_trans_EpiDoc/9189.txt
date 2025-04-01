@@ -1,0 +1,25 @@
+
+         <T=.de<=
+            ((1))Im 7. Jahr des Antoninus und des Verus, der Herren Augusti Armeniaci Medici 
+            Parthici Maximi, am 5. Schalttag des <:Mes[orê]|BGU_DDbDP:P. Bas., S. 56|:>, 
+            <:zur Verrechnung|BGU:BL I, S. 437|:> für Pachô[n (und) Pa]yni. 
+            ((3))Eingezahlt hat Stotoêtis der Ältere, Sohn des Stotoêtis, <:an|:|:> 
+            <:<Kamelsteuer=telesmakamelon>|:|:> für 
+            <:[Sok]nopaiû|BGU_DDbDP:P. Bas., S. 56|:> Nêsos für das 7. Jahr hundert 
+            Drachmen, das sind 100 Drachmen, <:an|:|:> 
+            <Zusatzzahlungen=prosdiagraphomena> 6 (Drachmen), 
+            <:1 1/2 Obolen|BGU:BL I, S. 437|:>, <:an|:|:> 
+            <:<Quittungsgebühr=sumbolikon>|:|:> 
+            <:1 1/2 Obolen|BGU:BL I, S. 437|:>.
+        =>=T>
+         <T=.en<=
+            ((1))Year 7 of Antoninus and Verus, the lords Augusti Armeniaci Medici Parthici 
+            Maximi, <:Mes[ore]|BGU_DDbDP:P.Bas., p. 56|:>, intercalary day 5. 
+            <:For the reckoning|BGU:BL I 437|:> of Pacho[n (and) Pa]yni. 
+            ((3))Stotoetis, the elder, son of Stotoetis, paid for the <tax on 
+                camels=telesmakamelon> of <:[Sok]nopaiou|BGU_DDbDP:P.Bas., p. 56|:> Nesos of year 7 100 drachmas, = 100 drachmas, for 
+            <extra charges=prosdiagraphomena> 6 (drachmas) 
+            <:1 1/2 obols|BGU:BL I 437|:>, for the <receipt 
+                charge=sumbolikon> <:1 1/2 obols|BGU:BL I 437|:>.
+        =>=T>
+      

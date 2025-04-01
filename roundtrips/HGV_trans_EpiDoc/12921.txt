@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Lysanias, strategus of the Arsinoite nome, from Artemidorus son of Irenaeus. On the night before the 22nd of Pharmouthi of the present 20th year of Tiberius Caesar Augustus some individuals made a thievish incursion into the land which I cultivate belonging to Marcus Apollonius Saturninus in the area of Euhemeria in the division of Themistes and carried off on donkeys thirty bundles of hay from two arurae. I therefore present this petition in order that the archephodus of the village may make an inquiry and the criminals be brought before you for fitting punishment. Farewell.’
+            =>
+         =T>
+      

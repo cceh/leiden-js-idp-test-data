@@ -1,0 +1,69 @@
+<S=.grc<D=.r,1<=
+
+    1. [.?].1[.4].1[.2].1<:[.6]έχομεν=BL 1.208|ed|[.6].1ομεν:> τὰς ἀποφάσεις 
+
+    2. [.?].1 <:[τὸ]ν̣ θ̣ε̣ῖ̣ο̣[ν ὅρ]κ̣ον=BL 8.171|ed|[.2].1θ̣ε̣ι̣.1[.3].1ον:> τ̣ο̣[ῦ] <:<τὰ>=BL 1.208|ed|:> π̣ά̣ντα <:νικῶντος|reg|νεικῶντος:> βασιλέως 
+
+    3. <:[Κωνσταντίνου αἰωνίου Σεβαστοῦ καὶ Κωνσταντίνου καὶ Κωνσταν]τ̣[ί]ο̣υ̣ (?)=BL 8.171|ed|[.?].1[.1].2:> τῶν Ἐπιφανεστάτων Καισάρων ἀπα
+
+    4.- [γορεύεσθαι (?)][.?] .1[.5].3ων ἡ̣μῶν ἀκ̣οῦσαι καὶ προστάξαι αὐτὸν 
+
+    5. [.?] <:μηδ[ὲ γ]οῦν=BL 1.208|ed|μηδ[ὲν] ο̣ὖν:> ἐνοχλεῖσθαι προνοουμένης τῆς τάξεως. 
+
+    6. [.?].1~|u|~la .1[.4].3~|ṣe u|~la .1[.3]~|[t]ot sunt privilegia quae recitare |~la 
+
+    7. [.?]~|do|~la .1[.5]~|sẹt id|~la [.2].1[.1] ~|utetur susceptus tuus. |~la 
+
+    8. *slanting-stroke**slanting-stroke**slanting-stroke**slanting-stroke**slanting-stroke**slanting-stroke* ~~~~~~~~ 
+
+    9. ~|<:Leonti .3[.2] <:vivas|reg|vibas:>=BL cf. konkordanz 97|ed|Leonti[.2] vac.? .1bas:> i[n] De[o a]ete[r]no 
+
+    10. <:Ateni <:vivas|reg|vib[a]s:>=BL cf. konkordanz 97|ed|atem u.1[.2].2 vac.?:> in Deo aeterno|~la 
+=>=D><D=.r,2rp<=
+
+    1. ~|(impp(eratores)) Diocletianus et Maximianus (Augg(usti)) 
+
+    2. et Constantius et Maximianus (nobb(ilissimi)) (Caess(ares)) 
+
+    3. ad synodum xysticorum et thymelicorum. et <:ibidem|reg|ividem:>: familia
+
+    4.- re nobis, praerogativas integras inlibatas servare quas divorum 
+
+    5. <:parentium|reg|parentorum:> (Augg(ustorum)) constitutiones in <:suis|reg|suos:> <:quibusque|reg|quibusquae:> concedunt. 
+
+    6. sed ne sub specie coronarum declinandi munera civilia potes 
+
+    7.- tas omnibus detur, 
+
+    8. ideo ad <:preces|reg|praeces:> vestras dato <:<re>scripto|reg|scribto:> declaramus <:eisdem|reg|ei dem:> a muneribus civilibus 
+
+    9. personalibus immunitatem iure competere qu[i] <:<cum>=BL cf. 1.208|ed|/*om*/:> per omne te[m]pus aetatis 
+
+    10. suae certaminibus adfuisse non nova corruptela et <:subscriptione|reg|suscriptio:> interve 
+
+    11.- niente non minus quam <:vac.? <tres cor>onas|reg|vac.? aras:> certaminiṣ nobilis retulerint 
+
+    12. in quibus vel urbicae victoriae vel antiquae Graec[ia]e vel ex <:n[utu]=BL 8.171|ed|n[umine]:>[ n]ostro 
+
+    13. comoediam <vel> certamine <:constituram|reg|constitutorum:> nọ[.5]ạ[.2].1nẹc̣ ẹṭ[.11]
+
+    14. quae species (privileg(ii)) intra personam eorum quorum i.2[.3] [non h]uiusm[odi]
+
+    15. beneficio remunerare placuit consṭ vac.? necuit ut iụ[sti]ụs persuasum
+
+    16. [habe]an[t] ạ[.2].3o.2[.5].3a.1[.1].2 huiu[smo]ḍị pẹ[rso]ṇa [.3].1[.5].1
+
+    16. lost.1-2lin|~la 
+
+=>=D><D=.r,3rp<=
+
+    1. ~|nisi haec persona sub aemula <:<:pro2.- fessione|reg|pro2.- sessione:>=BL cf. konkordanz 97|ed|con2.- cessione:> pạ[r]entium <:[p]r[ivi]leg[i]=BL cf. konkordanz 97|ed|([p]riv[i]leg(ii)):> spe 
+
+    3.- ciem in se <:provocaverit|reg|provocaverint:>. |~la 
+
+    4. *slanting-stroke**slanting-stroke**slanting-stroke* ~~~~~~~~
+=>=D><D=.v<=
+
+    1. $m2 ~|[haec] sententia ubicum[que servabitur].|~la 
+ʼ
+    2. vestig  =>=D>

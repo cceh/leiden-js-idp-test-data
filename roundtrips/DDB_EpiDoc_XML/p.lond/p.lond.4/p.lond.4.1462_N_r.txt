@@ -1,0 +1,44 @@
+<S=.grc<=
+    1. /*P.Lond. 4 1462 N,r reprinted in CPR 3 24 */
+=><D=.Prp<=
+
+    1. lost.?lin 
+
+    1. Ἀβδελλα Ἀλ̣[ουλὶδ Αμιραλμουμνιν] 
+
+    2. Ἀβδέλλα (υ̣ἱ(ὸς)) Ἀβδ̣[ε]λμ̣[έλεχ σύμβουλος] 
+
+    3. (Lang: Arabic 2 lines) 
+
+    1/2. .1lin 
+=>=D><D=.Rrp<=
+
+    1. /*P.Lond. 4 1462 R reprinted in CPR 3 20 */
+=>=D><D=.Srp<=
+
+    1. /*P.Lond. 4 1462 S reprinted in CPR 3 15 */
+=>=D><D=.Trp<=
+
+    1. /*P.Lond. 4 1462 T reprinted in CPR 3 14 */
+=>=D><D=.U,rrp<=
+
+    1. /*P.Lond. 4 1462 U,r reprinted in CPR 3 22 */
+=>=D><D=.Wrp<=
+
+    1. /*P.Lond 4 1462 W reprinted in CPR 3 47*/
+=>=D><D=.Xrp<=
+
+    1. /*P.Lond 4 1462 X reprinted in CPR 3 23*/
+=>=D><D=.Yrp<=
+
+    1. /*P.Lond. 4 1462 Y reprinted in CPR 3 33*/
+=>=D><D=.Zrp<=
+
+    1. /*P.Lond. 4 1462 Z reprinted in CPR 3 10*/
+=>=D><D=.AArp<=
+
+    1. /*P.Lond. 4 1462 AA reprinted in CPR 3 49*/
+=>=D><D=.BBrp<=
+
+    1. /*P.Lond. 4 1462 BB reprinted in CPR 3 51*/
+=>=D>

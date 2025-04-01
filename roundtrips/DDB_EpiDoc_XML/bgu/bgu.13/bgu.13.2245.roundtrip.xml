@@ -1,0 +1,66 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><handShift new="m1"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ἀρτάβαι</ex></expan> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><handShift new="m2"/> Παπάις Παπάιτος το<supplied reason="lost">ῦ  </supplied><gap reason="lost" quantity="7" unit="character"/> 
+
+    <lb n="3"/>ωνος τῶν ἀπὸ τῆς Σοκνο<unclear>π</unclear><supplied reason="lost">αίο</supplied>υ 
+
+    <lb n="4"/>Νήσου τῆς Ἡρακλείδου μερίδος 
+
+    <lb n="5"/>τοῖς παρὰ Ποπλίωι Ἀριήωι 
+
+    <lb n="6"/><choice><reg>Ἄσπρωι·</reg><orig>Ἀσπλωι</orig></choice> <choice><reg>ὀμνύω</reg><orig>ὀμνύο</orig></choice> Τιβέριον Καίσαρ<supplied reason="lost">α</supplied> 
+
+    <lb n="7"/><choice><reg>Σεβαστόν</reg><orig>Σεβαστου</orig></choice> Αὐτοκράτορα Θεοῦ υἱὸν 
+
+    <lb n="8"/><choice><reg>Σεβαστοῦ</reg><orig>Σεβαστον</orig></choice> εἶ μὴν <choice><reg>ἑκουσίως</reg><orig>ἑκοσίως</orig></choice> <supplied reason="omitted">καὶ</supplied> <choice><reg>αὐθαι
+
+    <lb n="9" break="no"/>ρέτως</reg><orig>εὐθαι<lb n="9" break="no"/>λετας</orig></choice> <choice><reg>γεωργῆσαι</reg><orig>γεοργουσαι</orig></choice> ἐν τῶ<unclear>ι</unclear> <choice><reg>Κερ
+
+    <lb n="10" break="no"/>βασήιτι</reg><orig><supplied reason="lost">Κ</supplied>ερ<lb n="10" break="no"/>βασηι</orig></choice> <choice><reg>πρότερον</reg><orig>πρώτερων</orig></choice> Σαταβοῦτος 
+
+    <lb n="11"/><choice><reg>Παπάιτος</reg><orig>Παπαῖος</orig></choice> λομας ἀρ<supplied reason="lost">ο</supplied>ύρας ἓξ 
+
+    <lb n="12"/><choice><reg>ἥμισυ</reg><orig>ἡμισους</orig></choice> <expan><ex>γίνονται</ex></expan> <choice><reg>ἄρουραι</reg><orig>ἀ<unclear>ρ</unclear>ουρας</orig></choice> <num value="6"><unclear>ϛ</unclear></num> <num value="1/2">𐅵</num> <supplied reason="lost">ἐν</supplied> 
+
+    <lb n="13"/><choice><reg>δυσὶ</reg><orig>δυσὴ</orig></choice> <num value="2"/> <choice><reg>σφραγῖσι</reg><orig>σφραγεισαι</orig></choice> α<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
+
+    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>κατ<unclear>ο</unclear><supplied reason="lost">ικικ  </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div><div n="2" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><handShift new="m1"/> οὐλ<supplied reason="lost">ή  </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>κα<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>οὐλή<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><handShift new="m2"/> Ἑριεῦς Ν<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ</supplied> 
+
+    <lb n="5"/>Ἑριεῦς Α<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τῶν ἀπὸ</supplied> 
+
+    <lb n="6"/>τῆς Σοκν<supplied reason="lost">οπαίου Νήσου τῆς Ἡρακλείδου</supplied> 
+
+    <lb n="7"/>μερίδος τ<supplied reason="lost">οῖς παρὰ Ποπλίωι Ἀριήωι</supplied> 
+
+    <lb n="8"/>Ἄσπλω<supplied reason="lost">ι </supplied><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> ὀμνύομεν Τιβέρι</supplied> 
+
+    <lb n="9"/>Καίσαρος <supplied reason="lost">Σεβαστ   Αὐτοκράτορ  </supplied> 
+
+    <lb n="10"/>Θεοῦ υἱ<supplied reason="lost">ο  Σεβαστ  εἶ μὴν ἑκουσίως καὶ</supplied> 
+
+    <lb n="11"/><choice><reg>αὐθα<supplied reason="lost">ιρέτως</supplied></reg><orig>εὐθα<supplied reason="lost">ιρέτως</supplied></orig></choice> <supplied reason="lost">γεωργῆσαι</supplied>  <gap reason="lost" quantity="5" unit="character"/> 
+
+    <lb n="12"/>ἐν τῶ<unclear>ι</unclear><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πρό</supplied>
+
+    <lb n="13" break="no"/>τερων<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="14"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>

@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1))To Athenodorus, chief of police, from Tesenouphis son of Petermouthis, a resident in the farmstead called Sandy in the area of Euhemeria, the property of Thermoutharion daughter of Lucarion. 
+(((8)))On the 14th of the present month Pharmouthi of the 3rd year of Gaius Caesar Augustus Germanicus certain individuals broke like robbers into the house I inhabit 
+in the farmstead aforesaid and removed 10 measures of white wool, of a warp likewise 5 measures and of a woof 2 measures, and I suspect the residents in the farmstead. 
+(((21)))Wherefore I ask you to write that inquiry may be made into the matter with a view to befitting punishment. Farewell.
+(((25)))Tesenouphis, aged about 28 years, with a scar on the left leg.
+/*Translation with slight modifications: P.Ryl. 2 146*/
+            =>
+         =T>
+      

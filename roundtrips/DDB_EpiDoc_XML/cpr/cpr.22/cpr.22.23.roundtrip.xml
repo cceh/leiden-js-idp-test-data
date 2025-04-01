@@ -1,0 +1,24 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>τὸ <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <expan>κ<ex>α</ex>τ<ex>α</ex>β<ex>ο</ex>λ<ex>ῆς</ex></expan> <expan>Σαρ<ex>α</ex>κ<ex>ηνῶν</ex></expan>
+
+    <lb n="2"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="2">β</num> Ραγεπ <num value="15">ιε</num> Τῦβι <num value="4">δ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>τῇ <expan>αὐτ<ex>ῇ</ex></expan> <expan>ἡ<ex>μέρᾳ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="3">γ</num> Ραγεπ <num value="16">ιϛ</num> Τῦβι <num value="5">ε</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="4">δ</num> Ραγεπ <num value="17">ι<unclear>ζ</unclear></num> Τῦβι <num value="6">ϛ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="5">ε</num> Ραγεπ <num value="18">ιη</num> τῦβι <supplied reason="lost"><num value="7">ζ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="6">ϛ</num> Ρα<unclear>γε</unclear>π <supplied reason="lost"><num value="19">ιθ</num> τῦβ</supplied><unclear>ι</unclear> <num value="8"><unclear>η</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/><expan>γί<ex>νεται</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/><expan>ὁ<ex>μοῦ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/><num value="1/3" rend="tick">γ</num> <expan>κ<ex>α</ex>τ<ex>α</ex>β<ex>ο</ex>λ<ex>ῆς</ex></expan> <expan>γε<ex>ωργῶν</ex></expan>
+
+    <lb n="11"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="4">δ</num> Ραγεπ <num value="17"><unclear>ιζ</unclear></num> τῦβι <num value="6"><unclear>ϛ</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/><expan>ὁ<ex>μοῦ</ex></expan></ab></div>

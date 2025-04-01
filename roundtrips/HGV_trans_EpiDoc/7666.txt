@@ -1,0 +1,18 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) [...] to Kleon, greetings. As I have often told you, I have paid 1,000 dr. (through the bank) on
+                         the 7th of Thoyth to Etearchos for the works from Hephaistias up to Nautys, so that he can [...]
+                         for those working [...] has been written through this man [...] in one payment so that [...].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((11)) Year 31 [...]. From [...]. to Kleon.
+                  ((13)) To Kleon
+                           /*Translation: B. Van Beek, P.Petr. Kleon 23*/
+               =>
+            =D>
+         =T>
+      

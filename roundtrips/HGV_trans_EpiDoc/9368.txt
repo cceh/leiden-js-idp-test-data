@@ -1,0 +1,20 @@
+
+         <T=.de<=
+            ((1))Im 11. Jahr. Eingezahlt <:haben|:Der Papyrus hat den Singular|:> Sarapiôn und (seine) Genossen, im Losverfahren 
+            <:für das|BGU_DDbDP:BL XI, S. 20|:> <:<Amt für die Einnahme 
+                der Geldsteuern=praktoriaargurikon>|BGU_DDbDP:BL XI, S. 20.|:> des 
+            Dorfes Hêrakleia, auf Tix für <~|naubion 
+                katoikôn|~la ~la=naubionkatoikon> vier Drachmen, das sind 4 Drachmen.
+            (((5)))(2. Hand) Im <:12.|BGU_DDbDP:BL I, S. 69; vgl. eigene Bemerkung|:> Jahr ebenso derselbe (1. Hand) für eine auf eine Ölpresse 
+            eingetragene Steuerschuld vierundzwanzig Drachmen, das sind 24 Drachmen.
+        =>=T>
+         <T=.en<=
+            ((1))Year 11. Sarapion and his associates <elect=enklero_1> 
+            <:for the|BGU_DDbDP:BL XI 20|:> <:<collection of money 
+                taxes=praktoriaargurikon>|BGU_DDbDP:BL XI 20.|:> of the village of 
+            Herakleia paid with respect to Tixi for <~|naubion 
+                katoikon|~la ~la=naubionkatoikon> four drachmas, = 4 drachmas.
+            (((5)))(m. 2) Year <:12|BGU_DDbDP:BL I 69; cf. Korrekturaufsatz|:>. Likewise the same person (m. 1) for the tax 
+            liability registered for an oil press twenty four drachmas, = 24 drachmas.
+        =>=T>
+      

@@ -1,0 +1,12 @@
+
+         <T=.de<=
+            ((1))An die <Sitologen=sitologos> von Karanis, Grüße. 
+            Ich habe von Euch als Darlehen Saatgut des gegenwärtigen 20. Jahres 
+            <:vom Ertrag|BGU:BL I, S. 60|:> des vergangenen 19. Jahres ...
+        =>=T>
+         <T=.en<=
+            ((1))To the <sitologoi=sitologos> of the village of 
+            Karanis, greetings. I have received from you as a loan of seed grain of the present year 
+            20 <:from the harvest|BGU:BL I 60|:> of the past year 19 ...
+        =>=T>
+      

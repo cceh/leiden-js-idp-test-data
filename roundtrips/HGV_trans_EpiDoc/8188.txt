@@ -1,0 +1,9 @@
+
+            <T=.en
+            <=
+               ((1)) Year 19, Thoth 2. Satokos announces to Harmiusis, policeman of Talae, that he has lost from his sheepfold by night an unshorn Arabian ewe worth 8 drachmas. 
+               ((7)) (Text repeats in lines 7–12.)
+               /*Translation: J. Bauschatz (via PN in 2014)*/
+            =>
+         =T>
+        

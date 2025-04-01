@@ -1,0 +1,12 @@
+<S=.grc
+<D=.concave.side<=
+1. [.?]*slanting-stroke**slanting-stroke* (δι(ὰ))
+2. [.?] (κριθ(ῆς)) (μ(άτια)) <#γ=3#>
+3. [.?] <:(σεσημείωμ(αι))|reg|(σεσημίωμ(αι)):>
+4. [.?] [Σερῆ]ν̣ος vestig 
+=>=D>
+
+<D=.convex.side<=
+1. vestig 
+=>=D>
+      

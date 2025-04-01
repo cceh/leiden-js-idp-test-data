@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘The 18th year of Tiberius Caesar Augustus ... at the city of Oxyrhynchus in the Thebaïd. Menelaus son of Alexander of the Zeneian deme acknowledges to Tachoïs daughter of Dinchon with her guardian her son Psois son of Allous, in the street, that he has ceded to her in accordance with the instructions issued through the cavalry office, consequent on a petition presented ... to the director of official assignments, two arurae belonging to him in the area of Pela in the western toparchy in the holding of … , being part of 5 arurae, common and indivisible, of catoecic land forming a rectangle, corn-bearing and arable, the boundaries of which are on the south …, on the north the holding of Diogenes son of ... , on the west the holding of … son of Thoonis, on the east …, in order that the arurae ceded may appertain to Tachoïs with all other titles ... by a valid deed for ever in accordance with the ordinances and authorizations thereon, in return for the … which he received from Tachoïs at the proper times; and that he will in no wise violate the contract nor attempt any fraud nor make any claim upon Tachoïs or her assigns in any way whatsoever, but will absolutely deliver the said arurae to Tachoïs and her assigns fully guaranteed and free from all public imposts, and all other dues from previous times up to the fifth intercalary day of Mesore of the past 17th year and including the 17th year of Tiberius Caesar Augustus. If Menelaus violates any of these provisions, his action shall be invalid, and he shall forfeit to Tachoïs and her assigns for every specific breach both the damages and a fine of … silver drachmae and to the State the like sum, and nevertheless the contract shall be valid in accordance with their harmonious agreement.’ Signatures of Menelaus, Tachoïs, and Psois, followed by a list of the persons concerned, with their ages and distinguishing marks.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

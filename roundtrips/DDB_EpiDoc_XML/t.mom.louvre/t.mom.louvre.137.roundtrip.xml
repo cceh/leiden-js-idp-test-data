@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" type="textpart"><ab>
+    <lb n="1"/><app type="editorial"><lem resp="A.I. Blasco Torres, ZPE 216 (2020) 233">Τπαγαιθις</lem><rdg>Τπαταῖβις</rdg></app> Ψενοσίριος 
+
+    <lb n="2"/><app type="editorial"><lem resp="A.I. Blasco Torres, ZPE 216 (2020) 228"><choice><reg>καταπλεῦσαι</reg><orig>καταπλεῦσε</orig></choice></lem><rdg>Καταπλεῦσε</rdg></app> μητρὸς 
+
+    <lb n="3"/>Σενπεβῶτος ἀπὸ <expan>Ψώ<ex>νεως</ex></expan> 
+
+    <lb n="4"/>ἐβίωσεν <expan><ex>ἔτη</ex></expan> <num value="14">ιδ</num> 
+</ab></div>
+<div n="B" type="textpart"><ab>
+    <lb n="1"/><gap reason="ellipsis" quantity="4" unit="line"><desc>Demotic</desc></gap> 
+</ab></div></div>

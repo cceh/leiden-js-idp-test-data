@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘The 19th year of the Emperor Caesar Nerva Trajanus Optimus Augustus Germanicus Dacicus, Hathur 4, for the account of Phaophi. Paid by Stotoëtis son of Satabous and Tamustha to … tamouel … and his associates, collectors of money-taxes at Socnopaei Nesus for the contribution of the 19th year eight drachmae, total 8 dr., Choiak 26 eight drachmae, total 8 dr., for the guards-tax two drachmae ½ obol, total 2 dr. ½ ob., Mecheir 28 four dr., total 4 dr., for the tower-guards 2 ob. 4 chalci, Pauni 4 sixteen dr., total 16 dr., Caesareus 26 eight dr. ½ ob. 2 ch., total 8 dr. ½ ob. 2 ch., for the river-guard 1 ob., for the prison-guard ½ ob., 20th year of Trajan, Pharmouthi 28, for the poll-tax of the 19th year sixteen dr. 2½ ob., total 16 dr. 2½ ob., for the guards-tax 1 ob., for the tower-guards 1ob., for the prison-guard ½ ob.’
+            =>
+         =T>
+      

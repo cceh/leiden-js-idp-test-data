@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><app type="alternative"><lem><num atLeast="21" atMost="29"><supplied reason="lost">κ</supplied><gap reason="lost" quantity="1" unit="character"/></num></lem><rdg><num value="24"><supplied reason="lost">κδ</supplied></num></rdg><rdg><num value="26"><supplied reason="lost">κϛ</supplied></num></rdg></app> <supplied reason="lost">ἔ</supplied>τους Αὐρηλίου Κομμόδου Ἀντωνίνου Καίσαρος <supplied reason="lost">τοῦ κυρίου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb n="2"/><supplied reason="lost"><expan>διέγ<ex>ραψεν</ex></expan></supplied> <unclear>Δω</unclear>ρίων <expan>πράκ<ex>τορι</ex></expan> <expan>ἀργ<ex>υρικῶν</ex></expan> Μέμφεως Π<unclear>ω</unclear>λλίω<supplied reason="lost">ν Σαραπίωνος <expan>λαογρ<ex>αφίας</ex></expan> <expan>δραχμ<ex>ὰς</ex></expan></supplied>
+
+<lb n="3"/><supplied reason="lost"><num value="8">ὀκτώ</num>,</supplied> <expan><supplied reason="lost">μερι</supplied>σ<ex>μοῦ</ex></expan> <expan>φυλ<ex>άκτρου</ex></expan> <num value="3">γ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="11">ια</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>.
+
+</ab></div>

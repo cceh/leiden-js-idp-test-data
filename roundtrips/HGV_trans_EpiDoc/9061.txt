@@ -1,0 +1,14 @@
+
+         <T=.de<=
+            ((1))Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 44. 
+            <Kleruchie=cleruchy>. für 2 1/2 1/4 1/8 
+            <Aruren=aroura> Staatsland 
+            <:bei Patsôntis|BGU:BL I, S. 39|:>. Sarapôn, Sohn des Petês.
+        =>=T>
+         <T=.en<=
+            ((1))From the seed reserves of year 22 of Antoninus Caesar, the lord. 44th 
+            <cleruchy=cleruchy>. At <:Patsontis
+                |BGU:BL I 39|:> 2 1/2 1/4 1/8 <arouras=aroura> 
+            of public (land) Sarapon, son of Petes.
+        =>=T>
+      

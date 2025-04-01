@@ -1,0 +1,16 @@
+<S=.grc
+<D=.1.fragment<=
+1. lost.?lin
+1. vestig.3lin
+3. lost.?lin
+=>=D>
+<D=.2.fragment<=
+1. lost.?lin
+1. [.?]κ[.?]
+2. [.?]ἀπό[.?]
+3. vestig.1lin
+4. [.?] τὸν κ[ύριον (?)][.?]
+5. vestig.1lin
+=>=D>
+
+      

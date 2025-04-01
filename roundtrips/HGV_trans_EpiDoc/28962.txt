@@ -1,0 +1,9 @@
+
+            <T=.en
+            <=
+               ((1))The fourth year, the 8th Mesore. Hierax, son of Psonsneou, weaver.
+((7))(Demotic) Hierax son of Psonsneus, weaver. The fourth yew, the fourth month of imw (i.e. Mesore), the eighth day.
+/*Translation: M. Thieme, P.Batav. 29*/
+            =>
+         =T>
+        

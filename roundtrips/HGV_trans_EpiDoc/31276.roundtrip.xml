@@ -1,0 +1,14 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An die <term target="komarch">Komarchen</term>
+            des Dorfes Thrasô. Überstelle Hêrôn, Sohn des Akûsilaos, der sich im 
+            Dorf Philopatôr aufhält und beschuldigt wird vom 
+        <term target="pittakiarches" xml:lang="grc-Latn">pittakiarches</term>, umgehend.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To the <term target="komarch">comarchs</term> of the village of 
+            Thraso. Send up Heron, son of Akousilaos, being from the village of Philopator, 
+            accused by the <app type="BGU"><lem><term target="pittakiarches" xml:lang="grc-Latn">pittakiarches</term></lem></app> 
+            immediately.
+        </p></div>
+      </body>

@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) Year 12 of Hadrianus Caesar, the lord, on the 12th of Pachon. Dioskourides 
+through Paniskos and Longinus Crispus. ((5)) Pachompareotes, son of Sarapion, whose mother is 
+Sempetorsmethis, paid for the trade-tax twenty drachmas, 2 obols.
+(((8)))I, Longinus, have signed for 20 drachmas, 2 obols.
+            =>
+         =T>
+      

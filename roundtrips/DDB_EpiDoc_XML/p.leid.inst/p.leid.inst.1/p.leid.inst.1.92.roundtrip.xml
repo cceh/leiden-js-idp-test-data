@@ -1,0 +1,23 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="illegible" quantity="2" unit="character"/>ον</abbr> <abbr>δοθ</abbr> <g type="parens-deletion-opening"/><num value="1">α</num><gap reason="illegible" quantity="1" unit="character"/> Ἐ<unclear>πεί</unclear>φ<g type="parens-deletion-closing"/> ει<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>ἐ</unclear>ν <unclear>τ</unclear>ῇ <expan>μητροπ<ex>όλει</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="1373">Ατογ</num> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><unclear>Σ</unclear>ωπάτρ<ex>ου</ex></expan> <unclear>ἀ</unclear>πὸ <expan><ex>ἀρούρων</ex></expan> <num value="7">ζ</num> <num value="1/2">𐅵</num> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/><num value="373">τογ<certainty match="../@value" locus="value"/></num>  <expan><ex>δραχμὰς</ex></expan> <num value="366">τξϛ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> τ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan>βα<unclear>σ</unclear>ιλ<ex cert="low">ικῆς</ex></expan> <expan><unclear>Σ</unclear>ωπάτρ<ex>ου</ex></expan> <num value="1/4" rend="tick">δ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="v,1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" quantity="13" unit="line"/> 
+</ab></div><div n="v,2" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" quantity="10" unit="line"/> 
+
+    <lb n="11"/>Ἀσκ<supplied reason="lost">λ</supplied>η<unclear>π</unclear><supplied reason="lost">ι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/>Ἀσκλ<unclear>η</unclear>π<supplied reason="lost">ι </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

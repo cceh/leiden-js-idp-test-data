@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              The year after the consulship of Flavius Maximus for the 2nd time and Flavius Paterius. the most illustrious, Mesore 18. To Aurelius Philoxenus son of Doras, seller of phorbium, of the illustrious and most illustrious city of Oxyrhynchus, from Aurelius Hierax son of Anastatianus, of the said city. I undertake of my own free will to lease from the first day of the next month Thoth of the present reign and the 13th indiction, the hall belonging to you in the house called ... which is in the said city of Oxyrhynchus in the quarter of the Cobblers’ Market, complete with all its appurtenances, and I will pay you for rent 2,400 myriads of silver yearly, and I will perforce pay the rent with no delay, and whenever you wish I will hand over to you the hall in a clean state. This lease, of which a single copy is made, is valid, and in answer to the question I have given my consent.
+            =>
+         =T>
+      

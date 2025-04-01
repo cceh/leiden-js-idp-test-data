@@ -1,0 +1,42 @@
+
+         <T=.fr
+            <D=.r,ctr 
+               <=
+                  ((1)) À Monsieur mon frère Sarapiôn (?), Paulos
+                         (te souhaite) bon succès.
+                  ((3)) Quiconque possède un miroir ou tient dans
+                         sa main un objet semblable, dans lequel les visages se réfléchissent,
+                         n’a pas besoin de quelqu’un qui lui dise ni qui lui atteste
+                         ce qui apparaît à sa surface: quels sont les traits de son visage,
+                         la couleur de sa peau, son apparence.
+                         Car il en est devenu témoin par lui-même et
+                         il est à même de parler de ce à quoi il ressemble.
+                ((10)) Et il n’attend pas qu’on lui parle
+                         de sa beauté et de sa splendide apparence
+                         ou qu’on les lui montre pour y croire. Car il n’est pas comme les autres
+                         qui sont dans l’ignorance
+                         et qui se tiennent loin du miroir
+                         qui montre à quoi chacun ressemble.
+                         Il en va de même avec toi,
+                         très cher ami. Car comme dans un miroir tu as
+                         vu l’affection innée que j’ai pour toi
+                         et mon amour toujours renouvelé.
+                ((20)) Quant à nos connaissances
+                         qui t’apportent cette lettre,
+                         il n’est pas nécessaire que je t’en parle, moi qui connais
+                         ton amitié et ton affection pour tous
+                         et surtout pour mes
+                         frères. Reçois-les donc charitablement
+                         comme des amis, car ce ne sont pas des catéchumènes,
+                         mais ils appartiennent aux groupes d’Isiôn et de Nikolaos,
+                         et ce que tu feras pour eux, tu l’auras fait pour moi.
+                ((29)) Tous les frères d’ici te font
+                         leurs salutations. Salue aussi
+                         tous les frères, élus ou
+                         catéchumènes, qui sont avec toi.
+                         Je vous souhaite de bien vous porter.
+                        /*Translation with modification: J.-L. Fournet, JJP 43 (2013) 141*/
+               =>
+            =D>
+         =T>
+      

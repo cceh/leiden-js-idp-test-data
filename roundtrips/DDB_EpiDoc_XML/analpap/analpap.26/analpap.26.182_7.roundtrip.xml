@@ -1,0 +1,31 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab> 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1/32"><hi rend="supraline">λβ</hi></num>  
+    
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ἀρταβ- </ex></expan> <num value="4">δ</num> <num value="1/12"><hi rend="supraline">ιβ</hi></num> <num value="1/80"><hi rend="supraline">π</hi></num>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <abbr><gap reason="lost" extent="unknown" unit="character"/><unclear>κ</unclear></abbr> <expan><ex>ἀρταβ- </ex></expan> <num value="3/4">𐅸</num>
+    
+</ab></div> 
+<div n="ii" subtype="column" type="textpart"><ab> 
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="7"/><expan><ex>ἄρουραι</ex></expan> <num value="1/12"><hi rend="supraline">ιβ</hi></num> <num value="3/4"><hi rend="supraline">𐅸</hi></num> <num value="1/32"><hi rend="supraline">λβ</hi></num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/><expan>ἀν<ex>ὰ</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="3">γ</num> <num value="1/4"><hi rend="supraline">δ</hi></num> <num value="1/15"><hi rend="supraline">ιε</hi></num> <num value="1/600"><hi rend="supraline">χ</hi></num>  <expan>δ<unclear>ρ</unclear><supplied reason="lost"><ex>αχμ- </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/><expan>ἀν<ex>ὰ</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="3">γ</num> <num value="1/4"><hi rend="supraline">δ</hi></num> <num value="1/15"><hi rend="supraline">ιε</hi></num>  <expan><ex>δραχμ- </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/><expan>ἀν<ex>ὰ</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="2/3">𐅷</num> <num value="1/2">𐅵</num>  <expan><ex>δραχμ- </ex></expan> <expan><ex>ἀρταβ- </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/><expan>ἀν<ex>ὰ</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="2">β</num> <num value="1/4"><hi rend="supraline">δ</hi></num> <num value="1/14"><hi rend="supraline">ιδ</hi></num> <expan><ex>δραχμ- </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div> 
+      </div>

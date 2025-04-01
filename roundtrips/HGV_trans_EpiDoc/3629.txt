@@ -1,0 +1,10 @@
+
+         <T=.de
+            <=
+               ((1)) Apollonius, der Dolmetscher der Trogodyten, grüsst den Bankbeamten Diogenes.
+               ((4)) Ich bekenne, durch dich ausgezahlt erhalten zu haben von der Bank in Gross-Diospolis zwei Talente Kupfers — Tal. 2.
+               ((9)) Geschrieben hat es Ptolemaeus, Sohn des Ptolemaeus, darum gebeten von Apollonius, welcher nicht schreiben kann.
+             ((13)) Jahr 36 Epiph 27. /*Translation: A. Erman, Aus den Papyrus der königlichen Museen (1899), S. 116*/
+            =>
+         =T>
+      

@@ -1,0 +1,17 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+            <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="r" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/>  
+                  <note>No translation provided by the edition</note>
+               </p>
+            </div>
+            <div n="v" type="textpart">
+               <p>
+                  <milestone unit="line" n="11"/> [NN ...] to the oikonomoi [...] and to royal scribes and [... and] to the policemen and to the [...] 
+                  <milestone unit="line" n="15"/><gap reason="lost" extent="unknown" unit="character"/>, greetings. We have appointed [...] mentioned below [...] should follow (his orders) [...].
+                  <note>Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 144, © Peeters</note>
+               </p>
+            </div>
+         </div>
+        </body>

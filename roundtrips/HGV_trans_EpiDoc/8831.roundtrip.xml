@@ -1,0 +1,30 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="v" type="textpart">
+               <div n="i" subtype="column" type="textpart">
+                  <p>
+                     <milestone unit="line" n="1"/> ... written to him ... Please ...
+                  </p>
+               </div>
+               <div n="ii" subtype="column" type="textpart">
+                  <p>
+                     <milestone unit="line" n="9"/> about Pachos ...
+                            we summoned Pachos because Aphthonetos had written
+                            ⟦the following letter to Aphthonetos
+                            and because an accusation of murder was brought against him by ...
+                            him ...⟧
+                            to investigate about the murder of which NN accused (him) ⟦and, if he would be found guilty, to procure ...⟧
+                            ...
+                            ⟦... as Pachos came immediately⟧
+                  </p>
+               </div>
+               <div n="iii" subtype="column" type="textpart">
+                  <p>
+                              ...
+                     <milestone unit="line" n="26"/> Theodotos ...
+                              <note>Translation: G. Baetens – W. Clarysse, APF 62 (2016) 400</note>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>

@@ -1,0 +1,12 @@
+
+         <T=.en
+         <=
+                     ((12)) -- Hammermen of the smith 16. Temperers 4. Bellows-men 4. 
+                    (((15))) To the stomoterion 3. Water-carriers 2. Look-outs 2. To the bakery 2. Cella-guards 3. 
+                    (((20))) Platearios 1. Total for the 26th, 81 men. The 27th equally for water-carrying.... For firewood.... (28th) In the quarry.... 
+                    (((25))) For firewood.... Temperers.... Bellows-men.... To the stomoterion 3. Water-carriers 2. 
+                    (((30))) Look-outs 2. Guards of the living quarters 3. Platearios 1. In persuit 1. On leave to make bread(?) 1. 
+                    (((35))) Total for the 28th, 80 men.
+                  =>
+               =T>
+      

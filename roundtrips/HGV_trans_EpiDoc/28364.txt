@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Dionysius invites you to dine with him on the occasion of the marriage of his children at the house of Ischyrion to-morrow, the 3oth, at 9 (?) o’clock.
+            =>
+         =T>
+      

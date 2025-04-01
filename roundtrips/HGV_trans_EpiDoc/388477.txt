@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Dikaios to Kleon, greetings. An[...] has written us [...]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((4)) Payni 10. Dikaios, about gravel [...].
+                  /*Translation: B. Van Beek in P.Petr.Kleon, p. 74, © Peeters*/
+               =>
+            =D>
+         =T>
+      

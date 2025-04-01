@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) Im 16. Jahr des Aurelius Antoninus Caesar,
+((2)) des Herrn. Es hat gearbeitet an den Deichen für das 16. Jahr vom 19. 
+((3)) Payni bis zum 3. Epeiph am Deich des Marschlandes
+((4)) von Psya für B. . . .(  ), Harmieus,
+((5)) Sohn des Damion, Enkel des Harmieus, Sohn der Mutter Thatres
+((6)) lost.?lin
+            =>
+         =T>
+      

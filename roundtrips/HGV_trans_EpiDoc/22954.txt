@@ -1,0 +1,29 @@
+
+         <T=.fr
+            <D=.i.column 
+               <=
+                  ((1)) [Au] très puissant Conseil d'Hermoupolis [la Grande, ancienne],
+                         brillante et très vénérable, [par l'intermédiaire de Marcos Aurélios Korellios]
+                         Alexandros, chevalier qui a accompli ses milices, [gymnasiarque, bouleute],
+                         prytane en charge de ladite cité, [et de quelque manière qu'on le nomme],
+                  ((5)) [de la part] d'Aurélios Démétrios, appelé aussi Eudaimon [Herminos, bouleute
+                         de ladite] cité, choisi par le très puissant Conseil
+                         pour la curatelle du chauffage des Bains [chauds] d'Hadrien
+                         [de ladite] cité: ((8)) je demande de mandater sur la
+                         Caisse [municipale] pour le chauffage, conformément
+                         aux Actes établis en présence dudit très puissant
+                         Conseil, desdits Bains chauds d'Hadrien,
+                         maintenant un talent d'argent et six cents drachmes,
+                         je dis 1 talent d'argent et 600 dr., dont je rendrai compte au bureau municipal de comptabilité,
+                         le droit de réclamation étant conservé à la Ville et au Conseil pour
+                         tout ce qui leur revient. Soyez heureux.
+                ((16)) [An 14] de l'Empereur César Publius Licinius
+                         Gallienus, Germanicus Maximus, Persicus Maximus, Pius Felix
+                         Augustus, le 17 de Choiak. (2e main) Aurélios Démétrios, appelé aussi Eudaimon,
+                         bouleute, je fais ma demande pour le talent d'argent
+                         et six cents drachmes, comme il est écrit ci-dessus.
+                         /*Translation: M. Drew-Bear, CPR 35 33*/
+               =>
+            =D>
+         =T>
+      

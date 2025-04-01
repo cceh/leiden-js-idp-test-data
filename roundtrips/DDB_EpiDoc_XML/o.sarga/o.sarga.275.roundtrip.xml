@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> Τῦβι <g type="dipunct"/> <num value="4">δ</num>
+
+    <lb n="2"/><foreign xml:lang="cop">ϩⲁϭⲉ</foreign>
+
+    <lb n="3"/><expan>οἴ<ex>νου</ex></expan> <expan>μεγ<ex>άλα</ex></expan> <g type="dipunct"/> <num value="20">κ</num>
+
+    <lb n="4"/><foreign xml:lang="cop"><choice><reg xml:lang="grc">ἀσκαλώνιον</reg><orig>ⲁⲥⲕⲁⲗⲟⲛⲉ</orig></choice></foreign> <g type="dipunct"/> <num value="56">νς</num>
+
+    <lb n="5"/><foreign xml:lang="cop"><choice><reg xml:lang="grc">σκεῦος</reg><orig>ⲥⲕⲉⲩⲉ</orig></choice> ⲡϩⲁⲗⲟⲙ</foreign> <g type="dipunct"/> <num value="5">ε</num>
+
+    <lb n="6"/><foreign xml:lang="cop">ϥ<hi rend="diaeresis">ⲓ</hi>ⲣ</foreign><g type="dipunct"/> <num value="19">ιθ</num>
+
+    <lb n="7"/><foreign xml:lang="cop">ⲙⲁⲕⲁⲣⲉ</foreign>
+</ab></div>

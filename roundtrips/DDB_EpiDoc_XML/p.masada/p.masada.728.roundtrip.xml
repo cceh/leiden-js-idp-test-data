@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="FrA+B" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <foreign xml:lang="la"><unclear>S</unclear>ulpic<supplied reason="lost">i </supplied><gap reason="lost" extent="unknown" unit="character"/> suo </foreign>
+</ab></div><div n="FrB" type="textpart"><ab>
+
+    <lb n="1" rend="inverse"/> <gap reason="illegible" quantity="1" unit="line"/> 
+</ab></div><div n="FrC" type="textpart"><ab>
+
+    <lb n="1"/><foreign xml:lang="la">scrib</foreign><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><foreign xml:lang="la">b<unclear>i</unclear></foreign><gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost"> </supplied><foreign xml:lang="la"><supplied reason="lost">c   </supplied> </foreign></ab></div></div>

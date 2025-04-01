@@ -1,0 +1,63 @@
+<S=.grc<D=.1<=
+
+    1. λόγος πα.2πω οπ vestig  
+
+    2. vestig  
+
+    3. .1 ((ἔτους)) Ἁθύρ vestig  
+
+    4. <#κ=20#> vestig  
+
+    5. <#κγ=23#> vestig  
+
+    6. <#κϛ=26#> vestig  
+
+    7. <#κθ=29#> vestig  
+
+    8. .43lin 
+=>=D><D=.2<=
+
+    1. <#ιη=18#> vestig  
+
+    2. <#ιθ=19#> vestig  
+
+    3. vestig  
+
+    4. <#κ=20#> vestig  
+
+    5. .16lin 
+
+    21. <#κη=28#> vestig  
+
+    22. <#κθ=29#> vestig  
+
+    23. .8lin 
+
+    31. (Παχ(ών)) ~|? /*vestig*/ |~la 
+
+    32. vestig  
+
+    33. <#η=8#> vestig  
+
+    34. <#ι=10#> vestig  
+
+    35. .5lin 
+
+    40. <#ιβ=12#> vestig  
+
+    41. vestig  
+
+    42. <#ιγ=13#> vestig  
+
+    43. <#ιδ=14#> vestig  
+
+    44. .2lin 
+
+    48. <#ιε=15#> vestig  
+
+    49. vestig  
+
+    50. <#ιϛ=16#> vestig  
+=>=D><D=.3<=
+
+    1. vestig.?lin =>=D>

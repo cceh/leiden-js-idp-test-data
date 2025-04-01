@@ -1,0 +1,24 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve">
+            <div n="r" type="textpart">
+               <p>
+                         …
+                  <milestone unit="line" n="1"/> an Kolluthos, Goldschmied: 210.000 (plus?) Tal.;
+                  <milestone unit="line" n="2" rend="break"/> an Sarapodoros, Goldschmied: 28.000 (plus?) Tal.;
+                  <milestone unit="line" n="3" rend="break"/> an Kolluthos, Amtsdiener: 1.200 (plus?) Tal.;
+                  <milestone unit="line" n="4" rend="break"/> an Paesios und Lytis: … 100 Tal.; und für das Bad (?): … Tal.;
+                  <milestone unit="line" n="6" rend="break"/> an Ammonios, scholasticus: … Tal.;
+                  <milestone unit="line" n="7" rend="break"/> an Kolluthos, als Preis für …: 50.000 Tal.;
+                  <milestone unit="line" n="8" rend="break"/> an Ti…, Sarazene: 14.100 Tal.;
+                <milestone unit="line" n="9" rend="break"/> an Kolluthos, ebenso: 93.000 Tal.; für Rettichöl: 800 Tal.; für Kleinbeträge: 200 Tal.;
+                <milestone unit="line" n="12" rend="break"/> an Ammonios, Weinhändler: 30.000 Tal.; …
+               </p>
+            </div>
+            <div n="v" type="textpart">
+               <p>
+                  <milestone unit="line" n="13"/> Zusammen: 15.500 Tal.
+<note>Translation: A. Jördens, P.Louvre 3 216</note>
+               </p>
+            </div>
+         </div>
+      </body>

@@ -1,0 +1,153 @@
+<S=.grc<D=.a<=
+1. lost.?lin
+
+    1. lost.3lin
+
+    4. [.?]
+
+    5a. [.?]~|q|~la .3
+
+    5b. [.?] *filled-circle*
+
+    6. [.?][ ~|it|~la ]~|em|~la 
+
+    7. [.?]
+7. lost.?lin
+=>=D><D=.b<=
+1. lost.?lin
+
+    1. lost.2lin
+
+    3. [.?]
+
+    4. *filled-circle*
+
+    5. *filled-circle*
+
+    6a. ~|item|~la 
+
+    6b. ~|u|~la  *filled-circle* ~|p|~la 
+
+    7. ~|arm|~la 
+7. lost.?lin
+=>=D><D=.c<=
+1. lost.?lin
+
+    1. lost.1lin
+
+    2. [.?] *filled-circle*
+
+    3a. ~|u|~la  *filled-circle*
+
+    3b. *filled-circle*
+
+    4. ~|a|~la  〚.1-2〛
+
+    5a. ~|u|~la  *filled-circle* ~|p|~la  *filled-circle*
+
+    5b. *filled-circle*
+
+    6. ~|item|~la 
+
+    7. *filled-circle*
+7. lost.?lin
+=>=D><D=.d<=
+1. lost.?lin
+
+    1. lost.1lin
+
+    2a. [.1-2].2
+
+    2b. *filled-circle*
+
+    3. ~|aq|~la  *filled-circle*
+
+    4. *filled-circle*
+
+    5a. *filled-circle*
+
+    5b. ~|sti|~la  *filled-circle*
+
+    5c. ~|ue|~la .5
+
+    6. ~|item|~la 
+
+    7. ~|u|~la  *filled-circle* ~|p|~la  *filled-circle*
+=>=D><D=.e<=
+
+    1. [.?]
+
+    2a. *filled-circle*
+
+    2b. ~|uesti|~la 
+
+    2c. *filled-circle*
+
+    3a. ~|u|~la  *filled-circle* ~|p|~la  *filled-circle*
+
+    3b. *filled-circle*
+
+    4a. ~|u|~la  〚~|a|~la 〛
+
+    4b. *filled-circle*
+
+    5a. ~|u|~la 
+
+    5b. *filled-circle*
+
+    6. ~|cibar|~la  *filled-circle*
+
+    7. *filled-circle*
+=>=D><D=.f<=
+
+    1. [.?] *filled-circle*
+
+    2a. ~|stip|~la  *filled-circle*
+
+    2b. ~|u|~la 
+
+    3a. ~|uest|~la 
+
+    3b. *filled-circle*
+
+    3c. *filled-circle*
+
+    4. ~|arm|~la 
+
+    5. ~|arm|~la 
+
+    6. vac.?
+
+    7a. ~|aq|~la  *filled-circle*
+
+    7b. *filled-circle*
+
+    7c. ~|u|~la 
+=>=D><D=.g<=
+
+    1a. ~|stip|~la [.?]
+
+    1b. *filled-circle* [.?]
+
+    1c. ~|ue|~la .3[.?]
+
+    2. *filled-circle* [.?]
+
+    3a. ~|aq|~la  *filled-circle* [.?]
+
+    3b. ~|u|~la  [.?]
+
+    4a. ~|u|~la  *filled-circle* [.?]
+
+    4b. *filled-circle* [.?]
+
+    5a. *filled-circle* [.?]
+
+    5b. ~|u|~la  *filled-circle* ~|p|~la  *filled-circle* [.?]
+
+    6. vac.? [.?]
+
+    7a. ~|u|~la  [.?]
+
+    7b. *filled-circle* [.?]
+7b. lost.?lin=>=D>

@@ -1,0 +1,117 @@
+<S=.grc<D=.1<=
+
+    1. lost.?lin 
+
+    1. [.?] ~|ạc̣c̣ẹsṣeṛ[u]ṇ[t ][.?] |~la 
+
+    2.  [.?] ~|[(coh(ortis)) i] (Apamenọṛ(um))   ((centurio)) i |~la 
+
+    3. ~|[A]ṇtoniniạṇ[a]ẹ |~la 
+
+    4. ~|[ab] Ạurelio Septim[io] Heṛạc̣liṭo 
+
+    5. (praef(ecto)) (Aeg(ypti)) |~la 
+
+    6. [.?] ~|ex militib[us] ([l]eg(ionis)) ii (Traian(ae)) ((centurio)) i |~la 
+
+    7. ~|[A]ntoniniạṇ[a]e F̣orṭis |~la 
+
+    8. ~|[a]ḅ ẹọ[dem (praef(ecto))] (Ạẹg̣(ypti)) |~la 
+
+    9.  [.?] ~|(leg(ionis)) ii ([T]ṛa(ianae)) (miḷ(es))   i |~la 
+
+    10. ~|[Antoninianae] F̣ọrtis |~la 
+
+    11. ~|[ab eodem ]([pr]ạef(ecto)) (Aeg(ypti)) |~la 
+
+    12. [.?].2~|ạ|~la .1~|([mi]ḷ(ites))   ii |~la 
+
+    13. [.?].1~|a ab [eodem]|~la  
+
+    14. ~|(praef(ecto)) (Aeg(ypti)) |~la 
+
+    15. [.?] ~|ẹạdem ex (ṇ(umero)) ẹquitum   ([mi]l(es))   i |~la 
+
+    16. ~|[ab e]ọdem (pṛaẹf(ecto)) (Aeg(ypti)) |~la 
+
+    17. [.?]~|ṃquịṃil p̣|~la .2~|g̣[ ]|~la [.?]  
+
+    18. [.?]~|c|~la .1[.?] 
+
+    19. lost.?lin 
+=>=D><D=.2<=
+
+    19. lost.?lin 
+
+    19. ~|ḍ[at]ị in clạṣṣẹ[m]|~la  .2~|g̣|~la .3[.4].1[.?].4[.?] 
+
+    20. ~|ab eodem (praef̣(ecto)) (Aeg(ypti)) |~la 
+
+    21. *check* ~|dimissụs <:causar<i>e|reg|causare:> (mil(es))   i 
+
+    22. ab eodem (praef(ecto)) (Aeg(ypti)) |~la 
+
+    23. *check* ~|(q(etati))  (mil(ites))   ṿịi 
+
+    24. in is (eq(ues)) i, (ḍromadar(ius)) i 
+
+    25. summa qui ḍecesserụṇt, (mil(ites))   xxx 
+
+    26. in is ((centuriones)) ii, (eq(uites)) xi, 
+
+    27. (dṛomadar(ius)) i 
+
+    28. (reliq(ui)) (n(umero)) (p(uro)) (mil(ites)) cc̣c̣c̣lvii 
+
+    29. in is ((centuriones)) vi, (dec(uriones)) iv, (eq(uites)) c, 
+
+    30. (drom(adarii)) xiii 
+
+    31. absunt in choram (mil(ites))   cxxvi 
+
+    32. ins|~la .1[  ] ~|〚(dec(urio))〛 (eq(uites)) x|~la [.1].1 
+
+    33. [.?].2~|ọ|~la .2[.?] 
+
+    34. lost.?lin 
+=>=D><D=.3<=
+
+    34. lost.?lin 
+
+    34. [.?].1[.?] 
+
+    35. ~|item ad commoḍa priṇ[.?] 
+
+    36. Kopto ad pecunia|~la .2~|natiṿị|~la [.1].1~|c̣|~la .3~|ịọ[ ]|~la [.?]  
+
+    37. *check* ~|in secutionem eius (|mil|) [.?] |~la 
+
+    38. *check* ~|cum eo ab adiutorịo (mil(ites)) [.?] 
+
+    39. in is (eq(uites)) v |~la 
+
+    40. *check* ~|Copto cum epist[u]lis (|mil|) [.?] |~la 
+
+    41. *check* ~|Caene aḍ c̣ọriasc̣|~la .3~|(|equend|) (eq(u  )) [ ]|~la [.?]  
+
+    42. *check* ~|item principales (mil(ites)) [.?] |~la 
+
+    43. *check* ~|officio epistrategi Thẹḅ|~la .2~|oṣ (mi[l(ites)]) |~la [.?]  
+
+    44. ~|in is (eq(uites)) ii 
+
+    45. item deṭ[e]ṇtus est ab [.?] (ṃil(es)) i 
+
+    46. Marco (praef(ecto)) Alae Hẹ|~la .3 
+
+    47. ~|p̣arṭes epistrategiạẹ |~la 
+
+    48. *check* ~|Ṇịciu ad epistụlạs p̣ẹṛf̣[ere]ṇdas (m(ilites)) iv |~la 
+
+    49. *check* ~|summissi et nondụṃ|~la  [.3].1~|eṛsi (ṃ(ilites)) iv |~la 
+
+    50. *check* ~|inferiore [c]ḥọṛa ab|~la  .2~|n|~la .2~|ịo [(m(iles))] i 
+
+    51. Mar|~la [.7].3[.?]  
+
+    52. lost.?lin =>=D>

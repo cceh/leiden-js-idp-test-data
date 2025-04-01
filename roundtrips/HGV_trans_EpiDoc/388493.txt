@@ -1,0 +1,15 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1)) [...] Total: [...] 1,500 at a rate of 70 for 4 dr. [85 dr. 4 ob. ...] x5,969 1/6 at a rate of 60 for [4 dr.(?) ...] ((5)) and in the sandy canal [...] of Protarchos and [Techesteus ...] (as) is written by the [...] [...] Total: x3,576 [...]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((10)) Souchos [...] Soknebtynis [...] Sokonopis [...] Remainder: 2,589 ((14)) Goats: 200 [...]
+                   /*Translation: B. Van Beek in P.Petr.Kleon, p. 217, © Peeters*/
+               =>
+            =D>
+         =T>
+        

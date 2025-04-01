@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              ((25))You write to me about Hermodorus that I am too severe with him, for he is upsetting everything again. If you find where you are a young man to replace him, tell me when you write, since I wish to get rid of Hermodorus, and Anoubas looks upon him with no kindly eye. My salutations to Ptolema and to all your household individually. Sarapion salutes you and so do we all. There has not been much fruit at Memphis up to the present. I send however for your brother’s children 500 beans and 50 apples, and 50 apples for your sister Apollonous and the little one. Good-bye. Pauni 26. I am exces- sively concerned on account of the foster-child Sarapous. I wrote to you on another occasion, if you find a purchaser for the share of the house at Tanais, to let it be sold. As for the cruelty of the collectors, I myself will be responsible for that...
+            =>
+         =T>
+      

@@ -1,0 +1,110 @@
+<S=.la<D=.4<=
+
+    1. (M(arci)) Vibi Pollionis 
+
+    2. (M(arci)) Octavi Sereni 
+
+    3. (L(ucii)) Aemili Maximi 
+
+    4. (L(ucii)) Caponi Saturnini 
+
+    5. (C(ai)) Aebuti Saturnini 
+
+    6. (C(ai)) Vibievii Crassi 
+
+    7. (M(arci)) Holconi Ampiss[i] 
+
+    1. Sempronia Gemella <:(t(utore))|reg|ṭ:> <:(a(uctore))|reg|ạ:> <:(C(aio))|reg|c̣:> [Iuli]ọ 
+
+    2. Saturninọ testata e[st eos qui] 
+
+    3. ṣịg̣ṇạturi [e]rant s[e] en[i]x̣ạm [esse] 
+
+    4. ẹx inc̣[ert]o pạṭṛẹ X[II] (Kal(endas)) *middot* ([A]p[ril(es)]) 
+
+    5. (q(uae)) <:(p(roximae))|reg|p̣:> *middot* <:(f(uerunt))|reg|f̣:> *middot* ṇatos masculinos g[e] 
+
+    6.- minos eosqụ[e] vocitari (M(arcos)) 
+
+    7. Sẹmpṛon[ios(|Sp|)fi]ḷios Ṣạrapiọṇ[em] 
+=>=D><D=.1<=
+
+    1. et Socrationem *dipunct* ideoque [s]e has 
+
+    2. testationes *middot* interposuisse dixit 
+
+    3. quia ḷẹx̣ [Ae]ḷia Sentia *middot* et Papia 
+
+    4. Popp̣aẹạ [spu]ṛịo[s] ṣpuriasve 
+
+    5. in albo pṛ[ofiteri ve]ṭat *middot* (d(e)) *middot* <:(e(a))|reg|e:> *middot* (r(e)) *middot* <:(e(odem))|reg|e:> *middot* <:(e(xemplo))|reg|e:> *middot* 
+
+    6. (b(is)) *middot* (t(abulae)) *middot* (s(criptae)) (s(unt)) *middot* a[ctum (Alex(andriae)) ad ]<:([A]eg(yptum))|reg|[a]eg:> *middot* III *middot* (Kal(endas)) 
+
+    7. Maias *middot* (Im[p(eratore)])[ Ca]esa[re (T(ito)) A]elio Hadriano 
+
+    8. Antonino (Aug(usto)) *middot* P[io IIII (M(arco)) A]urelio *middot* 
+
+    9. Caesare *middot* II <:(co(n)s(ulibus))|reg|cos:> *middot* anno [VI]II (Imp(eratoris)) Caesaris 
+
+    10. Titi Aeli Hadriani Antonini (Aug(usti)) 
+
+    11. Pii mense Pachon die *middot* IIII *middot* 
+
+    1. ~|Σεμπρωνία Γέμελλα μετὰ κυρίου 
+
+    2. Γαίου Ἰουλίου Σατορνίλου ἐμαρτυρο
+
+    3.- ποιησάμην υἱοὺς δύο <#=2#> <:διδύμους|reg|δυδύμους:> γε
+
+    4.- γεννῆσθαι ἐξ ἀδή̣λου πατρὸς τούτους 
+
+    5. τε ἐπικεκλῆσθαι Μάρκους Σεμπρω
+
+    6.- νίους Σουρίου υἱοὺς Σαραπίωνα (κ(αὶ)) 
+
+    7. Σωκρατίωνα καθὼς πρόκειται. Γάιος 
+
+    8. Ἰούλιος Σατορνῖλος ἐπεγράφην αὐτῆς 
+
+    9. κύριος (κ(αὶ)) ἔγραψα <:ὑπὲρ|reg|περι:> αὐτῆς μὴ <:εἰδυίας|reg|ἰδυίας:> γρ̣ά
+
+    10.- μματα. |~grc 
+=>=D><D=.2<=
+
+    1. ~|Sempronia Gemella (t(utore)) (a(uctore)) (C(aio)) *middot* Iulio Satur 
+
+    2.- nino testata est eos qui signaturi 
+
+    3. erant se enixam esse ex in 
+
+    4.- certo patre *middot* XII (Kal(endas)) *middot* <:(April(es))|reg|aprel:> (q(uae)) (p(roximae)) (f(uerunt)) 
+
+    5. natos masculinos geminos eosque 
+
+    6. <:vocitari|reg|vocetari:> <:(M(arcos))|reg|m\m/:> Sempronios (Sp(urii)) *middot* filios 
+
+    7. Sarapionem et Socrationem 
+
+    8. ideoque se has testationes in 
+
+    9.- terposuisse dixit quia lex |~la 
+=>=D><D=.3<=
+
+    1. ~|Aelia Sentia et Papia Poppaea 
+
+    2. sp̣uriọs spuriasve in albo profiteṛị 
+
+    3. vetat *middot* (d(e)) *middot* <:(e(a))|reg|e:> *middot* (r(e)) *middot* <:(e(odem))|reg|e:> *middot* <:(e(xemplo))|reg|e:> *middot* (b(is)) *middot* (t(abulae)) *middot* (s(criptae)) (s(unt)) *middot* 
+
+    4. actum <:(Alex(andriae))|reg|alex:> ad <:(Aeg(yptum))|reg|aeg:> III *middot* (K(alendas)) *middot* Maias (Imp(eratore)) 
+
+    5. Caesare (T(ito)) *middot* Aelio Hadriano Antonino 
+
+    6. (Aug(usto)) Pio IIII (M(arco)) *middot* Aurelio Caesare II <:(co(n)s(ulibus))|reg|cos:> *middot* 
+
+    7. anno VIII (Imp(eratoris)) <:Caesaris|reg|caesare:> (T(iti)) Aeli Hadriani 
+
+    8. Antonini (Aug(usti)) Pii mense Pachon 
+
+    9. die *middot* IIII *middot* |~la =>=D>

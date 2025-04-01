@@ -1,0 +1,12 @@
+
+            <T=.en
+               <=
+                  ((1))To the Aurelii Sarapion, son of Aphynchis, and - - -, son of - - -, and Harpocration, son of Nilus, 
+the three contractors of the fishing tax [of the city (and) the Oxyrhynchite nome], 
+(((3)))from the Aurelii Ammonius, son of Sarapammon, and - - -, son of - - -, both from the glorious city of the Oxyrhynchites.
+(((5)))Of our own volition we offer to lease for - - - the right to fish in the waters left by the past Nile flood - - - in the Oxyrhynchite nome, 
+starting from - - -. 
+                   /*Translation: P.Leid.Inst. 1 60*/
+              =>
+           =T>
+        

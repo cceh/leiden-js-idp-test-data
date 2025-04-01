@@ -1,0 +1,15 @@
+
+            <T=.en
+               <=
+                  ((1)) Twenty-first year of Imperator Caesar Marcus Aurelius Commodus Antoninus
+Augustus Armeniacus Medicus Parthicus Germanicus Sarmaticus
+Maximus, 18th of the month of Phamenoth, ((7))before those administering the
+writing offices of both the metropolis and villages of the three divisions of
+the Arsinoite nome, in the marketplace of Kerkesoucha. ((10))Pnepheros, son of
+Pnepheros, about 45 years old, without a distinguishing mark, from
+Kerkesoucha, (acknowledges) to Melas, son of Horion, that he has sold to him a … donkey [not to be returned. He has received the price] of two hundred,
+…ty four silver drachmas. [Guaranteed.]
+/*Translation with slight modifications: W.G. Claytor, APF 66 (2020) 329-330*/
+              =>
+           =T>
+        

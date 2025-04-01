@@ -1,0 +1,17 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2, with updated modification at line 3*/
+              ((1)) Horus to his esteemed Apion greeting. Regarding Lampon the mouse-catcher I paid him for you as earnest money 8 drachmae in order that he may catch the mice at Toca. 
+              Please send me the money. ((4)) I have also lent Dionysius, the chief man of Nemerae, 8 drachmae, and he has not repaid them, to which I call your attention. Good-bye. Payni 24.
+            =>
+         =T>
+        <T=.fr
+            <=
+               ((1)) Horus au très honorable Apion, salut. En ce qui concerne Lampon le chasseur de souris,  je lui ai donné sur ton compte 8 dr. 
+               pour qu’il chasse les souris à Toca. Envoie-moi s’il te plaît cette somme. ((4)) J’ai aussi prêté 8 dr. 
+               à Dionysios, le président de Nermera et il ne me les a pas rendues : sache-le. Porte-toi bien. Le 24 Paÿni. 
+               /*Translation: Burnet, L'Égypte ancienne (2003) 131*/
+            =>
+         =T>
+      

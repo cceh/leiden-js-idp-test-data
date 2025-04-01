@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" subtype="side" type="textpart"><ab>
+    <lb n="1"/><subst><add place="inline">Σεναρυώτ<add place="above">ιδος</add></add><del rend="corrected">σεναρυωτ<del rend="erasure">ου</del></del></subst> <expan>ν<ex>εωτέρας</ex></expan> <subst><add place="inline">Μεσ<add place="above">ι</add>ύριος</add><del rend="corrected">μεσ<del rend="erasure">ου</del><hi rend="diaeresis">υ</hi>ριος</del></subst> 
+
+    <lb n="2"/>μητρὸς Ταφενούφιος 
+</ab></div>
+<div n="B" subtype="side" type="textpart"><ab>
+    <lb n="1"/>Σεναρυώτιδος <expan>ν<ex>εωτέρας</ex></expan> <subst><add place="inline">Μεσι<hi rend="diaeresis">ύ</hi>
+
+    <lb n="2" break="no"/>ριος</add><del rend="corrected">Μεσιυ<lb n="2" break="no"/>ριοο</del></subst> μητρὸς Ταφενούφιος 
+</ab></div></div>

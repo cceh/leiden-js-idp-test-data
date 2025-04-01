@@ -1,0 +1,7 @@
+
+         <T=.de
+            <=
+               ((1)) Und am 10. Phamenoth hat der Kamelzüchter (?) Pates für den Preis von Gerste (oder Fleisch) für Annona achtzig Drachmen gezahlt, das ergibt 80 Drachmen, und für staatliche Abgaben acht Drachmen, das ergibt 8 Drachmen. /*Translation: F. Reiter*/
+            =>
+         =T>
+      

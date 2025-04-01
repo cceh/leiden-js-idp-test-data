@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              Paid to the collectors of the sacred anadolicum on account of the heirs of Sarapas through his wife, fifty-six drachmae, total 56 dr. Fifth year, Phamenoth 19. Signed by me, Aurelius Antonius Alexander.
+            =>
+         =T>
+      

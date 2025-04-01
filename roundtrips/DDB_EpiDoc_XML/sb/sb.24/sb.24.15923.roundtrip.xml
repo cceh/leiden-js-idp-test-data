@@ -1,0 +1,37 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀπὸ </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>μην<unclear>ὸ</unclear>ς <num value="11">ια</num> <expan>ἰν<ex>δικτίωνος</ex></expan> ἕω<unclear>ς</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>ἐπὶ τῷ αὐτὴν ἔχ<unclear>ε</unclear><supplied reason="lost" cert="low">ιν </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ ἑτοίμως </supplied>
+
+    <lb n="4"/><choice><reg>ἔχομεν</reg><orig>ἔχωμεν</orig></choice> οἱον<unclear>δ</unclear><supplied reason="lost">ήποτε </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><choice><reg>ἐνοικίου</reg><orig>ἐνοικείου</orig></choice> χρυσοῦ ν<supplied reason="lost">ομισμάτι </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><choice><reg>ἐνοικίου</reg><orig>ἐνοικείου</orig></choice> χρυσοῦ ν<unclear>ο</unclear><supplied reason="lost" cert="low">μισμάτι </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ὅπερ </supplied>
+
+    <lb n="7"/>νομισμάτιον ἓν π<supplied reason="lost" cert="low">αρὰ κεράτια  </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> ἀποδώσομεν </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/>ἀνυπερθέτως. <unclear>δώ</unclear><supplied reason="lost">σομεν δὲ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> λόγῳ</supplied>
+
+    <lb n="9"/>συνηθείας πρὸς <unclear>τῷ</unclear> <supplied reason="lost" cert="low">προκειμένῳ ἐνοικίου  </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/>τοῦ <expan>προειρημ<ex>ένο</ex>υ</expan> ἑξα<gap reason="lost" atLeast="5" atMost="8" unit="character"/><supplied reason="lost"> χρόνου </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">. τὸ <app type="alternative"><lem>γράμμα</lem><rdg>γραμμάτειον</rdg></app></supplied>
+
+    <lb n="11"/>κύριον καὶ βέβαιον <unclear>κ</unclear><supplied reason="lost" cert="low">αὶ ἐπερωτηθέντες ὡμολογήσαμεν. Αὐρήλιοι  </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ Ἰωάννης Ἰερεμίου οἱ προκείμενοι μεμισθώμεθα</supplied>
+
+    <lb n="12"/>ὡς <expan>πρόκ<ex>ειται</ex></expan>. Φοιβάμ<unclear>μων</unclear> <supplied reason="lost" cert="low">τοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> ἔγραψα ὑπὲρ αὐτῶν <app type="alternative"><lem>ἀγραμμάτων ὄντων </lem><rdg>γράμματα μὴ εἰδότων <certainty match=".." locus="value"/></rdg></app>. <handShift new="m2"/> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μαρτυρῶ</supplied>
+
+    <lb n="13"/>τῇ ὁμολογίᾳ ἀκού<unclear>σ</unclear><supplied reason="lost">ας παρὰ τῶν θεμένων. <handShift new="m3"/> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="14"/>μαρτυρῶ τ<supplied reason="lost">ῇ ὁμολογίᾳ ἀκούσας παρὰ τῶν θεμένων. <handShift new="m4"/> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="15"/>ἀπὸ <expan>Ἑρ<ex>μοῦ πόλεως</ex></expan> μαρτυρῶ <unclear>τ</unclear><supplied reason="lost">ῇ ὁμολογίᾳ ἀκούσας παρὰ τῶν θεμένων </supplied><gap reason="lost" extent="unknown" unit="character"/>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="16"/><supplied reason="lost" cert="low">μίσθωσις </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> Αὐρηλίων  </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ Ἰ</supplied>ωάννο<unclear>υ</unclear> <expan>Ἰερεμ<ex>ίου</ex></expan> ἀπὸ <expan>ἐποικ<ex>ίου</ex></expan> Πεχνιτ
+
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="8" unit="character"/><unclear>σκε</unclear><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></ab></div></div>

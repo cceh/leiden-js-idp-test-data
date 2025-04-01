@@ -1,0 +1,35 @@
+
+         <T=.en
+            <=
+               ((1)) Year 1 of Imperator Titus Flavius Vespasian Caesar, month of Caesareus. From Diogenes, 
+agent. Monthly list? of taxes and other payments made for the same month of Caesareus, specified 
+per individual. From Boubastos?: 
+((5)) . . ., father Mysthas son of Phabos, mother Olympias daughter of . . .
+((6)) . . .s, father Phabos son of Nikias, mother Tapeteeus whose mother is . . .
+((7)) Herakles, father Herakles son of Herakles, mother Tereus . . .
+((8)) Herakles, father Herakles son of Herakles, mother Tapeteuris? . . .
+((9)) Papontos, father Onnophris son of Chanöis, mother Tasok. . .
+((10)) Papontos, father Heras son of Heras, mother Taërakles . . .
+((11)) Petermouthis, father Harphaesis son of Harpagathes, mother Thermouth. . .
+((12)) Petermouthis, father Nikias son of Phabos, mother Thamounis . . .
+((13)) Apynchis, father Apynchis son of Apynchis, mother Tabos . . .
+((14)) Petesouchos the elder, father Harmiysis son of Petesouchos, mother Ta. . .
+((15)) Theonis, father Psenamounis son of Mysthas, mother Taarm. . .
+((16)) Petechon, father Phanias son of Amonios, mother Tauris daughter of . . .
+((17)) Belles alias Or..des (?), father Belles, son of Mesoeris, mother (H?)ar. . .
+((18)) Total 213 (drs.) 11/2 (obs.)
+((19)) Panomgeus, father Panatoëouis son of Panatoëouis, mother Ta. . .
+((20)) Panatoëouis, father Panatoëouis son of . . .eris, mother Ta. . .
+((21)) Heras, father . . . son of Pa. . ., mother Tar. . . daughter of . . .
+((22)) Petermouthis, father Harphaesis son of Harpagathes, mother Thermouth. . .
+((23)) . . .chis, father . . . son of . . ., mother . . .
+((24)) Herakles, father Nikias son of Phabos, mother Thamounis daughter of . . .
+((25)) Sokmenis, father Sokrates son of Sokmenis, mother Ta. . .
+((26)) Amonios, father Haryotes son of Haryotes, mother Thermoutharion . . .
+((27)) Apynchis, father Apynchis son of Apynchis, mother Tabos daughter of . . .
+((28)) Heras, father Horos son of Nepheros, mother Tepheros . . . ?
+((29)) . . .os, father Herakles son of Chairemon, mother . . .
+((30)) . . ., father Herakles son of Chairemon, mother . . . .
+            =>
+         =T>
+      

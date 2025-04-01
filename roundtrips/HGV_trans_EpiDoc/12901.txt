@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Apollonius, basilicogrammateus of the division of Themistes of the Arsinoite nome, from Thermioutis daughter of Satabous of the village of Sentrepasei in the said division, acting with her guardian Pnepheros son of Areius, her relative. My aforesaid father Satabous son of Panibis and Tarmouthis, aged over 60, registered in the said village, died in the month Thoth of the present 31st year of Hadrianus Caesar the lord. I request that his name be placed on the list of deceased persons, as in similar cases. Thermioutis, aged about 49, having a scar on the first finger of her … hand. Pnepheros, aged about 45, having a scar on the finger of his left hand. The 21st year of the Emperor Trajanus Hadrianus Augustus, Phaophi 39.
+‘To the comogrammateus: if the aforesaid is in truth deceased, do what is proper, knowing that you will be held responsible if any contravention of what is right occurs. Signed by me, Anoubioh, scribe. The 21st year of Hadrianus Caesar the lord, Hathur 6.
+‘Return of Thermioutis daughter of Satabous. The 21st year, Hathur 7.’
+            =>
+         =T>
+      

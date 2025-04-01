@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) (hand 2) On the 16th day before the Kalends of September.
+                      (hand 1) In the consulship of our masters Valerius Licinnianus Licinnius
+                      Augustus and Flavius Valerius Constantinus the son of the Augusti.
+               ((4)) To Aurelius Dioskourides alias Iulianos, the strategos of the Oxyrhynchite nome,
+                      from the Jewish community of the splendid and most splendid
+                      city of Oxyrhynchos through Aurelii […]
+                      /*Translation: C. Balamoshev, JJP 47 (2017) 32-33*/
+            =>
+         =T>
+      

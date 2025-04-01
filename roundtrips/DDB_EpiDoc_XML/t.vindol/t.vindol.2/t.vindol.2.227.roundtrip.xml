@@ -1,0 +1,16 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="FrA" type="textpart"><ab>
+
+    <lb n="1"/><del rend="erasure">flauius cerialis</del> <space extent="unknown" unit="character"/> 
+
+    <lb n="2"/><space extent="unknown" unit="character"/> 
+</ab></div><div n="FrB" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><del rend="erasure">natalem</del> <add place="above"><unclear>u</unclear>a<unclear>l</unclear>e<unclear>t</unclear>u<unclear>d</unclear>ine<unclear>m</unclear></add> cerialis mei 
+
+    <lb n="4"/>licuerit liquere 
+
+    <lb n="5"/>enim <del rend="erasure">uobis</del> <add place="above">tibi</add> de anim<unclear>o</unclear> </ab></div></div>

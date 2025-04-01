@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><handShift new="m1"/> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/> καὶ ἀρς<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>τείοις <supplied reason="lost">ἐκ</supplied>φορίοις καὶ ὁμοίως <unclear>σπερ</unclear><supplied reason="lost">μα </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>καὶ <expan>ἀργυ<ex>ρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="36">λϛ</num>, ὅπως μη<unclear>δὲν</unclear> <unclear>τῷ</unclear> <unclear>β</unclear><supplied reason="lost">ασιλεῖ</supplied> 
+
+    <lb n="4"/>διαπέσηι <space extent="unknown" unit="character"/> <unclear>ε</unclear><supplied reason="lost">ὐ</supplied><unclear>τ</unclear><supplied reason="lost">ύχει</supplied> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="5"/><space extent="unknown" unit="character"/> <handShift new="m2"/> τοῖς <expan>γρ<ex>αμματεῦσι</ex></expan> 
+
+    <lb n="6"/><space extent="unknown" unit="character"/> <handShift new="m3" cert="low"/> <abbr>γρ</abbr> κατ<unclear>εγγυ</unclear>η<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><space extent="unknown" unit="character"/> <expan><ex>ἔτους</ex></expan> <num value="2"><unclear>β</unclear></num> <unclear>Ἁ</unclear><supplied reason="lost" cert="low">θὺρ</supplied><gap reason="lost" quantity="2" unit="character"/> 
+
+    <lb n="8"/><figure><figDesc>stamp</figDesc></figure> <space extent="unknown" unit="character"/> <handShift new="m4" cert="low"/> <abbr>γρ</abbr> <num value="46"><unclear>μϛ</unclear></num> <add place="above"><gap reason="illegible" quantity="1" unit="character"/></add> <expan><ex>ἔτους</ex></expan> <num value="2">β</num> αρ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

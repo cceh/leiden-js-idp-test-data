@@ -1,0 +1,19 @@
+<S=.grc
+<=
+1. *stauros* σὺν (Θ(εῷ))
+2.   Πισηντι <:(Μωυ( ))||alt||(Μωυ(σαίου))|(Μωυ(σῆς)):> Βαρεμεσι
+3. *slanting-stroke**slanting-stroke* Αβδελλα *slanting-stroke* (Πανεσνε(υ)) <:(καμηλ(ίτου))|reg|(καμιλ(ίτου)):>
+4.  *slanting-stroke* (Παμου(νίου)) (πρε(σβυτέρου)) *slanting-stroke* Μω̣νι̣ <:(καμηλ(ίτου))|reg|(καμιλ(ίτου)):>
+5.  *slanting-stroke* Σίμων Χαήλ *slanting-stroke* Πέτρου <:(καμηλ(ίτου))|reg|(καμιλ(ίτου)):>
+6.  *slanting-stroke* Παρεου Ἄπα Ἠλία
+7.  *slanting-stroke* Κοσμᾶ ἀπὸ (χ(ωρίου)) (Τεχθ(ω)) *slanting-stroke* Κοσμᾶ (τέκτ(ονος))
+8.  *slanting-stroke* (Φιλοθ(έου)) ἀπὸ (τ(οῦ)) (αὐτ(οῦ)) *slanting-stroke* (Ἰω̣ά̣(ννου)) [.?]
+9.  *slanting-stroke* Πέτρου (ἐ̣ρ̣γ̣(άτου)) *slanting-stroke* Μανδουρ (φύλ(ακος)) 
+10.  *slanting-stroke* Χαὴλ Πκαλη *slanting-stroke* .1παουδω̣ (φύ(λακος)) 
+11. *slanting-stroke* Απιμα (ἐργ(άτου)) *slanting-stroke* Ατιμα (φύλ(ακος))
+12. *slanting-stroke* <:Κωνσταντίνου|reg|(Κοσταντ(ίνου)):> Ἰώβ *slanting-stroke* (Ἀπαιουλ(ίου)) (φύλ(ακος)) 
+13.  *slanting-stroke?* Μωνι̣ ἀπ̣ὸ̣ (χ(ωρίου)) (Ὀνόσε(ως)) *slanting-stroke* (Παπνουτ(ίου)) (κεραμέ(ως)) 
+14. *slanting-stroke* Μουση (ἐργ(άτου)) *slanting-stroke* Π̣α̣τ̣ειμ .2[ .?]
+15.  *slanting-stroke* Α̣ν̣οσι (ἐργ(άτου))
+15. lost.?lin
+=>

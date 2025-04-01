@@ -1,0 +1,12 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="fr" type="translation" xml:space="preserve">
+            <p>
+<milestone unit="line" n="1"/> [A payé] [...] l'aîné fils d'Onnôphris pour la <term target="laographia">capitation</term> [...] onze [drachmes] ..., soit 11 drachmes ... et suppléments. <milestone unit="line" n="3" rend="break"/> [L'an] [...] de l'Empereur César Vespasien Auguste [...], le 29 Mecheir. Moi, Hèrakl( ), j'ai signé.
+              </p>
+         </div>
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1"/> [Has paid] [...] the elder son of Onnophris for <term target="laographia">poll tax</term> [...] eleven [drachmai] ..., that is 11 drachmai ... with extra charges. <milestone unit="line" n="3" rend="break"/> [Year] [...] of the Emperor Caesar Vespasianus Augustus [...], Mecheir 29. I, Herakl( ), have signed.
+            </p>
+         </div>
+      </body>

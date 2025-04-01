@@ -1,0 +1,23 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) … our … father, apostle
+                         … of all others [he/she/they] loved
+                         … all the brothers with you [those whom]
+                         … All the
+                         brothers in the church greet you.
+                         Father and mother greet [the brothers].
+                         The mother of Taesis/Taesion greets [you all]. And [I/we/you/they] went down …
+                  ((9)) I pray that you may be well for the longest
+                         span of life.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((11)) Deliver to father Epinikos from Theodoros.
+                           /*Translation: J.J. McLaughlin, ZPE 184 (2013) 277*/
+               =>
+            =D>
+         =T>
+      

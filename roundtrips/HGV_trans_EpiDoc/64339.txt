@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                ((1)) The so-called Ptolemaic cubit has the length of one cubit, the width of 24 and the thickness of 24 (sic! understand 12) fingers, so that the dimensions multiplied result in a cubit measuring 288 “mixed” fingers, 6,912 “ordinary” ones. The Nicomedian cubit, in which … are purchased (?) has the length of one cubit, the width of [24] fingers, the thickness of 8 fingers, so that the Nicomedian cubit measures [1]92 “mixed” fingers, [4,608] “ordinary” ones. The solid cubit has the length of one cubit, the width of 24 fingers, and the thickness of 24 fingers, so that the solid cubit measures 576 “mixed” fingers, 13,824 “ordinary” ones.
+                =>
+            =T>
+        

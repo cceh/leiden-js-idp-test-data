@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               [Translation from P. Oxy. 55] Rammius Martialis (to the strategi of the underwritten districts?), greetings. 
+Be it known to you that for the salvation of the whole race of mankind the imperial rule has been taken over from the god his father by Imperator Caesar Traianus Hadrianus Optimus Augustus Germanicus Dacicus Parthicus. Therefore we shall pray to all the gods that his continuance may be preserved to us for ever and shall wear garlands for ten days. This you are to publish to the districts under your charge. 
+Year 1, Mesore, 2nd intercalary day.
+Letopolite, Memphite, Arsinoite, Aphroditopolite, Heracleopolite, Oxyrhynchite, Oasis of the Heptanomia, Cynopolite, Hermopolite. 
+            =>
+         =T>
+      

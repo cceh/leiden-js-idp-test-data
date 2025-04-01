@@ -1,0 +1,17 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="fr" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1"/> De la part de l’officium civil (à ...).
+               <milestone unit="line" n="2"/> Ceux dont on donne ci-dessous la liste (qui ont été dénoncés ? par la dame X),
+               <milestone unit="line" n="3"/> originaire (de ... et qui les a aussi)
+               <milestone unit="line" n="4"/> accusés (de ... à la cour ?),
+               <milestone unit="line" n="5"/> ont fait l’objet (de la part de l’autorité de mon Seigneur, le) très magnifique
+               <milestone unit="line" n="6"/> (praeses ...) d’un ordre de comparution.
+(Au reçu de cette lettre de l’officium), présentez-les sans faute aux agents (dépêchés à cet effet, en sorte que les) ordres (soient exécutés).
+               <milestone unit="line" n="10" rend="break"/> Il s’agit
+               <milestone unit="line" n="11" rend="break"/> de Phoib(<gap reason="illegible" extent="unknown" unit="character"/>);
+               <milestone unit="line" n="12" rend="break"/> de Boèthios (<gap reason="illegible" extent="unknown" unit="character"/>)
+<note>Translation: J. Gascou, CdE 89 (2014) 134</note>
+            </p>
+         </div>
+      </body>

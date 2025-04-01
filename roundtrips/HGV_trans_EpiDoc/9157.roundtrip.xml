@@ -1,0 +1,21 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>[N.N. und S]ôtas, <term target="praktorsitikon">Einnehmer der 
+                Getreidesteuern</term> des Dorfes Apias [...]. 
+            <milestone unit="line" n="2"/>Wir haben von Dir erhalten den Preis für ein ein zwölftel 
+            [<term target="artaba">Artaben</term> Weizen], die wir in den 
+            <term target="eistodemosion_2">Staatsspeicher</term> für das 1. Jahr 
+            <app type="BGU"><lem resp="BL I, S. 44">[zumessen werden]</lem></app>.
+            <milestone unit="line" n="5" rend="break"/>[Im x. Jahr des] Imperator Caesar Marcus Aurelius [Antoninus] Augustus 
+            und des Imperator [Caesar L]ucius Aurelius Verus Augustus, am [.]3. [...].
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>[– – – and S]otas, <term target="praktorsitikon">collectors of grain 
+                taxes</term> of the village of Apias [...]. 
+            <milestone unit="line" n="2"/>We have received from you the price of one and a twelfth 
+            <term target="artaba">artabas</term> of wheat, which <app type="BGU"><lem resp="BL I 44">we shall measure</lem></app> to the <term target="eistodemosion_2">state (granary)</term> for 
+            year 1.
+            <milestone unit="line" n="5" rend="break"/>[Year x of] Imperator Caesar Marcus Aurelius [Antoninus] Augustus and 
+            Imperator [Caesar L]ucius Aurelius Verus Augustus, [...] 3.
+        </p></div>
+      </body>

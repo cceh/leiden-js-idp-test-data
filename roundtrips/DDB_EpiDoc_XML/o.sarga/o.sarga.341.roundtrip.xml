@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> Θὼθ <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>δ<ex>ιὰ</ex></expan>  <foreign xml:lang="cop"><app type="alternative"><lem>ⲛⲱ<hi rend="supraline">ⲏ</hi></lem><rdg>ⲛⲱ<hi rend="supraline">ⲛ</hi></rdg></app> <app type="alternative"><lem>ⲡⲁ<hi rend="diaeresis">ⲓ</hi><supplied reason="lost">ⲱⲧ</supplied></lem><rdg>ⲡⲁ<hi rend="diaeresis">ⲓ</hi><supplied reason="lost">ⲟⲙ</supplied></rdg></app> <gap reason="lost" extent="unknown" unit="character"/></foreign> 
+
+    <lb n="3"/><num value="2">β</num> <choice><reg><expan>φορ<ex>ᾶς</ex></expan></reg><orig><expan>φουρ<ex>ᾶς</ex></expan></orig></choice> <expan><unclear>ξ</unclear><ex>έσται</ex></expan> <num><unclear>ν</unclear><gap reason="lost" extent="unknown" unit="character"/></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><num value="3">γ</num> <choice><reg><expan>φορ<ex>ᾶς</ex></expan></reg><orig><expan>φουρ<ex>ᾶς</ex></expan></orig></choice> <expan>ο<supplied reason="lost">ἴ<ex>νου</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="5"/><expan>γί<ex>νονται</ex></expan> <expan><ex>ὁμοῦ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><foreign xml:lang="cop"><hi rend="supraline">ⲛⲙ</hi>ⲁⲛϭⲁⲙ<supplied reason="lost">ⲟⲩⲗ</supplied> <gap reason="lost" extent="unknown" unit="character"/></foreign>
+
+    <lb n="7"/><expan>καμ<ex>ηλίτης</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/>κ<unclear>ο</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

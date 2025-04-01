@@ -1,0 +1,18 @@
+
+            <T=.en
+               <=
+                  ((1))Sansneus, son of Sansneus, grandson of Mysthes (?) - - - for 432 arouras of revenue land, 
+216 artabas of wheat and - - - artabas of barley f)
+(((3)))Orseus, son of Sansneus, grandson of Mysthes - - - for 1/2 1/16 1/64 of revenue land, 1/3 1/6 artabas of wheat 
+(((5)))Sintamis (?), daughter of Phasis, granddaughter of Horus, represented by and Orsenouphis, son of Orseus, grandson of Stotoetis (?) - - - 
+(((7)))Heron, son of Orsenouphis, grandson of Heron (?) - - - for 1 1/4 1/16 1/64 arouras of revenue land, - - - artabas of wheat 
+(((9)))Heron, son of an unknown father, whose mother is Soteris - - -
+(((10)))Sotas, son of Sotas, son of Orseus - - - for 1 1/4 1/8 1/16 1/32 1/64 arouras of royal land, 1/x artabas of wheat for seed - - -
+- - - son of Chiasis, grandson of Chiasis - - - son of Tepheros, grandson of Sansneus - - - for seed - - -
+(((15)))Seleucus, son of an unknown father, whose mother is - - - 
+(((16)))Pharus (?), son of an unknown father, whose mother is - - -
+(((18)))Eubius, son of an unknown father, whose mother is - - -    
+                   /*Translation: P.Leid.Inst. 1 28*/
+              =>
+           =T>
+        

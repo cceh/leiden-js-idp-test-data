@@ -1,0 +1,14 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 44. 
+            <term target="cleruchy">Kleruchie</term>. für 2 1/2 1/4 1/8 
+            <term target="aroura">Aruren</term> Staatsland 
+            <app type="BGU"><lem resp="BL I, S. 39">bei Patsôntis</lem></app>. Sarapôn, Sohn des Petês.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>From the seed reserves of year 22 of Antoninus Caesar, the lord. 44th 
+            <term target="cleruchy">cleruchy</term>. At <app type="BGU"><lem resp="BL I 39">Patsontis
+                </lem></app> 2 1/2 1/4 1/8 <term target="aroura">arouras</term> 
+            of public (land) Sarapon, son of Petes.
+        </p></div>
+      </body>

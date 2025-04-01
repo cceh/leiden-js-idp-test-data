@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Aurelius Sarapion, ex-cosmetes, senator, to his most esteemed Aurelius Thonis and Aurelius Apion,
+greeting. Please transfer from the price of my wheat on account of the monthly payments of Hathur for Phaophi to Dionysius, collector of Ammonas, decemprimus, 252 drachmae, total 252 dr. I pray for your health.’ The 1st year, Hathur 12.
+
+            =>
+         =T>
+      

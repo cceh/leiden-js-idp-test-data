@@ -1,0 +1,21 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+<lb n="1"/>αἱ <num value="7">ζ</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>αἱ <num value="8">η</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>αἱ <num value="9">θ</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/>αἱ <num value="10">ι</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/>αἱ <num value="20">κ</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/>αἱ <num value="30">λ</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="7"/>αἱ <num value="40">μ</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="8"/>αἱ <num value="50">ν</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex cert="low">ἀρτάβαι </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/>αἱ <num value="60">ξ</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex cert="low">ἀρτάβαι </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="10"/>αἱ <num value="70">ο</num> <expan>χό<ex>ρτου</ex></expan> <expan><ex cert="low">ἀρτάβαι </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="11"/>αἱ <num value="80">π</num> <expan>χό<ex>ρτου</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="12"/>αἱ <num value="90">ϙ</num> <expan>χό<ex>ρτου</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="13"/>αἱ <num value="100">ρ</num> <expan>χό<ex>ρτου</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="14"/><unclear>αἱ</unclear> <num value="200">σ</num> <expan>χό<ex>ρτου</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="15"/><supplied reason="lost">α</supplied>ἱ <num value="300">τ</num> <expan>χό<ex>ρτου</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="16"/><supplied reason="lost">α</supplied><unclear>ἱ</unclear> <num value="400"><unclear>υ</unclear></num> <expan><unclear>χ</unclear><supplied reason="lost">ό<ex>ρτου</ex></supplied></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="16"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

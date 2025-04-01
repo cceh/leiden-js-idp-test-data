@@ -1,0 +1,19 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="A+Brp" type="textpart"><ab>
+
+    <lb n="1"/><note xml:lang="en">PPetr 2,46,A-B reprinted in WChr 110 </note>
+</ab></div><div n="C,rrp" type="textpart"><ab>
+
+    <lb n="1"/><note xml:lang="en">PPetr 2,46,C,r reprinted in PPetr 3,57,B </note>
+</ab></div><div n="C,v" type="textpart"><ab>
+
+    <lb n="1"/><g type="slanting-stroke"/> Ἡλιοδώρωι τῆς <app type="editorial"><lem>πιπτούσης <gap reason="lost" extent="unknown" unit="character"/></lem><rdg>πιπτ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/></rdg></app> 
+
+    <lb n="2"/>τοῖς ἱππεῦσι τὰς τιμὰς τοῦ παρὰ <app type="editorial"><lem>Θεοτ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>σοῦ</rdg></app> 
+
+    <lb n="3"/><app type="editorial"><lem>ὑποκειμένοις</lem><rdg>συγκειμένοις</rdg></app> εἰς <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>ἐν τῆι διαγραφῆι <choice><reg>τῶν</reg><orig>τον</orig></choice> <unclear>τόπων</unclear> ἡμερῶν <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><app type="editorial"><lem>Ζήνωνι <gap reason="lost" extent="unknown" unit="character"/></lem><rdg><g type="unintelligible"/>ηνινι</rdg></app> 
+
+    <lb n="6"/>Ἁρμαχόρωι <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

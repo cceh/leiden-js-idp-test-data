@@ -1,0 +1,11 @@
+
+         <T=.de
+            <=
+               ((1)) (Blatt) 29.  Von Aurelios Herakleides alias Dioskoros, Sohn des Apollonios, des Sohnes des Dionysios, 
+und der Mutter Sinthonis aus Oxyrhynchos. ((4)) Entsprechend der Anordnung des Aurelius Antinous, vir perfectissimus, 
+der das Statthalteramt kommissarisch verwaltete, und des Präfekten Valerius Datus, vir clarissimus, 
+deklariere ich für (den Zensus) des vergangenen 24. Jahres des M. Aurelius …
+/*Translation: A. Jördens, P.Louvre 3 185*/
+            =>
+         =T>
+      

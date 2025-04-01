@@ -1,0 +1,27 @@
+
+         <T=.en
+            <=
+               ((1)) Soknopaiou Nesos, one camel.
+                      To Theodoros the strategos and
+                      to Timagenes the royal scribe of the Herakleides division of the Arsinoite Nome,
+                      from Harpagathes
+                      son of Pakysis, grandson of Pneferos,
+                      from the town of Soknopaiou Nesos.
+              ((7)) That one camel which I declared
+                      at my town during the 20th year
+                      I am also declaring now
+                      in the 21st year
+                      of our lord Antoninus Caesar
+                      at my town.
+             ((13)) One camel was registered at the office of the strategos,
+                      by his assistant Anoubion,
+                      4 Mecheir.
+                      One camel was registered at the office of the royal scribe,
+                      4 Mecheir.
+                      It was counted at the office of the strategos accordingly.
+                      By the office of the royal scribe accordingly.
+                      I accept the tally(?).
+                      /*Translation: M. Malouta, ZPE 190 (2014) 217*/
+            =>
+         =T>
+      

@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><expan><supplied reason="lost">Νό</supplied><ex>του</ex></expan><certainty match=".." locus="value"/></rdg></app> <unclear>καὶ</unclear> <app type="alternative"><lem><g type="unintelligible"/></lem><rdg><app type="alternative"><lem><expan>Λι<ex>βός</ex></expan><certainty match=".." locus="value"/></lem><rdg><expan><ex>δεκανός</ex></expan><certainty match=".." locus="value"/></rdg></app></rdg></app>  κ<gap reason="illegible" quantity="2" unit="character"/> ἀπὸ <unclear>λόγ</unclear>ου
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> αυτ<unclear>ω</unclear><gap reason="illegible" quantity="4" unit="character"/> των
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><num value="22"><unclear>κ</unclear>β</num> <gap reason="illegible" quantity="6" unit="character"/><unclear>αυ</unclear>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>μου</unclear> <space extent="unknown" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><app type="alternative"><lem>καὶ</lem><rdg><num value="20">κ</num> <expan><ex>ἔτους</ex></expan></rdg></app> <expan>ὑπ<ex>ὲρ</ex></expan> <unclear>κ</unclear><gap reason="illegible" quantity="4" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><app type="alternative"><lem><num value="1"><hi rend="supraline"><unclear>α</unclear></hi></num></lem><rdg><num value="30"><hi rend="supraline"><unclear>λ</unclear></hi></num></rdg></app> <unclear>Θ</unclear>ὼθ
+</ab></div>

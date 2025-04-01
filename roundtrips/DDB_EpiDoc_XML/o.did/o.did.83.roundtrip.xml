@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><choice><reg>Διογένους</reg><orig>Τιωγένου</orig></choice> <choice><reg>ἐρε
+<lb n="2" break="no"/>βίνθια</reg><orig>ἐλε<lb n="2" break="no"/>βείντια</orig></choice> <figure><figDesc>symbol</figDesc></figure>
+<lb n="3"/>καὶ <choice><reg>σταφυλί
+<lb n="4" break="no"/>ων</reg><orig>σταφοιγί<lb n="4" break="no"/>ων</orig></choice> <choice><reg><app type="alternative"><lem>μέτρον</lem><rdg><choice><reg>μάτιον</reg><orig>μάτειν</orig></choice></rdg></app></reg><orig>μέτρειν</orig></choice> <num value="1"><unclear>α</unclear></num>
+<milestone rend="paragraphos" unit="undefined"/>-
+<lb n="6"/><choice><reg>Δράκοντος</reg><orig>Δράκων</orig></choice>
+<lb n="7"/>μονο<surplus>υ</surplus>μά
+<lb n="8" break="no"/>χου <app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/>α
+<lb n="9"/><gap reason="illegible" quantity="1" unit="character"/>ε<unclear>π</unclear>ει<unclear>γ</unclear>ο
+<lb n="10"/><unclear>ε</unclear></lem><rdg><choice><reg>κα<lb n="9" break="no"/>μηλίτο<lb n="10" break="no"/>υ</reg><orig><unclear>κ</unclear>α<lb n="9" break="no"/><unclear>μ</unclear>ε<unclear>λ</unclear>εί<unclear>τ</unclear>ο<lb n="10" break="no"/><unclear>υ</unclear></orig></choice></rdg></app> <choice><reg>ἐλαίου</reg><orig>ἐλέου</orig></choice>
+<lb n="11"/><choice><reg>κοτύ
+<lb n="12" break="no"/>λη</reg><orig>κοδύ<lb n="12" break="no"/>ρη</orig></choice> <num value="1"><hi rend="supraline">α</hi></num>
+</ab>
+      </div>

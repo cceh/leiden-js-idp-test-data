@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              To Phocion, strategus, from Thonis son of Florus and Ptolema, aged about 35 years, having a scar upon his left wrist, and from Thonis son of Petaus and Taoues, aged about 62, with no distinguishing mark, both of Oxyrhynchus, mummifiers. To-day we were commissioned by you through your assistant Heracleus to inspect the dead body of Apis son of Pausis, of the said city, and to report the circumstances of the case. We therefore inspected the said body at his house...
+            =>
+         =T>
+      

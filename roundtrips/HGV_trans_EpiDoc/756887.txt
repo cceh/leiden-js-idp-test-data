@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) Sempronius ... to Sabinus ... greetings. ((4)) I want you to know that ... garment ...
+            =>
+         =T>
+      

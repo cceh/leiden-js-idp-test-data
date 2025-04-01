@@ -1,0 +1,13 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 79. 
+            <term target="cleruchy">Kleruchie</term>. Ptolemaios, Sohn des Kastôr, 
+            für 7 1/2 <term target="aroura">Aruren</term> 
+            <app type="BGU"><lem resp="BL I, S. 23">bei Patsôntis</lem></app>.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>From the seed reserves of year 22 of Antoninus Caesar, the lord. 79th 
+            <term target="cleruchy">cleruchy</term>. Ptolemaios, son of Kastor. At 
+            <app type="BGU"><lem resp="BL I 23">Patsontis</lem></app> 7 1/2 <term target="aroura">arouras</term>.
+        </p></div>
+      </body>

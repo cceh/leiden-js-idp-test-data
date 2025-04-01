@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              Antas to Faustus, many greetings. Take over from Pothus the reeds all together, and send me word how many bundles you have received, and put them in a safe place in order that we may take them on the journey up. Deliver a certain number of them to one of our friends in order that a friend may deliver them to me safely, and if you can ... give your attention to it... I have bought from (Pothus?) the 1000 bundles for 15 drachmae, Don't forget. Good-bye. The 28th year of Caesar, Pauni 1. (Addressed) To Faustus... at Nekle.
+            =>
+         =T>
+      

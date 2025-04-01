@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘Dioscurides to Zenon greeting. Up to the 30th of Mecheir we have transported 820 corner-stones delivered by Stotoetis the quarryman. Farewell. 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((8)) (Addressed) to Zenon.’
+               =>
+            =D>
+         =T>
+      

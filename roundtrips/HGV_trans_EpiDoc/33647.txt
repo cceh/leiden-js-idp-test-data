@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Theon son of Origenes invites you to the wedding of his sister to-morrow, which is Tubi 9, at the 8th hour.
+            =>
+         =T>
+      

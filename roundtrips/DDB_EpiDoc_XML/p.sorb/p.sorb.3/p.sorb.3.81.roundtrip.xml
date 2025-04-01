@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="ellipsis" quantity="17" unit="line"><desc>Demotic</desc></gap>
+<lb n="18"/><expan><ex>ἔτους</ex></expan> <num value="38">λη</num> Π<supplied reason="lost">αῦνι </supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="19"/>τιν<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="20"/>ωι α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="21"/>σώμα<unclear>τ</unclear><supplied reason="lost">α <num value="36">λϛ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

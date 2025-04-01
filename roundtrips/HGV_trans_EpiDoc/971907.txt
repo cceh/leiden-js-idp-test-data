@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    ((1))Year 24 of Marcus Aurelius Severus Antoninus Parthicus Maximus Britannicus Maximus Germanicus Maximus Felix Pius Augustus, Epeiph 23. (((5))) Terentius, son of Iulia Longinia, has paid thirty-six drachmas (36 dr.) in garden tax for year 22 to Aurelius Melas, secretary of the praktores argyrikon of Karanis. 
+                =>
+            =T>
+        

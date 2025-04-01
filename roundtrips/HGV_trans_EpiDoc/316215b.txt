@@ -1,0 +1,19 @@
+
+         <T=.fr
+ <= ((6)) L’an 20 de l’Empereur César Trajan
+	((7)) Hadrien Auguste, le 3 Thôt, au compte de Mésorè.
+	((8)) Asklas, fils de Sôtas, petit‐fils d’Asklas, et de Didumè, sa mère,
+	((9))– – a payé pour la laographie de	la dix‐neuvième année
+        ((10)) dans le quartier de Boutaphion vingt drachmes, ce qui fait 20, et 10 oboles de cuivre pour charges additionnelles.	
+ =>   
+=T>
+         <T=.ar   
+ <=  ((6))فى العام العشرين من حكم الامبراطور قيصر ترايانوس
+    ((7))  هدريانوس أغسطس،فى الثالث من شهر توت ،من حساب شهر مسرى ، دفع   
+ ((8))  أسكلاس بن سوتاس حفيد أسكلاس وأمه تدعى ديدمى 
+ ((9)) عن ضريب الرأس للعام التاسع عشر 
+ ((10)) فى ضاحية بوتافيون مبلغ وقدره عشرين درخمة بإجمالى ٢٠ (درخمة)؛
+بالإضافة إلى عشرة أبولات نحاسية مصاريف إضافية.
+=>
+=T>
+      

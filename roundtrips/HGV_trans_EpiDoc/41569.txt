@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Ptolemaios to Kleon, greetings. [...]
+               =>
+            =D>
+            <D=.v 
+               <= 
+                  ((3)) [To Kleon], engineer. Year 31, Payni 25. From Ptolemaios. To Kleon.
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 129, © Peeters*/
+               =>
+            =D>
+         =T>
+      

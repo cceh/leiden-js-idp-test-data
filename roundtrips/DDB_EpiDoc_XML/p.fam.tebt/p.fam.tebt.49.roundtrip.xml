@@ -1,0 +1,110 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" subtype="fragment" type="textpart">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ο</unclear>υδι<unclear>ς</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ἐπίτροπος καταστα</supplied><unclear>θ</unclear>ε<supplied reason="lost">ὶ</supplied><unclear>ς</unclear> ἀπὸ ἐ<unclear>ξη</unclear><supplied reason="lost">γητοῦ</supplied> 
+
+    <lb n="3"/><expan>ἄρ<unclear>χ</unclear><supplied reason="lost"><ex>οντος</ex></supplied></expan><supplied reason="lost"> <expan>πρυτανικ<ex>ῶν</ex></expan> Ἰουλίο</supplied><unclear>υ</unclear> τοῦ <supplied reason="lost">κα</supplied>ὶ Ἡρώδου 
+
+    <lb n="4"/>Φι<supplied reason="lost">λαντινόου τοῦ καὶ</supplied> <expan><supplied reason="lost">Ἡρ</supplied><unclear>ώ</unclear>δο<ex>υ</ex></expan> ἀφήλικος Ἀντινο
+
+    <lb n="5" break="no"/>έ<unclear>ως</unclear>. <supplied reason="lost" cert="low">σκευῶν ἀναγραφὴ</supplied> <supplied reason="lost">γ</supplied>ενομένη ἐπὶ πα
+
+    <lb n="6" break="no"/>ρό<supplied reason="lost">ντων </supplied><gap reason="lost" quantity="13" unit="character"/> Φιλ<supplied reason="lost">α</supplied>ντινόου <expan><unclear>γ</unclear>υ<ex>μνασιαρχ- </ex></expan> καὶ 
+
+    <lb n="7"/><unclear>Μ</unclear><supplied reason="lost">άρκου Πρωτάρχου καὶ Πρ</supplied>ω<unclear>τάρ</unclear>χου υἱ<supplied reason="lost">ο</supplied>ῦ 
+
+    <lb n="8"/><supplied reason="lost">Ἡρώδου καὶ </supplied><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> ο</supplied><unclear>υτ</unclear>ο<supplied reason="lost">υ</supplied> <unclear>κ</unclear>αὶ Ἡρώδ<supplied reason="lost">ου</supplied> 
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ἀ</unclear>φη<unclear>λ</unclear><supplied reason="lost">ι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>επι<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><unclear>λ</unclear>αχάριον           <num value="1">α</num> 
+
+    <lb n="2"/>κιβω<unclear>τ</unclear><supplied reason="lost">ός</supplied>          <num value="1">α</num> 
+
+    <lb n="3"/><expan>σφαιρίο<ex>ν</ex></expan> ὑ<unclear>ε</unclear>λοῦν  <num value="1">α</num> 
+
+    <lb n="4"/>τύλη τριβά<unclear>ς</unclear>        <num value="1">α</num> 
+
+    <lb n="5"/><expan>περίστρω<ex>μα</ex></expan> <unclear>ῥ</unclear><gap reason="illegible" quantity="2" unit="character"/>κ<unclear>ος</unclear> <expan>τριβά<unclear>δ</unclear>ο<ex>ς</ex></expan> <num value="1">α</num> 
+
+    <lb n="6"/><handShift new="m2"/> Φιλοσάραπις ἐπί
+
+    <lb n="7" break="no"/>τροπος ἐπιδέδω
+
+    <lb n="8" break="no"/>κα τὴ<unclear>ν</unclear> ἀναγρα
+
+    <lb n="9" break="no"/>φήν. <handShift new="m3"/> Σερῆνος Ἀμμω
+
+    <lb n="10" break="no"/>νί<unclear>ο</unclear>υ παρήμην τῇ ἀ
+
+    <lb n="11" break="no"/><supplied reason="lost">ναγ</supplied>ραφῇ Φιλαντ<unclear>ι</unclear><supplied reason="lost">νόο</supplied><unclear>υ</unclear>. 
+
+    <lb n="12"/><handShift new="m4"/> Μάρκος Πρωτά<supplied reason="lost">ρχου</supplied> 
+
+    <lb n="13"/><supplied reason="lost">παρ</supplied>ήμην τῇ ἀναγρ<supplied reason="lost">αφῇ.</supplied> 
+
+    <lb n="14"/><handShift new="m5" cert="low"/> <supplied reason="lost">Π</supplied>ρώτ<unclear>α</unclear>ρχος υἱὸς Ἡρώ<supplied reason="lost">δου</supplied> 
+
+    <lb n="15"/><supplied reason="lost" cert="low">παρήμην</supplied><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>κ<unclear>ο</unclear><gap reason="illegible" quantity="1" unit="character"/>στ<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="16"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
+</div>
+
+<div n="B" subtype="fragment" type="textpart">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/><handShift new="m1"/> φαιλ<unclear>όνη</unclear> κοκκίν<unclear>η</unclear>             <num value="1"><unclear>α</unclear></num> 
+
+    <lb n="2"/>ἡμιτριβή, 
+
+    <lb n="3"/>καὶ μαφόρτ<unclear>η</unclear> <choice><reg><expan>χρωματ<ex>ίνη</ex></expan></reg><orig><expan>χροματ<ex>ίνη</ex></expan></orig></choice> <num value="1"><unclear>α</unclear></num> 
+
+    <lb n="4"/>ἡμιτριβή, 
+
+    <lb n="5"/>καὶ φ<unclear>ερ</unclear><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ονουμέν<unclear>η</unclear> 
+
+    <lb n="6"/>τρι<unclear>βὰ</unclear>ς <choice><reg><expan>ἡμιτριβ<ex>ή</ex></expan></reg><orig><expan>ἡμιτρηβ<ex>ή</ex></expan></orig></choice>    <num value="1">α</num> 
+
+    <lb n="7"/>τύλη ἡμιτριβή                     <num value="1">α</num> 
+
+    <lb n="8"/>σ<unclear>τι</unclear>χο<unclear>π</unclear>λ<unclear>η</unclear>νη <expan>ἡμι<unclear>τρ</unclear>ιβ<ex>ή</ex></expan>             <num value="1"><unclear>α</unclear></num> 
+
+    <lb n="9"/><unclear>λ</unclear>ῶδι<supplied reason="lost">ξ</supplied> <gap reason="illegible" quantity="1" unit="character"/>λ<unclear>α</unclear>β<gap reason="lost" quantity="2" unit="character"/> <expan><supplied reason="lost">ἡμ</supplied><unclear>ι</unclear>τρι<unclear>β</unclear><ex>ή</ex></expan>       <num value="1"><unclear>α</unclear></num> 
+
+    <lb n="10"/><unclear>ψοφις</unclear><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost" cert="low"> ἡμιτρι</supplied>βή             <num value="1">α</num> 
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><unclear>β</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
+    <lb n="1"/>λαχανάρ<supplied reason="lost">ιον </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><choice><reg>κόφινος</reg><orig>κούφινο<unclear>ς</unclear></orig></choice>  <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">         <num value="1">α</num></supplied> 
+
+    <lb n="3"/>τύλαι νέ<supplied reason="lost">αι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>ὅλμος λ<supplied reason="lost" cert="low">ίθινος                 <num value="1">α</num></supplied> 
+
+    <lb n="5"/>δίσκοι κο<supplied reason="lost" cert="low">ῖλοι </supplied><gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="6"/>τ<unclear>άβλ</unclear>α κο<supplied reason="lost">ῖλα </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>θύσκ<unclear>αι</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/><choice><reg cert="low">ὑέλων</reg><orig>ὑαίλων</orig></choice> τ<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/>θύσκ<unclear>αι</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><gap reason="lost" quantity="1" unit="character"/><unclear>ρ</unclear>ιθης<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>
+</div></div>

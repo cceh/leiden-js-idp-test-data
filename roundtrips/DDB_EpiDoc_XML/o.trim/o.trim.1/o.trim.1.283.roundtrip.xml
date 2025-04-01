@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="concave" subtype="side" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><g type="slanting-stroke"/><g type="slanting-stroke"/> <expan>δι<ex>ὰ</ex></expan>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan>κριθ<ex>ῆς</ex></expan> <expan>μ<ex>άτια</ex></expan> <num value="3">γ</num>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg><expan>σεσημείωμ<ex>αι</ex></expan></reg><orig><expan>σεσημίωμ<ex>αι</ex></expan></orig></choice>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Σερῆ</supplied><unclear>ν</unclear>ος <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+</ab></div>
+
+<div n="convex" subtype="side" type="textpart"><ab>
+<lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+</ab></div>
+      </div>

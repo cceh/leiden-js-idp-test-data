@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              ((3))I swear by Tiberius Caesar Novus Augustus Imperator, son of the deified Jupiter Liberator Augustus, that I know of no one in the village aforesaid from whom extortions have been made by the soldier ... or his agents. If I swear truly, may it be well with me, but if falsely, the reverse. The 23rd year of Tiberius Caesar Augustus, Mecheir 17.
+            =>
+         =T>
+      

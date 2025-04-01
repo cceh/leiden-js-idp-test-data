@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><expan>ἄρτ<ex>οι</ex></expan> <num value="20">κ</num> <expan><unclear>τ</unclear><supplied reason="lost">ι</supplied><unclear>φ</unclear><ex>άγια</ex></expan> <num value="20">κ</num>
+<lb n="2"/><expan>κριθ<ex>ῆς</ex></expan> <app type="alternative"><lem><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></lem><rdg><expan>μ<ex>άτια</ex></expan> <num><gap reason="illegible" atLeast="1" atMost="2" unit="character"/></num></rdg></app>
+<lb n="3"/><handShift new="m2"/><expan>δ<ex>ιὰ</ex></expan> <expan>Δομνίων<ex>ος</ex></expan> τοῖς <expan>ἀδελφ<ex>οῖς</ex></expan>
+<lb n="4"/>Π<unclear>αύ</unclear>λῳ <expan>Ἐπεὶ<ex>φ</ex></expan> <num value="20"><hi rend="supraline">κ</hi></num>
+<lb n="5"/>Γελασίῳ
+<lb n="6"/><num value="12"><hi rend="supraline">ι<unclear>β</unclear></hi></num> Μεσορή
+</ab>
+</div>

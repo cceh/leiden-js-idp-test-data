@@ -1,0 +1,10 @@
+<S=.grc<=
+    1. Θὼθ *dipunct*  <#ϛ̄=6#> *dipunct* 
+
+    2. ~|ⲧⲕⲉⲙⲁⲛ|~cop  *dipunct* *filler(extension)* 
+
+    3. (μεγ(άλα)) *dipunct*  <#η̄=8#> *dipunct* 
+
+    4. ~|ⲕⲟⲗⲑⲉ ⲡⲁ ⲡⲟⲩⲟⲟⲧⲉ|~cop 
+
+    5. (ὁμοί(ως)) (μικ(ρὸν)) *dipunct*  <#ᾱ=1#> *dipunct* =>

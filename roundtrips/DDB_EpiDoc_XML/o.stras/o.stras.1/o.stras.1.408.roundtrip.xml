@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ανου 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Ἐπ</supplied>εὶφ <num value="16">ιϛ</num> <expan>ὀνόμ<ex>ατος</ex></expan> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>μενου Πετεμώφι<supplied reason="lost">ος</supplied> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>πυροῦ</ex></expan> δύο ἥμισυ <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num>. <expan>Ἀπολ<ex>λ  </ex></expan> <expan>σεση<ex>μείωμαι</ex></expan> 
+
+    <lb n="5"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> πυροῦ <unclear>μίαν</unclear> <expan>τετρακ<ex>αιεικοστόν</ex></expan> <expan><ex>γίνεται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="1">α</num> <num value="1/24" rend="tick">κδ</num>. <abbr>Α<gap reason="lost" quantity="3" unit="character"/></abbr><supplied reason="lost"> <expan>σεση<ex>μείωμαι</ex></expan>.</supplied> </ab></div>

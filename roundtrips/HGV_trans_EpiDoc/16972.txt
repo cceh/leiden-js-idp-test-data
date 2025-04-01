@@ -1,0 +1,41 @@
+
+         <T=.fr
+            <D=.a.fragment 
+               <=
+                  ((1)) [Sous le consulat] des très illustres Flavii Probus et Avienus,
+                         [Thôth jour] de la onzième indiction.
+                  ((3)) À [Flavius ...]reas, fils de Théophilos, le très illustre singularis du
+                         bureau ducal [de Théb]aïde, par l’intermédiaire de Mousaios, son esclave,
+                         [en sa pré]sence et à sa requête et assumant
+                         [en votre nom le]s droits relatifs à cette location, Aurélios
+                         [...] fils de Ouaianinios et de mère Martyria, huilier,
+                         [du village] de Phénébythis du nome Panopolite. ((8)) Je reconn[ais
+                         avoir pris] à bail auprès de ton Clarissimat, à partir du [présent
+                         mois de Th]ôth de la présente onzième indict[ion, pour
+                         autant] de temps qu’il le voudra, ce qui lui appartient [et] qui [lui] a été dévolu
+                         du nom de votre bienheureuse épouse
+                ((13)) [...] au profit de votre très noble
+                         [fille Ma]ria, non émancipée, à savoir la moitié d’une huilerie entière
+                         [avec une machine] à huile et un pressoir et un cerclage (?) de fer
+                         [et] deux [locaux/meules ?] et un enclos et une grange pour la paille
+                         [et ...] avec tout le droit commun au
+                         [.........] frère Hygieinos à hauteur de la même
+                         [moitié ... établi(e)] dans le même village de Phén[ébythis
+                         ...] de la vigne dans [...]
+               =>
+            =D>
+            <D=.b.fragment 
+               <=
+                  ((22)) [... de] votre moitié
+                           [...] garantie du bail [...
+                           Le bail est légal et] garanti et, ayant été in[terrogé,
+                           j’ai donné mon accord. ((25)) (main 2 ?) Moi, Aurélios ..., fils de Ouaiani]nios, sus[mentionné,
+                           j’ai pris à bail comme susmentionné. Moi... à sa requête, j’ai écrit] à sa place, lui qui ne [sait] pas ses lettres.
+                           [(main 3 ?) Moi, ... fils de Ma]rtyrios, de Phéné[bythis,
+                           suis témoin de la location...]
+                           [(main ?) Rédigé par mes soins...] paraphe
+                           /*Translation: B. Laudenbach, CdE 95 (2020) 120*/
+               =>
+            =D>
+         =T>
+      

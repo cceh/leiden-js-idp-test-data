@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              Theon to his sister Sarapous, greeting. Above all else, as I enjoined upon you when with you, take care of yourself so that I may have you well, and do not be anxious about me because I am away from home, for I am personally acquainted with these places and am not a stranger here...
+            =>
+         =T>
+      

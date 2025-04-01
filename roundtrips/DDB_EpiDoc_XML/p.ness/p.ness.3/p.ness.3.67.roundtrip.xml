@@ -1,0 +1,22 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="8"/><gap reason="ellipsis" quantity="8" unit="line"><desc>Arabic</desc></gap> 
+
+    <lb n="9"/>ἐν <expan>ονόμ<ex>ατι</ex></expan> τοῦ θεοῦ· <unclear>Α</unclear>σσα<unclear>ν</unclear> <expan>β<ex>εν</ex></expan> Μαλεχ 
+
+    <lb n="10"/><expan>τοῖ<ex>ς</ex></expan> ἀπὸ Νεστάνων <choice><reg><expan>κλί<ex>ματος</ex></expan></reg><orig>κ<unclear>λ</unclear>η</orig></choice> <choice><reg>Ἐλούσης</reg><orig>Ἐλλ<unclear>ούσης</unclear></orig></choice> <expan>χώρ<ex>ας</ex></expan> Γάζης. <expan>π<ex>αράσ</ex>χ<ex>ετε</ex></expan> 
+
+    <lb n="11"/><expan><supplied reason="lost">τ<ex>α</ex></supplied>χ<ex>έως</ex></expan> Ναυφαλ <expan>β<ex>εν</ex></expan> Σαχα<unclear>ν</unclear> <expan>τῶ<ex>ν</ex></expan> <expan>β<ex>ανι</ex></expan> Αυφ <expan>β<ex>εν</ex></expan> <unclear>Αμ</unclear>ιν <expan>σί<ex>του</ex></expan> <expan>μ<ex>οδίους</ex></expan> διακοσίους 
+
+    <lb n="12"/>ἑ<supplied reason="lost">βδο</supplied><unclear>μή</unclear><supplied reason="lost">κον</supplied><unclear>τ</unclear><supplied reason="lost">α <num value="270"/>, ἐ</supplied><unclear>λ</unclear><supplied reason="lost">αίου <expan><ex>ξέστας</ex></expan> δ</supplied><unclear>ι</unclear><supplied reason="lost">ακοσ</supplied><unclear>ί</unclear><supplied reason="lost">ους ἑβδομήκοντα <num value="270"/>. </supplied><gap reason="lost" quantity="6" unit="character"/> 
+
+    <lb n="13"/>χειρὶ <unclear>Ε</unclear>ὐλ<unclear>αί</unclear>ου <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="14"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Arabic</desc></gap> 
+
+    <lb n="15"/><space extent="unknown" unit="character"/> 
+
+    <lb n="14"/><expan><ex>γίνονται</ex></expan> <num value="270">σο</num> 
+
+    <lb n="15"/><handShift new="m2"/> <unclear>εν</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><abbr><unclear>αυτ</unclear></abbr> <gap reason="illegible" quantity="2" unit="character"/> Ν<unclear>ε</unclear>στάνων <choice><reg><expan>κλί<ex>ματος</ex></expan></reg><orig><expan>κλή<ex>ματος</ex></expan></orig></choice> <choice><reg>Ἐλούσης</reg><orig>Ἐλλούσης</orig></choice> </ab></div>

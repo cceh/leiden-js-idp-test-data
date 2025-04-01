@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>ἀδριαναὶ <num value="18">ιη</num> <num value="70">ο</num>
+
+    <lb n="2"/>πασσάλια <num value="5">ε</num> <num value="16">ιϛ</num>
+
+    <lb n="3"/><choice><reg>ῥόδιον</reg><orig>ῥοδιν</orig></choice> <num value="1">α</num> <num value="6">ϛ</num>
+
+    <lb n="4"/>μαῦραι <num value="6">ϛ</num> <num value="46">μϛ</num>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><num value="24">κ<unclear>δ</unclear></num>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

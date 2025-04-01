@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) You will enjoy more if you wait for a short while. (C. Pernigotti)
+            =>
+         =T>
+      

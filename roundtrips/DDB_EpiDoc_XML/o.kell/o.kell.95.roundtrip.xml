@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Υἱὸς Παπετάλου·  <expan>φοινί<ex>κων</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num>,
+
+    <lb n="2"/>πίου <expan>μ<ex>άτιον</ex></expan> <num value="1">α</num>, <expan>ἐλαί<ex>ου</ex></expan> <expan>κερ<ex>άμια</ex></expan> <subst><add place="inline"><num value="4">δ</num></add><del rend="corrected"><num value="1">α</num></del></subst>.
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><abbr>ποστο<gap reason="illegible" quantity="1" unit="character"/></abbr> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num>.
+
+    <lb n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">Π</supplied>εκῦσι<ex>ς</ex></expan> <abbr>Π<gap reason="illegible" quantity="3" unit="character"/>λ</abbr>·  ε<gap reason="illegible" quantity="1" unit="character"/> <expan>λί<ex>τραι</ex></expan> <num value="4">δ</num>·
+
+    <lb n="5"/>Π<gap reason="illegible" quantity="4" unit="character"/>ις <expan>Ψενθ<unclear>ώτ</unclear><ex>ου</ex></expan>·  <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num>·
+
+    <lb n="6"/><del rend="erasure">παρα <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></del></ab></div>

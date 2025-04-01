@@ -1,0 +1,11 @@
+<S=.grc
+<=
+    1. Σενκτίστης
+
+    2. <:ἐτών|reg|ἠτῶν:> <#δέκα
+
+    3. <:ὀ̣κ̣τώ|subst|εκ̣τω:>=18#> *slanting-stroke**slanting-stroke*
+
+    4. #Ankh-symbol   <#ιη=18#> #Ankh-symbol 
+=>
+      

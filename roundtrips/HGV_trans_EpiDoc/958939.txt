@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) Psansnos the elder son of Petroszmethis has paid eight dr. [on account] for the poll tax of the
+first [year] of Nerva Caesar, [the lord], on 13th Pachon. ((5)) [I, Hermogenes, tax collector,] have
+written. Psansnos himself (has paid) [the remaining] for the 1st year nine dr. the total 9 dr. ((7)) [I,
+Hermogenes, tax collector,] have written.
+/*Translation: S.A. Aly, ZPE 219 (2021) 152*/
+            =>
+         =T>
+      

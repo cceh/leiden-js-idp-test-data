@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Gerontius, strategus of the Arsinoite nome from Annious, senator, overseer of the wine supply. I hereby admit swearing by the fortune of our lords the Emperors and Augusti that I have just now collected from the undermentioned from the crop of the  - year 17,816 Italian sextarii and from residents in the villages 13,170 Italian sextarii, the which I will distribute in full…. I take the oath and in reply to the formal question give my assent. (In detail: names).’
+            =>
+         =T>
+      

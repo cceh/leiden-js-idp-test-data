@@ -1,0 +1,27 @@
+
+         <T=.de<=
+            ((1))Im 7. Jahr des Antoninus und des Ve[rus], der Herren Augusti 
+            <:[A]rmeniaci|BGU_DDbDP:P. Bas., S. 57|:> Medici 
+            <:Pa[rthi]ci|BGU_DDbDP:P. Bas., S. 57|:> Maximi, am 5. Schalttag des 
+            <:[Mes]orê|BGU_DDbDP:P. Bas., S. 57|:>, <:zur Verrechnung|BGU:BL I, S. 438|:> für Pachôn (und) P[ayn]i. ((3))Eingezahlt hat Stotoêtis 
+            der [Jüngere (?)], Sohn des Stotoêtis, <:an|:|:> 
+            <:<Kamelsteuer=telesmakamelon>|:|:> für Soknopaiû 
+            [N]êsos für das 7. Jahr neunzig Drachmen, das sind 90 Drachmen, <:an|:|:> 
+            <Zusatzzahlungen=prosdiagraphomena> 5 (Drachmen), <:4 
+                Obolen|BGU:BL I, S. 438|:>, <:an|:|:> 
+            <:<Quittungsgebühr=sumbolikon>|:|:> 
+            <:1 1/2 Obolen|BGU:BL I, S. 438|:>.
+        =>=T>
+         <T=.en<=
+            ((1))Year 7 of Antoninus and Ve[rus], the lords Augusti 
+            <:[A]rmeniaci|BGU_DDbDP:P.Bas., p. 57|:> Medici 
+            <:Pa[rthi]ci|BGU_DDbDP:P.Bas., p. 57|:> Maximi, 
+            <:[Mes]ore|BGU_DDbDP:P.Bas., p. 57|:>, intercalary day 5. 
+            <:For the reckoning|BGU:BL I 438|:> of Pachon (and) P[ayn]i. 
+            ((3))Stotoetis, [the younger ?], son of Stotoetis, paid for the <tax on 
+                camels=telesmakamelon> of <:Soknopaiou|BGU_DDbDP:P.Bas., p. 56|:> [N]esos of year 7 ninety drachmas, = 90 drachmas, for 
+            <extra charges=prosdiagraphomena> 5 (drachmas) 
+            <:4 obols|BGU:BL I 438|:>, for the <receipt 
+                charge=sumbolikon> <:1 1/2 obols|BGU:BL I 438|:>.
+        =>=T>
+      

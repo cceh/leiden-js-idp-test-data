@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) Herais asks you to dine in the dining hall of the Sarapeion at the banquet of the lord Sarapis tomorrow, which is the 11th, starting at the 9th hour.
+            =>
+         =T>
+      

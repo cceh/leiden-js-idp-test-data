@@ -1,0 +1,7 @@
+
+         <T=.de
+            <=
+               ((1)) Andronikos grüßt seinen Bruder Dionysios. (((2)))Der Bruder des Mannes, der das Geld erhalten hat, ist zu mir gekommen und hat mich gebeten: 'Laß mich in Ruhe, bis Dionysios da ist, und alles, was er (sc. mein Bruder) bekommen hat, wird er ihm (sc. dem Dionysios) überweisen, wenn es auch dir recht ist.' (((3)))Ich wünsche dir Wohlergehen, mein Bruder. /*Übersetzung von D. Hagedorn, P.Köln 2 106, S. 178*/
+            =>
+         =T>
+      

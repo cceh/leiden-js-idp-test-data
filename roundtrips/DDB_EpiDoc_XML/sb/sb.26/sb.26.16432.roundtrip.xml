@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><supplied reason="lost">.<unclear>3</unclear></supplied><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><supplied reason="lost">Αὐρηλίου Οὐαλερίου Διοκλητιανοῦ καὶ <expan><ex>ἔτους</ex></expan> ἐνά</supplied>του<num value="9"/> Αὐτοκράτορος Καίσαρος Μάρκου
+<lb n="3"/><supplied reason="lost">Αὐρηλίου Οὐαλερίου Μαξιμιανοῦ Γερμανικ</supplied><unclear>ῶ</unclear>ν μεγίστων Σαρματικῶν μεγίστων
+<lb n="4"/><supplied reason="lost">καὶ <expan><ex>ἔτους</ex></expan> <num value="2">β</num> Φλαυίου Οὐαλερίου Κωνσταντίου καὶ</supplied> <unclear>Γ</unclear>αλερίου Οὐαλερίου Μαξιμιανοῦ
+<lb n="5"/><supplied reason="lost">τῶν ἐπιφανεστάτων Καισάρων Εὐσεβῶ</supplied><unclear>ν</unclear> Εὐτυχῶν Σεβαστῶν Φαμενὼθ <num value="17"><hi rend="supraline">ιζ</hi></num>.
+</ab></div>

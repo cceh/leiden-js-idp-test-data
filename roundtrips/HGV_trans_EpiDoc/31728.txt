@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              Aurelia Aristous daughter of Aurelius Herodes son of Apion, ex-gymnasiarch, senator of the city of Oxyrhynchus, with the guardian given to me in accordance with Roman custom, Marcus Aurelius Nicocles son of Zoïlus, ex-gymnasiarch of the said city, to Aurelius Heraclides also called Lucius, son of Lucius, and however you are styled, greeting. In consequence of the lamentable news announced to me concerning the death of my blessed husband Achillion also called Apollonius, son of Apollonius, while at his post of basilicogrammateus of the territory of the Alexandrians, I agree that I have by this bond appointed you to go down to Alexandria and register with his excellency the procurator usiacus in my name on behalf of the son of myself and my said husband, and his heir, Aurelius Dionysius also called Apollonius, gymnasiarch of the said city, who is stil subject to the Laetorian law, all his (Achillion’s) property, valued at two hundred thousand sesterces. And out of this estate I declare that my husband owes me from the dowry which was brought to him upon my marriage with him consisting of gold ornaments and clothing and other objects valued at two talents and 3000 drachmae of silver ...
+            =>
+         =T>
+      

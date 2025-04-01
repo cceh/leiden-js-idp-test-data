@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+
+    <lb n="2"/><gap reason="lost" quantity="5" unit="character"/><unclear>μω</unclear>ν Ἀεττίου <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" quantity="3" unit="character"/>ς <choice><reg>Ἡρακλείου</reg><orig>Ἡρακλίου</orig></choice> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="4"/><gap reason="lost" quantity="3" unit="character"/><unclear>ω</unclear>ν καὶ Ἀρτεμίδωρ<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="5"/><unclear>Παῦ</unclear>λος Ἄμμων κᾕ πανο<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="6"/>Ἀντώνιος ἄπα Σίων<unclear>ο</unclear><supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="7"/>Λεωνίδης Ἀπίων<unclear>ος</unclear> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/>
+
+    <lb n="8"/>Κῦρος Ἀρτεμιδώρου <abbr>ὀρθ<unclear>υ</unclear></abbr> <expan>νο<ex>μίσματα</ex></expan> <num value="20">κ</num>
+
+    <lb n="9"/><expan>κληρ<ex>ονόμος</ex></expan> Ἀρτεμιδώρου πιτυιν <expan>νο<ex>μίσματα</ex></expan> <num value="20">κ</num></ab></div>

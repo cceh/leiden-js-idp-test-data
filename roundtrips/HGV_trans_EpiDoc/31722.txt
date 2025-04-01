@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              Greeting, my lord Antas, from Anubion. Sarapion of the village of Philonicus came to me about a small quantity of provisions for sale. Perhaps you may be willing to give him something and take from him the trodden grapes (?) as the price of it, since we are likely to be wanting green-stuff? I therefore send him to you in order that you may do as you please with him...
+            =>
+         =T>
+      

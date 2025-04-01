@@ -1,0 +1,14 @@
+
+         <T=.fr
+            <D=.convex 
+               <=
+                  ((1)) Hermophilos à Tieus, salut. (((2))) Envoie‑nous la peau en la confiant à Abdos, l’agent de Kallidèmos. ((4)) Et puis donne l’ordre à Emrous, l’Arabe du désert, et à ses fils, de conduire les femelles au pâturage afin qu’elles soient saillies. (Dis‑leur) que sinon, ils me paieront les petits
+               =>
+            =D>
+            <D=.concave 
+               <=
+                  ((9)) qu’elles doivent mettre bas. (((10))) Tu parleras solennellement en présence de Radanos et des autres qui sont auprès de toi, afin qu’il ne se rétracte pas par la suite. Écris‑moi ce qu’ils t’auront répondu. (((15))) Porte‑toi bien. L’an 24, 13 Tybi.
+               =>
+            =D>
+         =T>
+      

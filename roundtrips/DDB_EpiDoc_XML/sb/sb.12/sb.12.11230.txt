@@ -1,0 +1,56 @@
+<S=.grc<=
+    1. *stauros* Κόμις 
+
+    2. α  χμγ *rho-cross* 
+
+    3. *stauros* Κόμις 
+
+    4. β  χμγ *rho-cross* 
+
+    5. *stauros* Κόμις 
+
+    6. (|οικ|) ἄπα Ὠτᾶ 
+
+    7. χμγ *rho-cross* 
+
+    8. *stauros* Παλλὰς 
+
+    9. α  χμγ *rho-cross* 
+
+    10. *stauros* Παλλὰς 
+
+    11. β  χμγ *rho-cross* 
+
+    12. *stauros* Παλλὰς 
+
+    13. (|οικ|) ἄπα Ὠτᾶ 
+
+    14. χμγ *rho-cross* 
+
+    15. *stauros* (|οικ|) Νεμεσιανοὶ 
+
+    16. χμγ *rho-cross* 
+
+    17. *stauros* (|οικ|) Νεμεσιανοὶ 
+
+    18. χμγ *rho-cross* 
+
+    19. *stauros* (|οικ|) Νεμεσιανοὶ 
+
+    20. χμγ *rho-cross* 
+
+    21. *stauros* (|οικ|) ἄπα Ὠτᾶ 
+
+    22. χμγ *rho-cross* 
+
+    23. *stauros* (|οικ|) ἄπα Ὠτᾶ 
+
+    24. χμγ *rho-cross* 
+
+    25. *stauros* (|οικ|) ἄπα Ὠτᾶ 
+
+    26. χμγ *rho-cross* 
+
+    27. *stauros* <:Εὔτυχος|reg|Εὔτυχως:> 
+
+    28. χμγ *rho-cross* =>

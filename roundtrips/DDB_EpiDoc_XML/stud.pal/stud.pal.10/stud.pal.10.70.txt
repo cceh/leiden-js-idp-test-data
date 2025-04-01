@@ -1,0 +1,28 @@
+<S=.grc
+<=
+    1. *rho-cross* (χωρ(ίον)) Ψιμίστους *slanting-stroke**slanting-stroke* ~|ⲡⲉ ⲥⲕⲁⲛⲥⲓⲙⲓⲥⲧⲟⲩ .1[.?]|~cop 
+
+    2. (χωρ(ίον)) Ψεν.3 *slanting-stroke**slanting-stroke* ~|ⲡⲉ ⲡϣⲉⲛⲉⲡⲧⲓⲙⲓ [.?]|~cop 
+
+    3. (χωρ(ίον)) (|Ψενπιλειο|) *slanting-stroke**slanting-stroke* ~|ⲡⲉ ⲡϣⲉⲛⲉⲡⲓⲗⲏ|~cop 
+
+    4. (χωρ(ίον)) [Ψ]ε̣[να]π̣αρεκ *slanting-stroke**slanting-stroke* ~|ⲡ[ⲉ] ⲯ[ⲉ]ⲛⲁⲡⲁⲣⲉⲕ|~cop 
+
+    5. (χωρ(ίον)) [Ψι]νευρε *slanting-stroke**slanting-stroke* ~|ⲡ[ⲉ] ⲯⲓⲛⲉⲩⲣⲏ|~cop 
+
+    6. (χωρ(ίον)) [Ψ][.2].2ε̣ι̣.1 *slanting-stroke**slanting-stroke* ~|ⲡ[ⲉ] ⲯⲉⲧⲉ[.1]|~cop 
+
+    7. [(χωρ(ίον)) ][.?].1τ̣ω [*slanting-stroke**slanting-stroke*] ~|[ⲡⲉ] ϫⲓϫⲓ.1ϩ|~cop 
+
+    8. [(χωρ(ίον)) ][.?](|αφρι|) [*slanting-stroke**slanting-stroke*] ~|ⲡⲉ ⲯ̣ⲟⲩ[.1]ⲁ̣ⲃⲟⲗ|~cop 
+
+    9. [(χωρ(ίον)) ][.?]ως *slanting-stroke**slanting-stroke* ~|ⲡⲉ̣ ϩ[ca.5]|~cop 
+
+    10. <:[Ἀρσινοιτῶν πόλεω]ς=P. van Minnen, Tyche 36 (2021) 190 (KorrTyche 1029)|ed|[Ἀρσινοϊτῶν πόλι]ς:> *slanting-stroke**slanting-stroke* ~|ⲡⲉ ⲡⲟⲗⲓⲥ|~cop 
+
+    11. [(χωρ(ίον)) ][.?]ν *slanting-stroke**slanting-stroke* ~|ⲡⲉ ⲡⲥⲉⲉⲥⲓ|~cop 
+
+    12. [(χωρ(ίον)) Βουκ]ό̣λου *slanting-stroke**slanting-stroke* ~|ⲡⲉ ⲧⲃⲟⲩⲕⲱⲗⲟⲩ|~cop 
+
+    13. [(χωρ(ίον)) ][.?]ν *slanting-stroke**slanting-stroke* ~|ⲡⲉ [ⲙ]ⲱⲛⲁⲥⲧⲓⲣ|~cop   
+=>

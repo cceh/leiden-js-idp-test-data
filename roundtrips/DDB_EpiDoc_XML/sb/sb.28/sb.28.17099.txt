@@ -1,0 +1,11 @@
+<S=.la
+<=
+1. Manilius *middot* Felix *middot* (dec(urio)) *slanting-stroke* <:Novellio|reg|Novelio:> *slanting-stroke*
+2. curatori *middot* <:Maximiani|reg|Maximiano:> *middot* <:salutem|reg|salute:>.
+3. recte facies *middot* per amaxas *middot* mittas
+4. nobis *middot* <:aquam|reg|aqua:>, *middot* quia *middot* de*middot*est *middot* nobis
+5. et *middot* unde <:potare|reg|potere:> *middot* non <:habemus|reg|abemus:> *slanting-stroke*,
+6. ẹt *middot* cura tibi *middot* sit *middot* celerius *middot* mittere.
+7. $m2 opto te bene valere.
+=>
+      

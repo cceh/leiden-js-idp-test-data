@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) Berkou ... Iulius [cognomen], of Serenus' squadron. 
+/*Translation: H. Cuvigny, JRA 34 (2021) 16*/
+            =>
+         =T>
+      

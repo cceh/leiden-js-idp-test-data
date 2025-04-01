@@ -1,0 +1,44 @@
+<S=.grc<=
+    1. ((ἔτους)) <#ιε=15#> Παχὼν <#α=1#> προείρηται χόρ
+
+    2.- του φορτίον <#α=1#>, ἄλλο προείρη
+
+    3.- ται <#β=2#>, ἄλλο <#δ=4#>, ἄλλο <#ζ=7#>, 
+
+    4. ἄλλο <#ια=11#>, ἄλλο <#ιγ=13#>,  <#ιζ=17#> ἄλλο, <#ιθ=19#> <:ἄλλο|reg|ἀλλος:> 
+
+    5. <#κβ=22#> ἄλλο, ἄλλας προείρηκα τῇ ἁμάξῃ δέσμ\|ας *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke*,|/ 
+
+    6. <#κϛ=26#> ἄλλο, <#α=1#> ἄλλο, <#γ=3#> ἄλλο, 
+
+    7. <#ζ=7#> ἄλλο, <#ι=10#> ἄλλαι, <#ιγ=13#> ἄλλο, <#ιϛ=16#> ἄλλο, 
+
+    8. <#ιθ=19#> ἄλλο, <#κη=28#> ἄλλο, <#γ=3#> ἄλλο, <#ϛ=6#> ἄλλο, 
+
+    9. <#θ=9#> ἄλλο, <#ιβ=12#> ἄλλο, <#ιε=15#> ἄλλο, <#ιη=18#> ἄλλο, 
+
+    10. <#κα=21#> ἄλλο, <#κδ=24#> ἄλλο, <#κζ=27#> ἄλλο, <#α=1#> ἄλλο, 
+
+    11. <#ε=5#> ἐπαγομένων [.1]<#ε=5#> ἄλλο, τοῦ Θαῦτ 
+
+    12. <#ιβ=12#> ἄλλο, <#κγ=23#> ἄλλο, Παῶπι <#γ=3#> ἄλλο, 
+
+    13. <#ιγ=13#> ἄλλο, <#κβ=22#> .1[.3] φορτίον, 
+
+    14. ἔχει Ἁρπ[.4] χόρτου φορτία <#ζ=7#>. 
+
+    15. εἰς Κροκοδείλων πόλιν ἀνενήνεκται 
+
+    16. χόρτου (φο(ρτία)) <#ε=5#>, ἄλλα (φο(ρτία)) <#ε=5#>, <:ἄλλα|reg|ἄλλλα:> (φο(ρτία)) <#γ=3#>. 
+
+    17. *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* 
+
+    18. *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* ἔχει ((δραχμὰς)) <#υ=400#>, 
+
+    19. ἄλλας ἔχει Πιῆνχ ((δραχμὰς)) <#υ=400#>, 
+
+    20. ἔχει Θοσῶτομ παρὰ Νείλου ((δραχμὰς)) <#υ=400#>. 
+
+    21. <#α=1#>[.?] 
+
+    22. lost.?lin =>

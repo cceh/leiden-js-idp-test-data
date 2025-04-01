@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.Fr1 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.Fr2 
+               <=
+                  ((40)) ‘In the temple of Berenice Aktia. I, Dionysius son of Athenagoras, known on the active list as Nicholas son of Onesimus, of Olus, first-friend and sabre-bearer, to Heracleides son of Apollonius, Macedonian; I swear the royal oath that I have assigned to you the two silver drachmae issued to me every month from the royal treasury towards the interest on the sums borrowed on a note of loan and a bank order payable through Hermias’ bank for 400 silver drachmae and I will take no action against ….’
+               =>
+            =D>
+         =T>
+      

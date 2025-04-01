@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="2"/>Ἁ<unclear>θ</unclear>ύρ <num value="5">ε</num> <gap reason="lost" extent="unknown" unit="character"/>
+<milestone rend="paragraphos" unit="undefined"/>
+<lb n="3"/><gap reason="illegible" quantity="3" unit="line"/>
+<lb n="6"/>καὶ ταῦτα<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="7"/>τα τορευ<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="8"/><app type="alternative"><lem>βαλ</lem><rdg>βλη</rdg></app><gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

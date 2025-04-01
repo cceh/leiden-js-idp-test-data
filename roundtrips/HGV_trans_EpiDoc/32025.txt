@@ -1,0 +1,10 @@
+
+         <T=.fr
+            <D=.i.column 
+               <=
+                  ((3)) […] aroures ensemencées les surnommées
+                         […] d'Aristomenès 4 aroures de jonc […] /*Translation: CPR 35 70*/
+               =>
+            =D>
+         =T>
+      

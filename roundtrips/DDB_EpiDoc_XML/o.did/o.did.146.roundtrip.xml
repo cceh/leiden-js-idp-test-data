@@ -1,0 +1,6 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><choice><reg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ύ</unclear>στου</reg><orig><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>υ</unclear>στι</orig></choice>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>λιος <app type="alternative"><lem>οὐηλά<supplied reason="lost" cert="low">ριος</supplied></lem><rdg>οὐη<supplied reason="omitted">ξι</supplied>λά<supplied reason="lost">ριος</supplied></rdg></app>
+</ab>
+      </div>

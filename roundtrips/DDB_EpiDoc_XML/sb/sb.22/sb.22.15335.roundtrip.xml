@@ -1,0 +1,32 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" quantity="16" unit="line"/>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><num value="1">α</num> <num value="1"><unclear>α</unclear></num> <supplied reason="lost"><num value="1">α</num></supplied>
+
+    <lb n="2"/><num value="2"><unclear>β</unclear></num> <num value="2"><unclear>β</unclear></num> <supplied reason="lost"><num value="4">δ</num></supplied>
+
+    <lb n="3"/><num value="3">γ</num> <num value="3">γ</num> <supplied reason="lost"><num value="9">θ</num></supplied>
+
+    <lb n="4"/><num value="4">δ</num> <num value="4">δ</num> <num value="16"><unclear>ι</unclear>ϛ</num>
+
+    <lb n="5"/><num value="5">ε</num> <num value="5">ε</num> <num value="25"><unclear>κ</unclear><supplied reason="lost">ε</supplied></num>
+
+    <lb n="6"/><num value="6">ϛ</num> <num value="6">ϛ</num> <num value="36"><unclear>λ</unclear><supplied reason="lost">ϛ</supplied></num>
+
+    <lb n="7"/><num value="7">ζ</num> <num value="7">ζ</num> <supplied reason="lost"><num value="49">μθ</num></supplied>
+
+    <lb n="8"/><num value="8">η</num> <num value="8">η</num> <num value="64">ξ<supplied reason="lost">δ</supplied></num>
+
+    <lb n="9"/><num value="9">θ</num> <num value="9">θ</num> <supplied reason="lost"><num value="81">πα</num>
+
+    <lb n="10"/><num value="10">ι</num> <num value="10">ι</num> <num value="100"><unclear>ρ</unclear></num>
+
+    <lb n="11"/><num value="20">κ</num> <num value="20">κ</num> <num value="400">υ</num>
+
+    <lb n="12"/><num value="30">λ</num> <num value="30"><unclear>λ</unclear></num> 
+</supplied>
+    <lb n="13"/><num value="40">μ</num> <supplied reason="lost"><num value="40">μ</num> <num value="1600">Αχ</num></supplied>
+
+    <lb n="14"/><gap reason="lost" extent="unknown" unit="line"/></ab></div></div>

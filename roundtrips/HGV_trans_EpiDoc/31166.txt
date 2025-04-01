@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘At Hiera, Aunes (has received) … jars, on the 8th, 15 jars, at Sel ... 4 jars, the 26th, 154 jars 34 cotylae, total 173 jars 34 cotylae; from which there have been handed over to the dealers of .. polis, from the 27th to the 28th 34 jars, remainder 139 jars 34 cotylae. The 28th, at Narmouthis, Horion (has received) … jars and by purchase through the same person … jars 35 cotylae, and ...’
+            =>
+         =T>
+      

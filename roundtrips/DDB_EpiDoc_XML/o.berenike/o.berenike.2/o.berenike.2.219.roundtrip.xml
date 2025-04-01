@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><supplied reason="lost"><note xml:lang="en">Name</note></supplied> <choice><reg><supplied reason="lost">κοιντ</supplied>ανήσιος</reg><orig><supplied reason="lost">κοιντ</supplied>ανήσις</orig></choice> τοῦ <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ω</unclear>της <num value="12"><hi rend="supraline">ιβ</hi></num> <unclear>τοῦ</unclear>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex cert="low">ἔτους</ex></expan> <num value="35">λε</num> <choice><reg>κοιντάναν</reg><orig>κυιτάν<unclear>αν</unclear></orig></choice>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ς τοῦ Τῦβι <expan>δρα<supplied reason="omitted">χ</supplied>μ<ex>ὰς</ex></expan>
+<lb n="5"/><supplied reason="lost"><num value="8">ὀκτώ</num>,</supplied> <expan><ex>δραχμὰς</ex></expan> <num value="8"><hi rend="supraline">η</hi></num>
+</ab></div>

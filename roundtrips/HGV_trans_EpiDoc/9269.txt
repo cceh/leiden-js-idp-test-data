@@ -1,0 +1,36 @@
+
+         <T=.de<=
+            ((1))An die <Sitologen=sitologos> von Karanis für 
+            die Ernte des 9. Jahres.
+            (((2)))Wir, Sarapiôn, Sohn des Achilleus, des Sohnes des Hermaïskos, aus der 
+            Phyle der Sôsikosmioi und dem Demos der Althaieis, und 
+            <:[Hêr]aklas (?)|BGU_DDbDP:Viereck, Komm. zu BGU I 621|:>, Sohn des 
+            Melas, und Mysthês, Sohn des 
+            <:[Sa]tyros (?)|BGU_DDbDP:Viereck, Komm. zu BGU I 621|:>, des Sohnes des 
+            Apollônios, und Pasiôn, Sohn des [Ak]ûsilaos, die 4, 
+            <hydrophylakes~grc-Latn=hudrophulax> des 
+            <:Hirten|BGU:BL I, S. 57|:>-Kanals, ((7))haben von Euch 
+            empfangen und zugemessen bekommen vom Ertrag desselben 9. Jahres die uns von Potamôn, 
+            dem <Strategen=strategos>, und Asklepiadês, dem 
+            <Königlichen Schreiber=basilikosgrammateus> des Bezirks, als 
+            den uns für die Monate [...] Mecheir des 9. Jahres geschuldeten Lohn angewiesenen 
+            <:[... x <Artaben=artaba> ...]|:|:> ...
+        =>=T>
+         <T=.en<=
+            ((1))To the <sitologoi=sitologos> of Karanis for the 
+            produce of year 9.
+            (((2)))We, Sarapion, son of Achilleus, the son of Hermaiskos, of the 
+            Sosicomian tribe and the Althaean deme, and 
+            <:[Her]aklas (?)|BGU_DDbDP:Viereck comm. on BGU I 621|:>, son of Melas 
+            and Mysthes, son of 
+            <:[Sa]tyros (?)|BGU_DDbDP:Viereck comm. on BGU I 621|:>, the son of 
+            Apollonios and Pasion, son of [Ak]ousilaos, all 4, 
+            <water guards=hudrophulax> of the 
+            <:Poime[ni]kos|BGU:BL I 57|:> canal, ((7))have received 
+            and had measured to us from you from the produce of year 9 the 
+            (<artabas=artaba>?) which were ordered (to be given to) us by 
+            Potamon, <strategos=strategos>, and Asklepiades, 
+            <royal scribe=basilikosgrammateus> of the division, the pay 
+            owed to us for the months of [... and] Mecheir of year 9 ...
+        =>=T>
+      

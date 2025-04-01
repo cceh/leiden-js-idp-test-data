@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/>ἔτους <num value="45">με</num> Φα<unclear>μενὼθ</unclear> 
+
+    <lb n="2"/><expan>τέ<ex>τακται</ex></expan> ἐπὶ τὴν ἐν <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>με<ex>γάλῃ</ex></expan> <expan>τρά<ex>πεζαν</ex></expan> 
+
+    <lb n="3"/>εἰς τιμὴν τῶν ἐπ<unclear>ικεχω</unclear>ρ<unclear>η</unclear>μένων 
+
+    <lb n="4"/><expan>ἐγγαί<ex>ων</ex></expan> Διόφαντος Φιλώτου <expan><ex>τάλαντον</ex></expan> ἓν 
+
+    <lb n="5"/>πεντακισχιλίας <expan><ex>γίνονται</ex></expan> <expan><ex>τάλαντον</ex></expan> <num value="1">α</num>  <num value="5000">Ε</num>. 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><handShift new="m2"/> <num value="2">β</num>  <num value="3125">Γρκε</num> 
+
+    <lb n="2"/><num value="3000">Γ<certainty match="../@value" locus="value"/></num> </ab></div></div>

@@ -1,0 +1,10 @@
+
+            <T=.fr
+            <=
+               ((1))Le 19 Epeiph. Comme étaient arrivées une circulaire d’envoi et des lettres du (ou pour le) préfet, 
+(apportées) par Nepotianus, cavalier, à la 1re heure de la nuit, (((1)))Hèraklès, cavalier, ay- ant pris ces lettres, sortit à la 10e heure de la nuit, 
+ce que tu peux aussi vérifier, parce qu’il était au lit avec une femme. Le 10 Phaôphi, à la 8e heure de la nuit [...], cavalier, [...]
+/*Translation: H. Cuvigny, P.Worp 51*/
+            =>
+         =T>
+        

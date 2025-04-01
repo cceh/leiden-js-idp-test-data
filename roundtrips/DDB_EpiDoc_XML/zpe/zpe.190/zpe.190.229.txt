@@ -1,0 +1,38 @@
+<S=.grc
+<=
+    1.  *stauros* ὁ κόμ̣ες Φῆ̣λ̣ι̣ξ̣ (νο(μισμάτια)) <#γ̣=3#>*slanting-stroke**slanting-stroke*
+
+    2. Θεόδωρος (ἀδελφ(ὸς)) (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    3. Ἀνοῦπ (ῥιπάρ(ιος)) (νο(μισμάτια)) <#γ̣=3#>*slanting-stroke**slanting-stroke*
+
+    4. Σερῆνος ὁ (λαμπρ(ότατος)) (νο(μισμάτια)) <#γ=3#>*slanting-stroke**slanting-stroke*
+
+    5. <:Πα̣ῦλος|subst|Π.1υλος:> <:(ἐπικείμ(ενος))|reg|(ἐ̣π̣ι̣κίμ(ενος)):> (νο(μισμάτια)) <#γ=3#>*slanting-stroke**slanting-stroke*
+
+    6. Ἀπολλῶς <:(ἐπικείμ(ενος))|reg|(ἐ̣π̣ι̣κίμ(ενος)):> (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    7. <:Ο\ὔ/ρβικο̣ς|alt|Ο\ὐ/ρβίκι̣<ο>ς:> (νο(μισμάτια)) <#ϛ̣=6#>*slanting-stroke**slanting-stroke*
+
+    8. Ἀπφουᾶς υἱὸς Ψ̣ό̣ι̣τ̣ο̣ς̣ (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    9. <:Γεώργιος|reg|Γεόργιος:> (ζυγοστ(άτης)) (νο(μισμάτια)) <#γ=3#>*slanting-stroke**slanting-stroke*
+
+    10. Σερῆνος (ἀδελφ(ὸς)) (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    11. Πέτρος (ζυγοστ(άτης)) (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    12. Πετρών̣[ι]ο̣ς (βοηθ(ὸς)) (νο(μισμάτια)) <#ϛ̣=6#>*slanting-stroke**slanting-stroke*
+
+    13. Πετρώνιος (γραμ(ματεὺς)) (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    14. Σερῆνος (γραμ(ματεὺς)) (νο(μισμάτια)) <#[.1]=#>*slanting-stroke**slanting-stroke*
+
+    15. Παπνούθιος (βοηθ̣[(ὸς)]) [(νο(μισμάτια))] <#[.1]=#>*slanting-stroke**slanting-stroke*
+
+    16. Σέργιος (μαγιστρ(ιανὸς)) (νο(μισμάτια)) <#γ̣=3#>*slanting-stroke**slanting-stroke*
+
+    17. Ἀπφουᾶς (λαμπ(ρότατος)) (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+
+    18. Παμο̣ύ̣θιος (λ̣αμπ(ρότατος)) (νο(μισμάτια)) <#ϛ=6#>*slanting-stroke**slanting-stroke*
+=>

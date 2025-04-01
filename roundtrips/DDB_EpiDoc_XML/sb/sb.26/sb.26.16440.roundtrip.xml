@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Πεενὴ <expan><ex>τάλαντα</ex></expan> <num value="611">χια</num>
+<lb n="2"/>Ἀραῦς <supplied reason="omitted"><expan><ex>τάλαντα</ex></expan></supplied> <num value="197">ρϙζ</num> <expan><ex>δραχμαὶ</ex></expan> <num value="3000"><unclear>Γ</unclear></num>
+<lb n="3"/>Νο<supplied reason="lost">ήρεω</supplied><unclear>ς</unclear> <expan><ex>τάλαντα</ex></expan> <num value="100">ρ</num>
+<lb n="4"/><unclear>Ἐ</unclear><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>τάλαντα</ex></expan> <num value="106"><unclear>ρ</unclear>ϛ</num> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

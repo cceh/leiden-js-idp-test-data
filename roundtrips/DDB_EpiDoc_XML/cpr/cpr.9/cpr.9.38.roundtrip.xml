@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="2"/><supplied reason="lost"><handShift new="m2"/> </supplied><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <choice><reg>μεμίσθωμαι</reg><orig>μεμίσθωμε</orig></choice> ὡς <del rend="erasure">ε</del> <expan>πρόκ<ex>ειται</ex></expan>. 
+
+    <lb n="3"/><supplied reason="lost"><handShift new="m3"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> <unclear>μαρτ</unclear>υρῶ τῇ μισθώσει ἀκούσας παρὰ τοῦ θεμένου. 
+
+    <lb n="4"/><supplied reason="lost"><handShift new="m4"/> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μαρτυρῶ τῇ μισθώσ</supplied>ει ἀκούσας παρὰ τοῦ θεμένου. 
+
+    <lb n="5"/><supplied reason="lost"><handShift new="m5"/> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μαρτυρῶ τῇ μισθώσ</supplied><unclear>ε</unclear><supplied reason="lost">ι ἀ</supplied><unclear>κ</unclear>ούσας παρὰ τοῦ θεμένου. 
+
+    <lb n="6"/><handShift new="m6"/> <supplied reason="lost"><g type="stauros"/> διʼ ἐμοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">   ἐ</supplied>γράφη <g type="rho-cross"/> <g type="monogram"/> </ab></div>

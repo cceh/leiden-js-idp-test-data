@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">στρα</supplied>τιώτης
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κουρά</supplied><unclear>τ</unclear>ορι
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><del rend="erasure"><gap reason="illegible" atLeast="3" atMost="4" unit="character"/></del>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ον ἡμῖν
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>ὰ ψωμία
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>ων <choice><reg>ἀπέχει</reg><orig>ἀπέχι</orig></choice>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κ</supplied><unclear>αὶ</unclear> <choice><reg>εἰκάδος</reg><orig>ἰκάδες</orig></choice> 
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><unclear>τ</unclear>ον <num value="2">δύο</num>
+<lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

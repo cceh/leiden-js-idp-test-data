@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="7" unit="character" precision="low"/> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ειραση αὐτὴν καὶ  <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="3" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> λοιπὸν οὖν καὶ <app type="alternative"><lem>ἡμεῖς <app type="alternative"><lem>γρα
+<lb n="4" break="no"/><gap reason="lost" atLeast="7" atMost="8" unit="character"/></lem><rdg>γρά<lb n="4" break="no"/><supplied reason="lost">ψομεν ὑμῖν</supplied></rdg></app></lem><rdg><choice><reg>ὑμεῖς</reg><orig>ἡμεῖς</orig></choice> <app type="alternative"><lem>γρα<lb n="4" break="no"/><gap reason="lost" atLeast="7" atMost="8" unit="character"/></lem><rdg>γρά<lb n="4" break="no"/><supplied reason="lost">ψατε ἡμῖν</supplied></rdg></app></rdg></app> <unclear>τ</unclear>ὰ ἄκτα τῶν <choice><reg>κλασσικῶν</reg><orig>κλασεικῶν</orig></choice>
+<lb n="5"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>ει <choice><reg>ἵνα</reg><orig>εἵνα</orig></choice> καὶ ἡμεῖς <choice><reg><app type="alternative"><lem>εἰδῶμεν</lem><rdg>ἴδωμεν</rdg></app></reg><orig>ἰδωμε
+<lb n="6" break="no"/><supplied reason="lost">ν</supplied></orig></choice> <gap reason="lost" atLeast="2" atMost="4" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>σκει <choice><reg><app type="alternative"><lem>πράσσουσι</lem><rdg>πράσους εἰ</rdg></app></reg><orig>πρασουσει</orig></choice> γράψατέ
+<lb n="7"/><supplied reason="lost">μ</supplied>οι τὴν <choice><reg>ἀντιφώνησιν</reg><orig>ἀντειφόνησειν</orig></choice>
+<lb n="8"/>ταχέως καὶ μηδεὶς <choice><reg> αὐ <lb n="9" break="no"/>τῷ πιστευέτω</reg><orig>αὐ
+<lb n="9" break="no"/>το͂ͅ πειστευέτο</orig></choice> ἄρτους
+<lb n="10"/><choice><reg> κολλῆσαι</reg><orig>κολῆσαι</orig></choice>· οἴδατε
+<lb n="11"/>γὰρ <choice><reg>ὅτι</reg><orig>ὅτει</orig></choice> Πόστου
+<lb n="12" break="no"/>μος <choice><reg>ἔσθει</reg><orig>ἔστει</orig></choice>.
+</ab>
+      </div>

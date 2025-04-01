@@ -1,0 +1,29 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im achtzehnten Jahr der Aurelii <app type="BGU"><lem resp="BL I, S. 11">Antoninus</lem></app> und Commodus, der Herren Augusti, am 23. Phamenôth. 
+            <milestone unit="line" n="3"/>Eingezahlt hat an Hêrôn, den <term target="praktorargurikon">Einnehmer der 
+                Geldsteuern</term> des Dorfes Neilû Polis, Hôros, Sohn 
+            des Apynchis, <term target="epiteretesgenhup">Aufseher der Besitzungen</term> des 
+            Dorfes Neilû Polis, <app type="BGU"><lem resp="BL I, S. 11."><term target="epiteretesgenhup">deren Erträge konfisziert wurden</term></lem></app>, für die Einkünfte der Besitzungen des vorher 
+            genannten <term target="epiteresis">Aufsichtsbereiches</term> für das achtzehnte Jahr 
+            zwanzig Drachmen, das sind 20 Drachmen; <milestone unit="line" n="8"/><app type="BGU"><lem resp="BL I, S. 11">(2. Hand)</lem></app> am 5. Epeiph ebenso weitere vierzig Drachmen, das sind 40 Drachmen; 
+            <milestone unit="line" n="9"/><app type="BGU"><lem resp="BL I, S. 11">(3. Hand)</lem></app> im 19. Jahr, am 7. Thôth 
+            für das vergangene achtzehnte Jahr vierzig Drachmen, das sind 40 Drachmen;
+            <milestone unit="line" n="12" rend="break"/><app type="BGU"><lem resp="BL I, S. 11">(4. Hand)</lem></app> am 8. Hathyr ebenso 
+            für das vergangene Jahr sechsundfünfzig Drachmen, das sind 56 Drachmen.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year eighteen of the Aurelii <app type="BGU"><lem resp="BL I 11">Antoninus</lem></app> 
+            and Commodus, the lords Augusti, Pharmouthi 23. <milestone unit="line" n="3"/>Paid to Heron, <term target="praktorargurikon">collector 
+                of money taxes</term> of the village of Neilou Polis, (by) 
+            Horos, son of Apynchis, <term target="epiteretesgenhup">overseer of</term> 
+            <app type="BGU"><lem resp="BL I 11."><term target="epiteretesgenhup">sequestrated properties</term></lem></app> of the village of Neilou Polis on behalf of the 
+            revenues of the properties of the above mentioned <term target="epiteresis">supervision of the 
+                properties</term> of the eighteenth year 20 drachmas. 
+            <milestone unit="line" n="8"/><app type="BGU"><lem resp="BL I 11">(m. 2)</lem></app> Epeiph 5. Likewise a further 
+            forty drachmas, = 40 drachmas. <milestone unit="line" n="9"/><app type="BGU"><lem resp="BL I 11">(m. 3)</lem></app> 
+            Year 19, Thoth 7. For the past eighteenth year forty drachmas, = 40 drachmas.
+            <milestone unit="line" n="12" rend="break"/><app type="BGU"><lem resp="BL I 11">(m. 4)</lem></app> Hathyr 8: likewise on 
+            behalf of the past year fifty six drachmas, = 56 drachmas.
+        </p></div>
+      </body>

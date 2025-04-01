@@ -1,0 +1,29 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><app type="alternative"><lem>καρ<supplied reason="lost">ακάλλιν</supplied></lem><rdg>καρ<supplied reason="lost">ακαλλίνια</supplied></rdg></app><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><app type="alternative"><lem>καρα<supplied reason="lost">κάλλιν</supplied></lem><rdg>καρα<supplied reason="lost">καλλίνια</supplied></rdg></app><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>καρα<unclear>κά</unclear>λλιν <expan><unclear>χρωματ</unclear><ex>ωτὸν</ex></expan> <expan>λινοαίγι<ex>ον</ex></expan> <supplied reason="lost"><num value="1">α</num></supplied>
+
+    <lb n="4"/><expan>καρα<unclear>κ</unclear>άλλ<ex>ιν</ex></expan> <expan>λινοαίγι<ex>ον</ex></expan> ἀργύραιον <expan>καινούργ<ex>ιον</ex></expan> <num value="1">α</num>
+
+    <lb n="5"/>καμάσια <expan>ἀρσατι<ex>κὰ</ex></expan> <expan>διάφ<unclear>ο</unclear>ρ<ex>α</ex></expan> <num value="4">δ</num>
+
+    <lb n="6"/><choice><reg>καμάσιον</reg><orig>καμ<unclear>α</unclear>σιν</orig></choice> <unclear>α</unclear><gap reason="lost" quantity="1" unit="character"/>σ<unclear>ιό</unclear>μαλλον <expan>καινούργ<ex>ιον</ex></expan> <expan>ἀκρουλλ<ex>ᾶτον</ex></expan> <num value="1">α</num>
+
+    <lb n="7"/><supplied reason="lost" cert="low"><choice><reg>καμάσιον</reg><orig>καμασιν</orig></choice> </supplied> <unclear>ἀπὸ</unclear> <note xml:lang="en">?</note> κ<unclear>ό</unclear>σου ψιχόμαλλον <expan>ἀκρουλλ<ex>ᾶτον</ex></expan> <supplied reason="lost"><num value="1">α</num></supplied>
+
+    <lb n="8"/><choice><reg>καμάσιον</reg><orig><supplied reason="lost">καμι</supplied><unclear>σ</unclear>ιν</orig></choice> ψιχόμαλλον <expan>καινο<unclear>ύργ</unclear><ex>ιον</ex></expan> <expan><supplied reason="lost">ἀ</supplied><unclear>κρ</unclear><supplied reason="lost">ου</supplied><unclear>λλ</unclear><ex>ᾶτον</ex></expan> <supplied reason="lost"><num value="1">α</num></supplied>
+
+    <lb n="9"/><choice><reg>καμάσιον</reg><orig><supplied reason="lost">καμισ</supplied><unclear>ι</unclear>ν</orig></choice> <expan>ὀθόν<ex>ινον</ex></expan> <unclear>Θ</unclear>εννήσο<unclear>υ</unclear> <expan>ἀκρουλλ<ex>ᾶτον</ex></expan> <supplied reason="lost"><num value="1">α</num></supplied>
+
+    <lb n="10"/><choice><reg>καμάσιον</reg><orig><supplied reason="lost">καμισι</supplied><unclear>ν</unclear></orig></choice> <abbr>πλουμ</abbr> ἀπὸ <expan>βελόν<ex>ης</ex></expan> <expan><ex>καὶ</ex></expan> στομ<unclear>ώ</unclear><supplied reason="lost">ματος</supplied> <supplied reason="lost"><num value="1">α</num></supplied>
+
+    <lb n="11"/><supplied reason="lost" cert="low">ἄλλο  ψιχόμ</supplied>αλ<unclear>λ</unclear>ον Θεννήσ<unclear>ου</unclear><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <num value="1">α</num></supplied>
+<gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="12"/><choice><reg>καμάσιον</reg><orig>καμισιν</orig></choice> θερ<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <num value="1">α</num></supplied>
+
+    <lb n="13"/>ἂλλο <choice><reg>καμάσι<supplied reason="lost">ον</supplied></reg><orig>κα<unclear>μ</unclear><supplied reason="lost">ισ</supplied><unclear>ι</unclear><supplied reason="lost">ν</supplied></orig></choice><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="13"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

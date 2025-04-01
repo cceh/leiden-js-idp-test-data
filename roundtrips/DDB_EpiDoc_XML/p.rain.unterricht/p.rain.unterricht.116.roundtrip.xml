@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+ <div n="i" subtype="column" type="textpart"><ab> 
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>γ</unclear>ιω
+<lb n="2"/><choice><reg><supplied reason="lost">Θ</supplied>ῶθ</reg><orig><supplied reason="lost">Θ</supplied><unclear>ο</unclear>ῦθ</orig></choice>
+<lb n="3"/><choice><reg>Ἁθύρ</reg><orig>Ἁθήρ</orig></choice>
+<lb n="4"/><choice><reg>Τῦβι</reg><orig>Τῆβι</orig></choice>
+<lb n="5"/><choice><reg>Φαμενῶθ</reg><orig><unclear>Φ</unclear>αμενο͂<add place="above">θ</add></orig></choice>
+<lb n="6"/>Παχώ<unclear>ν</unclear>
+<lb n="7"/><choice><reg>Ἐπ<supplied reason="lost">εί</supplied>φ</reg><orig><unclear>Ἐπ</unclear><supplied reason="lost">ί</supplied><unclear>φ</unclear></orig></choice>
+<lb n="8"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+</ab></div> 
+<div n="ii" subtype="column" type="textpart"><ab> 
+<lb n="9"/>Φα<supplied reason="lost">ῶφι</supplied>
+<lb n="10"/><choice><reg>Χοιάκ</reg><orig>Χηά<supplied reason="lost">κ</supplied></orig></choice>
+<lb n="11"/>Μεχ<supplied reason="lost">είρ</supplied>
+<lb n="12"/>Φαρ<supplied reason="lost">μοῦθι</supplied>
+<lb n="13"/>Πα<supplied reason="lost">ῦνι</supplied>
+<lb n="14"/>Μεσ<supplied reason="lost">ορή</supplied>
+<lb n="15"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+</ab></div> </div>

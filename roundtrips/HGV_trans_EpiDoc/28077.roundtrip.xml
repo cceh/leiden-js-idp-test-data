@@ -1,0 +1,12 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An die <term target="sitologos">Sitologen</term> von Karanis, Grüße. 
+            Ich habe von Euch als Darlehen Saatgut des gegenwärtigen 20. Jahres 
+            <app type="BGU"><lem resp="BL I, S. 60">vom Ertrag</lem></app> des vergangenen 19. Jahres ...
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To the <term target="sitologos">sitologoi</term> of the village of 
+            Karanis, greetings. I have received from you as a loan of seed grain of the present year 
+            20 <app type="BGU"><lem resp="BL I 60">from the harvest</lem></app> of the past year 19 ...
+        </p></div>
+      </body>

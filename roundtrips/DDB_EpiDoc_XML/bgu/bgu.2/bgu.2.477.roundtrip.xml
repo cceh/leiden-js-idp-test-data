@@ -1,0 +1,22 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan><ex>ἀρτάβαι</ex></expan> <num value="133">ρλγ</num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><num value="72">οβ</num>  <num value="9025">Θκε</num> <num value="1/2">𐅵</num> <num value="1/48" rend="tick">μη</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num><gap reason="illegible" quantity="1" unit="character"/> <num value="1/48" rend="tick">μη</num> <del rend="erasure"><num value="72">οβ</num> <num value="1/8" rend="tick">η</num> <num value="1/48" rend="tick">μη</num></del> <g type="parens-deletion-closing"/> 
+</ab></div><div n="2" type="textpart"><ab>
+
+    <lb n="1"/>Δι<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><expan>κριθ<ex>ῆς</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><num value="5">ε</num> <expan><ex>ἔτους</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><expan>γ<ex>ίνονται</ex></expan> κριθῆς <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>κ<gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τ<gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

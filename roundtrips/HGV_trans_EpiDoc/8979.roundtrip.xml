@@ -1,0 +1,19 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im sechzehnten Jahr des Lucius Septimius S[e]verus Pius Pertinax und des Marcus 
+            A[ur]elius Antoninus Pius, der <app type="BGU"><lem resp="BL I, S. 27">Augusti</lem></app>, und der 
+            Publius S[eptimius Ge]ta Caesar <app type="BGU"><lem resp="BL I, S. 27">Augustus</lem></app>, vom 8. 
+            bis zum 18. Pachôn.
+            <milestone unit="line" n="5" rend="break"/>Eingezahlt hat <app type="BGU"><lem resp="BL I, S. 27">[A]bûs</lem></app>, Sohn des 
+            Satabûs, an <term target="prosodaoikopedon">Einkünften aus Immobilien</term> für das 
+            16. Jahr für Soknopaiû Nêsos hundert Drachmen, das sind 100 Drachmen.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year sixteen of Lucius Septimius Severus Pius Pertinax and Marcus A[ur]elius 
+            Antoninus Pius, <app type="BGU"><lem resp="BL I 27">both Augusti</lem></app>, and Publius S[eptimius 
+            Ge]ta Caesar <app type="BGU"><lem resp="BL I 27">Augustus</lem></app>, Pachon 8 to 18.
+            <milestone unit="line" n="5" rend="break"/><app type="BGU"><lem resp="BL I 27">[A]bous</lem></app>, son of Satabous, paid for 
+            <term target="prosodaoikopedon">revenues from building land</term> of year 16 of 
+            Soknopaiou Nesos one hundred drachmas, = 100 drachmas.
+        </p></div>
+      </body>

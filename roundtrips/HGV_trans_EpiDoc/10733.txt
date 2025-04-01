@@ -1,0 +1,15 @@
+
+         <T=.en
+            <=
+               ((1)) Copy of bond. I, Lysimachos, to my brother from the same father
+                      and the same mother, Valerius also called Herakleides, greeting. ((4)) I acknowledge through
+                      this note of hand that I have received from you, from the 108 silver drachmae which
+                      you borrowed from Herakleides, son of Ptolemaios, likewise by note of hand, the share
+                      which falls to me, Lysimachos, alone, ((10)) viz. 54 silver drachmae bearing interest, which I
+                      shall pay back to you in the month Mesore of the present 19th year of Trajanus Optimus
+                      Caesar the lord without delay, ((16)) you, Valerius, having the right of execution on myself and
+                      all my property as if in accordance with a legal decision. The bond is valid. ((20)) (Date).
+                      /*Translation: B.A. van Groningen, P.Fam. Tebt. 16*/
+            =>
+         =T>
+      

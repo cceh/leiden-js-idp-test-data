@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><expan>Ψενεσο<ex>υῆρις</ex></expan> <expan>κ<ex>αὶ</ex></expan> <expan>μ<ex>έτοχοι</ex></expan> <expan>ἐπιτηρητ<ex>αὶ</ex></expan> <expan>τέλ<ex>ους</ex></expan> 
+
+    <lb n="2"/><choice><reg><expan>ἱματιοπωλ<ex>ῶν</ex></expan></reg><orig><expan>ἱματιοπολ<ex>ῶν</ex></expan></orig></choice> <app type="editorial"><lem><choice><reg>Τερμάμι</reg><orig>Τερμάμ<unclear>ις</unclear></orig></choice></lem><rdg>Τερμάμι</rdg></app>
+
+    <lb n="3"/>Ὥρου. <expan>ἔσχ<ex>ομεν</ex></expan> παρὰ <expan>σο<ex>ῦ</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> τα
+
+    <lb n="4" break="no"/>φῆς <app type="editorial"><lem><abbr>Πετεμ</abbr></lem><rdg><abbr>Πετελ</abbr></rdg></app> ἀνδρὸς 
+
+    <lb n="5"/><expan><ex>δραχμὰς</ex></expan> <num value="2">β</num> <expan><ex>ἔτους</ex></expan> <num value="32">λβ</num> <app type="editorial"><lem><expan>Φαμ<ex>ενώθ</ex></expan></lem><rdg><expan>Παχ<ex>ὼν</ex></expan></rdg></app> <num value="23"><hi rend="supraline">κγ</hi></num>. </ab></div>

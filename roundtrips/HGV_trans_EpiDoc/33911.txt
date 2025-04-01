@@ -1,0 +1,23 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) … Tochter des
+                         … aus -polis. Ich anerkenne,
+                         … auf ein Jahr
+                         … von ihm zu dem …
+                  ((5)) … als Vorschuß (?) … Solid-,
+                         … diesen
+                         … im Monat Choiak.
+                         (2. Hd.) Ich, …, Sohn des Elias, bin Zeuge … .
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((9)) (3. Hd.) Ich, …, bin Zeuge für diesen Zettel,
+                         wie vorliegt.
+/*Translation: A. Jördens, P.Louvre 3 213*/
+               =>
+            =D>
+         =T>
+      

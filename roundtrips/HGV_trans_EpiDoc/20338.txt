@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              Received through Serenus, collector, by Macarius and Elias and Kamoul, assistants attending on the honourable house, on account of expenses from the 16th of the month Phamenoth to the 30th of the same month, 15 days, three sextarii of oil, total 3 sextarii of oil, and no more. (Signed) Total three sextarii of oil and no more. The 254th = the 223rd year, Phamenoth 19, 11th indiction.
+            =>
+         =T>
+      

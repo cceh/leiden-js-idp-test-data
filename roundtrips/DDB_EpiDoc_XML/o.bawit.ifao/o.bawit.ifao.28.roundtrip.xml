@@ -1,0 +1,8 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> ϣⲓⲛⲉ ⲛⲥⲁ <num value="12">ⲙⲉⲧⲥⲛⲟⲟⲩⲥ</num>
+
+    <lb n="2"/><app type="alternative"><lem>ⲛⲙⲁⲕ<gap reason="illegible" quantity="4" unit="character"/></lem><rdg>ⲛ<choice><reg xml:lang="grc">μαγαρικόν</reg><orig>ⲙⲁⲕⲁⲣⲓⲕⲟⲛ</orig></choice></rdg><rdg>ⲛ<choice><reg xml:lang="grc">μαγαρικόν</reg><orig>ⲙⲁⲕⲁⲣⲓⲥ</orig></choice></rdg></app> <unclear>ϩ</unclear>ⲓⲧ<hi rend="supraline">ⲛ</hi> <unclear>ⲡⲛⲟϭ</unclear>
+
+    <lb n="3"/><unclear>ⲡ</unclear><choice><reg xml:lang="grc">καμηλίτης</reg><orig><expan>ⲕⲁⲙ<ex>ⲏ</ex>ⲗ<ex>ⲓⲧⲏⲥ</ex></expan></orig></choice> <unclear>ⲛⲧⲉ</unclear> <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><foreign xml:lang="grc"><expan>μ<ex>ηνὶ</ex></expan> <expan>Μεσ<ex>ορὴ</ex></expan></foreign> <gap reason="lost" extent="unknown" unit="character"/></ab></div>

@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/>ἔτους <num value="3" rend="tick">γ</num> <expan>Λου<ex>κίου</ex></expan> Σεπτιμίου
+
+    <lb n="2"/>Σεουήρου Π<unclear>ερ</unclear>τίνακος <unclear>Σ</unclear>εβαστοῦ.
+
+    <lb n="3"/><expan><unclear>ε</unclear>ἴ<unclear>ρ</unclear>γ<ex>ασται</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>χ<unclear>ω</unclear><ex>ματικῶν</ex></expan> <handShift new="m2"/><expan><unclear>Π</unclear>άχ<ex>ων</ex></expan> <num value="15">ιε</num> ἕως <num value="19">ιθ</num>
+
+    <lb n="4"/>ἐν <expan>τ<ex>ῇ</ex></expan> <expan>π<unclear>ρ</unclear>ωτ<ex>ῇ</ex></expan> <unclear>Χ</unclear>άλικος
+
+    <lb n="5"/><expan>Εὐη<ex>μερείας</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" atLeast="1" atMost="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>σι<unclear>σ</unclear>όις
+
+    <lb n="6"/>Ζωσ<unclear>ί</unclear><supplied reason="lost">μο</supplied><unclear>υ</unclear>.
+</ab></div>

@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><expan><ex>καὶ</ex></expan> <expan>δ<ex>ιὰ</ex></expan> Παπνουθίου <expan>προν<ex>οητοῦ</ex></expan> Λητοῦς <expan>ὑ<ex>πὲρ</ex></expan> <expan>ἀλλαγ<ex>ῆς</ex></expan> ὀξιδ<supplied reason="lost">ίου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><expan><ex>καὶ</ex></expan> ἐκ τοῦ <expan>χωρ<ex>ίου</ex></expan> τῶν καμαρῶν <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><expan><ex>καὶ</ex></expan> ἐκ τοῦ <choice><reg>Κανώπου</reg><orig>Κ<unclear>α</unclear>νόπου</orig></choice> <expan>χωρ<ex>ίου</ex></expan> <handShift new="m2"/><expan>ἁγί<ex>ου</ex></expan> Στεφάνου <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><handShift new="m1"/><expan>ὁ<ex>μοῦ</ex></expan> <expan>δι<ex>πλᾶ</ex></expan> <num value="2101">Βρα</num> <expan>κ<supplied reason="lost">ν</supplied><unclear>ί</unclear>δ<ex>ια</ex></expan> <num value="11">ια</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

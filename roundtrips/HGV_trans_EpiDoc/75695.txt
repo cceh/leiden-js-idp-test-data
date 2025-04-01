@@ -1,0 +1,12 @@
+
+         <T=.fr
+            <=
+((1)) [A payé] [...] l'aîné fils d'Onnôphris pour la <capitation=laographia> [...] onze [drachmes] ..., soit 11 drachmes ... et suppléments. (((3))) [L'an] [...] de l'Empereur César Vespasien Auguste [...], le 29 Mecheir. Moi, Hèrakl( ), j'ai signé.
+              =>
+         =T>
+         <T=.en
+            <=
+               ((1)) [Has paid] [...] the elder son of Onnophris for <poll tax=laographia> [...] eleven [drachmai] ..., that is 11 drachmai ... with extra charges. (((3))) [Year] [...] of the Emperor Caesar Vespasianus Augustus [...], Mecheir 29. I, Herakl( ), have signed.
+            =>
+         =T>
+      

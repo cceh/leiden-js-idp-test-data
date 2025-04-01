@@ -1,0 +1,3311 @@
+<S=.la<D=.I,ctr<=
+
+    1. [.?] xxi (|orden|) (domn(o)) Agirico, a[bbate ][.?] 
+=>=D><D=.I,a<=
+
+    1. [.?] 〚(sec(ale)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    2. [.?]fus 〚(sec(ale)) ii, (au(ena)) i〛 
+
+    3. [.?]uctus (sec(ale)) ii, (au(ena)) i. 
+
+    4. [.?](|olen|) 〚(sec(ale)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    5. [.?] 〚(t(riticum)) (sem(is)), (sec(ale)) ii, (au(ena)) i〛 
+
+    6. [.?](|und|) 〚(t(riticum)) (sem(is)), (sec(ale)) (s(emis)), (au(ena)) i〛 
+
+    7. [.?]ḅerronte 
+
+    8. [.?] 〚(ṣẹc̣(ale)) ii, (au(ena)) i〛 
+
+    9. [.?]thus (sec(ale)) iiii, (au(ena)) i. 
+
+    10. [.?]erthus 〚(sec(ale)) i, (au(ena)) i〛 
+
+    11. [.?](|bod|) 〚(t(riticum)) (sem(is)), (sec(ale)) ii, (au(ena)) i〛 
+
+    12. [.?](|olen|) 〚(ṣẹ[c](ale)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    13. .1lin
+
+    14. [.?] 〚(sec(ale)) iii, (au(ena)) i〛 
+
+    15. .1lin
+
+    16. [.?](|d|) (t(riticum)) iii, (sec(ale)) i. 
+
+    17. [.?](|en|) (t(riticum)) ii, (sec(ale)) i, (au(ena)) i. 
+
+    18. [.?]ro 
+
+    19. [.?](|od|) 
+
+    20. [.?](|ald|) 〚(sec(ale)) i, (au(ena)) i〛 
+
+    21. [.?]erthus (t(riticum)) i, (sec(ale)) i, (au(ena)) i 
+
+    22. [.?](|ind|) 〚(t(riticum)) iii, (sec(ale)) i ((et)) (s(emis)) ((h)or(deum)) i, (au(ena)) i〛 
+
+    23. [.?]ciaco 
+
+    24. 〚[.?] (t(riticum)) iii, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    25. [.?] (sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i 
+
+    26. [.?]riola 
+
+    27. [.?](|mund|) (t(riticum)) iii, (au(ena)) i. 
+
+    28. [.?](|ẹoderann|) (lign(aticum)) 
+
+    29. [.?](|chald|) 〚(t(riticum)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    30. (|Ạrebod|) 〚(ṭ(riticum)) ị, (sem(is)) (ạụ(ena)) ị〛 
+
+    31. [.?] 〚(t(riticum)) (sem(is)), (sec(ale)) ii ((et)) (s(emis)), (au(ena)) i〛 
+
+    32. [.?] Ing̣undiṣ (t(riticum)) i, ((h)or(deum)) i, (au(ena)) i. 
+
+    33. [.?](|gisel|) 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛. 
+
+    34. [.?]aco 
+
+    35. 〚vestig 〛 
+=>=D><D=.I,b<=
+
+    1. Agomaris (lign(aticum)) 
+
+    2. (|Arnegisel|) (t(riticum)) iii, (au(ena)) i 
+
+    3. Gund〚(|esind|) (t(riticum)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    4. (|Eomesind|) 〚(t(riticum)) i, (au(ena)) i〛 
+
+    5. Leo 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    6. (|Gimesind|) 〚(t(riticum)) (i(et)) (sem(is)), (au(ena)) i〛 
+
+    7. (Col(onia)) Exsolicia 
+
+    8. [.?].1ẹrmaris (t(riticum)) i, (au(ena)) i 
+
+    9. (|Remegisel|) (t(riticum)) i, (au(ena)) i 
+
+    10. (|Theofil|) (t(riticum)) [.?], (au(ena)) ii. 
+
+    11. (|Audoald|) 〚(t(riticum)) [.?] ((et)) (sem(is)), (au(ena)) i〛 
+
+    12. (Col(onia)) Calo[.?] 
+
+    13. (|Ṃạg̣ṇẹḅọḍ|) 〚(t(riticum))  [.?] 〛 
+
+    14. (|Uinebod|) (t(riticum)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    15. Bladastus 
+
+    16. Auno (t(riticum)) [.?] 
+
+    17. (|Theudesind|) 〚(t(riticum)) (sem(is))  [.?] 〛 
+
+    18. (|Darioald|) 〚 [.?] (au(ena)) i〛 
+
+    19. (|Dagolen|) (lign(aticum)) 
+
+    20. Bonitus (t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i $m2 (|ded|) (lign(aticum)). 
+
+    21. $m1 (|Bonesind|) 〚(t(riticum)) [.?], (au(ena)) i〛 
+
+    22. Bonemaris 〚(lign(aticum))〛 
+
+    23. (|Bobolen|)〚(ṭ(riticum)) iii [.?] 〛 
+
+    24. (Col(onia)) Theụdoṛịaco 
+
+    25. (|Gunsoald|) 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    26. (Col(onia)) Cuịcịaco 
+
+    27. (|Leodoald|) 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    28. (|Ḅọḅosind|) 〚(t(riticum)) iiii, ((h)ọr(deum)) i, (au(ena)) i〛 
+
+    29. (|Domesind|) 〚(t(riticum)) iiii, (au(ena)) i〛 
+
+    30. (Col(onia)) Ex[.?]ṭạḷ[.?] 
+
+    31. (|Ạụlen|) 〚(t(riticum)) i (sem(is)), (ạụ(ena)) i〛 
+
+    32. (|Bertọald|) 〚(t(riticum)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    33. Bobole〚(|n|) (t(riticum)) i, (sec(ale)) i, ((h)ọṛ(deum)) i〛 
+
+    34. Baldo 〚(t(riticum)) i, (au(ena)) i〛 
+
+    35. (|Ailen|) 〚(sec(ale)) i, (au(ena)) i〛 
+
+    36. (|Godolen|) (lign(aticum)) 
+
+    37. Ursus (t(riticum)) i, (au(ena)) i 
+=>=D><D=.I,c<=
+
+    1. (Col(onia)) Rio Petroso 
+
+    2. Auiulfus 〚(t(riticum)) i ((et)) (s(emis)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    3. Betto 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    4. (|Auiemund|) 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    5. (Col(onia)) Priuaciaco 
+
+    6. (|Deoroald|) 〚(t(riticum)) ((et)) (sem(is)), (sec(ale)) i, (au(ena)) i〛 
+
+    7. (|Audolen|) 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    8. Ebromaris 〚(t(riticum)) ((et)) (sem(is)), (au(ena)) i〛 
+
+    9. (Col(onia)) Ioue 
+
+    10. (|Sonar|) 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    11. Uuilmaris 〚(t(riticum)) (sem(is)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    12. (|Ḷạụnesind|) 〚(t(riticum)) i, (au(ena)) i〛 *stauros* 
+
+    13. Sigomarus 〚(t(riticum)) ii, (au(ena)) i〛 *stauros* 
+
+    14. (|Ụuineloald|) 〚(lign(aticum))〛 *stauros* 
+
+    15. (|Franebod|) 〚(t(riticum)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    16. (|Genebod|) 〚(t(riticum)) (sem(is)), (au(ena)) i〛 
+
+    17. (|Ermolen|) (t(riticum)) ii, (au(ena)) i 
+
+    18. (|Mummolen|) 〚(t(riticum)) i, (au(ena)) i〛 
+
+    19. (Col(onia)) Graciaco 
+
+    20. Arigulfus (t(riticum)) i, (|spl|) i, ((h)or(deum)) i, (au(ena)) i 
+
+    21. Audebertus (t(riticum)) (sem(is)), (au(ena)) i 
+
+    22. Agnoberthus 〚(t(riticum)) iiii, (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    23. Agnomaris 〚(t(riticum)) i, (au(ena)) i〛 
+
+    24. (|Auden|) 〚 (t(riticum)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    25. (|Gunthermund|) 〚(t(riticum)) (sem(is)), (au(ena)) i〛 
+
+    26. (|Leoderamn|) 〚(lign(aticum))〛 
+
+    27. (|Domician|) 〚(lign(aticum))〛 
+
+    28. (Col(onia)) Roffiaco 
+
+    29. (|Monoṣind|) 〚(lign(aticum))〛 
+
+    30. Godebertus (t(riticum)) (sem(is)), (au(ena)) i. 
+
+    31. Chrunnulfus 〚(t(riticum)) i, ((h)or(deum)) (sem(is)), (au(ena)) i〛 
+
+    32. (|Aigoen|) 〚(t(riticum)) ii ((et)) (sem(is)), (au(ena)) i〛 
+
+    33. (|Charịmụnd|) 〚(t(riticum)) i ((et)) (sem(is)), (au(ena)) i〛 
+
+    34. (|Gundolen|) (t(riticum)) i, (au(ena)) i 
+
+    35. (Col(onia)) Uiriliaco 
+
+    36. (|Ḅladesind|) 〚(t(riticum)) x̣, ((h)or(deum)) i, (au(ena)) i〛 
+
+    37. (|Chroḍemund|) 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    38. Chrodẹ[.?] 〚((h)or(deum)) i〛 
+=>=D><D=.I,d<=
+
+    1. (|F̣ṛeden|) [.?] 
+
+    2. (|Meroald|) (t(riticum)) (sem(is)), (au(ena)) i. 
+
+    3. Aldeberthus 〚(t(riticum)) i, (au(ena)) i〛 
+
+    4. (Col(onia)) Monte 
+
+    5. (|Leodoald|) 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    6. (|Adroald|) (t(riticum)) (sem(is)), (au(ena)) i⟧ 
+
+    7. (|Deomolen|) 〚(t(riticum)) (sem(is)), (au(ena)) i〛 
+
+    8. (Col(onia)) Sabiniaco 
+
+    9. Ẹṛṃọạldus 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    10. Bluccio (au(ena)) i 
+
+    11. (|Ermolen|) 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    12. (|Doṃol|) 〚(t(riticum)) i, (sec(ale)) (s(emis)), (au(ena)) i〛 
+
+    13. Gẹṇ[.?] 〚(t(riticum)) i〛 
+
+    14. Audọḅẹṛṭuṣ (t(riticum)) ii [.?] 
+
+    15. (Col(onia)) C̣ụịc̣ịạc̣ọ 
+
+    16. (|Frodeṃụṇd|) 〚[.?] (au(ena)) i〛 
+
+    17. (|Ḅettolen|) 〚(t(riticum)) iiii  [.?] 〛 
+
+    18. Mẹṛ[.?] (t(riticum)) i et (sem(is)) (au(ena)) i 
+
+    19. (|Maṇebod|) (lign(aticum)) 
+
+    20. C̣ḥonẹḷ[.?] ((h)or(deum)) i, (au(ena)) i 
+
+    21. (|Ạudeṛamn|) [.?], (au(ena)) i 
+
+    22. Leodo 〚(t(riticum)) viii, (au(ena)) i〛 
+
+    23. Daddo 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    24. Leodebertus (t(riticum)) i, (au(ena)) i 
+
+    25. (|Domosind|) 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    26. (|Ebregisel|) (t(riticum)) i ((et)) (sem(is)), (au(ena)) i 
+
+    27. Leoda 〚(t(riticum)) ii, ((h)or(deum)) (s(emis)), (au(ena)) i〛 
+
+    28. [.?]tus 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    29. (|Daibod|) 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    30. (|Daigen|) 〚(t(riticum)) i, (au(ena)) i〛 
+
+    31. Dodo 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    32. (|Ḍarelen|) 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    33. (|Tḥeudoald|) (t(riticum)) ii, (au(ena)) i 
+
+    34. (|Ebrachar|) 〚(t(riticum)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    35. (|Nectoald|) 〚(t(riticum)) ii, (au(ena)) i〛 
+
+    36. (|Dructoald|) 〚(t(riticum)) ị, (ạụ(ena)) ị〛 
+
+    37. Ḍ[.?]riac̣[o ][.?] 
+=>=D><D=.I,e<=
+
+    1. (|Rignoalḍ|) (t(riticum)) i ((et)) (s(emis)) ((h)or(deum)) [.?] 
+
+    2. Beremaris [.?] 
+
+    3. (Actobert(u)s) (lịg̣[n(aticum)]) 
+
+    4. (|Burgolen|) (t(riticum)) ii, ((h)or(deum)) [.?] 
+
+    5. Agritus (t(riticum)) (sem(is)), (sec(ale)) [.?] 
+
+    6. (|Austromund|) (t(riticum)) [.?] 
+
+    7. Aụṣṭṛọạld 〚(t(riticum)) i〛 
+
+    8. (Col(onia)) [.?]ụṇiaco 
+
+    9. Laụṇọbertus (t(riticum)) i [.?] 
+
+    10. (Nantobert(u)s) (t(riticum)) [.?] 
+
+    11. Ebromaris (t(riticum)) i [.?] 
+
+    12. (Col(onia)) Siluiaco 
+
+    13. (|Ạụstromund|) [.?] 
+
+    14. (|Childesind|) [.?] 
+
+    15. Sigoṃaris [.?] 
+
+    16. (|Bertefrid|) [.?] 
+
+    17. (|Launemunḍ|) [.?] 
+
+    18. (|Sindegis[el]|) [.?]  
+
+    19. Leodog[.?] 
+
+    20. <:s.2|alt|r.2:>
+
+    21. $m2 Amadeu[.?] 
+
+    22. Aldom[.?] 
+
+    23. Naṭal[.?] 
+
+    24. $m1 <:triticum|reg|tred:> [.?] 
+
+    25. (sec(ale)) [.?] 
+
+    26. ((h)or[d(eum)]) [.?]  
+
+    27. (lig[n(aticum)]) [.?]  
+
+    28. sun[t ][.?] 
+=>=D><D=.II,a<=
+
+    1. [.?]g[.?] 
+
+    2. [.?](|roald|) 〚(t(riticum)) (sem(is)), ((h)or(deum)) ii〛
+
+    3. (|Hildiern|) 〚(au(ena)) i〛 
+
+    4. (|Leonoald|) 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    5. ṛ (|Auroald|) (sec(ale)) i (sem(is)), ((h)or(deum)) i, (au(ena)) i⟧ 
+
+    6. (|Adroald|) 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    7. (|Gunciolen|) 〚((h)or(deum)) (sem(is)), (au(ena)) i〛 
+
+    8. Genebert〚us ((h)or(deum)) i (sem(is))〛 
+
+    9. Dructemaris 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    10. [.?](|goen|) 〚(t(riticum)) (sem(is)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    11. (|Leofred|) 〚((h)or(deum)) i, (au(ena)) i〛 $m2 Mede
+
+    11a.- 〚ueus〛 
+
+    12. $m1 vestig 
+=>=D><D=.II,b<=
+
+    1. (|Agoald|) [.?] 
+
+    2. (|Eosọald|) 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i〛 
+
+    3. Sigulfus 〚((h)or(deum)) ii〛 
+
+    4. (|Regnoald|) 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    5. (|Auien|) ((h)or(deum)) i, (au(ena)) i 
+
+    6. Auiobertus 〚((h)or(deum)) i [.?] i〛 
+
+    7. (|Gunsoald|) 〚(t(riticum)) i, ((h)or(deum)) i〛 
+
+    8. (|Remesind|) 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    9. Leodemaris 〚(t(riticum)) (sem(is)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    10. Ebromaris 〚(t(riticum)) (sem(is)), ((h)or(deum)) i〛 
+
+    11. .1lin
+=>=D><D=.II,c<=
+
+    1. Ṃạuṛọḅẹṛt[u]s (t(riticum)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    2. <:triticum|reg|trd:> (mod(ii)) lxvi, 
+
+    3. (sec(ale)) xxiii ((et semis)) 
+
+    4. ((h)or(deum)) cxviiii ((et semis)) 
+
+    5. (auen(a)) ciii 
+
+    6. sunt (mod(ii)) cccxii 
+
+    7. (lign(aticum)) (mod(ii)) cxiii 
+
+    8. fiunt in semul (mod(ii)) ccccxxiii[.?] 
+=>=D><D=.III,a<=
+
+    1. Gundebertus (t(riticum)) i, (sec(ale)) [.?] 
+
+    2. Ernebertus (t(riticum)) i, ((h)or(deum)) i [.?] 
+
+    3. (|Uinebod|) 〚(t(riticum)) i, (sec(ale)) (sem(is)), (au(ena)) i〛 
+
+    4. Audemaris 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    5. (|Sigichramn|) 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    6. (|Dructoald|) 〚(t(riticum)) i, ((h)or(deum)) (sem(is)), (au(ena)) i〛 
+
+    7. (|Gallomạgn|) 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    8. (|Corbolen|) ((h)or(deum)) (sem(is)). 
+
+    9. (Col(onia)) Antoniaco 
+
+    10. (|Iddolen|) 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    11. (|Aigoen|) 
+
+    12. Betto 〚((h)or(deum)) ii, (au(ena)) i〛 
+
+    13. Chadobertus 〚(au(ena)) i〛 
+
+    14. D[.?] 
+
+    15. Bẹṛṭolenus 〚(sec(ale))  [.?] 〛 
+
+    16. [.?](|len|) ((h)or(deum)) ii 
+
+    17. B[.?]d[.?]us 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    18. Ẹḅṛ[.?]ḷ[.?] 
+
+    19. [.?]ḅẹṛtus [.?] 
+
+    20. [.?](|len|) 〚(t(riticum)) (sem(is)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    21. .1lin 
+
+    22. [.?]o[.?] ((h)or(deum)) [.?] 
+
+    23. (|Chadolen|) [.?] 
+=>=D><D=.III,b<=
+
+    1. [.?](|mar|) [.?] 
+
+    2. [.?] 〚((h)or(deum)) [.?] i, (au(ena)) i〛 
+
+    3. (|Ermoald|) ([a]ụ(ena)) i 
+
+    4. Eoseḅius 〚(t(riticum)) (sem(is)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    5. Agobeṛṭụṣ [.?] (au(ena)) i 
+
+    6. Medẹụẹụs (t(riticum)) (sem(is)) 
+
+    7. (C̣ọḷ(onia)) Agṛịciaco 
+
+    8.  [.?] 〚 [.?]  (t(riticum)) i, ((h)or(deum))  [.?] 〛 [.?]  
+
+    9. (|Ausolen|) 〚(t(riticum)) ii, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    10. (|Ạṛṇẹg̣ịsel|) 〚(t(riticum)) (sem(is)), ((h)or(deum)) ii, (au(ena)) ii〛 
+
+    11. [.?](|desind|) [.?] 〚i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    12. (|Domosind|) 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    13. (|Gundolen|) 〚(t(riticum)) (sem(is)), (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    14. (|Godolen|) 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    15. [.?](|mend|) 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    16. (|Ursinian|) 〚((h)or(deum)) ii〛 
+
+    17. Garibertus ((h)or(eum)) i (sem(is)), (au(ena)) i. 
+
+    18. Ain[.?] 〚((h)or(deum)) i, (au(ena)) ii〛 
+
+    19. .3lin 
+
+    22. (|F̣redesind|) [.?] 〚((h)or(deum)) [.?], (au(ena)) i〛 
+
+    23. Baudẹc̣hạrịụṣ [.?] 
+
+    24. .1lin 
+=>=D><D=.IV<=
+
+    1. *chirho* (ann(o)) xxii ordẹṇ[.?] 
+
+    2. Domus Cambon[.?] 
+
+    3. (|Leunegisel|) 〚(t(riticum)) i, ((h)or(deum))  [.?] 〛 [.?]  
+
+    4. Ebracharius 〚(s(ecale)) ii, ((h)or(deum))  [.?] 〛 [.?]  
+
+    5. Romarius ((agelli nihil habet)) [.?] 
+
+    6. Gratus 〚(s(ecale)) i ((semis)), (au(ena))  [.?] 〛 [.?]  
+
+    7. Beroaldus 〚(t(riticum)) i, (s(ecale)) i, (au(ena)) ii〛 
+
+    8. Serenus (s(ecale)) ii, (au(ena)) ii 
+
+    9. (|Fraegisel|) 〚(s(ecale)) i  [.?] 〛 [.?]  
+
+    10. Mactoaldus 〚(t(riticum)) i, (s(ecale)) i  [.?] 〛 [.?]  
+
+    11. (|Magnegisel|) ((agelli nihil) [(habet)]) [.?]  
+
+    12. Aistromarus 〚(au(ena)) ((semis))〛 
+
+    13. Gaubodus 〚(t(riticum)) ((semis)), (s(ecale)) ii  [.?] 〛 [.?]  
+
+    14. Landomarus 〚(t(riticum)) ((semis)), (s(ecale)) ii  [.?] 〛 [.?]  
+
+    15. Chagṇ[.?]ḅ[.?]ḍụs [.?] (s(ecale)) ii 
+
+    16. Lidarius 〚(s(ecale)) ((semis))〛 
+
+    17. Franco 〚(t(riticum)) ((semis)), (s(ecale))  [.?] 〛 [.?]  
+
+    18. (|Sonachar|) 〚(t(riticum)) ((semis))  [.?] 〛 [.?]  
+
+    19. Disoaldus 〚(t(riticum)) ii  [.?] 〛 [.?]  
+
+    20. Sisboḍus 〚(s(ecale)) i, ((h)or(deum)) ((semis))〛 
+
+    21. (|Magnegisel|) 〚(t(riticum)) ii  [.?] 〛 [.?]  
+
+    22. Magana 〚(t(riticum)) ((semis)), (s(ecale)) ((semis)), a [.?] 〛 [.?]  
+
+    23. Fraudenus 〚(t(riticum)) i ((semis)), (au(ena))  [.?] 〛 [.?]  
+
+    24. Rigomundus 〚(t(riticum)) ii  [.?] 〛 [.?]  
+
+    25. Sigulfus 〚(t(riticum)) ii, (s(ecale)) ((semis)), ((h)or(deum))  [.?] 〛 [.?]  
+
+    26. Uinoaldus 〚((h)or(deum)) i  [.?] 〛 [.?]  
+
+    27. Mummolenus (t(riticum)) ii, (au(ena)) i 
+
+    28. (Col(onia)) Uenilla 
+
+    29. Leoboald〚us (t(riticum)) i, (au(ena)) i〛 
+
+    30. Godobercthus (t(riticum)) i, ((h)or(deum)) [.?] 
+
+    31. Godolenus (t(riticum)) i ((semis)), ((h)or(deum)) [.?] 
+
+    32. Ulfenus 〚(t(riticum)) i, ((h)or(deum)) i  [.?] 〛 [.?]  
+
+    33. .1lin 
+=>=D><D=.V,a<=
+
+    1. [.?] ((h)or(deum)) ii [.?] 
+
+    2. [.?]bercthus 〚(t(riticum)) i, ((h)or(deum)) ((semis)), (au(ena)) i〛 
+
+    3. [.?]bercthus 〚(t(riticum)) ((semis)), ((h)or(deum)) i〛 
+
+    4. [.?]omeris 〚(au(ena)) i〛 
+
+    5. [.?]neritus 〚(t(riticum)) ((semis))〛 
+
+    6. [.?]s[.?]us ((agelli nihil habet)) 
+
+    7. [.?]gnobercthus 〚(t(riticum)) ((semis)), (s(ecale)) ((semis)), ((h)or(deum)) i, (au(ena))  [.?] 〛 [.?]  
+
+    8. [.?]mosindus (t(riticum)) i, (au(ena)) i 
+
+    9. ([Co]l(onia)) Uarinnas 
+
+    10. [.?]iglinus 〚(t(riticum)) i, (s(ecale)) ii, (au(ena)) i ((semis))〛 
+
+    11. [.?] (|Ạustrigisel|) 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    12. (Col(onia)) Siriniaco 
+
+    13. Daibodus (t(riticum)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    14. (|Daigisel|) 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    15. (|Ladegisel|) ((h)or(deum)) ((semis)) 
+
+    16. [.?]aunobodus 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    17. [.?]undenus 〚(t(riticum)) ii, ((h)or(deum)) ((semis))〛 
+
+    18. [.?]ldo 〚(t(riticum)) ii, ((h)or(deum)) i〛 
+
+    19. Genobodus 〚(t(riticum)) i〛 
+
+    20. Dagoaldus (t(riticum)) i, ((h)or(deum)) ((semis)), (au(ena)) ((semis)) 
+
+    21. Ualdoḅ[.?] 〚(t(riticum)) ((semis))〛 
+
+    22. ([Co]l(onia)) Belcusiaco 
+
+    23. Chadoaldus (t(riticum)) i 
+
+    24. Fredebercthus (t(riticum)) i 
+
+    25. Madelenus 〚(t(riticum)) i〛 
+
+    26. Gunderamnus 〚(t(riticum)) ((semis)), ((h)or(deum)) ((semis))〛 
+
+    27. Gunsoala 〚((h)or(deum)) ((semis))〛 
+
+    28. Ebrenus 〚(t(riticum)) i, (au(ena)) i〛 
+
+    29. Albercthus 〚(t(riticum)) i, ((h)or(deum))  [.?] 〛 [.?]  
+
+    30. Gundosindus 〚(t(riticum)) i, (au(ena)) i〛 
+
+    31. (Col(onia)) Aloniaco 
+=>=D><D=.V,b<=
+
+    1. D[.?] 
+
+    2. L[.?] 
+
+    3. B[.?] 
+
+    4. M[.?] 
+
+    5. Th[.?] 
+
+    6. Ch[.?] 
+
+    7. La[.?] 
+
+    8. Ho[.?] 
+
+    9. S[.?] 
+
+    10. Arc[.?] 
+
+    11. Ero[.?] 
+
+    12. D[.?] 
+=>=D><D=.VI,r,ctr<=
+
+    1. [.?]u[.?] 
+
+    2. inuentum est ibidem (agrar(ium)), id est (col(onica)) Lerciaco 
+----=>=D><D=.VI,r,a<=
+
+    1. [.?]nomarus 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i〛 
+
+    2. [.?]ddebertus 〚(t(riticum)) (s(emis)), (|sp|) i, (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    3. [.?].2ẹndochelmus 〚(t(riticum)) (s(emis))〛 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    4. [.?]emarus 〚(sec(ale)) i, (au(ena)) i〛 
+
+    5. Sẹṛapịus 〚(sec(ale)) [.?], ((h)or(deum)) ii, (|sp|) ii (au(ena)) i〛 
+
+    6. [.?]da 〚(t(riticum)) (s(emis)), (sec(ale)) ii, ((h)or(deum)) i〛 
+
+    7. [.?]ol[.?] 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    8. [.?]domarus 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    9. [.?]eng[.?] 〚ṣ(ec̣(ale)) (|[se]l|) (s(emis))〛 
+
+    10. [.?]eudierṇ[.?] Gallus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i. 
+
+    11. Theudiernus (sec(ale)) i. 
+
+    12. ([Co]l(onia)) Belciaco 
+
+    13. [.?].1rtus 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    14. [.?]ạudecharius 〚(sec(ale)) i, (au(ena)) i〛 
+
+    15. [.?](|rtogysel|) (t(riticum)) (s(emis)), (sec(ale)) iii, ((h)or(deum)) i 
+
+    16. [.?]ertus 〚(ṭ(riticum)) i, (|sel|) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    17. [.?]ṛmaṛụṣ 〚(sec(ale)) ii〛 
+
+    18. ([co]l(onia)) Manderaria 
+
+    19. [.?]renobertus 〚((h)or(deum)) i, (a(uena)) i〛 
+
+    20. [.?]audobertus ((h)or(deum)) i 
+
+    21. [.?](|ẹreald|) 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    22. [.?](|sel|) (t(riticum)) (s(emis)), (sec(ale)) i, ((h)or(deum)) i 
+
+    23. [.?] 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i〛 
+
+    24. [.?] (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i 
+
+    25. [.?] (t(riticum)) (s(emis)) [.?], ((h)or(deum)) i, (au(ena)) i 
+
+    26. [.?] 〚(au(ena)) i〛 
+
+    27. [.?]mnus 〚((h)or(deum)) i〛 
+
+    28. [.?] 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    29. [.?]is (t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i 
+
+    30. [.?]lis (sec(ale)) (s(emis)), (au(ena)) i 
+
+    31. .1lin 
+
+    32. [.?] ((h)or(deum)) ii, (au(ena)) i 
+
+    33. .1lin 
+=>=D><D=.VI,r,b<=
+
+    1. Aigomarus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    2. (|Hadọald|) 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    3. Babus 〚(t(riticum)) i ((et)) (s(emis)), (sec(ale)) ii, ((h)or(deum)) i〛 
+
+    4. Berthericus (t(riticum)) ii, (sec(ale)) i, 〚((h)or(deum)) ii〛 
+
+    5. (Col(onia)) Milareto 
+
+    6. Chaldemarus (t(riticum)) i [.?], ((h)or(deum)) [.?] 
+
+    7. Imṇobertus (t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i 
+
+    8. Chaddolenos (t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i 
+
+    9. Dodolenus (sec(ale)) ii, ((h)or(deum)) ii 
+
+    10. Berthemarus (sec(ale)) i, ((h)or(deum)) ii 
+
+    11. Aygomarus (sec(ale)) i 
+
+    12. Arnulfus ((h)or(deum)) i 
+
+    13. Godomarus (sec(ale)) i 
+
+    14. Chilmerus (sec(ale)), ((h)or(deum)) i 
+
+    15. (|Leudochar|) (sec(ale)) i, ((h)or(deum)) ii ((et)) (s(emis)) 
+
+    16. Baudomerus 〚(ṣẹc̣(ale)) i〛 
+
+    17. (Col(onia)) Ar[.?]ṇ[.?] 
+
+    18. Auḍọṛamnus [.?] 〚(sec(ale)) ii, ((h)or(deum)) iiii〛 
+
+    19. (|Aṛnegysel|) 〚((h)ọṛ(deum)) ị〛 
+
+    20. [.?]ṛtrudis, [.?] ḍeuota, (t(riticum)) iii, (sec(ale)) ii, ((h)or(deum)) iiii 
+
+    21. in semul (t(riticum)) xxviiii 
+
+    22. (sec(ale)) lxxxviii 
+
+    23. ((h)or(deum)) cv ((et)) (sem(is)) 
+
+    24. (au(ena)) xliii 
+
+    25. (|sp|)(|t|) v. 
+
+    26. sunt in summa (mod(ii)) cclxxv, 
+
+    27. excepto <:lignatico|reg|lignateco:> (mod(ii)) ḷ[.?] 
+=>=D><D=.VI,v<=
+
+    1. [.?] (agrar(ium)) de Iogundiaco in anno xxii (|ord|) Agyri[co ][.?] 
+=>=D><D=.VII,ctr<=
+
+    1. in (ann(o)) xxii (|ord|) [.?] (domn(o)) Agyrico, (abb(a)t(e)), domus Milciacus, racio de agrario 
+=>=D><D=.VII,a<=
+
+    1. (Col(onia)) Crọdeualio 
+
+    2. Abbolenus (t(riticum)) (sem(is)), ((h)or(deum)) ii, (au(e)n(a)) [.?] 
+
+    3. Bettolenus ((h)or(deum)) i 
+
+    4. Crodobertus (t(riticum)) (s[e]m(is)), ((h)or(deum)) ii
+
+    5. Ebrolenus 〚((h)or(deum)) i, (au(e)n(a)) ii〛 
+
+    6. Arnobertus 〚(t(riticum)) (s[e]m(is)), ((h)or(deum)) ii〛 
+
+    7. Dadolenus 〚((h)or(deum)) (sẹm(is))〛 
+
+    8. [.?]us[.?] 
+
+    9. .1lin 
+
+    10. Eodolenus 〚(t(riticum)) [.?], ((h)or(deum)) ii, (au(e)n(a)) i〛 
+
+    11. (Col(onia)) Berolauo 
+
+    12. [.?] 〚((h)or(deum)) i, (au(ena)) ii〛 
+
+    13. [.?]ẹṛịcus 〚((h)or(deum)) i et (sem(is))〛 
+
+    14. [.?]dus ((h)or(deum)) i, (au(e)n(a)) i 
+
+    15. .1lin 
+=>=D><D=.VII,b<=
+
+    1. Godolenus 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    2. (Col(onia)) Feno[.?] 
+
+    3. Abbo 〚(t(riticum)) (s(emis)) ((h)or(deum))  [.?] 〛 
+
+    4. Leodobertus 〚(t(riticum)) (s(emis)), ((h)or(deum)) (s(emis))〛 
+
+    5. Bladericus 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    6. (Col(onia)) Noceria 
+
+    7. Ṣịc̣ọmarụs ((h)or(deum)) i, (au(e)n(a)) i 
+
+    8. Leodobertus 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii [.?] 〛 [.?]  
+
+    9. (|Castol|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    10. Genobertus 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    11. (Col(onia)) Mạlọmonte 
+
+    12. [.?] (t(riticum)) [.?], ((h)or(deum)) ii, (au(e)n(a)) i 
+=>=D><D=.VII,c<=
+
+    1. Domn[.?] 
+
+    2. Ebremundus (ṭ(riticum)) ii 
+
+    3. Monol[.?] 〚((h)ọṛ(deum))  [.?] 〛 [.?]  
+
+    4. Gysolenus 〚((h)or(deum)) i〛 
+
+    5. Chadọindus (sec(ale)) i, ((h)or(deum)) i 
+
+    6. Rico ((h)or(deum)) ii, (au(ena)) i 
+
+    7. (Col(onia)) [.?]ṛ[.?]ua 
+
+    8. .1lin 
+
+    9. Eoronius [.?] 
+
+    10. [.?]ḅer[.?] 
+
+    11. Baḷ[.?] 
+
+    12. Meṇan[.?] 〚(t(riticum)) (s(emis)), ((h)or(deum)) i, (sec(ale))  [.?] 〛 [.?]  
+
+    13. Ede[.?] 〚((h)or(deum)) ii〛 
+
+    14. Uina[.?] 〚((h)or(deum)) ii〛 
+
+    15. (|Uuadegysel|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    16. Ạudobertus 〚((h)or(deum)) i〛 
+
+    17. Audomundus [.?] 
+=>=D><D=.VII,d<=
+
+    1. Frioualdus 〚((h)or(deum)) i〛 
+
+    2. Godobertus ((h)or(deum)) i 
+
+    3. (|Theodosind|) [.?] 
+
+    4. Iṇ suṃ[.?] 
+
+    5. ṣe[.?] 
+
+    6. or[.?] 
+=>=D><D=.VIII,r,a<=
+
+    1. Medoaldus 〚((h)or(deum)) ii〛 
+
+    2. Bonoaldus 〚(t(riticum)) i, ((h)or(deum)) i, (au(e)n(a)) i〛 
+
+    3. Sonobodis ((h)or(deum)) ii, (au(e)n(a)) i 
+
+    4. (|Chrodẹg̣ỵsel|) 〚((h)or(deum)) i et (s(emis))〛 
+
+    5. (Col(onia)) Derciaco 
+
+    6. Auderamnus 〚(t(riticum)) i et (s(emis)), ((h)or(deum)) ii〛 
+
+    7. Addaulfus 〚((h)or(deum)) i〛 
+
+    8. (|Daogysel|) 〚(t(riticum)) i, ((h)or(deum)) ii, (au(e)n(a)) i〛 
+
+    9. Theodosindus 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    10. Dailenus 〚((h)or(deum)) i〛 
+
+    11. Ebromarus 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    12. .1lin 
+=>=D><D=.VIII,r,b<=
+
+    1. .1lin 
+
+    2. (Col(onia)) (|Pociol|) 
+
+    3. Aostrinus [.?] ((h)or(deum)) i 
+
+    4. Eomaris ((h)or(deum)) i 
+
+    5. Allo ((h)or(deum)) i
+
+    6. in ipso Milciaco 
+
+    7. Imnoaldus 〚((h)or(deum)) i〛 
+
+    8. (|Maregysel|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) i, (au(e)n(a)) i〛 
+
+    9. Fredomaris 〚((h)or(deum)) (qua(rsescium))〛 
+
+    10. Chadericus 〚(t(riticum)) i, ((h)or(deum)) iii〛 
+
+    11. Af̣f̣redus 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    12. (Col(onia)) Buxariaco 
+=>=D><D=.VIII,r,c<=
+
+    1. (Col(onia)) Inderciạc̣ọ 
+
+    2. Ṛọgatus ((h)or(deum)) ii 
+
+    3. Gysobertus 〚((h)or(deum)) ii〛 
+
+    4. Fredomaris 〚((h)or(deum)) i〛 
+
+    5. Sesoaldus 〚(t(riticum)) i, (sec(ale)) i〛 
+
+    6. Uirgundus 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    7. Eorulfus 〚((h)or(deum)) i〛 
+
+    8. Medobertus 〚((h)or(deum)) i〛 
+
+    9. Rigynạ ((h)or(deum)) ii 
+
+    10. Childoaldus 〚((h)or(deum)) (qua(rsescium))〛 
+
+    11. Bitto 〚((h)or(deum)) i et (s(emis))〛 
+
+    12. Auiobertus 〚((h)or(deum)) ii〛 
+
+    13. Agobertus 〚((h)or(deum)) i〛 
+
+    14. Albertus 〚((h)or(deum)) i〛 
+=>=D><D=.VIII,v<=
+
+    1. Domus Milciaco [.?] 
+
+    2. vestig.?lin
+=>=D><D=.IX,r,a<=
+
+    1. *stauros* (Col(onia)) Nouiento 
+
+    2. Ademundus 〚(sec(ale)) (sem(is)), ((h)or(deum)) i〛 
+
+    3. Dodolenus ((h)or(deum)) i, (au(ena)) i 
+
+    4. Corbolenus 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    5. Uedebaudus 〚(sec(ale)) ii, ((h)or(deum)) i, (au(ena)) ii〛 
+
+    6. Magnobertus 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    7. Audiernus ((h)or(deum)) i et (sem(is)) 
+
+    8. Gundenus 〚(sec(ale)) (sem(is)), (au(ena))i〛 
+
+    9. Aunecharius 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    10. Agnobertus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    11. Landobertus (sec(ale)) ii 
+
+    12. Abrebodus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    13. Naudolenus ((h)or(deum)) i, (au(ena)) i 
+
+    14. (Col(onia)) Brinio 
+
+    15. Sileubus et frater suo (sec(ale)) iiii 
+
+    16. Terderamnus 〚(t(riticum)) (sem(is)), (sec(ale)) i ((h)or(deum)) ii, (au(ena)) i〛 
+
+    17. Teudenus 〚(t(riticum)) (sem(is)), ((h)or(deum)) ii〛 
+
+    18. Turnulfus (sec(ale)) i, ((h)or(deum)) ii. 
+
+    19. (Col(onia)) Landolena 
+
+    20. Aunemundus 〚(sec(ale)) iii, ((h)or(deum)) ii〛 
+
+    21. Medardus 〚(au(ena)) (sem(is))〛 
+
+    22. [.?]ṣ (sec(ale)) i, ((h)or(deum)) (sem(is)), (au(ena)) i 
+=>=D><D=.VIII,r,b<=
+
+    1. (Col(onia)) Pinịuạc̣ọ 
+
+    2. Baudohelmus 〚((h)or(deum)) i〛 
+
+    3. Medebertus ((h)or(deum)) (sem(is)), (a[u(ena)]) [.?]  
+
+    4. Bodolena, (uid(ua)), ((h)or(deum)) i 
+
+    5. Maurinus (sec(ale)) i, ((h)or(deum)) i 
+
+    6. (Col(ona)) Elna 
+
+    7. Petresindus (sec(ale)) i, ((h)or(deum)) i 
+
+    8. Autharius 〚(sec(ale)) i, ((h)or(deum)) i, (a[u(ena)]) .? 〛 [.?]  
+
+    9. Teudemarus 〚((h)or(deum)) i〛 
+
+    10. item Autharius [.?] 
+
+    11. Gildemarus (sec(ale)) i, (au(ena)) i 
+
+    12. Genomarus ((h)or(deum)) i 
+
+    13. Eoroaldus ((h)or(deum)) i 
+
+    14. (Col(onia)) Mauriaco 
+
+    15. Austreṇụṣ (au(ena)) i 
+
+    16. Uuiddemarus ((h)or(deum)) [.?] 
+
+    17. Maurinus ((h)or(deum)) [.?] 
+
+    18. (Col(onia)) [.?] 
+
+    19. Uicissemus [.?] 
+
+    20. Diddolenus [.?] 
+
+    21. Ansoaldus [.?] 
+
+    22. Chaldebertụ[s ][.?] 
+
+    23. Darebodus ((h)or(deum)) [.?] 
+
+    24. Leudobertus ((h)o[r(deum)]) [.?]  
+
+    25. G̣ụdehelmus [.?] 
+=>=D><D=.IX,v<=
+
+    1. xiii 
+=>=D><D=.X,r,a<=
+
+    1. .4lin 
+
+    5. [.?] i
+
+    6. [.?] (ṭ(riticum)) (sem(is)), (sec(ale)) i, ((h)or(deum)) i 
+
+    7.  [.?] 〚([(h)o]r(deum)) i, (au(ena)) i〛 
+
+    8.  [.?] 〚[(t(riticum))] (sem(is)), (sec(ale)) i, ((h)or(deum)) i〛
+
+    9. [.?] 〚(ṣec(ale)) i, ((h)or(deum)) i〛 
+
+    10.  [.?][ (t(riticum))] (sem(is)), (sec(ale)) i, ((h)or(deum)) i 
+
+    11. [.?] 〚((h)or(deum)) (sem(is))〛 
+
+    12. [.?] (au(ena)) i 
+
+    13. [.?] (sec(ale)) i 
+
+    14. [.?] (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    15. [.?] i, ((h)or(deum)) i 
+
+    16. [.?] (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    17. [.?] (t(riticum)) (sem(is)), (sec(ale)) i, ((h)or(deum)) i 
+
+    18. [.?] ((h)or(deum)) i 
+
+    19. [.?] 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    20.  [.?] 〚 [.?] ṣ, (sec(ale)) (sem(is)), (au(ena)) i〛 
+
+    21.  [.?] 〚 [.?] ṣ, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 ((dedit)) 
+
+    22. [.?] (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    23. [.?] (sec(ale)) i 
+=>=D><D=.X,r,b<=
+
+    1. Leu[.?]g̣ịselus [.?] 
+
+    2. Abroardus 〚((h)or(deum)) i〛 
+
+    3. (Col(onia)) Emeredio 
+
+    4. Chaddobercthus [.?] 
+
+    5. Baio et Nonnus (sec(ale)) [.?] 
+
+    6. Bercthericus [.?] 
+
+    7. (Col(onia)) Casane[.?]
+
+    8. Domolenus [.?] 
+
+    9. Leboaldus (au(ena)) [.?] 
+
+    10. Maurinus [.?] 
+
+    11. Rigomarus [.?] 
+
+    12. Magnolenus [.?] 
+
+    13. (Col(onia)) Rinia[co] 
+
+    14. Rigomarus [.?] 
+
+    15. Audomaru[s ][.?] 
+
+    16. Teudone (se[c(ale)]) [.?]  
+
+    17. Theudelaicu[s ][.?] 
+
+    18. Magoalduṣ [.?] 
+
+    19. Chaddo et fr[ater ][.?] 
+
+    20. Leudosindu[s ][.?] 
+
+    21. sunt semu[l ][.?] 
+
+    22. (sec(ale)) cxiiii 
+
+    23. [.?] ḷxxviii 
+=>=D><D=.X,v<=
+
+    1. ex[.?] 
+=>=D><D=.XI,r,a<=
+
+    1. Andegisil [.?] 
+
+    2. (|Berteramn|) 〚<:triticum|reg|trd:> i, (auen(a)) (sem(is))〛 
+
+    3. (|Austroald|) 〚(|sigl|) i, (|spl|) i, (auen(a)) i〛 
+
+    4. Leodo 〚<:triticum|reg|trd:> i, (|spl|) i, ((h)ord(eum)) i (sem(is))〛 
+
+    5. (|Arnegisil|) 〚((h)ord(eum)) i〛 
+
+    6. Aunobertus 〚<:triticum|reg|trd:> ii, ((h)ord(eum)) i, unigrania i〛 
+
+    7. (|Chadolen|) 〚((de uilla))〛 <:triticum|reg|trd:> i, (auen(a)) i ((de uilla)) 
+
+    8. Deorinus 〚<:triticum|reg|trd:> iii, ((h)ord(eum)) i〛 
+
+    9. (|Addoḷ[e]n|) 〚<:triticum|reg|trd:> i, (auen(a)) (sem(is))〛 
+
+    10. Austroḅertus 〚<:triticum|reg|trd:> (sem(is)), (auen(a)) i〛 
+
+    11. Chrodoberto 〚<:triticum|reg|trd:> (sem(is)) *tachygraphic-marks*, (|sigl|) i, <:triticum|reg|trd:> ((semis)), ((h)ọṛḍ(eum)) ((semis)), (auen(a)) ((semis))〛 
+
+    12. Imnegisilus 〚(|sigl|) ((semis)), (auen(a)) i〛 
+
+    13. (|G̣undoland|) 〚<:triticum|reg|trd:> i, (auen(a)) i, (|sigl|) 〚i ((semis))〛 〛 
+
+    14. (|Ḍṛagolen|) 〚<:triticum|reg|trd:> ii, (|spl|) ii, ((h)ord(eum)) i〛 
+
+    15. (|Feriol|) 〚<:triticum|reg|trd:> i, ((h)ord(eum)) i, (auen(a)) i〛 
+
+    16. Maurus 〚<:triticum|reg|trd:> ((semis)), (|sigl|) ((semis)), (auen(a)) i〛 
+
+    17. Nantulfus 〚(|sigl|) i ((semis)), ((h)ord(eum)) i ((semis)), (auen(a)) i〛 
+
+    18. Uuillobertus [((h)ord(eum)) (sem(is)) (auen(a)) i ((semis))⟧ 
+
+    19. Friomatus 〚<:triticum|reg|trd:> i, ((h)ord(eum)) i, (auen(a)) i〛 
+
+    20. Teumaris 〚(|sigl|) ((semis)), ((h)ord(eum)) ((semis)), (auen(a)) i〛 
+
+    21. Teudardo 〚(|sigl|) ((semis)), ((h)ord(eum)) ((semis)), (auen(a)) i〛 
+
+    22. Domnemaris 〚(|sigl|) quarescio, (au(ena)) ((semis))〛 
+
+    23. Agoaldus 〚(|sigl|) ((semis)), (auen(a)) i〛 
+
+    24. (Col(onia)) Caluiacus 
+]
+    25. [.?] (aụen(a)) i 
+=>=D><D=.XI,r,b<=
+
+    1. [.?]mariṣ (|ṣịgḷ|) [.?] 
+
+    2. Sinnatus <:triticum|reg|trd:> i, (|spl|) [.?] 
+
+    3. (Col(onia)) Salciacus 
+
+    4. Genomarus (|spl|) i, (au(ena)) [.?] 
+
+    5. (|Bodolen|) 〚<:triticum|reg|trd:> ((semis)), (|sigl|)  [.?] 〛 [.?]  
+
+    6. (|Berteramn|) 〚<:triticum|reg|trd:> ((semis))  [.?] 〛 [.?]  
+
+    7. Aldomaris 〚<:triticum|reg|trd:> ((semis)), ((h)ord(eum)) i〛 
+
+    8. Eobertus 〚(|segl|) ((semis))〛 
+
+    9. (Col(onia)) Fiolenas
+
+    10. Centonarius 〚(|sigl|) i, ((h)orḍ(eum))  [.?] 〛 [.?]  
+
+    11. Bonoaldus 〚(|spl|) i, ((h)ord(eum)) i〛 
+
+    12. Genomundus 〚((h)ord(eum)) ((semis))〛 
+
+    13. (|Mololen|) 〚<:triticum|reg|trd:> ((semis)), (|sig[l]|) .? 〛 [.?]  
+
+    14. Audiernus 〚(auen(a)) i〛 
+
+    15. (|Leudoald|) 〚((h)ord(eum)) i, (au(ena)) i〛 
+
+    16. (|Austren|) 〚((h)ord(eum)) i, (|spl|) ((semis))〛 
+
+    17. (|Ebroald|) 〚((h)ord(eum)) ((semis))〛 
+
+    18. Gaucinus 〚((h)ord(eum)) ((semis)), (au(ena)) i〛 
+
+    19. Austemius 〚((h)ord(eum)) ((semis)), <:triticum|reg|trd:> i ((semis))〛 
+
+    20. (|Uuadobod|) 〚<:triticum|reg|trd:> ((semis)), ((h)ord(eum)) i〛 
+
+    21. Auiobertus 〚(|sigl|) i, ((h)ord(eum)) i〛 
+
+    22. Domnoaldus 〚(|sigl|) i, ((h)ord(eum)) i〛 
+
+    23. Genobertus 〚((h)ord(eum)) i〛 
+
+    24. (Col(onia)) (Mont(e)) Iocundus 
+
+    25. (|Ṭẹ[u]ḍẹramn|) 〚(|spl|) i ((semis))〛
+=>=D><D=.XI,v<=
+
+    1. In (ann(o)) xxiiii, domus Mad[.?]
+
+    2. vestig.?lin
+=>=D><D=.XII,ctr<=
+
+    1. [.?]le (uer(o)) Agyrico, (ạbb(a)t(e)), domus Delfiacus, racịọ dẹ ạgrario [.?] 
+=>=D><D=.XII,a<=
+
+    1.  [.?] 〚 [.?]  i, (sec(ale)) ((semis)), ((h)or(deum)) i〛 
+
+    2. [.?] 〚((h)or(deum)) [.?] 〛 ((de reliquo dedit)) 
+
+    3. [.?] 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    4. [.?]ụạlle 
+
+    5. [.?] 〚(sec(ale)) i, ((h)or(deum)) ii〛 
+
+    6. [.?] 〚((h)or(deum)) i〛 
+
+    7.  [.?] 〚 [.?]  i, ((h)or(deum)) ii〛 ((dedit)) 
+
+    8. [.?] 〚(sec(ale)) ii, ((h)or(deum)) ii〛 
+
+    9. .3lin 
+
+    12.  [.?] 〚 [.?] us (sec(ale)) i, ((h)or(deum)) i  [.?] 〛 [.?]  
+
+    13. [.?] 〚(tr(iticum)) i, (sec(ale)) i, ((h)or(deum))  [.?] 〛 [.?]  
+
+    14. .1lin 
+=>=D><D=.XII,b<=
+
+    1. 〚Dructobertus (sec(ale)) i〛 
+
+    2. 〚Ṭeudardus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) ii〛 
+
+    3. 〚F̣ạṇcione (sec(ale)) ii, (au(ena)) ii〛 
+
+    4. 〚Leudobodus (sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    5. 〚Leudoramnus (sec(ale)) i〛 
+
+    6. 〚Domorellus (sec(ale)) i, (au(ena)) ((semis))〛 
+
+    7. 〚Francobodus (sec(ale)) i, (au(ena)) i〛
+
+    8. 〚 [.?]dierṇụṣ [.?] ((semis))〛 
+
+    9. 〚 [.?]agnobertus (sec(ale)) i, (au(ena)) i〛 
+
+    10. 〚Leub[.?]s (sec(ale)) i, ((h)or(deum)) i〛 
+
+    11. <:Colonica|reg|colonec:> Beoronaco 
+
+    12. [.?]bus (sec(ale)) i 
+
+    13. i[.?] 〚(sec(ale)) iii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    14. Onoḅ[.?] 
+=>=D><D=.XII,c<=
+
+    1. (Col(onia)) Delfiadello 
+
+    2. 〚(|Bạụdothelm|) [.?], (au(ena)) i [.?] 〛 [.?]  
+
+    3. 〚Ibbo (sec(ale)) ii, (au(ena)) i〛 ((de reliquo renuit)) 
+
+    4. 〚 [.?]obertus (sec(ale)) [.?], (au(ena)) i〛 
+
+    5. 〚Ebruḷfus (sec(ale)) ii, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    6. 〚Abbo (sec(ale)) iii, ((h)or(deum)) ii, (au(ena)) ii〛 
+
+    7. 〚D[.?](|ol|) (sec(ale))  [.?] 〛 [.?]  
+
+    8. 〚Childo[.?] ((h)or(deum)) i〛 
+
+    9. 〚Bobolena [.?] 〛 
+
+    10. 〚Launobertus (sec(ale)) i, ((h)or(deum)) ii, (ạụ(ena)) i〛 
+
+    11. 〚Dadus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    12. 〚Laudulfus (sec(ale)) [.?], ((h)or(deum)) i〛 
+
+    13. (Col(onia)) Speṇe[.?]co 
+
+    14. 〚Higobe [.?] 〛 
+
+    15. Ḍ[.?] 
+=>=D><D=.XIII,a<=
+
+    1. 〚 [.?]obertus (tr(iticum)) i, (sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    2. 〚 [.?]thelmus (tr(iticum)) ((semis)), ((h)or(deum)) i〛 
+
+    3. 〚 [.?]ọbertus (sec(ale)) i, ((h)or(deum)) i〛 
+
+    4. 〚 [.?]edeta ((h)ord(eum)) i〛 ((de reliquo dedit)) 
+
+    5. 〚 [.?]ẹgiselus (tr(iticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    6. 〚 [.?]ṭọ (tr(iticum)) ii, (sec(ale)) ii, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    7. [.?]ạrcius ((h)or(deum)) i 
+
+    8. [.?]ḍobertus (tr(iticum)) i, (sec(ale)) iii, ((h)or(deum)) ii 
+
+    9. 〚 [.?]arus (sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    10. 〚 [.?] ṣ(ec̣(ale)) i, ((h)or(deum)) i〛 ((de reliquo dedit)) 
+
+    11. 〚 [.?]us (tr(iticum)) i, ((h)or(eum)) i〛 
+
+    12. 〚 [.?]rosindus (tr(iticum)) i, (sec(ale)) i, ((h)or(deum)) ii〛 ((de reliquo dedit)) 
+
+    13. 〚 [.?]roṣ[.?]dus (tr(iticum)) i, ((h)or(deum)) i〛 
+
+    14. [.?]molenus (sec(ale)) i 
+
+    15. 〚 [.?]udonius (tr(iticum)) i, (sec(ale)) iii, ((h)or(deum)) ii〛 
+
+    16. .1lin 
+=>=D><D=.XIII,b<=
+
+    1.  [.?] 〚 [.?]  ((h)or(deum)) i, (au(ena)) i〛 
+
+    2. 〚Gillo (sec̣(ale)) ị, ((h)or(deum)) i ((et semis))〛 
+
+    3. 〚Chiddoṃạṛụṣ (sec(ale)) ((quarsescium))〛 
+
+    4. Aigomarus (sec(ale)) ((quarsescium)) 
+
+    5. 〚Bosolenus (sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    6. 〚Leudobertus (sec(ale)) ii,〛 ((h)or(deum)) 〚ii, (au(ena)) i〛 
+
+    7. 〚Leudulfus (sec(ale)) i, ((h)or(deum)) ii〛 
+
+    8. 〚Genacharius (sec(ale)) i〛 ((de reliquo dedit)) 
+
+    9. 〚Leudocharius (sec(ale)) i〛 
+
+    10. 〚Leudoramnus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    11. 〚Ursus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    12. 〚Meddo (sec(ale)) i, ((h)or(deum)) i, (au(ena)) ii〛 
+
+    13.  [.?] 〚 [.?] chu[.?]tus (sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    14. 〚Bonobertus ((h)or(deum)) ((semis))〛 
+
+    15. 〚Genobertus (sec(ale)) ((semis))〛 
+
+    16. <:Colonica|reg|colonec:> Ṣụlio 
+
+    17. 〚Sirobodus ((h)or(deum)) ii, (au(ena)) i〛 
+=>=D><D=.XIII,c<=
+
+    1. .1lin 
+
+    2. Ur[.?] 〚s (tr(iticum)) ((semis)), (sec(ale)) ii, ((h)or(deum)) ii, (au(ena)) ((semis))〛 
+
+    3. D〚alhomirus (tr(iticum)) ((semis)), (sec(ale)) i, ((h)or(deum)) i〛 ((de reliquo dedit)) 
+
+    4. 〚Prodosindus (tr(iticum)) i, (sec(ale)) i, ((h)ọṛ(deum)) i〛 ((de reliquo renuit)) 
+
+    5. 〚Leudosindus ((h)or(deum)) i, (au(ena)) i〛 ((de reliquo dedit)) 
+
+    6. 〚Prodoaldus (tr(iticum)) i, ((h)or(deum)) i, (au(ena)) ii〛 
+
+    7. 〚Ibbolenus (tr(iticum)) i, ((h)or(deum)) i〛 
+
+    8. 〚Aebromarus (tr(iticum)) ii, (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    9. <:Colonica|reg|colonec:> Monte 
+
+    10. 〚Medolenus ((h)or(deum)) i, (au(ena)) i〛 ((de reliquo dedit)) 
+
+    11. 〚Medobodus ((h)or(deum)) i, (au(ena)) i ((de reliquo dedit))〛 
+
+    12. 〚Actiḷ[ulfus (?)] (sec(ale)) i, ((h)or(deum)) i〛 
+
+    13. 〚Nantobercthus ((h)or(deum)) i〛 
+
+    14. 〚Marc̣ụlfus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    15. 〚Leudomundus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    16. 〚Abrin[.?] (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 ((de reliquo nihil dedit)) 
+
+    17. F̣redobodus (sec(ale)) iii, (tr(iticum)) i, (au(ena)) i 
+
+    18. .1lin 
+=>=D><D=.XIII,d<=
+
+    1. 〚Ḅẹrtomạ [.?] 〛 [.?]  
+
+    2. 〚Dombertus (sec(ale)) ii, ((h)o[r(deum)]) .? 〛 [.?]  
+
+    3. 〚(|Ulfegisel|) (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    4. 〚(|Leudoald|) ((h)or(deum)) i, (au(ena)) ((semis))〛 
+
+    5. (Col(onica)) Braciadello 
+
+    6. 〚(|Andolen|) ((h)or(deum)) i, (au(ena)) i〛 
+
+    7. 〚(|Childoramn|) (sec(ale)) i〛 
+
+    8. 〚(|Domolen|) (sec(ale)) i, (au(ena)) i, ((h)or(deum)) i〛 
+
+    9. 〚(|Inporṭun|) (sec(ale)) i, (au(ena)) i ((de reliquo dedit))〛 
+
+    10. 〚 [.?]ẹgnobertus (sec(ale)) i ((et semis))〛 
+
+    11. 〚(|Dodoald|) (sec(ale)) i, ((h)or(deum)) ((semis))〛 
+
+    12. 〚Abroạldus (sec(ale)) i, (au(ena)) i ((de reliquo dedit))〛 
+
+    13. P̣[.?] vestig 
+
+    14. 〚(|Charegisel|) ((h)or(deum)) i〛 ((de reliquo dedit)) 
+
+    15. 〚Fridobertus (sec(ale)) ((quarsescio)) ((de reliquo dedit))〛 
+
+    16. 〚(|Baudiern|) ((h)or(deum)) ((semis)) ((de reliquo dedit))〛 
+
+    17. (|Mairebod|) ((h)or(deum)) i 
+
+    18. 〚Daụḅertus ((h)or(deum)) [.?] 〛 ((de reliquo dedit)) 
+
+    19. .1lin 
+=>=D><D=.XIV,a<=
+
+    1. Ạḷberthus (tr(iticum)) ([se]ṃ(is)) 〚((h)or(deum)) (sem(is))〛 
+
+    2. (|Sesoald|) 〚<:auena|reg|ạụịna:> [semis] 〛 
+
+    3. (Col(onica)) Macidomo et Pereto 
+
+    4. (|Leonard|) (tr(iticum)) 〚(sem(is)), <:auena|reg|auin:> (sem(is))〛 $m2 ((reddet lignum))
+
+    5. $m1 (|Frauobod|) (tr(iticum)) (sem(is)), <:auena|reg|auin:> (sem(is))⟧ 
+
+    6. (|Ạrimund|) (tr(iticum)) (sem(is)), ((h)or(deum)) (sem(is)), <:auena|reg|auin:> i (sem(is)) 
+
+    7. Ebromaris 〚(tr(iticum)) i〛 $m2 ((reddet lignum)) 
+
+    8. $m1 (|Alsend|) (tr(iticum)) (sem(is)), 〚<:auena|reg|auina:> i〛 
+
+    9. Arnulfus 〚(tr(iticum)) i, ((h)or(deum)) i, <:auena|reg|auina:> i〛 
+
+    10. (|Goden|) (tr(iticum)) 〚i, ((h)or(deum)) i, <:auena|reg|auin:> i〛 
+
+    11. Gundomaris (tr(iticum)) 〚(sem(is)), <:auena|reg|auin:> i〛 
+
+    12. Baio (tr(iticum)) (sem(is)) 〚<:auena|reg|auin:> i〛 
+
+    13. Auono (tr(iticum)) i 〚<:auena|reg|auin:> i〛 
+
+    14. $m2  (|Rigosind|) *monogram* 
+
+    15. $m1 (Col(onica)) (S(an)c(tu)s) 
+
+    16. (|Leodosind|) (tr(iticum)) i, ((h)or(deum)) (sem(is)) 
+
+    17. (|Betolen|) (tr(iticum)) 〚(sem(is)), ((h)or(deum)) i et (sem(is))〛 
+
+    18. Chadomaris (tr(iticum)) 〚<:sextario|reg|sistario:>〛 
+
+    19. (|(Austrom(u))nd|) 〚(tr(iticum)) (sem(is)), <:auena|reg|auin:> (sem(is)) 〛 
+
+    20. (|Dagolen|) (tr(iticum)) i 
+
+    21. (|Orsolen|) (tr(iticum)) 〚ii, <:auena|reg|auina:> ii〛 
+
+    22. (|Arnegisil|) (tr(iticum)) 〚i, <:auena|reg|auina:> (sem(is))〛 
+
+    23. (Col(onica)) Gironto 
+
+    24. (|Baldoramn|) (tr(iticum)) i, 〚et (sem(is)) ((h)or(deum)) i〛 
+
+    25. (|Gunsolen|) 〚(tr(iticum)) i, ((h)or(deum)) i et semis〛 
+
+    26. (|Babben|) (tr(iticum)) i 〚et (sem(is)), ((h)or(deum)) (sem(is))〛 
+
+    27. Godo (tr(iticum)) sistario i 
+
+    28. .1lin 
+=>=D><D=.XIV,b<=
+
+    1. (|Ulfoald|) (tr(iticum)) <:sextario|reg|sistario:> 
+
+    2. Chadobertus ((redebet)) (lign(um)) 
+
+    3. (|Magnogisil|) (tr(iticum)) (sem(is)) <:auena|reg|auin:> i 
+
+    4. Gundomaris (tr(iticum)) ((quarsescium)), <:auena|reg|auin:> (sem(is)) 
+
+    5. (Col(onica)) Campell 
+
+    6. (|(Allm(u))nd|) 〚(tr(iticum)) (sem(is)), <:auena|reg|auin:> ii〛 
+
+    7. (|Fridiern|) (tr(iticum)) ((quarsescium)), ((h)or(deum)) i, <:auena|reg|auin:> i 
+
+    8. Lauonoricus (tr(iticum)) i et (sem(is)), <:secale|reg|sigl:> (sem(is)), 〚<:auena|reg|auin:> ii〛 
+
+    9. Dadiuus (tr(iticum)) i, (|sigl|) (sem(is)), 〚<:auena|reg|auin:> ii〛 
+
+    10. (|Lauonoald|) (tr(iticum)) ii, 〚<:auena|reg|auin:> i〛 
+
+    11. Bonulfus <:secale|reg|sigl:> ((quarsescium)) 
+
+    12. Ulfolaicus (tri(ticum)) ii et (sem(is)) 
+
+    13. (|Bobosen|) 〚(tr(iticum)) (sem(is))〛 
+
+    14. (|Ermoald|) 〚(tr(iticum)) i et (sem(is)), <:auena|reg|auin:> i〛 
+
+    15. Ermeno 〚<:secale|reg|sigl:> (sem(is)), <:auena|reg|auin:> i〛 
+
+    16. (Col(onica)) Otigilido 
+
+    17. (|Abresind|) 〚<:auena|reg|auin:> i〛 
+
+    18. Bobosen (tr(iticum)) (sem(is)) 〚<:auena|reg|auin:> i et (sem(is))〛 ((reddet lignum)) 
+
+    19. (|Remegisil|) ((redebet)) (lign(um)) 
+
+    20. Gandoricus (tr(iticum)) i, <:auena|reg|auin:> i
+ 
+    21. Leo[.?]aris (tr(iticum)) ((quarsescium)), ((h)or(deum)) (sem(is)), <:auena|reg|auina:> (sem(is)) 
+
+    22. (|Ṣigosind|) ((redebet)) (lign(um)) 
+
+    23. Rigoberthus ((redebet)) (lign(um)) 
+
+    24. Auomaris (tr(iticum)) i, 〚<:secale|reg|sigal:> i, <:auena|reg|auina:> i et (sem(is))〛 
+
+    25. Bobus <:redebet|reg|redebit:> (lign(um)) 
+
+    26. (|Audoramn|) (tr(iticum)) (sem(is)), <:auena|reg|auin:> (sem(is)) 
+
+    27. (|Dagoald|) (tr(iticum)) 〚i et (sem(is)) <:auena|reg|auina:> ii〛 
+
+    28. Mauorontus <:secale|reg|sigl:> semis, 〚<:auena|reg|auina:> i〛 
+
+    29. .1lin 
+=>=D><D=.XIV,c<=
+
+    1. Daiberthus 〚((h)or(deum)) i et ((quarsescium))〛 
+
+    2. Presidius 〚((h)or(deum)) i et (sem(is)), <:auena|reg|auin:> (sem(is))〛 
+
+    3. Fredoberthus 〚(tr(iticum)) ((quarsescium)), <:auena|reg|auin:> semis〛 
+
+    4. (|Bobolen|) 〚(tr(iticum)) i et (sem(is)), ((h)or(deum)) semis〛 
+
+    5. Medrẹna 〚(tr(iticum)) i et (sem(is)), ((h)or(deum)) (sem(is))〛 
+
+    6. Fredomaris 〚(tr(iticum)) (sem(is))〛 
+
+    7. Ursoberthus 〚(tr(iticum)) i et (sem(is)), ((h)or(deum)) (sem(is))〛
+
+    8. Sacio Talsiniaco 
+
+    9. Eodono 〚(tr(iticum)) i et (sem(is)) ((h)or(deum)) (sem(is))〛 
+
+    10. Magnoberthus 〚(tr(iticum)) ((quarsescium)), ((h)or(deum)) ((quarsescium))
+
+    11. Sisberthus (⟦tr(iticum)) semis, ((h)or(deum)) (sem(is))〛 
+
+    12. Uualsinda 〚(tr(iticum)) i〛 
+
+    13. Godomaris (tr(iticum)) 〚(sem(is)), ((h)or(deum)) ((quarsescium))〛 
+
+    14. (Bert(u)lfus) 〚((h)or(deum)) i〛 
+
+    15. Godona 〚(tr(iticum)) i et (em(is))〛 
+
+    16. Audomaris 〚(tr(iticum)) i〛 <:auena|reg|auina:> (sem(is)) 
+
+    17. (|Ermolen|) 〚(tr(iticum)) i〛 
+
+    18. (Ebreberth(u)s) 〚(tr(iticum)) i, ((h)or(deum)) ((quarsescium))〛 
+
+    19. (|Eosoald|) (tr(iticum)) i, ((h)or(deum)) (sem(is)) 
+
+    20. Augena 〚(tr(iticum)) (sem(is)), ((h)or(deum)) ((quarsescium))〛 
+
+    21. Rigoberthus ((h)or(deum)) semis 
+
+    22. Audosindo 〚(tr(iticum)) ((quarsescium))〛 
+
+    23. Austroberthus (tr(iticum)) i, ((h)or(deum)) (sem(is)). 
+
+    24. Auonoberthus (tr(iticum)) ii 
+
+    25. .1lin 
+=>=D><D=.XV,r,a<=
+
+    1. [.?] i, (au(ena)) i 
+
+    2. [.?] i, (au(ena)) [.?] 
+
+    3. [.?] i, ((h)or(deum)) i, (au(ena)) i 
+
+    4.  [.?] 〚 [.?]  ((h)or(deum)) i, (au(ena)) i〛 
+
+    5.  [.?] 〚 [.?]  (au(ena)) ii〛
+
+    6. .2lin 
+
+    8. [.?][ qu]ondam 
+
+    9.  [.?] 〚 [.?]  ((h)or(deum)) [.?], (au(ena)) i〛 
+
+    10. [.?] ii, (au(ena)) i 
+
+    11.  [.?] 〚 [.?]  ii ((et semis))〛 
+
+    12. .1lin 
+
+    13.  [.?] 〚 [.?]  ((h)or(deum)) ii〛 
+
+    14.  [.?] 〚 [.?]  (sec(ale)) i, ((h)or(deum)) i〛 
+
+    15.  [.?] 〚 [.?] us (sec(ale)) i, ((h)or(deum)) i〛 
+
+    16. .4lin 
+
+    20.  [.?] 〚 [.?]  ((h)or(deum)) ii〛 
+
+    21. [.?] (ṣẹc̣(ale)) i, ((h)or(deum)) ii 
+
+    22. [.?]olanus 
+
+    23. .3lin
+=>=D><D=.XV,r,b<=
+
+    1. Franṇ[.?]arus (sec̣(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    2. Baudoraṃṇus 〚(sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    3. Natalis 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    4. Turnulfus (sec(ale)) i, ((h)or(deum)) i 
+
+    5. Chaldobertus (sec(ale)) i, (au(ena)) i 
+
+    6. Arṣẹ[.?]ụs 〚(sec(ale)) ii, ((h)or(deum)) ii〛 
+
+    7. (|Aldẹgisil|) (sec(ale)) ((semis)) 
+
+    8. Nonṇus 〚(sec(ale)) i, ((h)or(deum)) (au(ena)) i〛 
+
+    9. Audolenus (sec(ale)) i, (au(ena)) i 
+
+    10. Aigomaris (sec(ale)) i, ((h)or(deum)) i 
+
+    11. Daibodus 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    12. Magnothelmus 〚(sec(ale)) i, (au(ena)) i〛 
+
+    13. (|Aunogisil|) (sec(ale)) i, (au(ena)) i 
+
+    14. (Col(onica)) Cantoreo 
+
+    15. Consolatus (sec(ale)) ii, ((h)or(deum)) i 
+
+    16. Adrobertus ((h)or(deum)) i, (au(ena)) i 
+
+    17. Genmarus 〚((h)or(deum)) i〛 
+
+    18. Bosolenus (sec(ale)) i, ((h)or(deum)) i 
+
+    19. Aigobertus <:triticum|reg|trd:> i, (sec(ale)) ii, ((h)or(deum)) ii, (au(ena)) i⟧ 
+
+    20. Ermoaldus <:triticum|reg|trd:> i, (sec(ale)) i, ((h)or(deum)) i 
+
+    21. Astorius (sec(ale)) i, ((h)or(deum)) i 
+
+    22. (Col(onica)) Icioter 
+
+    23. Lobobertus (sec(ale)) ((semis)), (au(ena)) ((semis)) 
+
+    24. Ermobodus (au(ena)) i 
+
+    25. Baudosindus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    26. Romanus 〚(sec(ale)) iii, ((h)or(deum)) ii〛 
+
+    27. Ḍẹmberṭụs (sec(ale)) i, ((h)or(deum)) [.?] 
+
+    28. Uuinobodus 〚(sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    29. (Col(onica)) Rosẹṭto 
+
+    30. Leodobertus [.?] 
+
+    31. Ṛịṇobertus ((h)or(deum)) i, (au(ena)) i 
+=>=D><D=.XV,r,c<=
+
+    1. Lịdo[.?]ḍus [.?] 
+
+    2. Lidoberthus 〚(sec(ale)) i, (au(ena)) i〛 
+
+    3. Chalịmarus 〚(sec(ale)) i〛 
+
+    4. (Leodora(m)nus) ((h)or(deum)) i 
+
+    5. Chadberthus 〚((h)or(deum)) i〛 
+
+    6. A[u]nobertus 〚((h)or(deum)) i〛 
+
+    7. (Col(onica)) Penerua 
+
+    8. Arnoaldus (sec(ale)) i, (au(ena)) i 
+
+    9. Audacrus (sec(ale)) ii 
+
+    10. Theudolaicus et Leudoleno (sec(ale)) i 
+
+    11. (Col(onica)) Ulmeto 
+
+    12. Audoaldus (sec(ale)) ii, ((h)or(deum)) iii, (au(ena)) i 
+
+    13. Audobertus (sec(ale)) i, ((h)or(deum)) iii, (au(ena)) ii 
+
+    14. (Col(onica)) Curte Gennardo 
+
+    15. Aiginus <:triticum|reg|trd:> i, (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i 
+
+    16. Audomarus (sec(ale)) i, ((h)or(deum)) ii, (au(ena)) i 
+
+    17. Baudomerus 〚<:triticum|reg|trd:> ((semis)), ((h)or(deum)) ii〛 
+
+    18. Landobertus [.?] 
+
+    19. Daimarus (sec(ale)) i 
+
+    20. (Col(onica)) ((item)) Pẹṇerua 
+
+    21. Palladius (sec(ale)) ((semis)), ((h)or(deum)) i 
+
+    22. Daudoharius ((h)or(deum)) ii, (au(ena)) i 
+
+    23. Aidramnus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    24. Monosindus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    25. Gildomarus 〚(sec(ale)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    26. Edoramnus ((h)or(deum)) i, (au(ena)) i 
+
+    27. Donatus (sec(ale)) i, (au(ena)) i 
+
+    28. Leudiernus 〚((h)or(deum)) ((semis))〛 
+
+    29. Ernulfus ((h)or(deum)) i 
+
+    30. Audobertus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    31. A[.?]dus (ṣẹc̣(ale)) [.?] 
+=>=D><D=.XV,r,d<=
+
+    1. [.?]g̣[.?] 
+
+    2. Alimarus 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    3. Launobertus <:triticum|reg|trd:> i, (sec(ale)) i 
+
+    4. Leudoramnus 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    5. Leudobertus 〚(sec(ale)) i, (au(ena)) i〛 
+
+    6. Cadoc̣[.?] (sec(ale)) i, ((h)or(deum)) ii. 
+
+    7. Ḅa[.?]dus ((h)or(deum)) i, (au(ena)) i. 
+
+    8. (Col(onica)) [.?]niaco 
+
+    9. .1lin 
+
+    10. ((semis)) 
+
+    11. Erm[.?] ((h)or(deum)) [.?] 
+
+    12. Rignobertus (sec(ale)) i, ((h)or(deum)) i 
+
+    13. (Col(onica)) ((item)) Patriciaco 
+
+    14. [.?]ernus (sec(ale)) i, ((h)or(deum)) ii 
+
+    15. Bosolenus 〚(sec(ale)) i, ((h)or(deum)) i〛 
+
+    16. Berthobodus 〚(sec(ale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    17. Fredega (sec(ale)) i, ((h)or(deum)) i 
+
+    18. Fredolandus (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    19. Eoroaldus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    20. (Col(onica)) Monte 
+
+    21. Maurentinus ((h)or(deum)) i ((et semis)) 
+
+    22. Ermoberthus (sec(ale)) i
+
+    23. <:triticum|reg|trd:> modius xxi, 
+
+    24. (sec(ale)) cxxxi, 
+
+    25. ((h)ord(eum)) clxiiii, 
+
+    26. (ạụ(ena)) lxxxiiii. 
+
+    27. in summa sunt (|mod|) [.?]
+=>=D><D=.XV,v<=
+
+    1. hic est plenarius de agrario [.?]aco de uilla Patriciaco. vestig 
+=>=D><D=.XVI,a<=
+
+    1. [.?] (au(ena)) i [.?] 
+
+    2. C[.?](|golen|) 〚(t(riticum)) iiii, ((h)or(deum)) iii, (|spl|) i〛 
+
+    3. Daimarus 〚(t(riticum)) iii, ((h)or(deum)) i〛 
+
+    4. [.?]odo 〚(t(riticum)) ii et <:semis|reg|sim:>, ((h)or(deum)) i et <:semis|reg|sim:>〛 
+
+    5. (|Magnobert|) (t(riticum)) [.?] ((h)or(deum)) ii et <:semis|reg|si:> 
+
+    6. [.?](|bert|) 〚(t(riticum)) ii, (|spl|) i, ((h)or(deum)) ii et <:semis|reg|sim:>〛 
+
+    7. [.?](|bert|) 〚(t(riticum)) ii〛 
+
+    8. [.?]odemarus 〚((h)or(deum)) i〛 
+
+    9. [.?]ulf̣us 〚(t(riticum)) ii, ((h)or(deum)) iiii〛 
+
+    10.  [.?] 〚 [.?]  (t(riticum)) ii, ((h)or(deum)) <:semis|reg|sim:>〛
+
+    11. [.?]lericus 〚(t(riticum)) i et <:semis|reg|sim:>, ((h)or(deum)) i〛 
+
+    12. [.?](|len|) 〚[.?] ii, (|spḷ|)  [.?] 〛 [.?]  
+
+    13. [.?](|oald|) [.?], 〚((h)or(deum))  [.?] 〛 [.?]  
+
+    14. [.?]ertus 〚((h)or(deum)) i et <:semis|reg|si:>〛 
+
+    15.  [.?] 〚 [.?]  (t(riticum)) ii, ((h)or(deum)) i et (s(emis))〛 
+
+    16. [.?]us 〚(t(riticum)) iii, ((h)or(deum)) i et (s(emis))〛 
+
+    17.  [.?] 〚 [.?]  (t(riticum)) i, ((h)or(deum)) <:semis|reg|sim:>〛 
+
+    18.  [.?] 〚 [.?]  (t(riticum)) i, (|spl|) i〛 
+
+    19.  [.?] 〚 [.?]  (t(riticum)) iiii, (au(ena)) i〛 
+
+    20.  [.?] 〚 [.?]  (t(riticum)) ii, ((h)or(deum)) i et <:semis|reg|si:>〛 
+
+    21.  [.?] 〚 [.?]  (t(riticum)) iii, ((h)or(deum)) iii〛 
+
+    22.  [.?] 〚 [.?]  (t(riticum)) v, ((h)or(deum)) iii〛 
+
+    23. [.?] Curcinnaco 
+
+    24.  [.?] 〚 [.?]  (t(riticum)) <:semis|reg|sim:>, ((h)or(deum)) ii〛 
+
+    25. [.?]unobertus (t(riticum)) i et (s(emis)) ((h)or(deum)) i et (s(emis)) 
+
+    26. [.?]neṛạlius 〚(t(riticum)) <:semis|reg|sim:>〛 
+
+    27.  [.?] 〚 [.?] (|ld|) (t(riticum)) vii〛 
+=>=D><D=.XVI,b<=
+
+    1. .2lin 
+
+    3. (|Magnegisel|) 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    4. [.?]gomarus (t(riticum)) i et (s(emis)), ((h)or(deum)) [.?], (au(ena)) i 
+
+    5. Audenus 〚(t(riticum)) i et (s(emis)), (|spl|) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    6. (|Leudomund|) 〚(t(riticum)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    7. (|Ṣigibod|) 〚(ṭ(riticum)) iv, ((h)or(deum))  [.?] 〛 
+
+    8. [.?]bert[.?] 〚(t(riticum)) ii, ((h)or(deum)) i〛 
+
+    9. Mauriṇus 〚(t(riticum)) iii [.?], (au(ena)) i〛 
+
+    10. A[r]ṇụlfus (t(riticum)) [.?] 
+
+    11. D[.?]cio 〚(t(riticum)) iii, (au(ena)) i〛 
+
+    12. (|Daibert|) 〚(t(riticum)) iii, ((h)or(deum)) <:semis|reg|sim:>〛 
+
+    13. Presidius 〚(t(riticum)) vi, ((h)or(deum)) ii〛 
+
+    14. Rigomeres 〚(t(riticum)) vi, ((h)or(deum)) i〛 
+
+    15. (|Beremund|) 〚(t(riticum)) ii, ((h)or(deum)) i〛 
+
+    16. (|Ḷe[u]ḍ[o]bert|) 〚(t(riticum)) ii, ((h)or(deum)) i〛 
+
+    17. M[e]dericus 〚(t(riticum)) i〛 
+
+    18. (|Tịuard|) 〚(t(riticum)) iii, ((h)or(deum)) i〛 
+
+    19. (|Uuadegisel|) 〚(t(riticum)) iiii, ((h)or(deum)) i〛 
+
+    20. Uuaddomarus 〚(t(riticum)) <:semis|reg|sim:>, ((h)or(deum)) <:semis|reg|sim:>, (|spl|) <:semis|reg|sim:>〛 
+
+    21. (|Uinegisel|) 〚(t(riticum)) iii, ((h)or(deum)) ii, (|spl|) i〛
+
+    22. (|Uạsobert|) 〚(t(riticum)) i et (s(emis)), ((h)or(deum)) i et (s(emis))〛 
+
+    23. (|Ursomund|) 〚(t(riticum)) i et (s(emis)), ((h)or(deum))  [.?] 〛 
+
+    24. fiunt in summa (t(riticum)) (mod(ii)) cxxvii, 
+
+    25. ((h)or(deum)) (mod(ii)) lxv, (|spl|) (mod(ii)) vii, 
+
+    26. (au(ena)) (mod(ii)) vi, ((secalis)) (mod(ii)) [.?] 
+
+    27. (mod(ii)) ccv 
+=>=D><D=.XVI,c<=
+
+    1. [.?]ma[.?] 
+
+    2. Teudemarus 〚((secale)) i, ((h)or(deum))  [.?] 〛
+
+    3. [.?]deramn[.?] 
+
+    4. [.?]adolenus 〚(t(riticum)) iii, ((h)or(deum)) i, ((secalis)) i, (au(ena)) i〛 
+
+    5. Maụr[.?] 
+
+    6. Leud[.?] 
+
+    7. [.?]enericus (t(riticum)) ii [.?] 
+
+    8. (|Ebresind|) (t(riticum)) ii, (au(ena)) [.?] 
+
+    9. [.?](|sind|) [.?] 〚((secale)) [.?], (au(ena))  [.?] 〛 [.?]  
+
+    10. [.?]andericus (t(riticum)) i [.?] 
+
+    11. (|Remegisel|) 〚(t(riticum)) ii, [.?] (au(ena)) ii〛 
+
+    12. (|Agobraṇd|) (t(riticum)) ii, (au(ena)) [.?] 
+
+    13. Berteramnus [.?] 
+
+    14. Bobus [.?] 
+
+    15. Mummolus 〚(t(riticum)) ii, ((secale)) i, (au(ena)) i〛 
+
+    16. Audomarus 〚(t(riticum)) ii  [.?] 〛 [.?]  
+
+    17. (|Garioald|) (t(riticum)) ii, ((secale)) ii, (au(ena)) i 
+
+    18. Chario (t(riticum)) i, ((secale)) i 
+
+    19. Baldo 〚(t(riticum)) i, (au(ena)) <:semis|reg|sim:>〛 
+
+    20. (|Maribod|) 〚(t(riticum)) ii, ((secale)) i, (au(ena)) iii〛 
+
+    21. (|Launobod|) 〚(t(riticum)) i, (au(ena)) iii〛 
+
+    22. Audụlfus 〚(t(riticum)) v, (au(ena)) iii〛 
+
+    23. (|Launobert|) 〚(t(riticum)) iiii〛 
+
+    24. D[.?]b[.?]l[.?] 〚(au(ena)) i〛 
+
+    25. Benenatus 〚(t(riticum)) ii  [.?] 〛 [.?]  
+
+    26. Eonoaldus (t(riticum)) ii et <:semis|reg|sim:> 
+
+    27. (|Teuderamn|) (t(riticum)) ii, (au(ena)) <:semis|reg|sim:> 
+
+    28. (|Beroald|) (t(riticum)) iiii, (au(ena)) ii 
+
+    29. [.?](|l|) (t(riticum)) v 
+
+    30. Mel[.?] (t(riticum)) ((quarsescium)), (au(ena)) [.?] 
+=>=D><D=.XVI,d<=
+
+    1. .2lin 
+
+    3. Launerio[.?] 
+
+    4. Dagoald[.?] 
+
+    5. .2lin 
+
+    7. Bobus [.?] 
+
+    8. Ermoal[.?] 
+
+    9. .4lin 
+
+    13. Arn[.?] 
+
+    14. Mau[.?] 
+
+    15. .1lin 
+
+    16. Da[.?]
+    17. Chi[.?] 
+
+    18. .4lin 
+=>=D><D=.XVII,a<=
+
+    1. [.?].1osindus 〚(t(riticum)) i, (s(e)c(a)l(e)) i, ((h)or(deum)) i〛 
+
+    2. [.?]undus 〚(t(riticum)) [.?], ((h)or(deum)) ii  [.?] 〛 [.?]  
+
+    3. Gunsoaldus 〚 [.?], (s(e)c(a)l(e)) i, ((h)or(deum)) ii〛 
+
+    4. (|Leboald|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    5. [.?]Ḅertemarus 〚(t(riticum)) ((quarsescium)), ((h)or(deum)) i et (s(emis))〛 
+
+    6. [.?]bus (t(riticum)) i, ((h)or(deum)) iii 
+
+    7. Deoroaldus 〚(t(riticum)) i et (s(emis)) ((h)or(deum)) ii〛 
+
+    8. Donatus ((h)or(deum)) i et (s(emis)) 
+
+    9. (|Audosind|) 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    10. (|Bertin|) 〚((h)or(deum)) ii〛 
+
+    11. (|F̣redoramn|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    12. Brando 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    13. (|Leodolen|) 〚((h)or(deum)) i et (s(emis))〛 
+
+    14. Ibodus 〚((h)or(deum)) i〛 
+
+    15. Audoaldus (t(riticum)) i, ((h)or(deum)) iii 
+
+    16. (Col(onica)) Nanṭiaco 
+
+    17. (|Baudosind|) 〚(t(riticum)) (s(emis)), (s(e)c(a)l(e)) i, ((h)or(deum)) ii〛 
+
+    18. (|Chiddolen|) 〚(s(e)c(a)l(e)) i, ((h)or(deum)) i et (s(emis))〛 
+
+    19. Sugnoberthus 〚((h)or(deum)) i〛 
+
+    20. Ricoberthus 〚((h)or(deum)) i〛 
+
+    21. (|Godomund|) ((h)or(deum)) ((quarsescium)) 
+
+    22. Ginmeris ((h)or(deum)) ((quarsescium))
+
+    23. (|Theodoramn|) ((h)or(deum)) i 
+
+    24. (|Ginmund|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    25. Gildobertus ((h)or(deum)) (s(emis)) 
+
+    26. (|Baudomund|) 〚(s(e)c(a)l(e)) i, ((h)or(deum)) ii〛 
+
+    27. (|Leodomund|) 〚((h)or(deum)) ((quarsescium))〛 
+
+    28. Maurucio (lign(aticum?)) 
+
+    29. .1lin 
+=>=D><D=.XVII,b<=
+
+    1. Sigo[.?] 〚(t(riticum)) i, (s(e)c(a)l(e)) (s(emis)), ((h)or(deum)) i〛 
+
+    2. Gynmạrus 〚(s(e)c(a)l(e))  [.?] 〛 [.?]  
+
+    3. (|Audoald|) 〚((h)or(deum)) i〛 
+
+    4. (|Eodoald|) 〚(t(riticum)) i, ((h)or(deum)) iii〛 
+
+    5. [.?]us 〚(t(riticum)) (s(emis)), ((h)or(deum)) i, (au(ena)) i〛 
+
+    6. Nantobertus 〚(s(e)c(a)l(e)) i, ((h)or(deum)) ii〛 
+
+    7. Sicoaldus 〚((h)or(deum)) i〛 
+
+    8. Medoaldus 〚(t(riticum)) (s(emis)), (s(e)c(a)l(e)) (s(emis)), ((h)or(deum)) i〛 
+
+    9. [.?](|gịsel|) 〚(s(e)c(a)l(e)) i, ((h)or(deum)) ii〛 
+
+    10. Gundoḅẹrtus 〚((h)or(deum)) i〛 
+
+    11. Sindericus (t(riticum)) (s(emis)), ((h)or(deum)) i 
+
+    12. Theodomarus 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii, (au(ena)) i〛 
+
+    13. (|Childolen|) (t(riticum)) iii, ((h)or(deum)) iii 
+
+    14. Macquca 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    15. (Col(onica)) Culuriaco 
+
+    16. Leṇdoberto 〚((h)or(deum)) i〛 
+
+    17. [.?]etudus 〚((h)or(deum)) i〛 
+
+    18. (|Ṭḥeọdosind|) 〚((h)or(deum)) ii〛 
+
+    19. Fredobertus 〚((h)or(deum)) ii〛 
+
+    20. Rigomarus 〚((h)or(deum)) ii〛 
+
+    21. Concorsus 〚(s(e)c(a)l(e)) (s(emis)), ((h)or(deum)) i〛 
+
+    22. Almundus 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    23. (|Agosen|) 〚((h)or(deum)) i et (s(emis))〛 
+
+    24. Ricomarus ((h)or(deum)) ii 
+
+    25. (Col(onica)) Tasiaco 
+
+    26. (|Godoramn|) 〚((h)or(deum)) i〛 
+
+    27. (|Pappolen|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    28. (|Theodoramn|) 〚((h)or(deum)) i et (s(emis))〛 
+
+    29. Baimarus 〚(t(riticum)) i, ((h)or(deum)) i et (s(emis))〛 
+
+    30. .1lin 
+=>=D><D=.XVII,c<=
+
+    1. (Col(onica)) [.?]ṭịuaco 
+
+    2. (|Uincimal|) 〚((h)or(deum)) (s(emis))〛 
+
+    3. Sico ((h)or(deum)) i 
+
+    4. Igerị[.?] 〚(t(riticum)) ii, ((h)or(deum)) iii〛 
+
+    5. (|Pappolen|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    6. Rignoaldus 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    7. (|Abbolen|) 〚(t(riticum)) i et (s(emis)), ((h)or(deum)) iii〛 
+
+    8. (|Incomund|) 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    9. Launobertus 〚(t(riticum)) i, ((h)or(deum)) iii〛 
+
+    10. (|Palladiol|) 〚(t(riticum)) [.?], ((h)or(deum))  [.?] 〛 [.?] 
+
+    11. (|Francolen|) 〚((h)or(deum)) iii〛 
+
+    12. (|Baudar|) 〚((h)or(deum)) ii〛 
+
+    13. Landomarus (t(riticum)) [.?] 
+
+    14. Godilo ((h)or(deum)) ii 
+
+    15. (|Sicomund|) (t(riticum)) (s(emis)), ((h)or(deum)) [.?] 
+
+    16. (|Chrodolen|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) ii〛 
+
+    17. U[.?]sus 〚((h)or(deum)) i〛 
+
+    18. Audobertus 〚((h)or(deum)) ii〛 
+
+    19. Uinbertus 〚((h)or(deum))  [.?] 〛 [.?]  
+
+    20. (|Chrodegysel|) 〚(t(riticum)) [.?] iii〛 
+
+    21. Aig[.?] 〚((h)or(deum)) iii  [.?] 〛 [.?]  
+
+    22. Gybọạḷdus 〚[.?] ((h)or(deum)) ii〛 
+
+    23. [.?] ((h)or(deum)) ii 
+
+    24. (|Freden|) 〚((h)or(deum)) (s(emis))〛 
+
+    25. Gerulfus 〚((h)or(deum))  [.?] 〛 [.?]  
+
+    26. (|Baddolen|) 〚((h)or(deum)) i〛 
+
+    27. (|Bertin|) 〚((h)or(deum)) ii〛 
+
+    28. (|Gynṃund|) ((h)or(deum)) i et (s(emis)) 
+
+    29. in ipso Lucuriaco 
+
+    30. Spectatus 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    31. Gunsoindus 〚((h)or(deum)) iii〛 
+
+    32. (|Dumolen|) 〚((h)or(deum)) viii〛 
+
+    33. .1lin 
+=>=D><D=.XVII,d<=
+
+    1. Gin[.?] 
+
+    2. Fredosinḍ[.?] 
+
+    3. Lidoaldu (t(riticum)) [.?] 
+
+    4. (|Uidegysel|) (t(riticum)) ((quarsescium)) [.?] 
+
+    5. (|Sigolen|) 〚((h)or(deum)) i et  [.?] 〛 [.?]  
+
+    6. sunt semul [.?] 
+
+    7. (sec(ale)) (mod(ii)) [.?] 
+
+    8. ((h)ord(eum)) (mod(ii)) [.?] 
+
+    9. fiunt semul [.?] 
+=>=D><D=.XVIII,r,a<=
+
+    1. Domus C̣uonno 
+
+    2. [.?]sindus 〚((h)or(deum)) (s(emis))〛 
+
+    3. [.?]domares (t(riticum)) ii, ((h)or(deum)) iii 
+
+    4. [.?]ọnte 
+
+    5. [.?] ii, (sec(ale)) (s(emis)), ((h)or(deum)) iii, *stauros* 
+
+    6. [.?]hilus 〚(t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    7. [.?](|lin|) 〚(t(riticum)) ii, ((h)or(deum)) iiii, (au(ena)) i〛, *stauros* 
+
+    8. [.?]marus (t(riticum)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    9. [.?]erthus 〚(t(riticum)) ii, ((h)or(deum)) iii, (au(ena)) i〛, *stauros* 
+
+    10. [.?]ẹrraria 
+
+    11. [.?]mus ((h)or(deum)) ii *stauros*. $m2 (lign(um)) dedit. 
+
+    12. $m1 [.?]undus 〚(t(riticum)) i, (sec(ale)) i, ((h)or(deum)) i, (au(ena)) ii〛 
+
+    13. [.?]ṃeres 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    14. [.?]auernante 
+
+    15. [.?]cheus (t(riticum)) i 
+
+    16. [.?](|n|) 〚(t(riticum)) ị ((h)ọṛ(deum))  [.?] 〛 [.?]  
+
+    17. [.?] ((h)or(deum)) i
+
+    18.  [.?] 〚 [.?]  ((h)or(deum)) i, (au(ena)) i〛 
+
+    19. [.?]ạcius 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    20.  [.?] 〚 [.?] (|n|) (t(riticum)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    21. [.?]uius 〚(t(riticum)) (s(emis)), (au(ena)) ii〛 
+
+    22.  [.?] 〚 [.?]  (sec(ale)) i, (au(ena)) ii〛 
+
+    23. [.?]ertus 〚(t(riticum)) (s(emis)) ((h)or(deum)) i〛 
+
+    24. [.?](|gesil|) 〚(t(riticum)) (s(emis)), (au(ena)) ii〛 
+
+    25. [.?]bertus ((h)or(deum)) (s(emis)) 
+
+    26. [.?]undus 〚(t(riticum)) ((quarsescium)), (au(ena)) i〛
+
+    27. [.?] Ụillababone
+
+    28. [.?]darius 〚(t(riticum)) i, ((h)or(deum)) iii〛 
+
+    29. [.?]haldericus 〚(t(riticum)) i, ((h)or(deum)) i〛 
+=>=D><D=.XVIII,r,b<=
+
+    1. Eodomarus (t(riticum)) i, ((h)or(deum)) ii 
+
+    2. Theodomarus (t(riticum)) ii, ((h)or(deum)) ii. 
+
+    3. Launulfus 〚(t(riticum)) iii, ((h)or(deum)) iiii〛 
+
+    4. (Col(onica)) Ognate 
+
+    5. Theodoferius 〚(t(riticum)) i, ((h)or(deum)) (s(emis))〛 
+
+    6. Baudolefus 〚[.?] ((h)or(deum)) ii  [.?] 〛 [.?] 
+
+    7. (|Abbolen|) 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    8. (|Baddolen|) 〚[.?] ((h)or(deum)) i〛 
+
+    9. (|Transoald|) 〚(t(riticum)) i ((et)) (s(emis)), ((h)or(deum)) ii〛 
+
+    10. Sigoaldus 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena))  [.?] 〛 [.?]  
+
+    11. Aunobertus 〚(t(riticum)) (s(emis)), ((h)or(deum)) i〛 
+
+    12. Agoaldus 〚((h)or(deum)) i〛 
+
+    13. (Aichra(m)nus) 〚(t(riticum)) i, ((h)or(deum)) i〛 
+
+    14. Aldo 〚(t(riticum)) i, ((h)or(deum)) i〛 
+
+    15. (|Fraudomund|) 〚(t(riticum)) ii, ((h)or(deum)) ii〛 
+
+    16. (|Theodegysil|) 〚(t(riticum)) ii, ((h)or(deum)) ii〛 
+
+    17. Aigulfus 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    18. Leodemeris 〚(t(riticum)) i, ((h)or(deum)) i〛 
+
+    19. (|Baumad|) (t(riticum)) i ((et)) (s(emis)), (au(ena)) i⟧ 
+
+    20. Eodrulfus 〚(t(riticum)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    21. (|Gundegysel|) (t(riticum)) ii, ((h)or(deum)) ii 
+
+    22. (|Sindolin|) ((h)or(deum)) i ((et)) (s(emis)) 
+
+    23. (Col(onica)) Ognatello 
+
+    24. Uinmundu (sec(ale)) i, ((h)or(deum)) i, (au(ena)) i 
+
+    25. (|Launoald|) ((h)or(deum)) i 
+
+    26. Babus (t(riticum)) ii, ((h)or(deum)) ii 
+
+    27. Elafius 〚(t(riticum)) (s(emis)), ((h)or(deum)) di〛 
+
+    28. Sicharius 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    29. .1lin 
+=>=D><D=.XVIII,v<=
+
+    1. exemplatus est 
+=>=D><D=.XIX,r,a<=
+
+    1. [.?]annis [.?] 
+
+    2. [.?]s 〚(t(riticum)) iii, ((h)or(deum)) iii, (s(e)c(a)l(e)) ii〛 
+
+    3. .1lin 
+
+    4. [.?]ụs 〚(t(riticum)) ((semis)), ((h)or(deum)) i〛 
+
+    5. [.?]s 〚 [.?]i, ((h)or(deum)) i〛 
+
+    6. [.?]berctḥụs 〚(t(riticum)) i, ((h)or(deum)) i〛 
+
+    7. [.?]elus 〚(t(riticum)) ii, ((h)or(deum)) iiii〛 
+
+    8. [.?]nus 〚(t(riticum)) i, ((h)or(deum)) ii, (s(e)c(a)l(e)) ((semis))〛 
+
+    9. [.?]giselus 〚(t(riticum)) ((semis)), ((h)or(deum)) ((semis)), (s(e)c(a)l(e)) ((quarsescio))〛 
+
+    10. [.?]cus (t(riticum)) ((semis)), ((h)or(deum)) ((semis)), (s(e)c(a)l(e)) ((quarsescio)) 
+
+    11. [.?]asindus (t(riticum)) ((semis)), ((h)or(deum)) ((semis)) 
+
+    12. [.?] ụilla (|Nụtricion|) 
+
+    13.  [.?] 〚 [.?]  (t(riticum)) i ((et semis)), ((h)or(deum)) iii〛 
+
+    14. [.?]us 〚((h)or(deum)) i ((et semis))〛 
+
+    15.  [.?] 〚 [.?]  (ṭ(riticum)) ((semis)), ((h)or(deum)) i〛 
+
+    16.  [.?] 〚 [.?]  ((h)or(deum)) i〛 
+
+    17. [.?][ uill]a (Rocconor(u)m) 
+
+    18. [.?]x[.?] 
+
+    19.  [.?] 〚 [.?]  (t(riticum)) ii, ((h)or(deum)) v〛 
+
+    20. [.?]ẹris ((h)or(deum)) ii 
+
+    21. [.?]nus 〚((h)or(deum)) ii〛 
+
+    22.  [.?] 〚 [.?]  ((h)or(deum)) iiii〛 
+
+    23. [.?]anebaude 
+
+    24. [.?]dis 〚(t(riticum)) ii, ((h)or(deum)) iii〛 
+
+    25. [.?] (|spl|) i, ((h)or(deum)) i 
+
+    26.  [.?] 〚 [.?]  (t(riticum)) i ((et semis)), ((h)or(deum)) iiii〛 
+
+    27. [.?][ uill]a Zocọrone 
+
+    28. [.?] (t(riticum)) [.?], ((h)or(deum)) iii 
+
+    29.  [.?] 〚 [.?]  (ṭ(riticum)) ii ((et semis)), ((h)or(deum)) ii〛 
+
+    30.  [.?] 〚 [.?]  ((h)or(deum)) iii〛 
+
+    31. [.?]cthus 〚(t(riticum)) i ((et semis)), ((h)or(deum)) iii〛 
+
+    32. [.?](|n|) ((redebet)) (lign(um)) 
+
+    33. [.?]ḷius ((redebet)) (lign(um)) 
+
+    34.  [.?] 〚 [.?]  (t(riticum)) i, ((h)or(deum)) iii〛 
+
+    35. [.?] ụịḷḷa Charebaude 
+
+    36. [.?]atab〚[.?] (t(riticum)) i, ((h)or(deum)) ii〛 
+
+    37. [.?]ḷẹụḍiernus (t(riticum)) i, ((h)or(deum)) i 
+
+    38. ([Co]l(onica)) Molinitto 
+
+    39. [.?]chiernus (t(riticum)) <:sextaria|reg|sistaria:> iii, ((h)or(deum)) i 
+
+    40. [.?]themundus ((h)or(deum)) ii 
+
+    41. [.?](|cheln|) [(t(riticum)) ii, ((h)or(deum)) iii⟧ 
+]
+    42. [.?]ercthus (t(riticum)) i, ((h)ọr(deum)) ii 
+
+    43. [.?]bercthus ((h)or(deum)) i 
+=>=D><D=.XIX,r,b<=
+
+    1. [Urso (t(riticum)) ((semis)), ((h)or(deum)) ii 
+
+    2. Burgolenus (t(riticum)) ii, ((h)or(deum)) i 
+
+    3. Uuadolenus 
+
+    4. Audericus 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    5. Maurontus 〚(t(riticum)) i, (|spl|) i ((et semis)), ((h)or(deum)) i ((et semis))〛 
+
+    6. Uuaddobercthus 〚(t(riticum)) i ((et semis)), ((h)or(deum)) ii〛 
+
+    7. Gaeramnus ((redebet lignum)) 
+
+    8. Bercthinus 
+
+    9. (|Bercthechar|) 
+
+    10. Baudiernus 
+
+    11. Antonius ((h)or(deum)) i 
+
+    12. Chaddolenus (t(riticum)) ((semis)), ((h)or(deum)) ((semis))
+
+    13. Aigoramnus 
+
+    14. Ursinus 〚((h)or(deum)) i〛 
+
+    15. Aigo (t(riticum)) i ((et semis)), ((h)or(deum)) i ((et semis)) 
+
+    16. Medebercthus ((h)or(deum)) ((semis)) 
+
+    17. Bercthesendus (diac(o)nus) ((redebet lignum)) 
+
+    18. (it(em)) Medebercthus ((redebet lignum)) 
+
+    19. Lopus ((redebet lignum)) 
+
+    20. Aldobercthus ((redebet lignum)) 
+
+    21. Ursus ((redebet lignum)) 
+
+    22. Aigolenus 〚(t(riticum)) i ((et semis)), ((h)or(deum)) ii〛 
+
+    23. Gundolandus (t(riticum)) ((semis)), ((h)or(deum)) i 
+
+    24. Launobercthus (t(riticum)) ((semis)), ((h)or(deum)) i ((et semis)) 
+
+    25. Meroaldus ((redebet lignum)) 
+
+    26. Aunobercthus 〚(t(riticum)) i, ((h)or(deum)) i〛 
+
+    27. Ebroaldus 〚(t(riticum)) i ((et semis)), ((h)or(deum)) ii〛 
+
+    28. Aigomaris 〚((redebet lignum))〛 
+
+    29. Segobercthus 
+
+    30. (|Bobolen|) 〚(t(riticum)) ((quarsescio)), ((h)or(deum)) ((semis))〛 
+
+    31. (it(em)) Uuaddobercthus (t(riticum)) ((semis)), ((h)or(deum)) i 
+
+    32. (|Freden|) 
+
+    33. Sigilemus ((h)or(deum)) i 
+
+    34. Aldolenus ((redebet)) (lign(um)) 
+
+    35. Busca ((h)or(deum)) i 
+
+    36. Leudolenus (t(riticum)) ((semis)), ((h)or(deum)) i 
+
+    37. Peter ((redebet lignum)) 
+
+    38. (|Martin|) 
+
+    39. Dulcerone ((clericus redebet)) (lign(um)) 
+
+    40. Sindobercthus ((h)or(deum)) ((semis)) 
+
+    41. Medebercthus ((redebet)) (lign(um)) 
+
+    42. Aunobercthus ((redebet lignum)) 
+]
+    43. Genobercthus 〚(t(riticum)) i, ((h)or(deum)) iii〛 
+
+    44. (|Audiern|) ((redebet lignum)) 
+
+    45. Ermetrudis ((h)or(deum)) i 
+
+    46. Uuiberatus ((h)or(deum)) ((semis)) 
+
+    47. Segomaris ((redebet lignum)) 
+
+    48. Aurilianis ((h)or(deum)) i 
+
+    49. .1lin 
+=>=D><D=.XIX,r,c<=
+
+    1. Ḷeudobercthus [.?] 
+
+    2. Chademundus (t(riticum)) <:sextaria|reg|siṣṭạṛịạ:> [.?] 
+
+    3. Ermelaicus (t(riticum)) <:sextaria|reg|sistarịạ:> ịị 
+
+    4. Gundobercthus ((redebet)) (lign(um)) 
+
+    5. Fulcoaldus (|spl|) i 
+
+    6. Launobercthus ((redebet)) [.?] 
+
+    7. (|Berctheramn|) ((redebet)) (lign(um)) 
+
+    8. Bobosenus ((redebet)) (lign(um)) 
+
+    9. Bodolenus (⟦(h)or(deum)) ((semis)) [.?]
+=>=D><D=.XIX,v<=
+
+    1. ḍ[.?] qui in (|un|) (|breu|) sunt scripti et (agrar(io)) [.?] 
+
+    2. pro lig[.?] argen[.?]ii et pro (agrar(io)) [.?] 
+
+    3. x (|dec|) [.?]xequitus [.?] a quod ipsum (|agr|) [.?] 
+=>=D><D=.XX,r,a<=
+
+    1. .1lin 
+
+    2. [.?]obertus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    3. (|Dommon|) ((h)or(deum)) i, (au(ena)) i 
+
+    4. Ạụdosindus (tr(iticum)) i, ((h)or(deum)) ((quarsescium)) 
+
+    5. Genobertus ((h)or(deum)) i, (au(ena)) i 
+
+    6. Domnulfus (tr(iticum)) ((semis)), ((h)or(deum)) i et ((semis)), (au(ena)) i 
+
+    7. Naudoaldus ((h)or(deum)) ((semis)), (au(ena)) i 
+
+    8. Audoramnus ((h)or(deum)) i, (au(ena)) i 
+
+    9. Fredomaris ((h)or(deum)) i 
+
+    10. (Col(onica)) Pariaco 
+
+    11. Augibertus ((h)or(deum)) i 
+
+    12. Teodouera ((h)or(deum)) ((semis)), (au(ena)) ((semis)) 
+
+    13. Gunda ((h)or(deum)) i, (au(ena)) ((semis)) 
+
+    14. (|Ebroar|) 〚((h)or(deum)) ii, (au(ena)) i〛 
+
+    15. Aunobertus 〚((h)or(deum)) ((semis))〛
+
+    16. Audomaris 〚((h)or(deum)) ((semis))〛 
+
+    17. Aunulfus 〚((h)or(deum)) ii, (au(ena)) i〛 
+
+    18. Leodobodus 〚((h)or(deum)) ii, (au(ena)) i〛 
+
+    19. Launobertus 〚((h)or(deum)) [.?] ((semis)), (au(ena)) i〛 
+
+    20. [.?](|ald|) [.?] 
+
+    21. Baudouius 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    22. Chairolenus 〚((h)or(deum)) ((semis)), (au(ena)) i〛 
+
+    23. Agomaris 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    24. Launildis (au(ena)) i 
+
+    25. Audobertus 〚(tr(iticum)) ((semis)), ((h)or(deum)) ii〛 
+
+    26. Teodomarus 〚((h)or(deum)) ii (|s|) ((semis)), (au(ena)) i〛 
+
+    27. Bodolenus 〚((h)or(deum)) ii, (|s|) i [.?] ((semis))〛 
+
+    28. Bobolenus 〚((h)or(deum)) ii, (au(ena))  [.?] 〛 [.?]  
+
+    29. Dommoaldus ((h)or(deum)) ((semis)), (au(ena)) ((semis)) 
+
+    30. Iḷbodus ((h)or(deum)) ii, (tr(iticum)) ((semis)) 
+
+    31. Bertolenus ((h)or(deum)) i (s(emis)), (au(ena)) i 
+
+    32. Aigolenus ((h)or(deum)) ii, (au(ena)) i 
+
+    33. (|Audogisel|) (tr(iticum)) [.?], (au(ena)) [.?] 
+
+    34. (|Audolen|) ((h)or(deum)) ii 
+
+    35. (Col(onica)) Brocco 
+
+    36. Dominecus 〚((h)or(deum)) ((semis))〛 
+
+    37. Audenus ((h)or(deum)) [.?] 
+
+    38. [.?]dulfus ((h)or(deum)) ((quarsescium)) 
+
+    39. .1lin 
+=>=D><D=.XX,r,b<=
+
+    1. C̣(oḷ(onica)) [.?] 
+
+    2. Ạụrinus ((h)or(deum)) i, (au(ena)) [.?] 
+
+    3. Ụụịọddomaris 〚((h)or(deum)) i〛 
+
+    4. Leodobertus 〚((h)or(deum)) i〛 
+
+    5. [.?]releobus 〚((h)or(deum)) i〛 
+
+    6. (|Dommon|) (tr(iticum)) ((quarsescio)), (s(emis)) i, (au(ena)) [.?] 
+
+    7. h[.?]ius 〚((h)or(deum)) i, [.?] ((semis)), (au(ena)) i〛 
+
+    8. Arnobertus ((h)or(deum)) i 
+
+    9. (Col(onica)) Teociaco 
+
+    10. Audoramnus 〚((h)or(deum)) ii, (tr(iticum)) ((semis))〛 
+
+    11. Teodomarus 〚unigrania ((semis)), (|s|) ((semis)), ((h)or(deum)) i et ((semis)), (au(ena)) i〛 
+
+    12. Launomaris ((h)or(deum)) i et ((semis)) 
+
+    13. Launobodus 〚((h)or(deum)) ii〛 
+
+    14. Aigobertus 〚((h)or(deum)) ii, (au(ena)) i〛 
+
+    15. Eodomaris 〚(tr(iticum)) i, ((h)or(deum)) ii〛 
+
+    16. Eoffolenus ((h)or(deum)) i, (au(ena)) ((semis)) 
+
+    17. (Col(onica)) (it(em)) Pariaco 
+
+    18. Genbaudus ((h)or(deum)) i, (au(ena)) i 
+
+    19. Fredomaris ((h)or(deum)) ((quarsescium)) 
+
+    20. (|Daigisel|) ((h)or(deum)) i, (au(ena)) k 
+
+    21. Agnoaldus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    22. Leodoaldus 〚(tr(iticum)) ((semis)), (|s|) i, ((h)or(deum)) ii〛 
+
+    23. (|Leoden|) 〚(|s|) ((semis)), ((h)or(deum)) i〛 
+
+    24. Baudulfus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    25. Laibertus ((h)or(deum)) ((semis)), (au(ena)) i 
+
+    26. Ibbolenus ((h)or(deum)) i, (au(ena)) ((semis)) 
+
+    27. (|Baudighisel|) 〚((h)or(deum)) ((semis))〛 
+
+    28. Ailenus (|[s]|)[ ((semis)), ((h)or(deum)) i⟧ 
+
+    29. (Col(onica)) Uillalicimo 
+
+    30. Launomundus ((h)or(deum)) ((semis)), (au(ena)) ((semis)) 
+
+    31. Magnolena 〚((h)or(deum)) ((semis)), (au(ena)) ((semis))〛 
+
+    32. Domma 〚((h)or(deum)) ((semis))〛 
+
+    33. Baio 〚((h)or(deum)) ((semis))〛 
+
+    34. Bladenus ((h)or(deum)) ((semis)) 
+
+    35. Dommoaldus ((h)or(deum)) ((semis)), (au(ena)) i 
+
+    36. Domicianus 〚((h)or(deum)) ii〛 
+
+    37. (|Ḷeudochar|) 〚((h)or(deum)) ((semis))〛 
+]
+    38. [.?](|len|) ((h)or(deum)) i 
+
+    39. Leodịẹṛnus 〚((h)or(deum)) ((semis))〛 
+=>=D><D=.XX,r,c<=
+
+    1. .1lin 
+
+    2. Landoḅertus 〚((h)or(deum)) ((quarsescium))〛 
+
+    3. Landomaris 〚((h)or(deum)) ((semis))〛 
+
+    4. Ṭḥ[eu]ḍebaudus ((h)or(deum)) ((semis)) 
+
+    5. (C̣ọḷ(onica)) Castaudeno 
+
+    6. Lidibertus ((h)or(deum)) i 
+
+    7. (Col(onica)) Magnaco 
+
+    8. Laigobertus (tr(iticum)) ((semis)), ((h)or(deum)) i, (au(ena)) i 
+
+    9. (Col(onica)) Faeto 
+
+    10. (|Aigoḷ|) (au(ena)) i 
+
+    11. Lopicinus (tr(iticum)) ii, ((h)or(deum)) ii, (s(ecale)) i, (au(ena)) i 
+
+    12. (Daigobert(u)s) ((h)or(deum)) ((semis)), (au(ena)) i 
+
+    13. Teodulfus ((h)or(deum)) ((semis)), (au(ena)) ((semis)) 
+
+    14. hoc (s(unt?)) <:triticum|reg|tret:> (mod(ii)) xv ((et semis)) 
+
+    15. (sec(a)l(e)) (mod(ii)) vii, 
+
+    16. ((h)ord(eum)) (mod(ii)) cxviiii 
+
+    17. (auen(a)) (mod(ii)) xlvi 
+
+    18. fiunt simul (mod(ii)) clxxxi, 
+
+    19. cento <:octoginta|reg|octoaginta:> et (un(um)) 
+=>=D><D=.XX,r,b/c<=
+
+    1. ((Colonica)) Theuciaco 
+
+    2. (|Albert|) 〚((h)or(deum)) ((semis))〛 
+
+    3. (|Dagoald|) ((h)ọṛ(deum)) ((semis)) 
+=>=D><D=.XX,r,d<=
+
+    1. .1lin 
+
+    2. Ḷaunobertụṣ [.?] 
+
+    3. App 〚(au(ena)) i〛 
+
+    4. (Col(onica)) Ẹlandaco 
+
+    5. Dạịccoṃ〚 [.?] ii, ((h)or(deum)) i〛 
+
+    6. Chiddolenus 〚 [.?] i〛 
+
+    7. [Baiomaris ]〚[(s(ecale)) i, ((h)or(deum)) i] 
+
+    8. Baudogasius (s(ecale)) i, ((h)or(deum)) ((semis)) 
+
+    9. Sigobardus (s(ecale)) i 
+
+    10. (|Aigoramn|) ((h)or(deum)) i et ((semis)) 
+
+    11. Bertomaris (⟦s(ecale)) i, ((h)or(deum)) i〛 
+
+    12. <:Colonica|reg|coloneca:> Lucronno 
+
+    13. Uiuian (s(ecale)) i, (au(ena)) i 
+
+    14. Dulcis (s(ecale)) i, ((h)or(deum)) i 
+
+    15. Lopus (s(ecale)) i, ((h)or(deum)) i 
+
+    16. Agomaris (s(ecale)) i, ((h)or(deum)) ((semis)) 
+
+    17. <:Colonica|reg|coloneca:> (|Ạlteuern|) 
+
+    18. Chadobertus (s(ecale)) ii, (au(ena)) i 
+
+    19. (|Theodosind|) (s(ecale)) ii 
+
+    20. <:Colonica|reg|coloneca:> Carunciaco 
+
+    21. (|Genoalḍ|) [.?] (au(ena)) ((semis)) 
+
+    22. Guṇ[.?] ((semis)) 
+
+    23. Leudosindus 〚(tr(iticum)) ii, ((h)or(deum)) i, (au(ena)) i〛 
+
+    24. Audoberta 〚(s(ecale)) i, (au(ena)) i〛 
+
+    25. (|Audiern|) (s(ecale)) ((semis)) 
+
+    26. Theudecherius (s(ecale)) ii, ((h)or(deum)) iii 
+
+    27. (|Leudofred|) 〚(s(ecale)) ii〛
+
+    28. <:Colonica|reg|coloneca:> Gaiaco et Trelaciaco 
+
+    29. (|Authelm|) 〚de meta (|m|)(|d|) ii〛 
+
+    30. (it(em)) (|Authelm|) ((h)or(deum)) i 
+
+    31. Turpịṇ ((h)or(deum)) i 
+
+    32. Colonica Linariolas 
+
+    33. Genebodis ((h)or(deum)) i 
+
+    34. Ṛịgnobertus (s(ecale)) i, ((h)or(deum)) ii 
+
+    35. [.?](|m|) [.?] 
+=>=D><D=.XX,r,e<=
+
+    1. [.?] 〚(au(ena)) i〛 
+
+    2. Ẹṛṃẹḷẹṇụṣ 〚(au(ena)) ((semis))〛 
+
+    3. [.?]aldus 〚(s(ecale)) i〛 
+
+    4. [.?]bodus ((h)or(deum)) i, (au(ena)) i 
+
+    5. (|Ṣạṛạn|) 〚((h)or(deum)) ((semis)), (au(ena)) i〛 
+
+    6. Uuadosindus (au(ena)) ((semis)) 
+
+    7. (|Ẹ[.1]ụncell|) 〚(au(ena)) ii〛 
+
+    8. (|Chramnigisel|) [((h)or(deum)) ((quarsescium))⟧ 
+
+    9. Medrudis (s(ecale)) ii 
+
+    10. (Col(onica)) (it(em)) (|Ansion|) 
+
+    11. (|Dommolen|) ((h)or(deum)) ((semis)) 
+
+    12. Betto (s(ecale)) ii 
+
+    13. Adbertus (s(ecale)) ((quarsescium)) 
+
+    14. (Col(onica)) Uiuario 
+
+    15. Allo (s(ecale)) ((semis)) 
+
+    16. Daigomarus ((h)or(deum)) i, (au(ena)) i 
+
+    17. Alsindum (s(ecale)) ((quarsescium)) 
+
+    18. Aigomaris (s(ecale)) ((semis)), (au(ena)) i 
+
+    19. (Col(onica)) Monte Deoroaldo 
+
+    20. Alsindus 〚((h)or(deum)) i, (au(ena)) i〛 
+
+    21. Rigobertus 〚((h)or(deum)) i〛 
+]
+    22. Leodobertus 〚(s(ecale)) i, ((h)or(deum))  [.?] 〛 
+
+    23. (|Dummolen|) [.?] 
+
+    24. (Col(onica)) Uualle 
+
+    25. Bando[.?] 
+
+    26. (|Aeren|) (s(ecale)) [.?] 
+
+    27. Audoraṃ[.?] 
+
+    28. Audomaris [.?] 
+
+    29. (Col(onica)) Lanḍ[.?] 
+
+    30. (|Aeren|) 〚((h)or(deum))  [.?] 〛 [.?]  
+
+    31. Boba (s(ecale)) i, ((h)or(deum)) [.?] 
+
+    32. (|Leudobert|) [.?] 
+
+    33. Domṇ[.?] 
+
+    34. Auṣp̣[.?] 
+=>=D><D=.XX,v<=
+
+    1. breuis de Caniaco [.?]rti[.?]iaco in unum 
+=>=D><D=.XXI,a<=
+
+    1. [.?]tus [.?] ((h)or(deum)) i, (a(uena)) i 
+
+    2. [.?]bertus 〚(t(riticum)) ii, (a(uena)) ii〛 
+
+    3. [.?]ldis 〚(t(riticum)) iii, ((h)or(deum)) iiii, (a(uena)) i〛 
+
+    4. [.?](|ramn|) 〚(sec(a)l(e)) i, briscaria ii〛 
+
+    5. [.?](|ld|) 〚(t(riticum)) iii, ((h)or(deum)) i, auena ii〛 
+
+    6. [.?] 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    7.  [.?] 〚 [.?] (|d|) (t(riticum)) i, (sec(a)l(e)) ((semis)), ((h)or(deum)) ii〛 
+
+    8.  [.?] 〚 [.?]  (t(riticum)) i, ((h)or(deum)) ii, (au(ena)) ii〛 
+
+    9. [.?]ris 〚(t(riticum)) i, briscaria ii〛 
+
+    10. [.?](|n|) 〚(t(riticum)) i, (sec(a)l(e)) ii, (au(ena)) i〛 
+
+    11. [.?]usoleno 〚(t(riticum)) i, ((h)or(deum)) ii〛 
+
+    12. [.?] Antoniaco 
+
+    13. [.?](|on|) 〚(t(riticum)) ii, (sec(a)l(e)) i, ((h)or(deum)) i, (au(ena)) i〛 ((lignum debet)) 
+
+    14. [.?]naris 〚(t(riticum)) quarsescio, (a(uena)) i〛 
+
+    15. [.?](|ran|) 〚((h)or(deum)) i〛 ((debet)) 
+
+    16. [.?]us (sec(a)l(e)) ii 
+
+    17. [.?]cus (t(riticum)) i, ((h)or(deum)) ((semis)) 
+
+    18. [.?]cus (t(riticum)) i, ((h)or(deum)) i 
+
+    19. [.?] (sec(a)l(e)) [.?], (a(uena)) i 
+
+    20. [.?]s (t(riticum)) i, ((h)or(deum)) i 
+
+    21. .3lin
+
+    24. [.?]us 〚(sec(a)l(e)) i, ((h)or(deum)) i, (au(ena)) ii〛 
+
+    25. [.?]ere 〚(t(riticum)) ii, (a(uena))  [.?] 〛 [.?]  
+
+    26.  [.?] 〚 [.?]  (t(riticum)) i〛 
+
+    27.  [.?] 〚 [.?]  (t(riticum)) ii, ((h)or(deum)) [.?] 〛 ((lignum debet)) 
+
+    28. [.?](|n|) 〚(t(riticum)) i, ((h)or(deum)) i, (a(uena))  [.?] 〛 [.?]  
+
+    29. [.?](|len|) 〚(t(riticum)) ii, ((h)or(deum)) [.?] 〛 ((debet nihil)) 
+
+    30. [.?]adomaris 〚(t(riticum)) [.?], ((h)or(deum))〛 ((semis)) 
+
+    31. [.?](|ertolen|) [.?] (sec(a)l(e)) modio ((semis)), ((h)or(deum)) [.?] 
+
+    32. [.?]adobertus 〚(t(riticum)) i, (sec(ale)) i〛 
+
+    33. [.?](|ulen|) (t(riticum)) [.?], (au(ena)) i. 
+
+    34. [.?] ((semis)) 
+
+    35. [.?] (a(uena)) i 
+=>=D><D=.XXI,b<=
+
+    1. (|Ildoald|) [.?] ((h)or(deum)) i, (a(uena)) [.?] 
+
+    2. Claudius (t(riticum)) i, (a(uena)) i 
+
+    3. (|Alochin|) 〚(se(cale)) i〛 
+
+    4. Do[.?] briscaria ((semis)) 
+
+    5. (|Domesind|) (t(riticum)) i, (a(uena)) i 
+
+    6. Ando 〚(t(riticum)) i, (se(cale)) i, (a(uena)) i〛 
+
+    7. Leodobertus briscario ((semis)) 
+
+    8. Genoberto 〚(t(riticum)) i, (se(cale)) i, ((h)or(deum))  [.?] 〛 [.?] 
+
+    9. Sigomaris 〚(au(ena)) ((semis))〛 
+
+    10. (|Gunciolen|) 〚(t(riticum)) ((semis)), ((h)or(deum)) ((semis)), (a(uena)) i〛 
+
+    11. Dructomaris (t(riticum)) i, (se(cale)) i, briscaria i 
+
+    12. (|Sigyn|) (t(riticum)) i, (se(cale)) i, briscario i 
+
+    13. (|Leofred|) [.?] 
+
+    14. Uidomaris 〚briscario i〛 
+
+    15. Gundobertus 〚(t(riticum)) ii, (se(cale)) i, ((h)or(deum)) ii, (au(ena)) i〛 
+
+    16. Arnobertus 〚(t(riticum)) ii, (se(cale)) i, ((h)or(deum)) i, (au(ena)) i〛 
+
+    17. (|Bladosind|) 〚(se(cale)) i, briscario i〛 
+
+    18. (|Domician|) (t(riticum)) i, (se(cale)) i, briscaria ((semis)) 
+
+    19. Uinobodus 〚  [.?] 〛 [.?]  
+
+    20. Gallerianus  [.?] 〚 [.?]  i, (a(uena)) i〛 
+
+    21. (|Ṣiramn|) 〚 [.?] i, (a(uena)) i〛 
+
+    22. Audomaris (se(cale)) i, ((h)or(deum)) i, auena i 
+
+    23. sunt in (som(m)a) de tritico 
+
+    24. (m(odia)) cviii, 
+
+    25. de <:secale|reg|segale:> modia xxxxvii, 
+
+    26. de ((h)ordeo) modia lxxvi ((et semis)) 
+
+    27. de auena [.?] modia lxx 
+
+    28. Domus [.?]iaco 
+
+    29. [.?] (t(riticum)) ((semis)), (se(cale)) i 
+
+    30. Aṛmạ[.?] (se(cale)) ((semis)), ((h)or(deum)) i 
+
+    31. Auf[.?] i, (a(uena)) ((semis)) 
+
+    32. Aquila 〚(t(riticum)) ((semis)), (|spl|)  [.?] 〛 [.?]  
+
+    33. (|Laudoald|) 〚 [.?] ((semis)),
+
+    34. [.?] ((semis))〛 
+=>=D><D=.XXI,c<=
+
+    1. [.?] triti[.?] 
+
+    2. xxi ((et semis)) 
+
+    3. ịṇter ((h)ordeo) et auena sunt 
+
+    4. modia [.?] xii 
+=>=D><D=.XXII,a<=
+
+    1. M[.?]se[.?] ((h)ord(eum)) i 
+
+    2. [.?]e[.?] ((h)ọṛd(eum)) ii, (se(cale)) [.?], (au(ena)) ị 
+
+    3. [.?]i, ((h)ord(eum)) ii, (au(ena)) [.?] 
+
+    4. [.?] ((h)ord(eum)) iii, (au(ena)) i
+
+    5. [.?] (tri(ticum)) i, (se(cale)) i, ((h)oṛḍ(eum)) [.?] 
+
+    6. [.?]s (tri(ticum)) i, ((h)ord(eum)) ii, (au(ena)) i 
+
+    7. Aud[.?] (tri(ticum)) i, ((h)ord(eum)) iii, (au(ena)) i 
+
+    8. Fr[.?] ((semis)) 
+
+    9. M[.?] ((h)ord(eum)) ii[.?], (se(cale)) ((semis)) 
+
+    10. Audenus (tri(ticum)) i, ((h)ord(eum)) ii, (au(ena)) i, (se(cale)) [.?] 
+
+    11. Laudolfus ((h)ord(eum)) [.?], (se(cale)) iii 
+
+    12. Domin[.?] ((h)ord(eum)) [.?] ((semis)) 
+
+    13. A[.?] 
+
+    14. Tṛ[.?]d[.?] 
+
+    15. Ṃ[.?] 
+
+    16. Arnoaldus ((h)ord(eum)) i, (se(cale)) ((semis)) 
+
+    17. Rigobodis (tri(ticum)) i, ((h)ord(eum)) ii, (au(ena)) i
+
+    18. Alsendus (tri(ticum)) ((semis)) ((h)ord(eum)), (se(cale)) ((semis)) 
+
+    19. Bertoramnus ((h)ord(eum)) i 
+
+    20. Launobertus ((h)ord(eum)) i 
+
+    21. Meroaldus ((h)ord(eum)) ii 
+
+    22. Teudọ[.?]dus ((h)ord(eum)) i 
+
+    23. Leudorannus (tri(ticum)) i, (sec(ale)) i, ((h)ord(eum)) i 
+
+    24. Audoramnus (tri(ticum)) i, ((h)ord(eum)) i 
+
+    25. <:Derocharcharius|reg|deṛọcharcharius:> 
+
+    26. <:Deoroaldus|reg|deọṛọaldus:> (tri(ticum)) ii 
+
+    27. <:Leudobertus|reg|leudobertus:> (tri(ticum)) i 
+
+    28. Beroaldus (tri(ticum)) i[.?] 
+
+    29. Baumares ((h)ọrd(eum)) i, (au(ena)) [.?] 
+
+    30. Augenus [.?] ((h)ọrd(eum)) [.?] 
+
+    31. [.?]ber[.?] 
+=>=D><D=.XXII,b<=
+
+    1. .12lin 
+=>=D><D=.XXIII<=
+
+    1. Audo[.?] 
+
+    2. Leudob[.?] 
+
+    3. Theudoṣ[.?] 
+
+    4. Arifre[.?] 
+
+    5. Auen[.?] 
+
+    6. Leudoṣ[.?] 
+
+    7. Eudol[.?] 
+
+    8. Eugen[.?] 
+
+    9. Audosiṇ[.?] 
+
+    10. Audoṛ[.?] 
+
+    11. Leudos[.?] 
+
+    12. Dadob[.?] 
+
+    13. Aus[.1]t[.?] 
+
+    14. Theudom[.?] 
+
+    15. Fredolẹ[.?] 
+
+    16. Lidomun[.?] 
+
+    17. Bonomi[.?] 
+
+    18. Sismunḍ[.?] 
+
+    19. Domon[.?] 
+
+    20. Ermoa[.?] 
+
+    21. .1lin 
+=>=D><D=.XXIV,a<=
+
+    1. [.?] ((h)or(deum)) i 
+
+    2. .1lin 
+=>=D><D=.XXIV,b<=
+
+    1. Baudosindus 〚(t(riticum)) i [.?] 〛 [.?]  
+
+    2. Fraudobertus 〚(t(riticum)) i〛 
+
+    3. .1lin 
+=>=D><D=.XXIV,c<=
+
+    1. .1lin 
+
+    2. Arnulfus (t(riticum)) iiii, ((h)or(deum)) i, (au(ena)) ii 
+
+    3. .1lin 
+=>=D><D=.XXIV,d<=
+
+    1. .1lin 
+
+    2. Ragnobertus 〚(t(riticum)) <:semis|reg|sim:> 〛 
+
+    3. [.?]bertus 
+=>=D><D=.XXV<=
+
+    1. Ṣaḷuio (t(riticum)) (s(emis)) 
+
+    2. Beremund[.?] 
+
+    3. Beṭṭo [.?]
+
+    4. Antonius [.?] 
+
+    5. Theodil[.?] 
+
+    6. [.?]s[.?] 
+=>=D><D=.XXVI<=
+
+    1. .1lin
+
+    2.  [.?] 〚 [.?] (|l|) (m(odius)) i, (au(ena))  [.?] 〛 [.?]  
+
+    3.  [.?] 〚 [.?] (|cl|) (m(odius)) i, (au(ena)) [.?] 〛 [.?]
+
+    4. [.?] 〚 [.?] (|l|) (m(odius)) i, (au(ena)) [.?] 〛 [.?]
+
+    5. [.?] 〚 [.?] (|cl|) (m(odius)) i〛
+
+    6. [.?] 〚 [.?] i〛 
+
+    7. [.?] 〚 [.?] (tr(iticum)) ((semis)), ((h)or(deum)) ((semis))〛 
+
+    8. [.?] 〚 [.?] i〛 
+
+    9. .2lin
+
+    11. [.?] 〚 [.?] (m(odius)) i〛 
+
+    12. .1lin 
+
+    13. [.?] 〚 [.?] ((semis))〛 =>=D>

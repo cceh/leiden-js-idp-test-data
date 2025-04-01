@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              To Stephanus from Hephaestion. On receipt of the letter from my son Theon put off everything and come at once to me at the village because of what has happened to me. If you neglect this, as the gods have not spared me so will I not spare the gods. Good-bye.
+            =>
+         =T>
+      

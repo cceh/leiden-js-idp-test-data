@@ -1,0 +1,24 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            ... <milestone unit="line" n="1"/>[und die (?)] <term target="grammateusmetropoleos">Schreiber [der 
+                Metropole]</term>
+            <milestone unit="line" n="2" rend="break"/>von Koprei[a], Tochter des [Ha]três, [des Sohnes des N.N., und Tochter der 
+            – – –]ion, aus dem <term target="amphodon">Viertel</term> [...], 
+            <term target="choriskuriou" xml:lang="la">die [das Rechtsgeschäft nach] Gewohnheit der Römer [aufgrund des 
+                <foreign xml:lang="la">ius liberorum</foreign>] ohne Vormund [vornimmt]</term>. 
+            <milestone unit="line" n="6"/>Ich melde meine Tochter [mit meinem ehemaligen] Ehemann Aur[elius N.N.], 
+            Freigelassener des/der A[...] <milestone unit="line" n="10"/>und Artemidôr[...], der Tochter [...] der 
+            Ar[...] Tasû[chari][...] und Sa[...] – – –
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            – – – [– – –and the (?)] <milestone unit="line" n="1"/><term target="grammateusmetropoleos">scribes of the 
+                metropolis</term>
+            <milestone unit="line" n="2" rend="break"/>from Kopreia, daughter of Hatres, [son of NN, mother – – –]lion, from the 
+            <term target="amphodon">quarter</term> [...] <term target="choriskuriou" xml:lang="la">acting without a guardian according 
+                to the customs of the Romans by the 
+                <foreign xml:lang="la">ius liberorum</foreign></term>. <milestone unit="line" n="6"/>I register my 
+            daughter born to me and my one time husband Aurelius [...] freedman of A[...] 
+            <milestone unit="line" n="10"/>and Artemidor[...], daughter [...] of Ar[...] Tasouch[ari– – –] and 
+            Sa[...]
+        </p></div>
+      </body>

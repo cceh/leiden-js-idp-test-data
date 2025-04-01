@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Gaius Arrius Priscus, chief of police, from Anchorimphis son of Anchorimphis, of Euhemeria in the division of Themistes, farmer on the Germanician estate of Tiberius Caesar Augustus. On the 6th of the present month Pharmouthi of the 20th year of Tiberius Caesar Augustus a brood-sow about to litter, tawny-coloured, worth 12 drachmae, was thievishly stolen from me in the village by certain individuals. Wherefore I beg you to write that inquiry may be made into the matter. Farewell.’
+            =>
+         =T>
+      

@@ -1,0 +1,21 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="i" subtype="column" type="textpart">
+               <p>
+<milestone unit="line" n="1" rend="break"/> Chorion of Pyrgos: of 30 nom., 28 nom. 1 kar. [paid]
+<milestone unit="line" n="2" rend="break"/> Chorion of Pois: of 40 nom.	<gap reason="lost" extent="unknown" unit="character"/>
+<milestone unit="line" n="3" rend="break"/> Chorion of Poimenes (Shepherds): of 50 nom., 46 nom. 15 kar. [paid]
+<milestone unit="line" n="4" rend="break"/> Chorion of Sitheus	: of 15 nom., 11 nom. [paid]
+               </p>
+            </div>
+            <div n="ii" subtype="column" type="textpart">
+               <p>
+<milestone unit="line" n="5" rend="break"/> Chorion of Peempibykis: of [ ? nom.] [...]
+<milestone unit="line" n="6" rend="break"/> Chorion of P.rch( ) of Machor: of [ ? nom.] [...]
+<milestone unit="line" n="7" rend="break"/> Chorion of Pedion: of [ ? nom.] [...]
+<milestone unit="line" n="8" rend="break"/> Chorion of Sasos: [...] 
+<milestone unit="line" n="9" rend="break"/>  Chorion of Sorbthis (?) [...] 
+               </p>
+            </div>
+         </div>
+      </body>

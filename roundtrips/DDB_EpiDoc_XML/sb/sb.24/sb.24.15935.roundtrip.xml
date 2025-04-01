@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><handShift new="m2"/><num value="132">ρλβ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><handShift new="m1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <num value="3000">Γ</num> σὺν τοῖς οὖσι <abbr>κ<unclear>α</unclear>τας</abbr> <expan>ὑδρ<ex>αγωγοῖς</ex></expan> καὶ <expan>δ<supplied reason="lost">ιώ<ex>ρυξιν</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> καὶ ὁδὸς ἄγουσα εἰς <choice><reg>Πηλούσιον</reg><orig>Πηλοῦσιν</orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan>διῶ<ex>ρυξ</ex></expan> Ἀστερο<unclear>θί</unclear>ου <expan>λεγομ<ex>ένη</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><handShift new="m3"/><expan>ἐπίσκ<ex>εψις</ex></expan> <expan>νειλοβ<ex>ρόχου</ex></expan> <unclear>π</unclear> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan><ex>ἄρουραι</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πέν</supplied>
+
+    <lb n="6" break="no"/>τε <num value="5"/> ἀσπόρου <expan><ex>ἄρουραι</ex></expan> τε<unclear>ς</unclear><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀβρό</supplied>
+
+    <lb n="7" break="no"/>χου αἱ λοιπαί. <handShift new="m4"/><expan><ex>δραχμαὶ</ex></expan> <num value="5068"><unclear>Ε</unclear>ξ<unclear>η</unclear></num> <gap reason="lost" extent="unknown" unit="character"/></ab></div>

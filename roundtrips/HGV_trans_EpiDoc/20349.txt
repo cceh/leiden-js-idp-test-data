@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              Papnoutis to his brother Dracon, greeting. Pay to Papnoutius, the assistant of the strategus, from the money which you owe me for the price of a hide seven hundred and fifty myriads of denarii of silver, total 750 myriads of denarii, and no more. /*Date and signature.*/
+            =>
+         =T>
+      

@@ -1,0 +1,49 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><unclear>τ</unclear><gap reason="lost" quantity="4" unit="character"/><unclear>ρ</unclear><gap reason="lost" quantity="1" unit="character"/>σεν καὶ τι<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀν</supplied>
+
+    <lb n="2" break="no"/>τὶ τῶν <choice><reg>τούτων</reg><orig>τούτον</orig></choice> <choice><reg>τόκων</reg><orig>τόκον</orig></choice> συν<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐνοικεῖν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>κλατον καὶ τ<unclear>οὺ</unclear>ς παρʼ αὐτοῦ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀπὸ τοῦ προκειμένου</supplied> 
+
+    <lb n="4"/>χρόνου ἐν τῷ <choice><reg>σημαινομέ<supplied reason="lost">νῳ</supplied></reg><orig>σημενωμέ<supplied reason="lost">νῳ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"> μέρει οἰκίας </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ</supplied> 
+
+    <lb n="5"/>αὐλῇ καὶ μετὰ τὸν χρόν<supplied reason="lost">ον </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τὰς τοῦ</supplied> 
+
+    <lb n="6"/>ἀργυρίου δ<supplied reason="lost">ρα</supplied>χμὰς ὀγ<unclear>δ</unclear><supplied reason="lost">οήκοντα τέσσαρας <num value="84"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>μεν τὴν ἐνοίκησιν <choice><reg>καθὼς</reg><orig>καθὸς</orig></choice> π<supplied reason="lost">ρόκειται. ἔγραψεν ὑπὲρ αὐτῶν</supplied> 
+
+
+    <lb n="8"/>Μαρεψῆμις <choice><reg>Μαρεψήμιος</reg><orig>Μαρεψῆμις</orig></choice> <unclear>λ</unclear><supplied reason="lost">εσώνου διὰ τὸ τὸν μὲν</supplied> 
+
+    <lb n="9"/><subst><add place="inline">Ψενκῆβκ<unclear>ιν</unclear></add><del rend="corrected">ηενκηβκ<unclear>ιν</unclear><certainty match=".." locus="value"/></del></subst> Αἰγύπτια γ<unclear>ρ</unclear><supplied reason="lost">άφειν, τὸν δὲ ἄλλον μὴ εἰδέναι</supplied> 
+
+    <lb n="10"/>γράμματα. 
+
+    <lb n="10"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/><handShift new="m3"/> <choice><reg>Γαίου</reg><orig>Γαείου</orig></choice> <choice><reg>Ἰουλίου</reg><orig>Εἰουλείο<unclear>υ</unclear></orig></choice> <supplied reason="lost">Φούσκου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/>κησιος ἀργυρίου <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> δραχμὰς ὀγδοή</supplied>
+
+    <lb n="13" break="no"/>κοντα <choice><reg>τέσσαρας</reg><orig>τέσσαρος</orig></choice> <num value="84"/> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="14"/><handShift new="m4"/> ἔτους <num value="7">ζ</num> <supplied reason="lost">Τιβ</supplied><unclear>ε</unclear>ρίου Καίσαρ<supplied reason="lost">ος Σεβαστοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">, ἀναγέγραπται διὰ</supplied> 
+
+    <lb n="15"/>Ἀπίωνος <expan>νομογράφ<ex>ου</ex></expan> Τεβ<supplied reason="lost">τύνεως </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="16"/><handShift new="m5"/> Γάιος Ἰούλιος Φοῦσκος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="17"/>ἀναδέδωκα τὸ δάνειον <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="18"/>καὶ ἀθέτησιν καὶ <supplied reason="lost">ο</supplied>ὐδὲν <supplied reason="lost">ἐνκαλῶ καθότι πρόκειται. <expan><ex>ἔτους</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> Τιβερίου Καίσαρος</supplied> 
+
+    <lb n="19"/>Σεβαστοῦ Τῦβι <num value="28">κη</num> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="20"/>δάνεια <num value="2"><unclear>β</unclear></num> <gap reason="illegible" quantity="1" unit="character"/><unclear>τι</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="21" rend="perpendicular"/> <foreign xml:lang="la">enegoisis <g type="middot"/> Psengebgis <g type="middot"/> ke Marheus  </foreign></ab></div></div>

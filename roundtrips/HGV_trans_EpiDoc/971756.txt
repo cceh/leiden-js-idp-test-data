@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    To Egypt (...) of the archers.
+                =>
+            =T>
+        

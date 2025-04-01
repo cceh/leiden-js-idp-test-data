@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> Ἰωάννῃ οἰνοπαρ<supplied reason="lost" cert="low">αλήμπτῃ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>δέκα <num value="10"/> <expan>κνίδ<ex>ια</ex></expan> οἴν<supplied reason="lost">ου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>δεκάτης <expan>ἰν<ex>δικτίονος</ex></expan> παρά<supplied reason="lost">σχου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>Λεοντᾷ καὶ <expan>ὁ<ex>μοίως</ex></expan> χ<unclear>ρ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>Φαμενὼθ <num value="23">κγ</num>  <num value="10">ι</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> <handShift new="m2"/> σεσημείωμαι </supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> δέ</supplied>
+
+    <lb n="6" break="no"/>κα <num value="10"/> <choice><reg>κνίδια</reg><orig>κνήδια</orig></choice> πυρά <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>

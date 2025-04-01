@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><num value="26" rend="tick">κϛ</num> <add place="above"><expan><unclear>Φα</unclear>με<ex>νὼθ</ex></expan></add> τοῖς κτῆσι
+<lb n="2"/><expan><unclear>χόρ</unclear>τ<ex>ου</ex></expan> <expan>δέσμ<ex>ας</ex></expan> <num value="5">ε</num> καὶ τῷ
+<lb n="3"/>υἱῷ Σαβείνῳ <expan>δέσμ<ex>ας</ex></expan> <num value="3">γ</num>
+<lb n="4"/><choice><reg><unclear>σ</unclear>εσ<unclear>η</unclear>μείωμαι</reg><orig><unclear>σ</unclear>εσ<unclear>η</unclear>μίωμαι</orig></choice>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> τοῖς κτῆσι
+<lb n="5"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

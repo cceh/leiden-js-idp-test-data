@@ -1,0 +1,61 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r,1" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ου
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἐπιμε</supplied><unclear>λ</unclear>ητῶν
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ δεσπότου ἡμῶν Ἰουλιανοῦ</supplied> <unclear>α</unclear>ἰωνίου
+
+    <lb n="4"/><supplied reason="lost">Αὐγούστου </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ε</supplied>ὐτυχοῦς
+
+    <lb n="5"/><gap reason="lost" atLeast="1" atMost="2" unit="character"/><supplied reason="lost"> ἰνδικτίονος </supplied><gap reason="lost" extent="unknown" unit="character"/> <unclear>ω</unclear>
+
+    <lb n="6"/> <gap reason="lost" extent="unknown" unit="character"/> <abbr><supplied reason="lost">λ</supplied>αμ</abbr>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">παρα</supplied>δόσεως</reg><orig><supplied reason="lost">παρα</supplied><unclear>δώσ</unclear>εως</orig></choice>
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="r,2" type="textpart"><ab>
+
+    <lb n="1"/><handShift new="m2"/>ἔστι δέ·
+
+    <lb n="2"/>σίτου ὑποστάσεως ἐπὶ τὸ αὐτὸ <expan>ἀ<ex>ρτάβαι</ex></expan> <num value="3650"><unclear>Γ</unclear>χν</num>
+
+    <lb n="3"/>οὕτως·
+
+    <lb n="4"/><num value="7">ζ</num> ἰνδικτίονος
+
+    <lb n="5"/><expan>πολ<ex>ιτῶν</ex></expan>
+
+    <lb n="6"/>Γερόντιος Παιανίου <expan><ex>ἀρτάβαι</ex></expan> <num value="531">φλα</num>
+
+    <lb n="7"/>Διονύσιος ἀπὸ <expan>β<ex>ενε</ex>φ<ex>ικιαρίων</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num>
+
+    <lb n="8"/>Πτολεμαῖος Κολλούθου <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num>
+
+    <lb n="9"/><expan>θησ<ex>αυροῦ</ex></expan> <expan>Κευώθ<ex>εως</ex></expan> <unclear>Σ</unclear>ευήρου Τούρβωνος απ<gap reason="illegible" quantity="2" unit="character"/>
+
+    <lb n="10"/><expan>δι<ex>ὰ</ex></expan> Φιλονίκου Ζωΐλου <expan>ἀ<ex>ρτάβαι</ex></expan> <num value="7">ζ</num>
+
+    <lb n="11"/><expan>κωμητ<ex>ῶν</ex></expan>
+
+    <lb n="12"/><num value="7">ζ</num> πάγου Σεφὼ
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan>δι<ex>ὰ</ex></expan> Παύλου <choice><reg>Ἀμάϊτος</reg><orig>Ἀμαεϊτος</orig></choice> <expan><ex>ἀρτάβαι</ex></expan> <num value="3108"><unclear>Γρ</unclear><supplied reason="lost">η</supplied></num>
+
+    <lb n="14"/><num value="6">ϛ</num> <expan>ἰνδικ<ex>τίονος</ex></expan>
+
+    <lb n="15"/><expan>πολ<ex>ιτῶν</ex></expan> Γερόντιος Παιανίου <expan>ἀ<ex>ρτάβαι</ex></expan> <num value="100">ρ</num>
+
+    <lb n="16"/><expan><ex>γίνονται</ex></expan> <unclear>ὁ</unclear>μοῦ <choice><reg><expan>χειρ<ex>ιστικῷ</ex></expan></reg><orig><expan>χιρ<ex>ιστικῷ</ex></expan></orig></choice> αἱ <expan>π<ex>ροκείμεναι</ex></expan>
+
+    <lb n="17"/><choice><reg>ὑπατείας</reg><orig>ὑπατίας</orig></choice> τῆς <expan>προκ<ex>ειμένης</ex></expan>, Μεσορὴ <gap reason="illegible" quantity="2" unit="character"/>.
+<milestone rend="paragraphos" unit="undefined"/></ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><handShift new="m3"/><expan>κ<unclear>ωμ</unclear><ex>ητῶν</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="3750">Γψν</num>
+
+    <lb n="2" rend="perpendicular"/><handShift new="m2"/><app type="alternative"><lem>Ἰωσήπου</lem><rdg>Ἰωσῆ τοῦ</rdg></app> Τιμοθέου</ab></div></div>

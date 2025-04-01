@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><del rend="cross-strokes"> Μεχὶρ <num value="2">β</num> σίτο
+
+    <lb n="2" break="no"/>υ <choice><reg>πέμπτης</reg><orig>πέντης</orig></choice> <expan>ἰνδικ<ex>τίονος</ex></expan> 
+
+    <lb n="3"/><choice><reg>Καρανίδος</reg><orig>Καρανίδως</orig></choice> Μέλας 
+
+    <lb n="4"/>Σερηνᾶ σὺν <choice><reg>εἰκοσ<lb n="5" break="no"/>τῇ</reg><orig>ἰκωσ<lb n="5" break="no"/>της</orig></choice> <expan>κ<ex>αὶ</ex></expan> <choice><reg>ναύλῳ</reg><orig>ναυλων</orig></choice> <choice><reg cert="low">πλοίου</reg><orig>πλυ</orig></choice> 
+
+    <lb n="6"/><expan>ἀρ<ex>τάβης</ex></expan> <choice><reg>ἕκτον</reg><orig><subst><add place="inline">ἑκτων</add><del rend="corrected">εκταν</del></subst></orig></choice>, <expan>γ<ex>ίνεται</ex></expan> <num value="1/6" rend="tick">ϛ</num>. 
+</del>
+    <lb n="7" rend="perpendicular"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied>ης <num value="11">ια</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8" rend="perpendicular"/> <gap reason="lost" extent="unknown" unit="character"/> τῆς <num value="5">ε</num> <expan>ἰνδικ<ex>τίονος</ex></expan> 
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

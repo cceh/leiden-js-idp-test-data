@@ -1,0 +1,12 @@
+
+            <T=.en
+               <=
+                   ((1))Moenatides to Merula, strategus of the Hermopolite nome, greeting. I have sent you a duplicate of 
+the petition presented to me by Hermodorus son of Cornelius, with my signature, together with the documents 
+brought to me by the secretaries, in order that, if the debts are paid, the ensuing remission of the lands 
+be effected, but only if nothing is still due to the Treasury. ((7))I write this as the deputy of the most high 
+Proculus in his visit to Egypt. I pray for your health. ((9))Date.
+/*Translation: P.Ryl. 2 83 V*/
+               =>
+            =T>
+        

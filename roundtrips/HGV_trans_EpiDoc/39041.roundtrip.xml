@@ -1,0 +1,24 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve">
+            <div n="r" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> Liste von Lieferungen an die Küche des famosissimus Saralaneozan, unseres Herrn.
+                <milestone unit="line" n="2" rend="break"/> Wie folgt:
+                <milestone unit="line" n="3" rend="break"/> Am 1. Tag: Weinessig sirota 5, Garum knidion 1, Schaf 1, Lamm 1, Schwein/Ferkel 1, Hühner 2, Tauben 6, Eier 20.
+                <milestone unit="line" n="4" rend="break"/> Am 2. Tag: Weinessig kollatha 11, Schaf 1, Schwein/Ferkel 1, Ferkel/Schwein 2, Hühner 2, Tauben 4.
+                <milestone unit="line" n="5" rend="break"/> Am 3. Tag: Weinessig kollatha 9, Schaf 1, Schwein/Ferkel 1, Hühner 3, Tauben 6, Kamel 1, Eier 27.
+                <milestone unit="line" n="6" rend="break"/> Am selben Tag: Ferkel/Schwein 3, Esel 1.
+                <milestone unit="line" n="7" rend="break"/> Dem Kitharaspieler durch Narses: Schaf 1.
+                <milestone unit="line" n="8" rend="break"/> Am 4. Tag: Schaf 1, Lamm 1, Schwein/Ferkel 1, Hühner 2, Tauben 6.
+                <milestone unit="line" n="9" rend="break"/> Sabur: Eier 12.
+              <milestone unit="line" n="10" rend="break"/> Chorochosro: Weinessig lagynion 1, Eier 15.
+               </p>
+            </div>
+            <div n="v" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> Liste über Ausgaben […].
+                         <note>Translation: P. Sänger – D. Weber, APF 58 (2012) 87</note>
+               </p>
+            </div>
+         </div>
+      </body>

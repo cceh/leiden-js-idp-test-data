@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Ασ <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="2"/>Τι <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="3"/><gap reason="illegible" quantity="1" unit="character"/>διαγ <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><abbr>δραχμ</abbr> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><num value="4">τετρώβολον</num>. Παῦ<supplied reason="lost">νι</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <expan><ex cert="low">γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>
+<lb n="7"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

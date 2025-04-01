@@ -1,0 +1,59 @@
+<S=.grc
+<D=.r
+<D=.1.part<=
+1. *stauros* μέ̣ρ̣ο̣υ̣ς̣ Αβδελλα̣ .3σ.1δ
+
+2. vac.? ἐ̣λ̣αίου (ἰ(ν)δ̣(ικτίωνος)) <#ι̣β̣=12#> ἐ̣λ̣[αί]ο̣υ̣ (ἰ(ν)δ̣(ικτίωνος)) <#ι̣γ̣=13#> ἐλαίου (ἰ(ν)δ̣(ικτίωνος)) <#ιδ=14#> ἐλαίου (ἰ(ν)δ̣(ικτίωνος)) <#ιε̣=15#>
+
+3. (χωρ(ίον)) Ἀφανίου (μέ(τρα)) ((ξέσται)) (μέ(τρα)) ((ξέσται)) (μέ(τρα)) ((ξέσται)) (μέ(τρα)) ((ξέσται))
+
+4. (χωρ(ίον)) Ἀρματούρ̣ης̣ <#ε̣=5#> <#ϛ=6#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke?**slanting-stroke?*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+5. (χωρ(ίον)) Ετη̣ρ <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> 
+
+6. (χωρ(ίον)) Θεαγενί̣δ̣ος <#*slanting-stroke**slanting-stroke*=0#> <#θ̣=9#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> 
+
+7. (χωρ(ίον)) (Θεαξενίδ(ος)) (κώ(μης)) <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> 
+
+8. (χωρ(ίον)) (Θεαξενίδ(ος)) (οὐσία(ς)) <#*slanting-stroke**slanting-stroke*=0#> <#ε=5#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+9. (χ̣ω̣ρ̣(ίον)) Ἰβιῶνος <#*slanting-stroke?**slanting-stroke?*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+10. (χ̣ω̣ρ̣(ίον)) (Κ̣ε̣ρ̣κεσίφε(ως)) <#ιϛ=16#> <#ϛ=6#> <#𐅵=1/2#> <#*slanting-stroke?**slanting-stroke?*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke?**slanting-stroke?*=0#> <#*slanting-stroke?**slanting-stroke?*=0#>
+
+11. (χ̣ω̣ρ̣(ίον)) (Ναρμούθε(ως)) <#ϙε=95#> <#δ=4#> <#𐅵=1/2#> <#δ '=1/4#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+12. (χ̣ωρ(ίον)) Τεπτύν̣εως <#ρια=111#> <#*slanting-stroke**slanting-stroke*=0#> <#ζ=7#> <#θ=9#> <#𐅵=1/2#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+13. (χωρ(ίον)) Τ̣αλι <#*slanting-stroke?**slanting-stroke?*=0#> <#α=1#> <#𐅵=1/2#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+14. (χωρ̣(ίον)) (Κ̣ερκ(εσού)χ(ων)) Ὄρο̣υ̣ς <#*slanting-stroke?**slanting-stroke?*=0#> <#*slanting-stroke?**slanting-stroke?*=0#> <#α=1#> <#α=1#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+15. <:Ἰωάννου|reg|Ἰωάνου:> Λαήου ἀπὸ (χ(ωρίου)) (Κερκ(ε)θ(οήρεως)) <#*slanting-stroke?**slanting-stroke?*=0#> <#*slanting-stroke?**slanting-stroke?*=0#> <#β̣=2#> <#β=2#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+16. Π̣ε̣κ̣υσίου Ἀσῆφ ἀπὸ (Θεαγενίδ(ος)) <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#κβ=22#> <#ϛ=6#> <#𐅵=1/2#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+
+17. vac.? (μ̣έ(τρα)) <#σκζ=227#> ((ξέσται)) <#λ̣β̣=32#> <#𐅵=1/2#> <#δ '=1/4#> (μ̣έ(τρα)) <#λβ=32#> ((ξέσται)) <#ι̣θ=19#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#>
+=>=D>
+<D=.2.part<=
+18. vac.? ἐ̣λ̣[α]ί̣[ου] (ἰ(ν)δ(ικτίωνος)) <#ιβ̣=12#> [ἐλα]ί̣[ου] (ἰ̣(ν)δ(ικτίωνος)) <#ιγ̣=13#> [ἐ]λ̣[α]ί̣[ου] (ἰ̣[(ν)δ(ικτίωνος)]) <#ιδ=14#> [ἐλα]ί̣[ου] (ἰ(ν)δ(ικτίωνος)) <#ιε=15#>
+
+19. Ἀπολλῶ Κο[.2-3] ἀπὸ (χ(ωρίου)) (Θεαξε(νίδος)) (κώ(μης)) (μέ(τρα)) ((ξέσται)) (μέ(τρα)) <#ϛ=6#> ((ξέσται)) <#δ=4#> (μέ(τρα)) ((ξέσται)) (μέ(τρα)) [((ξέσται))] [.?]
+
+20. Κωρ.1[.2-3] ἀ̣π̣ὸ̣ [(χ(ωρίου))] (Τεπτύνε(ως)) <#*slanting-stroke**slanting-stroke*=0#> [<#*slanting-stroke**slanting-stroke*=0#>] <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#β=2#> <#𐅵=1/2#> [.?]
+
+21. (χ(ωρίον)) Τρ̣ι̣[σ]τ̣ό̣μ̣μο[υ] .1[.?] <#λ̣=30#> [<#*slanting-stroke**slanting-stroke*=0#>] <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> [.?]
+
+22. vac.? ((γίνεται)) (μέ(τρα)) <#λ̣=30#> (ξ̣(έσται)) [<#*slanting-stroke**slanting-stroke*=0#>] <#ϛ=6#> <#δ=4#> <#β=2#> <#𐅵=1/2#> [.?]
+
+23. vac.? <#σκ̣ζ=227#> <#λ̣β=32#> <#𐅵=1/2#> <#δ̣ '=1/4#> <#λβ̣=32#> <#ι̣θ=19#> <#*slanting-stroke**slanting-stroke*=0#> <#*slanting-stroke**slanting-stroke*=0#> [.?]
+
+24. vac.? (μέ(τρα)) <#σξδ=264#> ((ξέσται)) <#[λ]β̣=32#> <#𐅵=1/2#> <#δ̣´=1/4#> <#λη=38#> <#κ̣γ=23#> <#β=2#> <#𐅵=1/2#> <#*slanting-stroke**slanting-stroke*=0#> [.?]
+=>=D>
+=D>
+<D=.v<=
+25. $m2(?) *stauros?* (μέρου(ς)) Αβδελλα̣ .3σ.1δ vac.? (λ(ό)γ̣(ῳ)) ἐλαίου (ἰ(ν)δ(ικτιώνων)) <#ιβ̣=12#> ((καὶ)) <#ιγ̣=13#> ((καὶ)) <#ιδ=14#> ((καὶ)) <#ιε=15#>.
+=>=D>
+
+
+      

@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Ἀντώνιος ονγί<supplied reason="lost">νῳ τῷ ἀδ</supplied>ελ
+<lb n="2" break="no"/>φῶι πλεῖστα <supplied reason="lost">χαί</supplied>ρε<supplied reason="lost">ιν· κόμισ</supplied><unclear>α</unclear>ι
+<lb n="3"/>παρὰ Ἰουλίου <gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="7" unit="character"/>α
+<lb n="4"/>πρόβατα <gap reason="illegible" quantity="3" unit="character"/>ου<gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>π</unclear>α
+<lb n="5"/>ρὰ σοὶ <gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><app type="alternative"><lem><gap reason="lost" quantity="9" unit="character"/>ονοι</lem><rdg><gap reason="lost" quantity="9" unit="character"/> ὄνοι<certainty match=".." locus="value"/></rdg></app>
+<lb n="6"/><gap reason="ellipsis" quantity="14" unit="line" precision="low"><desc>non transcribed</desc></gap>
+</ab>
+      </div>

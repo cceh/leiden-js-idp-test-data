@@ -1,0 +1,19 @@
+
+         <T=.en
+            <D=.r,ctr 
+               <=
+                  ((1)) ‘Ulpius Celer to Hermeros, greeting. Allow me, sir, to commend to your notice … on, a slave of our lord the Emperor, a member of my household and esteemed by me. He is most deserving of advancement and of your favour, and I do not disguise that any service you can render him in his career will be most welcome to me. Farewell.
+               =>
+            =D>
+            <D=.r,ms 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((13)) To Claudius Hermeros, son of Titus, imperial procurator. (2nd h.) Given at Panopolis by me Celer….’
+               =>
+            =D>
+         =T>
+      

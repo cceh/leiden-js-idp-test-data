@@ -1,0 +1,27 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>(1. Hand) Gemeldet dem <term target="strategos">Strategen</term> durch den 
+            <term target="boethos">Helfer</term> Art : 2 Kamele am 4. Mecheir.
+            <milestone unit="line" n="3" rend="break"/>(2. Hand). Gemeldet dem <term target="basilikosgrammateus">Königlichen 
+                Schreiber</term> durch den 
+            <term target="boethos">Helfer</term> Adrastos: 2 Kamele am 4. Meicheir.
+            <milestone unit="line" n="5" rend="break"/>(3. Hand) <app type="BGU_DDbDP"><lem resp="KRUSE - Königlicher Schreiber, S. 199 f., A. 422">Es wurde übereinstimmend gezählt</lem></app> <app><lem>von Seiten des</lem></app> 
+            <term target="strategos">Strategen</term>.
+            <milestone unit="line" n="6" rend="break"/>(4. Hand) <app type="BGU_DDbDP"><lem resp="KRUSE - Königlicher Schreiber, S. 199 f., A. 422">Es wurde übereinstimmend gezählt</lem></app> <app><lem>von Seiten des</lem></app> 
+            <term target="basilikosgrammateus">Königlichen (Schreibers)</term>.
+            <milestone unit="line" n="7" rend="break"/>(5. Hand) <app type="BGU_DDbDP"><lem resp="KRUSE - Königlicher Schreiber, S. 199 f., A. 422">Es wurde übereinstimmend gezählt</lem></app> <app><lem>von Seiten eines</lem></app> Fremden.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>(m. 1) Registered at the office of the 
+            <term target="strategos" xml:lang="grc-Latn">strategos</term>, through Art , 
+            <term target="boethos">assistant</term>, 2 camels, Mecheir 4.
+            <milestone unit="line" n="3" rend="break"/>(m. 2) Registered at the office of the 
+            <term target="basilikosgrammateus">royal scribe</term>, through Adrastos, 
+            <term target="boethos">assistant</term>, 2 camels, Mecheir 4.
+            <milestone unit="line" n="5" rend="break"/><app type="BGU_DDbDP"><lem resp="Kruse, Der königliche Schreiber, p. 199, note 422">(m. 3) It has been tallied</lem></app> at the office of the 
+            <term target="strategos" xml:lang="grc-Latn">strategos</term> in corroboration.
+            <milestone unit="line" n="6" rend="break"/><app type="BGU_DDbDP"><lem resp="Kruse, Der königliche Schreiber, p. 199, note 422">(m. 4) It has been tallied</lem></app> at the office of the 
+            <term target="basilikosgrammateus">royal scribe</term> in corroboration.
+            <milestone unit="line" n="7" rend="break"/><app type="BGU_DDbDP"><lem resp="Kruse, Der königliche Schreiber, p. 199, note 422">(m. 5) It has been tallied</lem></app> by an unknown person in corroboration.
+        </p></div>
+      </body>

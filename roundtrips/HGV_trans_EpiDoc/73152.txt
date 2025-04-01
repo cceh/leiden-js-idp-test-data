@@ -1,0 +1,16 @@
+
+         <T=.en
+            <D=.r 
+               <=
+((1))  17 days before the Kalends of June (=May 16). Unit of 59 men: among which  1 clerk; 1 second-in-command; 21 soldiers on exercise;
+((5)) 3 on guard duty; 5 assigned to the baths; 1 assigned to the rods; 1 assigned to Boinag; 7 sick;
+((10)) 19 available for redeployment:  [the baths received] [...]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((13)) sick: Aurelius Carinas, ((15)) Julius ...
+               =>
+            =D>
+         =T>
+      

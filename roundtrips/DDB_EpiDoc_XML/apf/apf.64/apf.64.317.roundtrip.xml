@@ -1,0 +1,25 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> <expan>fasc<ex>iae</ex></expan> <g type="middot"/> <unclear>l</unclear><supplied reason="lost">aneae</supplied>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><hi rend="acute">o</hi> <app type="alternative"><lem><del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del></lem><rdg>c</rdg><rdg>g</rdg></app> <expan>fasc<ex>iae</ex></expan> <unclear><g type="middot"/></unclear> la<unclear>n</unclear><supplied reason="lost">eae</supplied>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>eli</unclear>o <space extent="unknown" unit="character"/> <expan>fasc<ex>iae</ex></expan> <g type="middot"/> lan<unclear>ea</unclear><supplied reason="lost">e</supplied>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>i <g type="middot"/> <expan>numer<ex>us</ex></expan> <expan>ae<unclear>g</unclear>r<ex>orum</ex></expan>
+
+    <lb n="6"/><space extent="unknown" unit="character"/> <expan><unclear>aeg</unclear><ex>ri</ex></expan> <unclear>Ni</unclear>costra<supplied reason="lost">ti</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><unclear>l</unclear>i<hi rend="acute">o</hi> </lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Corn</supplied><unclear>e</unclear>lio</rdg></app> <space extent="unknown" unit="character"/> <expan>aeg<ex>ro</ex></expan> ol<unclear>ei</unclear> <g type="middot"/> <expan>cib<ex>arii</ex></expan> <expan><ex>sextans</ex></expan>
+
+    <lb n="8"/>Val<unclear>e</unclear>rio <space extent="unknown" unit="character"/> <expan>aeg<ex>ro</ex></expan> ole<unclear>i</unclear> <expan>cib<ex>arii</ex></expan> <expan><ex>uncia</ex></expan>
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <expan>aeg<ex>ro</ex></expan> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan>aeg<ex>ro</ex></expan> olei <g type="middot"/> <expan>cib<ex>arii</ex></expan> <expan><ex>sextans</ex></expan>
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

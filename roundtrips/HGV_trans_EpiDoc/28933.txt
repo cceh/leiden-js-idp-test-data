@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              To Zeus Helios, great Sarapis, and the associated gods. Menandrus asks, is it granted me to marry? Answer me this.
+            =>
+         =T>
+      

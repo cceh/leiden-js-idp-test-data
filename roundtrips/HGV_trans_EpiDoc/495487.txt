@@ -1,0 +1,9 @@
+
+         <T=.de
+            <D=.a.fragment 
+               <=
+                  ((1)) als Abgabe ...; für ...; (((3))) für Eier 1 Obole; (((4))) für Safflor-Öl 1 Drachme ...; gesamt Drachmen ... /*Translation: J. Gruber, APF 61 (2015) 139*/
+               =>
+            =D>
+         =T>
+      

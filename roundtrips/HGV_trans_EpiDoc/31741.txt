@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              From the strategus to the comarchs and officials of the villages of Taampemou and Seruphis. Send at once the acacia-wood which has been cut at Ionthis to the ... ferry, and put it on board the State boat which is stationed there.
+            =>
+         =T>
+      

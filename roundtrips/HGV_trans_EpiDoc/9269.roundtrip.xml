@@ -1,0 +1,36 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An die <term target="sitologos">Sitologen</term> von Karanis für 
+            die Ernte des 9. Jahres.
+            <milestone unit="line" n="2" rend="break"/>Wir, Sarapiôn, Sohn des Achilleus, des Sohnes des Hermaïskos, aus der 
+            Phyle der Sôsikosmioi und dem Demos der Althaieis, und 
+            <app type="BGU_DDbDP"><lem resp="Viereck, Komm. zu BGU I 621">[Hêr]aklas (?)</lem></app>, Sohn des 
+            Melas, und Mysthês, Sohn des 
+            <app type="BGU_DDbDP"><lem resp="Viereck, Komm. zu BGU I 621">[Sa]tyros (?)</lem></app>, des Sohnes des 
+            Apollônios, und Pasiôn, Sohn des [Ak]ûsilaos, die 4, 
+            <term target="hudrophulax" xml:lang="grc-Latn">hydrophylakes</term> des 
+            <app type="BGU"><lem resp="BL I, S. 57">Hirten</lem></app>-Kanals, <milestone unit="line" n="7"/>haben von Euch 
+            empfangen und zugemessen bekommen vom Ertrag desselben 9. Jahres die uns von Potamôn, 
+            dem <term target="strategos">Strategen</term>, und Asklepiadês, dem 
+            <term target="basilikosgrammateus">Königlichen Schreiber</term> des Bezirks, als 
+            den uns für die Monate [...] Mecheir des 9. Jahres geschuldeten Lohn angewiesenen 
+            <app><lem>[... x <term target="artaba">Artaben</term> ...]</lem></app> ...
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To the <term target="sitologos">sitologoi</term> of Karanis for the 
+            produce of year 9.
+            <milestone unit="line" n="2" rend="break"/>We, Sarapion, son of Achilleus, the son of Hermaiskos, of the 
+            Sosicomian tribe and the Althaean deme, and 
+            <app type="BGU_DDbDP"><lem resp="Viereck comm. on BGU I 621">[Her]aklas (?)</lem></app>, son of Melas 
+            and Mysthes, son of 
+            <app type="BGU_DDbDP"><lem resp="Viereck comm. on BGU I 621">[Sa]tyros (?)</lem></app>, the son of 
+            Apollonios and Pasion, son of [Ak]ousilaos, all 4, 
+            <term target="hudrophulax">water guards</term> of the 
+            <app type="BGU"><lem resp="BL I 57">Poime[ni]kos</lem></app> canal, <milestone unit="line" n="7"/>have received 
+            and had measured to us from you from the produce of year 9 the 
+            (<term target="artaba">artabas</term>?) which were ordered (to be given to) us by 
+            Potamon, <term target="strategos">strategos</term>, and Asklepiades, 
+            <term target="basilikosgrammateus">royal scribe</term> of the division, the pay 
+            owed to us for the months of [... and] Mecheir of year 9 ...
+        </p></div>
+      </body>

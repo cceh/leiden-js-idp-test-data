@@ -1,0 +1,19 @@
+
+         <T=.fr
+            <=
+               ((1)) [Au très puissant Conseil d'Hermoupolis] la Grande, ancienne, très vénérable [et très brillante],
+                      [de la part] d'Aurélios Leukadios, [d'Hermoupolis], victorieux dans des concours sacrés, pancratiaste,
+                      [par l'intermédiaire d'Aurélios Appianos appelé aussi Démétrios], victorieux dans des concours sacrés,
+                      [curateur désigné; ((5)) je demande] de mandater sur
+               [la Caisse municipale, à titre d'indemnités en raison des] victoires et des couronnes que j'ai gagnées
+                      [aux concours sacrés, donnant droit à une entrée triomphale], dues depuis le mois de Phamenoth
+                      [de la 10e année jusqu'au 30 Mecheir de la 14e année, soit 48 mois d'un montant de] 180 drachmes par mois, 1 talent 2.6[40] dr.,
+                      [et en raison de la victoire et] de la couronne que j'ai gagnées [pour la première fois] au concours sacré,
+                      [donnant droit à une entrée triomphale, œcuménique], ayant comme prix un vêtement brodé de pourpre, tenu avec le même règlement qu'à Olympie dans
+             [la colonie de la cité de Sidon, ((10)) indemnités dues depuis] le 6 de Phamenoth de la 11e année jusqu'en
+                      [Mecheir inclus de la 14e année, soit 35 mois et 25] jours, d'un montant
+                      [de 180 dr. …]
+/*Translation: CPR 35 50*/
+            =>
+         =T>
+      

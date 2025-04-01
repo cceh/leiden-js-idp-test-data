@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="2"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg cert="low"><expan><supplied reason="lost">δα</supplied>κτύλ<ex>ια</ex></expan></reg><orig><abbr><supplied reason="lost">δο</supplied>κτυρρ</abbr></orig></choice>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg cert="low"><expan>δακτύλ<ex>ια</ex></expan></reg><orig><abbr>δοκτυρρ</abbr></orig></choice>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg cert="low"><expan><supplied reason="lost">σ</supplied>τροβίλ<ex>ιοι</ex></expan></reg><orig><abbr><supplied reason="lost">σ</supplied>τροβιλλ</abbr></orig></choice> <expan><ex>καὶ</ex></expan> <expan>κρ<ex cert="low">έας</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><abbr>ρ<certainty locus="name" match=".."/></abbr> <expan><ex>καὶ</ex></expan> <expan>ὀθών<ex>ια</ex></expan> <gap reason="illegible" quantity="1" unit="character"/>λ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

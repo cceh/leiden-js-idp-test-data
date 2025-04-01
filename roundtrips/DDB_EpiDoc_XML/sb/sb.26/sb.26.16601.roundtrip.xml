@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>πτω<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>Φαῶφι <num value="30"><hi rend="supraline">λ</hi></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>Ἁθὺρ <num value="30"><hi rend="supraline">λ</hi></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><choice><reg>Χοιὰκ</reg><orig>Χυὰκ</orig></choice> <num value="30"><hi rend="supraline">λ</hi></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>Τῦβι <num value="30"><hi rend="supraline"><unclear>λ</unclear></hi></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><choice><reg>Μεχεὶρ</reg><orig>Μεχὶρ</orig></choice> <num value="30"><hi rend="supraline"><unclear>λ</unclear></hi></num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/>Φαμενὼθ <num value="30"><supplied reason="lost"><hi rend="supraline">λ</hi></supplied></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+</ab></div>

@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>
+<lb n="2"/>ἀπόδοσίν σοι <app type="editorial"><lem>ποιήσομαι</lem><rdg>ποιήσασθαι</rdg></app> τῷ Μεσορὴ μ<supplied reason="lost">η</supplied><unclear>ν</unclear>ὶ <supplied reason="lost">ῥ</supplied>ύσεως 
+<lb n="3"/>ὀγδόης <expan>ἰνδ<ex>ικτίωνος</ex></expan> ἀνυπερθέτως. εἰ δὲ εὑρ<unclear>ε</unclear>θῇ ὄξος 
+<lb n="4"/>ἢ <choice><reg>ὀζάριον</reg><orig>ὀζζάριον</orig></choice> ἐκ τοῦ αὐτοῦ <supplied reason="lost">ο</supplied>ἴνου ἕως μηνὸς Τῦβι τοῦ αὐτοῦ
+<lb n="5"/>ἔτους, ἐμὲ τοῦτο ἀλλάττειν καὶ τὸ ἀντʼ αὐτοῦ σοι παρασχεῖν 
+<lb n="6"/>ἐπιτήδειον ἐξ ὑπαρχόντων μου πάντων· καὶ <expan>ἐπερ<ex>ωτηθεὶς</ex></expan> <expan>ὡμ<ex>ολόγησα</ex></expan>. 
+<lb n="7"/><g type="stauros"/> <expan>Αὐρ<ex>ήλιος</ex></expan> Πεκῦσις Ἀ<hi rend="circumflex">ι</hi>έκου ὁ προκείμενος <choice><reg>συμφωνεῖ</reg><orig>συμφωνῖ</orig></choice> μοι 
+<lb n="8"/>τὸ γραμμάτιον ὡς πρόκειται. <expan>Αὐρ<ex>ήλιος</ex></expan> Χρῆστος Ἰωάννου 
+<lb n="9"/>ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου ὄν<unclear>τος</unclear>.
+<lb n="10"/><g type="stauros"/> <foreign xml:lang="grc-Latn">di em<supplied reason="lost">u</supplied> Mena e<unclear>tel</unclear>esth</foreign><figure><figDesc>signs</figDesc></figure>
+</ab>
+      </div>

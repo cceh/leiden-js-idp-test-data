@@ -1,0 +1,49 @@
+
+         <T=.en
+            <D=.i.column 
+               <=
+                  ((1)) […] of Hiera Nesos
+                         […] Traiana […]
+                         (son) of Athenais
+                         […] drachmae 1525
+                  ((5)) […] … Marcus Aurelius
+                         […] … for rent …
+                         […] 230, drachmae 40
+                         […]enais son of Theon, Aurelios
+                         […], dressing room attendants, for rent
+                ((10)) […] … drachmae 1.5
+                         […] (h2?) …
+                         (h1) […] ..25, 1 tetrobol and 1 half-obol
+                         […] … of …
+                         […] credited […]
+                ((15)) […] …
+                         […] 23 …
+                         […] … drachmae 23 … […] …
+                         […] drachmae …
+               =>
+            =D>
+            <D=.ii.column 
+               <=
+                  ((20)) Hiera, revenue lands […]
+                           Marcus Aurelius
+                           on account of the […]
+                           4, drachmae 380 […]
+                           Marcus Aurelius […]
+                  ((25)) bouleutes (ex?) gymnasiarch […]
+                           the 5th of the month Kaisareios […]
+                           Marcus Aurelius […]
+                           from the first to the 23rd of the month […]
+                           Marcus Aurelius Theophilos, brother […]
+                  ((30)) of Marcus Aurelius […]
+                           kosmetes […]
+                           also now 12, drachmae 7.. […]
+                           total […]
+                           Hiera, revenue lands […]
+                  ((35)) for rent of lands […]
+                           great […] total of […]
+                  ((40)) money […]
+                           /*Translation: Y. Amory, APF 68 (2022) 141*/
+               =>
+            =D>
+         =T>
+      

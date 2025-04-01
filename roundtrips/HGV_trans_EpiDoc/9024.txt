@@ -1,0 +1,20 @@
+
+         <T=.de<=
+            ((1))An die <Sitologen=sitologos> von [Kar]anis. 
+            Ich habe erhalten <:unter Abgabe einer eidlichen 
+                Erklärung|BGU_DDbDP:Nach GUNDEL, CE 47, 1972, S. 207 f.|:> vom 
+            Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 
+            ((3))<:(2. Hand)|BGU_DDbDP:BL I, S. 35|:> <:30.
+                |BGU:BL I, S. 35|:> <Kleruchie=cleruchy>.
+            Ptolemaios, Sohn des Peteus, für [x] <Aruren=aroura> 
+            <Königsland=basilikege> bei Karanis.
+        =>=T>
+         <T=.en<=
+            ((1))To the <sitologoi=sitologos> of [Kar]anis. <:I received 
+                under declaration (with a written sworn statement) |BGU_DDbDP:Cf. Gundel, CE 47, 1972, 207f.|:> from the seed grain of year 
+            22 of Antoninus Caesar, the lord. ((3))<:(m. 2) 
+                |BGU_DDbDP:BL I 35|:> From the <:30th |BGU:BL I 35|:>
+            <cleruchy =cleruchy>. Ptolemaios, son of Petheus. At 
+            Karanis for x <arouras =aroura> of <royal (land)=basilikege>.
+        =>=T>
+      

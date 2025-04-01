@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><expan>τετελ<ex>ώνηται</ex></expan> <expan>δι<ex>ὰ</ex></expan> <expan>πύλ<ex>ης</ex></expan> <expan>Βακχι<ex>άδος</ex></expan>
+<lb n="2"/><num value="1/100" rend="tick">ρ</num> καὶ <num value="1/50" rend="tick">ν</num> <handShift new="m2"/>Ἑρμίας <app type="alternative"><lem><expan>ἐ<ex>ξά</ex>γ<ex>ων</ex></expan></lem><rdg><expan>ε<ex>ἰσά</ex>γ<ex>ων</ex></expan></rdg></app>
+<lb n="3"/>ἐπὶ ὄνοις <num value="2">δυσὶ</num> ἐλαιῶν
+<lb n="4"/><expan><ex>ἀρτάβας</ex></expan> <num value="6">ἓξ</num> <expan><ex>ἔτους</ex></expan> <num value="17">ιζ</num><g type="slanting-stroke"/><g type="slanting-stroke"/>
+<lb n="5"/>Ἁδριανοῦ ἐνάτῃ <num value="9"><hi rend="supraline">θ</hi></num>
+</ab>
+</div>

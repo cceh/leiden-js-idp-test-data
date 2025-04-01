@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="2"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>απίων</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Σερ</supplied>απίων <certainty match=".." locus="value"/></rdg></app>
+<lb n="3"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>μηφι</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Πετεασ</supplied>μήφι <certainty match=".." locus="value"/></rdg></app> <expan><unclear>λακκ</unclear><ex>αρίῳ</ex></expan>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan>χα<ex>ίρειν</ex></expan>·
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan>πτολεμαικ<ex>ὰ</ex></expan>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Π</unclear>ορτιοῦς
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <hi rend="supraline">ιϛ</hi>
+</ab>
+      </div>

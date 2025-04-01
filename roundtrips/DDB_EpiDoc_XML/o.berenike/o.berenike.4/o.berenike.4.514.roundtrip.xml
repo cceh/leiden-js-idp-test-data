@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/>πέμψον <unclear>μ</unclear>ο<unclear>ι</unclear> ἀποχὴ<supplied reason="lost">ν</supplied>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <num value="4"><hi rend="supraline">δ</hi></num> ἔρρωσο
+<lb n="3"/><space extent="unknown" unit="character"><certainty match=".." locus="name"/></space> <unclear>Πε</unclear>τοσῖρις 
+<lb n="4"/><gap reason="illegible" quantity="9" unit="character"/> <gap reason="lost" quantity="2" unit="character"/> <unclear>κ</unclear>ομίσαι
+<lb n="5"/>κερ<unclear>ά</unclear>μια <num value="4">δ</num>
+</ab></div>

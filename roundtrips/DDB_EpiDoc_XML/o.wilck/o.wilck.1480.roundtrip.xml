@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ναθης <choice><reg><expan>τιμῆ<ex>ς</ex></expan></reg><orig><expan>τειμῆ<ex>ς</ex></expan></orig></choice> <abbr>χω</abbr> <expan><ex>τάλαντον</ex></expan> <num value="1">α</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><supplied reason="lost">ὁ</supplied>μοίως <expan>τι<ex>μῆς</ex></expan> <abbr>χω</abbr> <expan><ex>τάλαντον</ex></expan> <num value="1">α</num> <num value="12">ιβ</num><gap reason="lost" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>ὁμοίως <num value="2600">Βχ</num> 
+
+    <lb n="4"/>κηρὸν <num value="1480">Αυπ</num> 
+
+    <lb n="5"/><expan>στατῆρ<ex>ες</ex></expan> <num value="2">β</num> <num value="364">τξδ</num><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><del rend="erasure">Ὧρος μαχαι</del> 
+
+    <lb n="7"/>Ζμῆθις <expan><ex cert="low">τάλαντα</ex></expan> <num value="2">β</num> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>

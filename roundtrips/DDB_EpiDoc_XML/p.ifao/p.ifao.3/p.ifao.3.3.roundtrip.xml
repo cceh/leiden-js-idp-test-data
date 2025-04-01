@@ -1,0 +1,36 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>τ</unclear>ων ε<gap reason="illegible" quantity="2" unit="character"/>ε<unclear>π</unclear><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">  τοῦ αὐτοῦ</supplied> 
+
+    <lb n="3"/>μηνὸς ἄλλας <unclear>ἐ</unclear>πὶ <expan><unclear>λ</unclear><ex>όγου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="20"><unclear>κ</unclear></num> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <handShift new="m2"/> καὶ</supplied> 
+
+    <lb n="4"/>τῇ <num value="26">κϛ</num> τοῦ μ<unclear>η</unclear><supplied reason="lost">νὸ</supplied><unclear>ς</unclear> ἄλ<supplied reason="lost">λ</supplied><unclear>α</unclear>ς <supplied reason="lost">ἐπὶ <expan>λ<ex>όγου</ex></expan> <expan><ex>δραχμὰς</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>καὶ τῇ <num value="14">ιδ</num> τοῦ <gap reason="illegible" quantity="1" unit="character"/>α<gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ἄλ<unclear>λα</unclear><supplied reason="lost">ς ἐπὶ <expan>λ<ex>όγου</ex></expan> <expan><ex>δραχμὰς</ex></expan></supplied> <unclear>ε</unclear><supplied reason="lost">ἴ</supplied>κοσι <num value="20"/> <gap reason="illegible" quantity="3" unit="character"/> 
+
+    <lb n="6"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="24">κδ</num> <handShift new="m3"/> κα<unclear>ὶ</unclear> <unclear>τῇ</unclear> <gap reason="lost" quantity="1" unit="character"/> τ<supplied reason="lost">οῦ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἄλλας</supplied> 
+
+    <lb n="7"/>ἐπὶ <expan>λόγο<ex>υ</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/>τῇ <num value="10">ι</num> τοῦ αὐτοῦ μη<unclear>νὸς</unclear> <supplied reason="lost">ἄλλας ἐπὶ <expan>λόγο<ex>υ</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <choice><reg>τέσσαρας</reg><orig>τεσσαρο</orig></choice> <num value="4"/> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> . <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> <handShift new="m4"/> καὶ τῇ</supplied>  <num value="26">κϛ</num> <unclear>τ</unclear><supplied reason="lost">ο</supplied>ῦ <unclear>α</unclear>ὐτοῦ 
+
+    <lb n="10"/><expan>μηνὸ<ex>ς</ex></expan> ἄλλας ἐπὶ <supplied reason="lost"><expan>λ<ex>όγου</ex></expan> δραχμὰς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/>καὶ τῇ <num value="30">λ</num> τοῦ μην<supplied reason="lost">ὸ</supplied><unclear>ς</unclear> ἄ<unclear>λλα</unclear><supplied reason="lost">ς ἐπὶ <expan>λ<ex>όγου</ex></expan> δραχ</supplied><unclear>μ</unclear>ὰς <num value="20">κ</num> <expan><ex>γίνονται</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/><handShift new="m5"/> καὶ <abbr>προσδ<gap reason="illegible" quantity="2" unit="character"/></abbr> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="13"/><abbr>λόγο</abbr> ἄλλας ἐπ<supplied reason="lost">ὶ</supplied> <expan><unclear>λ</unclear><ex>όγου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <choice><reg>τέσσαρας</reg><orig>τ<supplied reason="lost">εσσ</supplied>α<supplied reason="lost">ρ</supplied>ο</orig></choice> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="4"><unclear>δ</unclear></num> 
+
+    <lb n="14"/><handShift new="m6"/> καὶ τῇ <num value="10">ι</num> τοῦ μηνὸς <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="15"/>τοῦ <num value="20">κ</num> <expan><ex>ἔτους</ex></expan> Τρ<unclear>α</unclear><supplied reason="lost">ια</supplied><unclear>νο</unclear>ῦ Κ<unclear>αί</unclear>σαρ<unclear>ο</unclear>ς <unclear>τοῦ</unclear> <expan>κ<ex>υρ</ex></expan><unclear>ί</unclear>ου 
+
+    <lb n="16"/>ὑπὲρ Ψ<unclear>εντ</unclear><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="17"/>ἄλλας ἐπὶ <expan><unclear>λ</unclear><ex>όγου</ex></expan> <supplied reason="lost"><expan><ex>δραχμὰς</ex></expan></supplied> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="18"/><handShift new="m7"/> <gap reason="illegible" quantity="2" unit="character"/> τοῦ αὐτοῦ <unclear>μ</unclear><supplied reason="lost">ηνὸς </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

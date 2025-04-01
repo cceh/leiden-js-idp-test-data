@@ -1,0 +1,11 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ⲙⲟⲥ ⲛⲓⲧ<unclear>ⲉ</unclear>ⲛ<gap reason="illegible" quantity="1" unit="character"/><unclear>ⲛ</unclear>ⲉϣ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ⲛⲓⲥⲁ ⲡⲁⲛⲉ ⲡⲉⲓϫⲱⲙⲉ <g type="middot"/> ⲉⲃ<unclear>ⲉ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲛ</unclear>ⲧⲉ ⲧ<choice><reg xml:lang="grc">ἐξουσία</reg><orig>ⲉⲕⲥⲟⲩⲥⲓⲁ</orig></choice> ϫⲉ ⲁⲛⲁ<unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">ἀμφιβολία</reg><orig><expan><supplied reason="lost">ⲁ</supplied><unclear>ⲙ</unclear>ⲫⲓⲃⲟⲗ<ex>ⲓⲁ</ex></expan></orig></choice> <g type="stauros"/> <foreign xml:lang="grc"><expan>ἐγρ<ex>άφη</ex></expan> <expan>μ<ex>ηνὶ</ex></expan> <expan>Φ<ex>α</ex>ω<ex>φι</ex></expan> <num value="18">ιη</num> <expan>ἰ<ex>ν</ex>δ<ex>ικτίονος</ex></expan> <num value="13">ιγ</num></foreign> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <handShift new="m2" cert="low"/><foreign xml:lang="grc"><gap reason="lost" extent="unknown" unit="character"/>ν<unclear>ο</unclear>ιω <expan>υ<ex>ἱ</ex>ό<ex>ς</ex></expan> τοῦ <expan>μακ<ex>αρίου</ex></expan> <gap reason="illegible" quantity="5" unit="character"/> <expan>μαρτυ<ex>ρῶ</ex></expan> <g type="stauros"/> <g type="stauros"/> <g type="stauros"/> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="illegible" quantity="2" unit="character"/></abbr> <expan>υ<ex>ἱ</ex>ό<ex>ς</ex></expan> τοῦ <expan>μακ<ex>αρίου</ex></expan> <expan>Κολλούθ<ex>ου</ex></expan> <expan>ἔγρ<ex>αψα</ex></expan> <g type="stauros"/> <g type="stauros"/></foreign> 
+</ab>
+      </div>

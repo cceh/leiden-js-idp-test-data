@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><supplied reason="lost">Σαραπίω</supplied><unclear>ν</unclear> <unclear>Κασ</unclear>ίου <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" quantity="7" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost"><expan>χ<ex>αίρειν</ex></expan></supplied>· <expan><unclear>διαπόστ</unclear><ex>ειλον</ex></expan>
+<lb n="3"/><choice><reg><supplied reason="lost">Πακοί</supplied>βει</reg><orig><supplied reason="lost">Πακοί</supplied>βι</orig></choice> Πα<gap reason="illegible" quantity="5" unit="character"/>
+<lb n="4"/><gap reason="lost" quantity="5" unit="character"/> <expan><unclear>ο</unclear>ἴν<ex>ου</ex></expan> <abbr>π<unclear>ο</unclear>λ</abbr> <expan>κ<unclear>ε</unclear>ρ<ex>άμια</ex></expan> <num value="6">ἕξ</num>, <num value="6">ϛ</num>.
+<lb n="5"/><supplied reason="lost"><space extent="unknown" unit="character"/> Ἐπ</supplied>εὶφ <num value="11"><hi rend="supraline">ια</hi></num>.
+</ab></div>

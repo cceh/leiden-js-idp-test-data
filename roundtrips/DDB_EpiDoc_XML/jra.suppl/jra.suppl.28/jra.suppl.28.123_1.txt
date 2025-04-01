@@ -1,0 +1,20 @@
+<S=.la
+<D=.surface.exterior<=
+    1. <#III=3#> Nonas (Feb(ruarias)) (n(avicula))
+
+    2. Ianuari (f(ero?)) <#CCXV=215#> (r(eprobo)) <#V=5#>
+=>=D>
+<D=.surface.interior<=
+    1. (pos(t)) (cons(ulatu)s)
+
+    2. Mod[esto et Arinthei]
+
+    3. pri[die Nonas (Feb(ruarias))]
+
+    4. vestig.2lin  
+
+    6. [.?]ịtmit
+
+    7. vestig  
+=>=D>
+            

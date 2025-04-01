@@ -1,0 +1,80 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num value="4">δ</num> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <num value="32"><unclear>λ</unclear>β</num> 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num value="40"><unclear>μ</unclear></num> 
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>δραχμαὶ</ex></expan> <num value="20">κ</num> 
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <num value="20">κ</num> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <num value="28">κη</num> 
+</ab></div><div n="2" type="textpart"><ab>
+
+    <lb n="11"/>Ταεπίμαχος   <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="412">υιβ</num>   <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="13"/>Σαβινιανὸς <expan>οὐετρα<unclear>ν</unclear><supplied reason="lost"><ex>ός</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="14"/><num value="14">ιδ</num> <hi rend="diaeresis">Ἰ</hi>ουλιανὸς <expan>οὐετρα<unclear>ν</unclear><supplied reason="lost"><ex>ός</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="15"/>Διδυμιανὸς <expan>οὐετραν<ex>ός</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="16"/>Πᾶσις Ψάλλας <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="17"/>Διόδωρος Κανίν<unclear>ου</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="18"/>Διογενᾶς Ἀντωνίου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="19"/>Νέστου ἐποικίου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="20"/><expan><ex>γίνονται</ex></expan> <surplus><expan><ex>δραχμαὶ</ex></expan></surplus> <del rend="erasure"> <gap reason="illegible" extent="unknown" unit="character"/> </del> <expan><ex>δραχμαὶ</ex></expan> <num value="576">φοϛ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="21"/><num value="15">ιε</num> Ὀκτάεις <expan>οὐετραν<ex>ός</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="22"/>Ἑρμῖνος Λογγίνου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="23"/>Ἡρακλιανὸς <expan>διπλοκ<ex>άριος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="24"/>Ὀρσενόπις <expan>σιτομέτρη<ex>ς</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="25"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="84"><unclear>π</unclear>δ</num> 
+
+    <lb n="26"/><num value="23">κγ</num> Διογενᾶς Ἀντωνί<unclear>ο</unclear>υ <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="27"/>Οὐ<hi rend="diaeresis">ῖ</hi>βις οὐετρανός <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="28"/>Σεραπίων Ὁρα<hi rend="diaeresis">ί</hi>νου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="29"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>βις Τα<hi rend="diaeresis">ι</hi>εοῦ<unclear>τ</unclear><supplied reason="lost">ο</supplied><unclear>ς</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="30"/>Ποτάμμων Σύρου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="31"/>Πασίων Διακάρπου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="32"/>Ταεπίμαχος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="33"/>Πασισῆνις <expan>ἀρα<unclear>β</unclear><ex>οτοξότης</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="34"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="160">ρξ</num> 
+
+    <lb n="35"/><num value="24">κδ</num> Σεραπίων <choice><reg>ἰατρός</reg><orig><hi rend="diaeresis">ἰ</hi>ετρός</orig></choice> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="36"/>Σαβινιανὸς <expan>οὐετραν<ex>ός</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="37"/>Διογενᾶσ<hi rend="diaeresis">Ἰ</hi>ουλιανοῦ <expan><ex>δραχμαὶ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="38"/>Πετρῶνι<unclear>ς</unclear> <expan>Χρυσερῶτ<ex>ος</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="39"/>Κᾶλλις <choice><reg>ἀραβοτοξότης</reg><orig>ἀραβατοξότ<unclear>η</unclear>ς</orig></choice> <expan><ex>δραχμαὶ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

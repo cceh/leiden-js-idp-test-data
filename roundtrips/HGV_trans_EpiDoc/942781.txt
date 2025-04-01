@@ -1,0 +1,14 @@
+
+         <T=.de
+            <=
+               ((1)) Wir, die Gemeinschaft der Einwohner von Senesla,
+(vertreten) durch David, den Sohn des Enoch (?), [und] [...], ((3)) den Sohn des Phoibammon, und David, den Sohn des Tiane,
+(((4))) und Apa Nog, den Sohn des Athanase, gemeinsam mit dem Rest aller Grundbesitzer der Einwohner von Senesla, 
+((5)) wir schreiben an das heilige dikaion des Apa Apollo, (vertreten) durch Apa Germane, den Vater des Klosters des Apa Apollo. 
+((8)) Siehe, zwei Maß Wein haben wir von dir gemäß unserer Gewohnheit für die dritte Indiktion erhalten. 
+((10)) Geschrieben am 14. Pachon der vierten Indiktion.
+(((11))) Ich, Papostolos, der Sohn des David
+(((12))) [...] [Ich, David, der Sohn des] Tiane [...] /*Translation with minor modifications: G. Schenke, P.KoelnAegypt. 2, p. 79*/
+            =>
+         =T>
+      

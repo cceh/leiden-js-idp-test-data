@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.1.fragment 
+               <=
+                  ((1)) To NN, son of NN, from NN, son of Syrus, of the Metropolis. I wish to lease from you the three and a half arourae in two parcels, of catoecic land which belong to you at the village of Karanis, in the place called Hypolthes, for three years, three sowings,
+                ((10)) from the present fifth year of Antoninus and Verus our Lords Augusti, for a yearly rent of twelve and a half artabai of wheat ... 
+               =>
+            =D>
+            <D=.2.fragment 
+               <=
+                         (And I will deliver the rent yearly in the month Pauni, at the village?) 
+                  ((7)) measured with the six-choinix measure of the Hermeneus of Karanis. And you will guarantee (sc. the lease) to me also free from public dues ...
+                         /*Translation: M.G. El-Maghrabi, P.Cair.Mich. 2 21*/
+               =>
+            =D>
+         =T>
+      

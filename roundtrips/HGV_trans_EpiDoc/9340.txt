@@ -1,0 +1,26 @@
+
+         <T=.de<=
+            ((1))Im 7. Jahr des [Antoninus und] des Verus, der Herren [Augusti] 
+            <:Armenia[ci]|BGU_DDbDP:P. Bas., S. 57|:>[ M]edici 
+            <:Pa[r]thici|BGU_DDbDP:P. Bas., S. 57|:> Maximi, am [5.] Schalttag des 
+            Mesorê, <:zur Verrechnung|BGU:BL I, S. 440|:> für Pa[chô]n (und) Payni. 
+            ((3))[Eingezahlt hat Mys]thês, Sohn des Stotoêtis, <:an|:|:> 
+            <:<Kamelsteuer=telesmakamelon>|:|:> für Soknopaiû 
+            N[êsos für das 7. Jahr] zwanzig Drachmen, das sind 20 Drachmen, <:an|:|:> 
+            <Zusatzzahlungen=prosdiagraphomena> 1 (Drachme), 1 1/2 Obolen, 
+            <:an|:|:> 
+            <:<Quittungsgebühr=sumbolikon>|:|:> 
+            [<:1 1/2 Obolen|BGU:BL I, S. 440|:>].
+        =>=T>
+         <T=.en<=
+            ((1))Year 7 of [Antoninus and] Verus, the lords [Augusti] 
+            <:Armenia[ci]|BGU_DDbDP:P.Bas., p. 57|:>[ M]edici 
+            <:Pa[r]thici|BGU_DDbDP:P.Bas., p. 57|:> Maximi, Mesore, intercalary day 
+            [5]. <:For the reckoning|BGU:BL I 440|:> of Pa[cho]n (and) Payni. 
+            ((3))[Mys]thes, son of Stotoetis, [paid] for the <tax on 
+                camels=telesmakamelon> of Soknopaiou N[esos of year 7] twenty 
+            drachmas, = 20 drachmas, for <extra charges=prosdiagraphomena> 1 
+            (drachma) 1 1/2 obols, for the <receipt charge=sumbolikon> 
+            <:1 1/2 obols|BGU:BL I 440|:>.
+        =>=T>
+      

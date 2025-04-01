@@ -1,0 +1,25 @@
+
+         <T=.de<=
+            ((1))Abschrift einer Quittung.
+            (((2)))Im zwölften Jahr des Imperator Caesar Titus Aelius Hadrianus Antoninus 
+            Augustus Pius, am 21. Hathyr. ((6))Eingezahlt hat <:an Artemidoros|BGU:BL I, S. 36|:> und (seine) <:Genossen,|BGU:BL I, S. 36|:> 
+            <:<Aufseher=epiteretes>|BGU:BL I, S. 36.|:>, 
+            <:Pasiôn|BGU:BL I, S. 36|:> an 
+            <Einkünften=periginomena> des 11. Jahres für Ptolemaïs 
+            Nea: an <Miete=enoikion_2> zwölf [Drachmen], (das sind) 12 
+            Drachmen.
+            (((12)))Im 13. Jahr, am 22. Tybi. Derselbe hat eingezahlt ebenso an 
+            <Einkünften=periginomena> für das vergangene zwölfte Jahr acht 
+            Drachmen.
+        =>=T>
+         <T=.en<=
+            ((1))Copy of a receipt. ((2))Year twelve of Imperator Caesar Titus Aelius 
+            Hadrianus Antoninus Augustus Pius, Hathyr 21. ((6))<:Pasion|BGU:BL I 36|:> paid to <:Artemidoros|BGU:BL I 36|:> and his 
+            <:associates|BGU:BL I 36|:>, 
+            <:<overseers=epiteretes>|BGU:BL I 36.|:>, for the income 
+            of year 11 of Ptolemais Nea for <rent on houses=enoikion_2> twelve 
+            [drachmas], 12 drachmas.
+            (((12)))Year 13, Tybi 22. The same person paid likewise for the 
+            <income=periginomena> of the past year twelve, eight drachmas.
+        =>=T>
+      

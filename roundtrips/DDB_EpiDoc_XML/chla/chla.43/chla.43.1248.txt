@@ -1,0 +1,109 @@
+<S=.la<D=.1<=
+
+    1. $m2 (|f|) (|l|) 
+
+    2. $m1 [Flav]ius Heraclianus <:Dionysio|reg|dionusio:> (fṛ(atri))
+
+    3. (praef(ecto)) <:castri|reg|k:> Psoftis 
+
+    4. <:infrascriptas|reg|[in]f̣ṛascr[i]btos:> scholas antiquitus sta[tut]um numerum 
+
+    5. [locoru]m ọ[mit]ṭere pr[io]res castri tibi commissi missa ad officium 
+
+    6. [epistula] significarunt, idọneos etiam duos <#=2#> proprio 
+
+    7. [periculo a]ḍ replendas easdem scholas suggesserunt 
+
+    8. [ideo litteris ac]c̣eptis memora[to]s ịn isdem locis ex die (Kal(endarum)) 
+
+    9. [.?] dominis <:nostris|reg|sostris:> [Arcadio] quater et Honorio ter 
+
+    10. [perpetuis Au]gustis consulibus ṣṭẹrni f̣ạc̣ c̣[u]ṛ[ans annonas eos] 
+
+    11. [secundum m]ẹrita propri[a]ẹ [di]g̣[n]ịṭatis consecut[uros esse].
+
+    12. esṭ [au]ṭ[em] 
+
+    13. <:<:Sarapiopn|reg|sarapio:>=Ch.L.A. 48,p.119|ed|Sarapion:> (catafracta(rius)), (prou(ectus)) (decur(io))
+
+    14. Apion (eq(ues)) (prou(ectus)) (catafra(ctarius)) 
+
+    15. [ex]ẹṃplum 
+=>=D><D=.2<=
+
+    1. $m2 (|f|) (|l|) 
+
+    2. $m1 Flauius Pulcher Gerontio (f̣[r(atri)]) 
+
+    3. (p̣ṛạẹf̣(ecto)) <:castri|reg|k:> Psof̣ṭhis 
+
+    4. omnis ordo[.1].4[.8]ṣ.1[.25] 
+
+    5. munien.1[.1][ n]ẹque enị[m ][.7].3[.15] 
+
+    6. loco quem viduari merito lạ[boru]m m[ilitaris] p̣atitur 
+
+    7. $m2 diciplina in eoque Sarapionem ṃ[u]ṇificem in scholaṃ 
+
+    8. catafractariorum debere constitui hạṛụm auctoritate
+
+    9. cognosce ut prae[se]ntis indeptus mer[i]ṭụm dignitatis 
+
+    10. deuotionem aḷ[ac]rius exerceat militarem ex die <:idque|reg|itque:> 
+
+    11. (inl(ustri)) Aprel[i]ṣ post [con]sulatum domin[o]rum nostrorum Arcadii ter 
+
+    12. et Honọṛii iterum perpeṭụorum Augustorum relatus, ut 
+
+    13. dictum est, matriculis dignitatis propriae consequatur 
+
+    14. annonas 
+
+    15. exemplum 
+=>=D><D=.2,ms<=
+
+    1. (dat(a)) 
+
+    2. xv (Kal(endas)) Maias 
+
+    3. (Alex(andriae)) 
+=>=D><D=.3<=
+
+    1. $m2 (|f̣|)(|ḷ|) 
+
+    2. $m1 Flauius Eḷẹ[ut]ḥerius Ḥ.1ṣṭ.1[.2].2 (f̣ṛ(atri)) 
+
+    3. p̣([rae]f̣(ecto)) <:castri|reg|k:> (P̣ṣ[oft(h)])[is] 
+[.2]
+
+    6. inṣị[.8]ṭia.1[.?] 
+
+    7. nomin[a] ṃ[atr]ịculiṣ [insert]ạ .1[.3].2[.3].3[.3].5[.?] 
+
+    8. Vincentio et Fraovitho viris clarissịṃịṣ consulibus omni armorum genere, 
+
+    9. quo instructi esse videbantur redhibito eximere curabis 
+
+    10. et sunt:
+
+    11. (dec(uriones)) Sarapion (colic(us)) (sti(pendiorum)) xviii 
+
+    12. Stefanus debilis (sti(pendiorum)) xxii 
+
+    13. Fileas senex (sti(pendiorum)) xxxv 
+
+    14. Isidorus (aegrot(us)) (sti(pendiorum)) xviii 
+
+    15. (catafrac(tarii)) Doroteus senex (sti(pendiorum)) xxvii 
+
+    16. Foebammon ut (s(upra)) (sti(pendiorum)) xx 
+
+    17. Apammon colicus (sti(pendiorum)) x 
+
+    18. Foebammon (debil(is)) (sti(pendiorum)) vii 
+
+    19. (eq(uites)) Heraclas <:senex|reg|senox:> (sti(pendiorum)) xxvii 
+
+    20. Ahesis ut (s(upra)) (sti(pendiorum)) xxvii 
+
+    21. Antonius ut (s(upra)) (sti(pendiorum)) xxvii =>=D>

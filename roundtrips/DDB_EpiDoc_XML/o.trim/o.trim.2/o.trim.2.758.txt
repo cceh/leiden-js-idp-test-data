@@ -1,0 +1,13 @@
+<S=.grc
+<D=.convex.side
+<=
+1. <#α=1#> (Ψεναμούνιο(ς))
+2. Ψ.3[.?]
+=>
+=D>
+<D=.concave.side
+<=
+1. vestig.2lin
+=>
+=D>
+      

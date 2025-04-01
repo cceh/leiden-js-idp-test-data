@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              For the archephodus of Pela through Diogas, guard, of Sento: 19 bundles of asparagus, 2 bundles of lettuce, 2 bundles of turnips, 1 bundle of radishes, total 24.
+            =>
+         =T>
+      

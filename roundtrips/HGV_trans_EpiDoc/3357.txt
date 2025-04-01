@@ -1,0 +1,43 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1)) To king Ptolemy, greetings, Philista, daughter of Lysias, of those living in Trikomia. I am wronged by Petechon. 
+For as I was bathing at the bath, the one in the aforementioned village, in year 1, on Tybi 7, he was serving as attendant in the women’s bath; 
+and when I exited, so as to clean myself off, he, bringing in the ladles for the women’s bath, scattered my … and burned my belly and my right thigh down to the knee, 
+so as to put me in danger of my life. Finding him, I handed him over to Nechthosiris, police chief of the village, while Simon, epistates, was present.                   
+((6)) Therefore, since I have fled to you as a suppliant, I need you, king, if it seems right to you, to not overlook me, 
+treated so unjustly, (as I am) surviving by means of my handiwork; but order Diophanes, the governor, to write to Simon the epistates and 
+Nechthosiris the policeman to bring Petechon before him (Diophanes), so that Diophanes may make an examination about these matters, (and) so that I, 
+having fled to you, king, the common benefactor of all, may find justice. Farewell.
+                  ((12)) (in a second hand) To Simon: Send the accused. Year 1, Gorpiaios 28, Tybi 12.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Year 1, Gorpiaios 28, Tybi 12. Philista against Petechon, attendant, concerning burning. 
+                  /*Translation: J. Bauschatz (via PN in 2014)*/
+               =>
+            =D>
+         =T>
+            <T=.fr
+            <D=.r 
+               <=
+                  ((1)) Au roi Ptolémée salut Philista, fille de Lysias, habitant les-Trois-Bourgs. Je suis lésée par Pétéchôn. 
+Je me baignais aux bains du susdit village. l'an 1, le 7 Tybi, quand cet homme, garçon de bains dans l'étuve des femmes, alors que j'étais sortie pour me savonner, 
+apporia les brocs pleins d'eau chaude et les vida sur moi […], me brulant le ventre et la suisse gauche jusqu'au genou, au point de mettre ma vie en danger. 
+L'ayant retrouvé, je l'ai livré à Nechthosiris, l'archiphylacite du bourg, en présence de Simón l'épistate.  ((6))Je te prie donc, ô roi, 
+si bon te semble, réfugiée en suppliante auprès de toi. de ne pas me voir avec indifférence aussi indignement traitée, moi qui vis du travail de mes mains, 
+mais d'ordonner à Diophanès le stratège d'écrire à Simon l’épistate et à Nechthosiris le phylacite qu'il amène devant lui Pétéchôn afin que Diophanès examine l'affaire. 
+Ainsi, après avoir cherché refuge auprès de toi, ô ro1, commun bienfaiteur de lous, j'obtiendrai justice. Sois heureux.
+                  ((12)) (in a second hand) A Simôn. Envoie l'inculpé. An 1, 28 Gorpiaios — 12 Tybi.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) An 1, 28 Gorpiaios — 12 Tybi. Philista contre Pétéchôn, garçon de bains, pour avoir été échaudée. 
+                  /*Translation: O. Gueraud, P.Enteux. 82*/
+               =>
+            =D>
+         =T>
+        

@@ -1,0 +1,28 @@
+
+         <T=.de<=
+            ((1))Im zweiten Jahr des Imperator C[ae]sar Traian[u]s Hadrianus Augustus, am 11. 
+            des Monats K[ai]sarei[os]. ((3))Wir, Hêra[k]leidês und (seine) Genossen, 
+            <Sitologen=sitologos> der 
+            <:<Toparchie=toparchia>|BGU_DDbDP:|:> <:der (Dörfer)|BGU_DDbDP:Derda, JJP 33, 2003, S. 36|:> um Hêrakleia, haben zugemessen bekommen von den Erträgen 
+            desselben Jahres ((5))auf Stotoêtis, Sohn des Apynchis, für die 
+            <(Abgabe der) ~|katoikoi|~la ~la=katoikon> von Hêrakleia, 
+            (gemessen) <mit dem gestrichenen staatlichen 
+                Maß=metrodemosioxesto> <:~|epaiton|~la |BGU:BL I, S. 64|:> siebzehneinhalb [ein Vierundzwanzigstel] 
+            <Artaben=artaba> Weizen, [das sind] 17 1/2 1/24 
+            <Artaben=artaba> Weizen, und die 
+            <Zuschläge=prosmetroumena>.
+        =>=T>
+         <T=.en<=
+            ((1))Year two of Imperator Caesar Traianos Hadrianos Augustus, 11th of the month of 
+            Kaisareios. ((3))We, Herakleides and associates, 
+            <sitologoi~grc-Latn=sitologos> of the 
+            <:areas|BGU_DDbDP:Derda, JJ 33, 2003, p. 36|:> around Herakleia, have had 
+            measured to us from the produce of the same year ((5))with respect to Stotoetis, son 
+            of Apynchis, for the <dues on ~|katoikoi|~la ~la=katoikon> of 
+            Herakleia by <levelled public measure=metrodemosioxesto> 
+            <:<epaiton~grc-Latn=epaiton>|BGU:BL I 64.|:> seventeen 
+            and a half and a twenty fourth <artabas=artaba> of wheat = 17 1/2 1/24 
+            <artabas=artaba> of wheat and the <extra 
+                charges=prosmetroumena>.
+        =>=T>
+      

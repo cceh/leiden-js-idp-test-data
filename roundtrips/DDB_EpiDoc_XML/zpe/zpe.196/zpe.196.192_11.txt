@@ -1,0 +1,9 @@
+<S=.grc
+<=
+    1. vestig.5lin
+
+    6. vestig  <#τακοσια=#>
+
+    7. vestig.2lin
+=>
+      

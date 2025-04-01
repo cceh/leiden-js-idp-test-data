@@ -1,0 +1,8 @@
+<S=.grc
+
+      <D=.r<=
+1. /*mentioned at P.Oxy. 72.4885; not yet published*/
+=>=D>
+<D=.v<=
+1. /*see P.Oxy. 72.4885v*/
+=>=D>

@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.v 
+               <=
+                  ((1)) ‘From Arius. You neglected the matter of the axles when we were in need of them. However, provide the purchase now. In addition to four drachmae give the hundred (?).,.! sent you a sack of flax. If you wish the shepherd to have 3 fleeces so that you may send them, give them to him.
+               ((13)) Send also more wine to Dionysias, that the price may go towards the digging of the olive-yards, for Dius has gone on a journey to Alexandria. Good-bye. To Lucretius, very many greetings.
+=>
+            =D>
+            <D=.r 
+               <=
+                  ((27)) (Addressed) To Lucretius from Arius.’
+               =>
+            =D>
+         =T>
+      

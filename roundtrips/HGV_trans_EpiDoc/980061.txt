@@ -1,0 +1,15 @@
+
+         <T=.it
+            <D=.r 
+               <=
+                  ((1)) Elenco delle suppellettili del monastero nella piana de(l) villaggio di Hormos … tre tavoli di legno e tre sedie e due coperte di lana e 
+un cuscino e due spiedi e due accette (((7))) e una scure e vanghe de(l) peso di 16 libbre e otto voltiglie con sedili / pesi di piombo per la vela con custodie (?) e 
+articoli approntati con giunco e sedici mōia di paglia secca. Papnoûthis … (((12))) e Papnoûthis di Febammone, coltivatori, è per noi conforme la lista come si presenta. 
+Colluto di Giovanni scrissi per loro, ignari di lettere. … di mezzo bronzo.
+                (((18))) Un giogo. Tre … Due sacchi. Due accette. Tre vanghe (σκαλίς). Una scure. Un cuscino. Sedici mōia di cibo. Rendi (?) un mōion di paglia secca. 
+Due spiedi (λογχάρια). Otto voltiglie e sedile / pesi di piombo per la vela (κερκίδες) e custodia (?) e due ceste.
+/*Translation: A. Soldati, AnalPap 33 (2021) 71*/
+               =>
+            =D>
+         =T>
+      

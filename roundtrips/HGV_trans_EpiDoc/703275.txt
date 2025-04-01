@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) In the 36th year of Caesar, on Mecheir 2, Anchorinphis, son of Ischis, paid to Heraklas, the agent of Ptolemaios (?), son of Ara( ) (?), public banker, for the syntaximon of the same year, for Apias, eight silver drachmas = 8 dr,
+	       ((5)) and on the … of Pharmouthi, twelve dr. = 12 dr.,
+	       ((6)) and on the 23rd of Pauni, twelve dr. = 12 dr.,
+	       ((7)) and on the 1st of Mesore, eight dr. = 8 dr.
+               (((9)))Year 37 of Caesar, Phaophi 30. Anchorinphis, son of Ischis, paid to Heraklas, the agent of Psoaramounis, public banker, for the syntaximon of the thirty-sixth year … four silver (?) dr. = 4 dr.
+               /*Translation by W. Graham Claytor, BASP 53 (2016) 130*/
+            =>
+         =T>
+      

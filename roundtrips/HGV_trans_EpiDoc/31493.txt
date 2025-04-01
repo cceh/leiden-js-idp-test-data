@@ -1,0 +1,11 @@
+
+         <T=.de
+            <=
+               ((1)) An Aurelius Artemidoros, den Strategen des Herakleides-Bezirks des
+Arsinoites, von Aurelius Ptolemaios, dem Sohn des Serenos und Enkel des Heroneinos, 
+(((5)))aus dem Dorf Ptolemais Drymu des Themistes-Bezirks. 
+(((7)))Ich bin bereit, ... zu pachten ... 
+/*Translation: D. Hagedorn, P.Köln 2 89 [Übersetzung im Rahmen der Einführung in die Papyrologie WiSe 2023/24]*/
+            =>
+         =T>
+      

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              To Valerius Firmus, praefect of Egypt, from Aurelia Maeciana of Side. I wish, my lord, to sail out by way of Pharos; I therefore beg you to write to the procurator of Pharos to allow me to leave, as is usual. Pachon 1. Farewell. /*Latin endorsement.*/
+            =>
+         =T>
+      

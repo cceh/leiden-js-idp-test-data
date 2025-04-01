@@ -1,0 +1,19 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app type="BGU"><lem resp="BL I, S. 63">Den</lem></app> 
+            <app type="BGU"><lem><term target="rkain">Zoll</term></lem></app> 
+            <term target="rkain">von 1/100 und 1/50</term> 
+            <app type="BGU"><lem resp="BL I, S. 63">hat entrichtet</lem></app> (für die Passage) durch das 
+            Tor von Karanis Hôriôn, der auf zwei Eseln 6 <term target="artaba">Artaben</term> 
+            Wickensamen ausgeführt hat, das sind 6 <term target="artaba">Artaben</term>.
+            <milestone unit="line" n="4" rend="break"/>Im 2. Jahr, am siebzehnten Phamenôth.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app type="BGU"><lem resp="BL I 63">Paid</lem></app> for 
+            <term target="rkain">the 1 and 2 per cent</term> (for the passage) through the 
+            gate of Karanis by Horion, exporting on two donkeys 6 
+            <term target="artaba">artabas</term> of bitter vetch, = 6 
+            <term target="artaba">artabas</term>.
+            <milestone unit="line" n="4" rend="break"/>Year 2, Phamenoth, the seventeenth.
+        </p></div>
+      </body>

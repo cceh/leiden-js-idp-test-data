@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              For dinner on the 5th a Canopic liver; for dinner on the 6th 10 oysters, 1 lettuce; for dinner on the 7th 2 small loaves, 1 bird ... from the water, 2 snipe (?).
+            =>
+         =T>
+      

@@ -1,0 +1,27 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="1" subtype="fragment" type="textpart">
+               <div n="i" subtype="part" type="textpart">
+                  <p>
+                     <milestone unit="line" n="1"/> The 7th. Carrying water-skins, 34 men. For firewood, 6 men. Temperers, bellows-men, 8 men. In the stomoterion, 3 men. In the watch-tower, 3 men. Water-carriers in the quarry, 3 men. Workers in the quarry, 9 men. Guards of the living quarters, 3 men. In the bakery, 2 men. Platearius 1. Total 72 men.
+                  </p>
+               </div>
+               <div n="ii" subtype="part" type="textpart">
+                  <p>
+                     <milestone unit="line" n="12"/> The 8th. Carrying water-skins, 37 men. In the quarry, 15 men. For firewood, 5 men. Temperers, bellows-men, 8 men. In the stomoterion, 3 men. In the watch-tower, 2 men. Water-carriers in the quarry, 3 men. In the bakery, 2. Guards of the living quarters, 3 men. Platearius, 1. Total, 74 men.
+                  </p>
+               </div>
+               <div n="iii" subtype="part" type="textpart">
+                  <p>
+                     <milestone unit="line" n="23"/> The 9th. Carrying water-skins, 32 men. In the quarry, 20 men. For firewood, x men Temperers, bellows-men  6 men --. 
+                 </p>
+               </div>
+            </div>
+            <div n="2" subtype="fragment" type="textpart">
+               <p>
+                  <milestone unit="line" n="28"/> -- Water-carriers x men.  In the stomoterion x men. In the bakery, x men. Platearius 1. Total xx men.
+
+               </p>
+            </div>
+         </div>
+      </body>

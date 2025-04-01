@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘The 5th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Pauni 9. Paid
+to Sotas and associates, collectors of money-taxes for the village of Heraclia (by … priest) of Socnopaeus the great great god through Stotoetis son of Pakusis for the naubion-tax upon catoeci of Heraclia for the said 5th year 1 talent 800 drachmae of copper, for extra payments 680 copper dr., for change 125 copper dr., for the receipt 3½ obols.’
+
+            =>
+         =T>
+      

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              To Aurelius Anubion, strategus of the Oxyrhynchite nome, from Ieraclas son of Saras son of Akous, his mother being Nicaea (?), of the city of Oxyrhynchus, contractor for farming the tax on pulse-sellers and vetch-sellers. Monthly account for Pauni of the present 22nd year of Marcus Aurelius Severus Antoninus Caesar the lord, as follows. From the pulse-sellers and vetch-sellers eighty drachmae, total 80 dr., which were paid into the local public bank. /*Date.*/
+            =>
+         =T>
+      

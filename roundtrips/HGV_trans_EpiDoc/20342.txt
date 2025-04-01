@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              Account of my lord the praepositus: for the stipend of September 1, 36,000 denarii, a present on July 25, 2,500 denarii, making together 38,500 denarii.
+            =>
+         =T>
+      

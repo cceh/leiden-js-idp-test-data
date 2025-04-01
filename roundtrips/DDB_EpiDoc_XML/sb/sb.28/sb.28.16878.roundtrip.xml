@@ -1,0 +1,31 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><supplied reason="lost"><expan>Αὐρήλ<ex>ιος</ex></expan> Ἑ</supplied><unclear>ρ</unclear>μία<unclear>ς</unclear> <unclear>ὁ</unclear> καὶ Ἀπολλώνιος 
+
+    <lb n="2"/><expan>γεν<ex>όμενος</ex></expan> <expan><supplied reason="lost">στ</supplied>ρα<ex>τηγὸς</ex></expan> τῆς λαμπ<unclear>ρ</unclear><supplied reason="lost">οτ</supplied>ά<unclear>τ</unclear>ης <expan>πόλ<ex>εως</ex></expan>
+
+    <lb n="3"/><supplied reason="lost">τῶν <expan>Ἀλεξ<ex>ανδρέων</ex></expan> καὶ ὡς χρ</supplied><unclear>ημ</unclear>ατίζει διὰ <expan>Αὐρηλ<ex>ίου</ex></expan> Ἡρακλάνου
+
+    <lb n="4"/><supplied reason="lost" cert="low">βοηθοῦ </supplied> <unclear>Ἀκ</unclear>ούει μισθωτῇ χαίρειν.
+
+    <lb n="5"/><supplied reason="lost">Παρέλ</supplied><unclear>α</unclear>βον παρὰ σοῦ ἐρίων π<unclear>όκου</unclear><supplied reason="lost">ς</supplied> 
+
+    <lb n="6"/><num value="5"><supplied reason="lost">πέντ</supplied><unclear>ε</unclear></num> μνῶν <num value="16">δεκαὲξ</num> <choice><reg>ἡμίσους</reg><orig>ἡμίσ<unclear>υ</unclear>ς</orig></choice>,
+
+    <lb n="7"/><supplied reason="lost">κυρίας ο</supplied><unclear>ὔσης</unclear> τῆς <unclear>μ</unclear><supplied reason="lost">ι</supplied><unclear>σ</unclear>θώσεως.
+    
+    <lb n="8"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan></supplied> <gap reason="lost" quantity="1" unit="character"/> <unclear>Χ</unclear>οιὰκ <num value="11">ια</num>.
+
+    <lb n="9"/><supplied reason="lost">καὶ ὁ αὐτὸς</supplied> <unclear>π</unclear>αρέδω
+
+   <lb n="10" break="no"/><supplied reason="lost">κεν πόκους μ</supplied><unclear>ν</unclear>ῶν <num value="10">δέκα</num>,
+
+   <lb n="11"/><supplied reason="lost">κυρίας οὔσης τῆς μισθ</supplied><unclear>ώ</unclear>σ<unclear>εως</unclear>.
+
+   <lb n="12"/><supplied reason="lost">καὶ ὁ αὐτὸ</supplied><unclear>ς</unclear> <supplied reason="lost">πα</supplied>ρέ<unclear>δωκ</unclear>ε<unclear>ν</unclear>
+
+   <lb n="13"/><app type="alternative"><lem><supplied reason="lost">πόκους</supplied> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ε</unclear><gap reason="illegible" quantity="3" unit="character"/><unclear>ρ</unclear><gap reason="illegible" quantity="4" unit="character"/></lem><rdg><supplied reason="lost">πόκους τέσσαρας μνῶ</supplied><unclear>ν</unclear> <choice><reg>δεκατριῶν</reg><orig><unclear>δεκατρειῶ</unclear>ν</orig></choice></rdg></app>
+
+   <lb n="14"/><app type="alternative"><lem><gap reason="lost" quantity="13" unit="character" precision="low"/> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><supplied reason="lost">κυρίας οὔσης τῆς</supplied> <unclear>μι</unclear><supplied reason="lost">σθώσεως</supplied></rdg></app>
+
+   <lb n="14"/><gap reason="lost" extent="unknown" unit="line"/>
+     </ab></div>

@@ -1,0 +1,39 @@
+<S=.la
+<D=.22a.tablet<=
+    1. <:instrumentum|reg|strumentu:> Serbunis reḷịc̣[tae] de <:frustillo|reg|f̣ịrustẹllo:> 
+=>=D>
+<D=.22b.tablet<=
+    2. anno decimo (dom(ini)) (re(gis)) <:Gunthamundi|reg|ginttabundi:> sub die v idus maios <:ven3.- dentibus|reg|ben3.- dentibus:> Adeudata et Innulus filius eius ex culturis suis mancianis [f]ụ[n] 
+
+    4.- do Tuletianensis sub dominio <:Flavi|reg|flabi:> (G(emini)) Catullini (flam(inis)) (p(er)p(etui)) in locis et <:vocabul5.- is|reg|bocabul5.- is:> locus qui <:appellatur|reg|adpellatur:> sela <:frustellum|reg|firustellum:> unum in quo sunt fici (arb(ores)) tre[de]
+
+    6.- ci et <:novellas|reg|nobellas:> sex cum <:vitibus|reg|bitibus:> suis inter adfines eiusdem agri ạḅ Afri[co] 
+
+    7. <:(h(eredes))|reg|(hh(eredes)):> Ianuariani a Coro Quintus Pontiani a Marino <:venditores|reg|benditores:> a meridie [aqu] 
+
+    8.- aris et <:vergentibus|reg|bergentibus:> suis et ex <:hac|reg|ac:> die emit Geminius Felix (fol(les)) pecunie nume[ro] 
+
+    9. trecentos quos acceperunt Adeudata et Innulus relicta Serbunis <:vendito10.- res|reg|benḍ[ito]10.- res:> et secum sustulerunt coramque signatoribus <:nihil|reg|nicil:> <:quaesiverunt|reg|quesibi:> ex <:eodem|reg|eode:> [pretio] 
+=>=D>
+<D=.23a.tablet<=
+    11. quiquam <:amplius|reg|anplius:> deberi sibi respondiderunt a pridie quam <:venderent|reg|benderent:> (ḥ(a)b(uerunt)) (t(enuerunt)) (p(ossederunt)) 
+
+    12. iuris eorum omnia fuerunt et ex <:hac|reg|ac:> die emit in nomine Felici <:emptore|reg|emtore:> suo <:trans13.- tulerunt|reg|tras13.- tuḷẹrunt:> ipsi  <:heresve eorum|reg|eresbeorum:> in <:perpetuum|reg|perpetum:> et si quis (d(e)) (s(upra)s(criptam)) rem de quo agitur men 
+
+    14.- tionem <:quaestionem|reg|questionem:> facere <:voluerit|reg|boluerit:> aut sua esse <:dixerit|reg|dicserit:> aut <:evinci|reg|evicci:> <:coeperit|reg|queperit:> 
+
+    15. <:tunc|reg|tuc:> dabit tantum pretium <:vel|reg|bel:> alterum ṭạṇṭụṃ <:vel|reg|bel:> quanti ea res eo <:tempore|reg|tenpore:> <:va16.- luerit|reg|ba16.- luerit:> pro victe rei recte dari sine dolo malo dolus malus abest aberit afuturum 
+
+    17. erit <:stipulatus|reg|istipulatus:> est Geminius Felix <:emptor|reg|emtor:> <:spopondiderunt|reg|expopondiderunt:> Adeudata et Innulus 
+
+    18. [rel]icta Serbunis anno et die (s(upra)s(cri)p(tis)) [ego] Donati[anus] petitus ab Adeudata et Innulus 
+
+    19. [fili]us eius ipsi signum <:subter|reg|supter:> facientes omnem pretium acceperunt sic X num Adeu 
+
+    20.- \date/ signum X Innuli ego <:Muraena|reg|mure:> interfui signum X Saturnini Egipti 
+=>=D>
+<D=.23b.tablet<=
+    21. ego Dona[t]ia[n]us hunc <:instrumentum|reg|strumentum:> me[a manu scrip] 
+
+    22.- si et <:subscripsi|reg|subiscribsi:>. 
+=>=D>

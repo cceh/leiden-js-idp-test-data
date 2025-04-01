@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Sattos to Euphrosyne. Salute Firmus and Tecusa and all our friends before the gods of Antinoöpolis. I have left my cloak behind with Tecusa at the gateway; send it me as you sent it me before. You worry me about the money which you owe to Agathodaemon: I have paid him in full. If you have made any cakes, send them to me, as I shall return in another month. I wish that I had paid every one like Agathodaemon. You were not my security; it is not your affair; do not worry. If necessary, I shall return in another month. Deliver my cloak to Kerarea, the hairdresser. Salute Stratus and Stratonice and their children. I pray for your health. (Addressed) To my sister Euphrosyne from Sattos son of Harpocrates.
+            =>
+         =T>
+      

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              Caecilius Clemens to the agoranomus, greeting. Register a contract of loan from Thonis, son of Harpaësis, son of Petserothonis, his mother being Petosiris, daughter of Harpaësis, of the city of Oxyrhynchus, chief bearer in the temple of Thoëris and Isis and Sarapis and Osiris and the associated most mighty gods, on the security of the third part of a house, in which there is a hall, with the court and entrances and exits and appurtenances, situated in the Gymnasium square quarter by the temple of Osiris and the treasury, which was mortgaged to him by his full brother Thomphuas in return for an accommodation in accordance with a note of hand and a payment through a bank of 400 drachmae..., and...
+            =>
+         =T>
+      

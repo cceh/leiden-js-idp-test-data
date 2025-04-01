@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+
+    <lb n="2"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> μοι <app type="alternative"><lem><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></lem><rdg><unclear>τῆς</unclear> αὐτῆ<unclear>ς</unclear></rdg></app>
+
+    <lb n="3"/>καὶ <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+
+<div n="v" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <app type="alternative"><lem><expan>κυρ<ex>ῷ</ex></expan></lem><rdg>κυρ<unclear>ῷ</unclear></rdg></app> Καλο<add place="above"><g type="stauros"/></add>μηνᾷ <expan>κόμ<unclear>ε</unclear><ex>τι</ex></expan> <expan><ex>καὶ</ex></expan> <expan>ἀντ<ex>ιγεού</ex><unclear>χ</unclear><ex>ῳ</ex></expan> <space extent="unknown" unit="character"/> <unclear><g type="stauros"/></unclear> <unclear>Στέφαν</unclear>ος <app type="alternative"><lem><g type="stauros"/></lem><rdg><g type="rho-cross"/></rdg></app>
+</ab></div></div>

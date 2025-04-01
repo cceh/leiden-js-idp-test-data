@@ -1,0 +1,42 @@
+<S=.la<=
+    1. 〚X [Antonius] Ḥeronị[an]us eques alae veteranạẹ 
+〛
+    2. 〚X [Gallicae tu]ṛmạ.5ị Accio Ạṇṭhistiano [equi]ṭị 
+〛
+    3. 〚X [alae eiusde]ṃ sạlutem. f̣ateor ṃe accepiṣṣẹ et debere 
+〛
+    4. 〚X [.?]tọs ṃihi per manum in pretium armorụṃ 
+〛
+    5. 〚X [((denarios)) qui]nquaginta <#=50#> (f(iunt)) ((denarii)) L quos et reḍḍạṃ stipendio 
+〛
+    6. 〚X [proximo] .5bere.3ḷum cum usuris legitimis 
+〛
+    7. 〚X [tibi aut p]rocuratori herediue tuo ạut ad quem 
+〛
+    8. 〚X [ea res] pertinebit sine controuersia et 
+〛
+    9. 〚X [spe fut]ụṛạe di[la]tionis actum Alexandriae 
+〛
+    10. 〚X [ad (Aeg(yptum)) i]ṇ (cạ[str(is)]) (Ạug(ustis?)) hibernis (leg(ionis)) II 
+〛
+    11. 〚X [(Traian(ae)) (F(ortis))] et alae [v]eteranae Gallicae tertium 
+〛
+    12. 〚X [.?].1[.4][ Br]utio Praesente et Iunio 
+〛
+    13. 〚X [Rufino (co(n)s(ulibus))]. ~|$m2 Ἀντ̣ώνιος Ἡρωνιανὸς ἱππεὺς |~grc 
+ 〛
+    14. 〚X ~|[ὁ προγ]εγραμ<μ>ένος <:ἔλαβον|reg|ἐλαβα:> καὶ <:ὀφείλω|reg|ὀφίλω:> |~grc 
+ 〛
+    15. 〚X ~|[τὰ προ]κίμενα δηνάρια πεντέκον-|~grc 
+ 〛
+    16. 〚X ~|τα <#=50#> [κ]αὶ ἀπ[ο]δώσω καθὼς πρόκιται.|~grc 
+ 〛
+    17. 〚X ~|$m3 [.?]ς̣ ἀρμοκ[ο]ύστωρ μαρτυρῶ|~grc 
+〛
+    18. 〚X $m4 [.?]ẹtis adfui 
+〛
+    19. 〚X ~|$m5 [.?].1ια̣ν̣[.2]σ̣.1[.2]ν̣α̣[.3][ τ]ὰ πρ[ο]κίμε̣να|~grc  
+ 〛
+    20. 〚X ~|[δηνάρια πεντή]κοντα <#=50#> καὶ θ[.2] πρόκιται |~grc 
+  〛
+    21. 〚X ~|[.?]α̣ δίκαια θου̣ <:χειρογράφου|reg|χ̣ι̣ρογράφου:>|~grc 〛=>

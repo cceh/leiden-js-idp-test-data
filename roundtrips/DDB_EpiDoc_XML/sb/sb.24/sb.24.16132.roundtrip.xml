@@ -1,0 +1,30 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r,ctr" type="textpart"><ab>
+
+    <lb n="1"/>ἔτους <num value="18">ιη</num> Καίσαρος, Χοιάκ.
+
+    <lb n="2"/>ἃ δεῖ <expan>ἀγορ<ex>άσαι</ex></expan>·
+</ab></div><div n="r,1" type="textpart"><ab>
+
+    <lb n="3"/><gap reason="lost" quantity="4" unit="line"/>
+
+    <lb n="7"/><abbr>αμβ</abbr> <abbr>εχιν</abbr> <g type="unintelligible"/>
+
+    <lb n="8"/><abbr>σιρικ</abbr> <g type="unintelligible"/>
+
+    <lb n="9"/><abbr>δακτ</abbr> <abbr>σφρ</abbr> <g type="unintelligible"/>
+
+    <lb n="10"/><expan>ὁμ<ex>οίως</ex></expan> <choice><reg><foreign xml:lang="la">eburea</foreign></reg><orig>ιβαρια</orig></choice> <g type="unintelligible"/>
+
+    <lb n="11"/><foreign xml:lang="la">panes as<expan><ex>sibus</ex></expan> x
+        
+    <lb n="12"/><choice><reg>oleum</reg><orig>olio</orig></choice> <expan>as<ex>sibus</ex></expan> v</foreign>
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>
+<lb n="13"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="r,2" type="textpart"><ab>
+
+    <lb n="14"/><gap reason="ellipsis" quantity="6" unit="line"><desc>Demotic</desc></gap>
+<lb n="14"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="20"/><foreign xml:lang="la">rationes C. Calpur<expan><ex>nii</ex></expan> <expan>Ptol<ex>emaei</ex></expan>.</foreign></ab></div></div>

@@ -1,0 +1,17 @@
+<S=.grc
+<D=.surface.exterior<=
+    1. <#VII=7#> Idus (Mart(ias)) ad (Octob(re)ṃ)
+
+    2. ((centenarius)) Felix <#XXXIII=33#> (p(ondo)) (l(ibras)) <#LXIIII=64#> 
+
+    3. ((summa)) <#XXXIIII=34#> (p(ondo)) (l(ibras)) <#LXIII=63#> 
+
+    4. (inpletu(r)) (|Vol|) (as(copae)) a (B(yzacena?)) (n(umero)) <#XXI=21#> ((centenaria)) <#XXXIIII=34#> 
+
+    5. [fieri] in (condit(orio)) (Ẓ(eugitano?)) (a(mphorae?)) (g(emellariae?)) (n(umero)) <#CLXVII=167#> 
+
+    6. (as(copae)) a (B(yza?)c̣ẹ(na?)) (n(umero)) <#VI=6#> 
+
+    7. ((summa)) <#CCCCXIII=413#> (p(ondo)) (l(ibras)) <#XX=20#>
+=>=D>
+      

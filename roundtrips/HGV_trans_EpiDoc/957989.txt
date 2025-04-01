@@ -1,0 +1,25 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((2)) Ont été mesurées et embarquées pour le compte des habitants d’Aphrodité,
+                         représentés par les protocomètes dudit village,
+                         au titre de leurs propriétés et de celles des différents propriétaires, sur les bateaux
+                  (((5))) du monastère de la Métanoia, représenté par les très pieux abba [... et
+                         ...], moines et diaconètes d’Antaiopolis [...]
+                         du canon de ladite troisième indiction
+                         [...] six mille vingt artabes du canon de blé, ((10)) total: 6020 art. de blé du canon, frais de transport
+                         et suppléments? inclus, versés en totalité.
+                         ((11)) Et pour votre garantie et celle du Trésor Public, j’ai émis cette quittance plénière
+                         munie de ma souscription selon les termes sus-mentionnés.
+                         ((14)) Par moi Kônstantinos, fils de [...].
+                         Écrit le ... Thôth de [la 3e indiction].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((18)) [...] de la troisième indiction, 6020 art. du canon de blé. /*Translation with minor modifications: J.-L. Fournet, JJP 50 (2020) 128*/
+               =>
+            =D>
+         =T>
+      

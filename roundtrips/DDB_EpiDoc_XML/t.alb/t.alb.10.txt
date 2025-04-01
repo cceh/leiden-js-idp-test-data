@@ -1,0 +1,49 @@
+<S=.la
+<D=.20a.tablet<=
+1. /*no apparent writing*/=>=D>
+<D=.20b.tablet<=
+    1. anno decimo domini nostri regis <:Gunthamundus|reg|Guntamun:> sub diem ii nonos martias <:vend2.- entibus|reg|bend2.- entibus:> Iulius Quintianus et Gilesa uxor eius ex culturis suis mancianis 
+
+    3. in fundo Tuletianensis sub dominio (Fl(avi)) (Gem(ini)) Catullini (fl(a)m(inis)) in <:perpetuum|reg|perpetum:> in locis et 
+
+    4. vocabulis suis locus qui <:appellatur|reg|apellatur:> in <:Buresa|reg|Uuresa:> <:suas|reg|sus:> Aqua Putei massa una in quo s5.- unt
+<:caprifici|reg|caprufici:> arbore una nomine ẹrṇassoneụ \ọx̣ụṇo odore/ et fici noṿellas sex inter adfines 
+
+    6. <:eiusdem|reg|eiusẹdem:> loci a Marino <:latericiis|reg|lateris:> aquaris <:vergentisque|reg|bergentisque:> suis ab <:Africo|reg|afri:> relicta Luciani 
+
+    7. a <:cauro|reg|choro:> Quintianus venditor et ex <:hac|reg|ac:> die emit Geminius Felix folles trecentos 
+
+    8. <:quadraginta|reg|quaranginta:> quos acceperunt Messius Quintianus et Gilesa uxor eius et sec9.- um <:sustulerunt|reg|sustullerunt:> coramque (signatorib(us)) <:nihil|reg|nichil:> <:quaesiverunt|reg|quesivi:> ex eodem pretio quiqu10.- am 
+
+     amplius <:deberi|reg|deveri:> <:sibi|reg|sivi:> respondiderunt a pridie quam venderent (h(abuerunt)) (t(enuerunt)) (p(ossederunt)) iuri11.- sque eorum fuerunt et ex <:hac|reg|ac:> die in <:nomine|reg|no:> Felix <:emptore|reg|emtore:> suos transtuleru12.- nt 
+
+    ipsi <:heredesve|reg|eredesve:> eorum in <:perpetuum|reg|perpetum:> et si quis de supradictam rem de quo 
+
+    13. agitur mentionem <:quaestionem|reg|questionem:> facere voluerit aut suam esse dixerit <:dum|reg|du:> evin14.-  
+=>=D>
+<D=.21a.tablet<=
+    14. ci <:coeperit|reg|queperit:> <:tunc|reg|thunc:> <:dabit|reg|davit:> tantum pretium vel alterum tantum vel quanti <:ea|reg|ae:> res eo 
+
+    15. tempore valuerit pro evicte rei recte dari sine dolo malo dolus malus abest 
+
+    16. aberit afuturumque erit stipulatus est Geminius Felix <:emptores|reg|emtores:> suos 
+
+    17. (sp(o)p(on)d(i)d(erunt)) Quintianus et Gilesa uxor eius venditores actum Tuletianos 
+
+    18. anno et die <:suprascripto|reg|(s(u)pp(ras)c(rip)to):> ego Quadratianus magister petitus a Quintiano et Gilesa 
+
+    19. uxor eius qui litteras nescint signa sua <:subter|reg|supter:> facientes vendiderunt et omnem 
+
+    20. pretium accepẹṛunt ṣ[i]g[num] X Q[u]ịṇ[t]ị[ani] signum X Gilesa ego P[a]ụḷị[ni]ạṇụs 
+
+    21. ad iussu <:patris|reg|pattris:> mei Quinti ad hunc instrumentum interfuit ego Urba22.- n[i]anus 
+
+     ad hunc <:instrumentum|reg|istrumentu:> interfui ego Quadratianus ad iussu patris 
+
+    23. m[e]i Ianuari hunc <:instrumentum|reg|strumentum:> <:scripsi|reg|scribsi:> et <:subscripsi|reg|subscribsi:> 
+=>=D>
+<D=.21b.tablet<=
+    24. <:instrumentum|reg|istrumentu:> de caprificu <:Quintianus|reg|Quintian:> de <:Buresa|reg|Uuresa:> =>=D>
+
+    <D=.palimpsest<=
+1. [sti]pulatus est Geminius .3 <:venditores|reg|benditores:> .3 ego =>=D>

@@ -1,0 +1,16 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An A[p]pianos, den <term target="strategos">Strategen</term>, und 
+            Hermophilos, den <term target="basilikosgrammateus">Königlichen Schreiber</term> 
+            des Hêrakleidês-Bezirks des Arsinoïtês,
+            <milestone unit="line" n="4" rend="break"/>von Ninnaros alias Ptolemaios, Sohn des Isidôros, aus dem Dorf 
+            Karanis. <milestone unit="line" n="6"/>Von den [...], die ich im Dorf [gemeldet habe] ...
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To A[p]pianos, <term target="strategos">strategos</term>, and to 
+            Hermophilos, <term target="basilikosgrammateus">royal scribe</term> of the 
+            Arsinoite nome, Herakleides division,
+            <milestone unit="line" n="4" rend="break"/>from Ninnaros alias Ptolemaios, son of Isidoros from the village of 
+            Karanis. 6 From the [...], which [I registered] in the village ...
+        </p></div>
+      </body>

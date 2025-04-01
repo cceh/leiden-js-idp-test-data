@@ -1,0 +1,56 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <expan>πρ<supplied reason="lost">ε</supplied><ex>σβυτέρου</ex></expan>      <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> Φαειατ               <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> Δαυὶδ                <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>κ</unclear><add place="above">ου</add>                 <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> Δαυὶδ              <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <expan>περιχ<ex>ύτου</ex></expan>          <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <abbr><unclear>Π</unclear>ακυ</abbr> <expan>περ<ex>ι</ex>χ<ex>ύτου</ex></expan> <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> Γεωργίο<add place="above">υ</add>           <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><abbr><unclear>κ</unclear>υ</abbr> <expan>Φιλοθ<ex>έου</ex></expan> <expan>βαφέ<ex>ως</ex></expan> <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="10"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/>ιο<add place="above">υ</add> Πατουαλες    <expan>νο<ex>μίσματος</ex></expan> <space extent="unknown" unit="character"/></del> 
+
+    <lb n="11"/><supplied reason="lost"><expan>δ<ex>ιὰ</ex></expan></supplied> <expan>Φοιβ<ex>άμμωνος</ex></expan> Ὀννοφρίο<add place="above">υ</add> <expan>νο<ex>μίσματος</ex></expan> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="12"/><supplied reason="lost"><expan>δ<ex>ιὰ</ex></expan> </supplied><expan><supplied reason="lost">Σε</supplied>νου<unclear>θ</unclear><ex>ίου</ex></expan> <expan>Ταπί<ex>α</ex></expan> <expan>νο<ex>μίσματος</ex></expan> <num value="1/3" rend="tick">γ</num> 
+
+    <lb n="13"/><supplied reason="lost"><expan>δ<ex>ιὰ</ex></expan></supplied> <expan>Κοσμ<ex>ᾶ</ex></expan> <expan>νοτ<ex>αρίου</ex></expan>   <expan>νο<ex>μίσματος</ex></expan> <num value="1/3" rend="tick">γ</num> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="14"/><foreign xml:lang="cop"> <supplied reason="lost"><g type="stauros"/></supplied> ⲁⲛⲟⲕ ⲓⲱⲁⲛⲛⲏⲥ ⲡϣⲛ ⲙⲁⲑⲓ<supplied reason="lost">ⲁⲥ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="15"/>ⲛ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig><expan>ϩⲟⲗⲟⲕ<ex>ⲟⲧⲧⲓⲛⲟⲥ</ex></expan></orig></choice> ⲙⲛ ⲟⲩ<choice><reg xml:lang="grc">τριμήσιον</reg><orig>ⲧⲣⲓⲙⲏ</orig></choice> ϩⲁ ⲡⲓ<choice><reg xml:lang="grc">ξένιον</reg><orig>ⲝ<supplied reason="lost">ⲉⲛⲟⲛ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/>ⲡ<choice><reg xml:lang="grc">ἐπίσταλμα</reg><orig>ⲓⲡⲓⲥⲧⲁⲣⲙⲁ</orig></choice> ⲛⲡⲉⲛϫⲟⲉⲓ<supplied reason="lost">ⲥ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> <num value="2"><supplied reason="lost">ⲥⲛ</supplied>ⲁ<supplied reason="lost">ⲩ</supplied></num> ⲛ<choice><reg xml:lang="grc">τριμήσιον</reg><orig>ⲧⲣⲓⲙⲏⲥ</orig></choice> ⲛ<choice><reg xml:lang="grc">καταλλαγή</reg><orig>ⲕⲁⲧⲁⲣⲗⲁⲕⲏ</orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> ⲧⲓ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig>ⲥⲧⲏⲭⲉⲓ</orig></choice> ⲉⲡ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">πανεύφημος</reg><orig><supplied reason="lost">ⲡⲁⲛⲉⲩⲫ</supplied>ⲩⲙⲟⲥ</orig></choice> ⲛ<choice><reg xml:lang="grc">σύμβουλος</reg><orig>ⲥⲉⲛⲃⲟ<supplied reason="lost">ⲗⲟⲥ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">καταλλαγή</reg><orig><supplied reason="lost">ⲕⲁⲧⲁⲣⲗ</supplied>ⲁⲕⲏ</orig></choice> ϩⲁⲣⲟⲟⲩ <choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣ<supplied reason="lost">ⲟⲥ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">ὁμολογεῖν</reg><orig><supplied reason="lost">ϩⲟⲙⲟ</supplied>ⲗⲟⲅⲉⲓ</orig></choice> ϫⲉ ⲡⲉⲧⲁⲣⲱ ⲗⲁ<supplied reason="lost">ⲁⲩ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="22"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">κουφίζειν</reg><orig><supplied reason="lost">ⲕⲟⲩⲫ</supplied><unclear>ⲉ</unclear>ⲥⲉ</orig></choice> ⲛⲟⲩⲱⲛ ⲉϥϣⲁϥ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="23"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲉⲡⲁ</supplied>ϩⲟⲩ ϫⲉ ⲛⲉ<num value="15">ⲙⲛⲧⲓ</num> ⲉⲣⲟⲙ<supplied reason="lost">ⲡⲉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="24"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ϩ</supplied>ⲁ <choice><reg xml:lang="grc">πρόστιμον</reg><orig>ⲡⲣⲟⲥⲧⲓⲙⲟⲛ</orig></choice> ⲛⲓⲙ <unclear>ⲉ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="25"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲡ</supplied>ⲉⲧⲣⲟⲥ ⲡϣⲛ ⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig>ⲙⲁⲕⲁⲣ<gap reason="lost" extent="unknown" unit="character"/></orig></choice>
+
+    <lb n="26"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ϫ</supplied>ⲉ ⲙⲁϥ<choice><reg xml:lang="grc">νοεῖν</reg><orig>ⲛⲟⲉⲓ</orig></choice> ⲁⲩⲱ ⲧⲓ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig>ⲥⲧⲏⲭ<supplied reason="lost">ⲉⲓ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/></foreign>
+
+    <lb n="27"/><gap reason="lost" extent="unknown" unit="character"/> <expan>νο<ex>μίσματα</ex></expan> <num value="31">λα</num> <num value="1/12" rend="tick">ιβ</num> </ab></div></div>

@@ -1,0 +1,19 @@
+
+         <T=.de<=
+            ((1))Im fünfzehnten Jahr des Imperator Caesar Traianus Hadrianus Augustus, am 3. 
+            Schalttag. ((3))Eingezahlt hat an Hôriôn und (seine) Genossen, 
+            <Einnehmer=praktor>, Sempron[i]us 
+            <:Api[a]nus|:Appianus|:>, an 
+            <Einkünften=prosodaoikopedon> <:<aus 
+                Immobilien=prosodaoikopedon>|BGU:BL I, S. 64.|:> für dasselbe Jahr 
+            für Karanis vier Drachmen, das sind 4 Drachmen.
+        =>=T>
+         <T=.en<=
+            ((1))Year fifteen of Imperator Caesar Traianus Hadrianus Augustus, intercalary day 3. 
+            ((3))Paid to Horion and his associates, <tax 
+                collectors=praktor>, (by) Sempron[i]us 
+            <:Api[a]nus|:Appianus|:> for <the revenues 
+                from=prosodaoikopedon> <:<buildings=prosodaoikopedon>|BGU:BL I 64.|:> in Karanis for the same year four drachmas, = 4 
+            drachmas.
+        =>=T>
+      

@@ -1,0 +1,20 @@
+<S=.grc
+<=
+1. [.?]ωσι vestig 
+2. [.?]γ κρ κ κρ κρ κ κρ κρ κρ κρ κερ κρ vestig 
+3. [.?] <:[το]ύ̣των|alt|[αὐ]τῶν:> ἀπὸ Βουσίρεως αωη νό̣του
+4. [.?] <:[τού]των|alt|[αὐ]τῶν:> ἀπὸ Βουσίρεως ἐξ ἀπηλίωτου
+(5, inverse) *slanting-stroke* <#ζ̣=7#> *filler(extension)* <#κ̣ε=25#> Θώθ
+(6, inverse) (νο(μισματ )) (ὁμ(οίως)) <#η̄=8#>
+(7, inverse) καὶ .2ειου
+(8,md, perpendicular) [.?] κρέως <#Α.1κ̣α=1121-1921#> <#δ '=1/4#>
+(9,md, perpendicular) <#[.?].1=#> <#δ '=1/4#> <#η̄=8#> <#ι̣ϛ̣ =1/16#> (λ̣ο̣[ι](πὰ)) οὕτως
+(10,md, perpendicular) [.?] <#[.?]ϛ=#> *symbol* *slanting-stroke**slanting-stroke* (ἅσπε̣(ρ))
+(11,md, perpendicular) [.?].2 (νο(μισματ )) <#κ̣̄δ̣̄=24#>
+(12,md, perpendicular) vestig 
+(13,md, perpendicular) [.?].1τουχομει ὑπὸ Θεοδώρου
+(14,md, perpendicular) vestig 
+(15,md, perpendicular) vestig 
+(16,md, perpendicular) vestig 
+=>
+      

@@ -1,0 +1,25 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="FrA" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>m<gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>n<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">G</supplied>erm<ex>anicum</ex></expan> <unclear>m</unclear>axi<unclear>m</unclear>um <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>m Caesa<unclear>ri</unclear>s fili<unclear>a</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>os<gap reason="illegible" quantity="1" unit="character"/>osti <abbr>imm</abbr> iii Z<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>uma
+</ab></div><div n="FrB" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <subst><add place="inline"><supplied reason="lost">A</supplied><unclear>u</unclear>gustum</add><del rend="corrected"><supplied reason="lost">a</supplied>ugusti<certainty match=".." locus="value"/></del></subst> <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>e</unclear>t Aurel<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ussi<gap reason="illegible" quantity="2" unit="character"/>i<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="FrC" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> A</supplied><unclear>u</unclear>r<unclear>el</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> A</supplied><unclear>u</unclear>rel<gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

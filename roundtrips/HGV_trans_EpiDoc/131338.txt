@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+              “I have received from . . . for . . . the slave-girl . . . from Pharmouthi .. till the 21st . . .”
+            =>
+         =T>
+      

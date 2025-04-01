@@ -1,0 +1,19 @@
+
+         <T=.fr
+            <=
+               ((2)) Au très puissant Conseil [d'Hermoupolis la Grande], ancienne, [très vénérable] et très brillante, 
+[par l'intermédiaire d'Aurélios] Korellios Alexandros, chevalier qui a accompli ses milices et de quelque façon qu'on le nomme, 
+prytane en charge, (((5))) de la part d'Aurélios Hermaios [appelé aussi Hérakleidès, conseiller, 
+vérificateur désigné des comptes de [ladite cité]. Ayant reçu par écrit mandat de vous, conformément aux Actes établis dans la Salle du Conseil, 
+pour faire la vérification de l'assiette de la taxe de soixante drachmes d'argent, selon la liste par maison de la ville, 
+en ce qui concerne la rentrée des sommes d'argent perçues sur ce compte, et (la vérification) de la dépense couverte au moyen de ces sommes d'argent, 
+((11)) nécessairement pour une facile compréhension de la [vérité] j'ai fait ma démonstration en prenant pour base dans les registres publics 
+de l'administration [la liste] des maisons de chaque quartier, ((15)) à partir de laquelle, recherchant les sommes totales recueillies […] pas seulement 
+[…] de la part des inspecteurs […] ((22)) au total [… talents … drachmes dont] il a été payé par […] appelé aussi Achilleus [conseiller], 
+receveur des impôts 23 talents […] drachmes. Quartier de la Ville-Ouest [où sont des maisons] au nombre de 1000 […] 
+((25)) endroits pour faire sécher […] avec tous les biens […] de même […] au total 19 talents 600 (?) drachmes [dont il a été payé] par Dioskoros fils de Sarapammon, 
+conseiller, receveur des impôts […] talents […]
+/*Translation with minor change in line 24: M. Drew-Bear, CPR 35 22*/
+            =>
+         =T>
+      

@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><handShift new="m1"/>   <num value="19">ιθ</num> 
+
+    <lb n="2"/><handShift new="m2"/> <expan>τ<unclear>όμ</unclear><ex>ος</ex></expan> <num value="1">α</num>      <abbr><num value="3"><unclear>γ</unclear></num></abbr> 
+
+    <lb n="3"/>Αὐρηλίῳ Ἀπολλωνίῳ τῷ καὶ 
+
+    <lb n="4"/>Διονυσίῳ <expan>στρ<ex>ατηγῷ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/></abbr> 
+
+    <lb n="5"/>παρὰ <choice><reg>Αὐρηλίων</reg><orig>Αὐρηλιου</orig></choice> Ἑρ<supplied reason="lost">ι</supplied>έως <choice><reg>ἐκ</reg><orig>ἐγ</orig></choice> μητρὸς 
+
+    <lb n="6"/>Ταθ<unclear>α</unclear>ρῆτος καὶ Π<supplied reason="lost">ο</supplied>υώριος Ὥρου 
+
+    <lb n="7"/>ἐν κλήρῳ πρακτορίας <expan><unclear>σι</unclear><supplied reason="lost">τ</supplied><unclear>ικ</unclear><ex cert="low">ῶν</ex></expan> 
+
+    <lb n="8"/>κώ<supplied reason="lost">μ</supplied>ης Τα<unclear>ι</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> τῆς Ἀραβίας 
+
+    <lb n="9"/>τοῦ αὐ<supplied reason="lost">τοῦ νομοῦ <expan>ὑ<ex>πὲρ</ex></expan></supplied> τοῦ <expan>δι<unclear>ελ</unclear><ex>θόντος</ex></expan> <num value="1"><unclear>α</unclear></num> <expan><ex cert="low">ἔτους</ex></expan> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

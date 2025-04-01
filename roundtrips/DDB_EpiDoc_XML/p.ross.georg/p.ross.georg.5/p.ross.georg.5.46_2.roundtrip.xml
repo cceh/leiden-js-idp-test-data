@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><g type="stauros"/> <expan>Φ<ex>α</ex>ῶφ<ex>ι</ex></expan> <num value="18">ιη</num> σίτου <choice><reg>πέμπτης</reg><orig>πέμτης</orig></choice> <expan>ἰνδ<ex>ικτίονος</ex></expan> 
+
+    <lb n="2"/>Ἀμπελίου <expan><ex>ὑπὲρ</ex></expan> <expan>οὐσί<ex>ας</ex></expan> Διδύμης <expan>ἐνδ<ex>οξοτάτου</ex></expan> 
+
+    <lb n="3"/>Μακαρίου <choice><reg>γεωργοῦ</reg><orig>γεωργος</orig></choice> <expan><ex>ἀρουρῶν</ex></expan> <num value="20">κ<certainty match="../@value" locus="value"/></num>  <expan>ἀρτ<ex>άβης</ex></expan> ἥμισυ 
+
+    <lb n="4"/>τρίτον <num value="1/2"/><num value="1/3"/> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <g type="stauros"/> <expan>δ<ex>ι</ex>ʼ</expan> ἡμῶν 
+
+    <lb n="5"/><expan>Κάμμων<ex>ος</ex></expan> <expan><ex>καὶ</ex></expan> Ἰωαννακίου 
+
+    <lb n="6"/><expan><ex>καὶ</ex></expan> Γεωργίου <g type="stauros"/> <g type="stauros"/> 
+</ab></div>

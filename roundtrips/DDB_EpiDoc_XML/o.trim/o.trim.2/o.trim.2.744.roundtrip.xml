@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="concave" subtype="side" type="textpart">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb n="2"/><gap reason="illegible" quantity="2" unit="character"/> <expan>ε<unclear>ὐ</unclear>χ<unclear>α</unclear>ριστ<ex> </ex></expan> <gap reason="illegible" quantity="1" unit="character"/>π<unclear>ε</unclear>μ<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb n="3"/>τῷ ἄνω <expan>ἐλθόν<ex>τι</ex></expan>
+
+<lb n="4"/>μετὰ <choice><reg>Ἀμμωνίου</reg><orig><expan>Ἀμμο<ex>νίου</ex></expan></orig></choice> καὶ <expan>Πιύ<ex>ριος</ex></expan>
+
+<lb n="5"/><expan>μ<ex>άτιον</ex></expan> <num value="1">α</num>
+</ab>
+</div>
+<div n="convex" subtype="side" type="textpart">
+<ab>
+<lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc><certainty match=".." locus="name"/></gap> <num value="60"><unclear>ξ</unclear></num> Ἑρμησ<unclear>ί</unclear>α
+</ab>
+</div>
+      </div>

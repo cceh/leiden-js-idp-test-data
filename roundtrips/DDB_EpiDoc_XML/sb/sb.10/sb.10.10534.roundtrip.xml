@@ -1,0 +1,49 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart">
+<div n="1" subtype="column" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> αἶγες</supplied>   <num value="10">ι</num><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> αἶγες</supplied>   <num value="11">ια</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> Θεων<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">πρ</supplied>ό<ex>βατα</ex></expan>  <gap reason="illegible" quantity="1" unit="character"/><num><unclear>000</unclear></num>  <expan><unclear>αἶγ</unclear><ex>ες</ex></expan> <num value="210">σι</num> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>      <gap reason="illegible" quantity="2" unit="character"/><unclear>ου</unclear> 
+
+    <lb n="6"/><supplied reason="lost"><expan>πρό<ex>βατα</ex></expan> καὶ αἶγες τοῦ δεῖνος καὶ Ἀχορίνιος.</supplied> 
+
+    <lb n="7"/><supplied reason="lost">τοῦ δεῖνος <expan>πρό<ex>βατα</ex></expan> <num value="125">ρκε</num>  αἶγες  <num value="4">δ</num>  </supplied><gap reason="lost" extent="unknown" unit="character"/>  
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
+    <lb n="1"/><num value="9"><unclear>θ</unclear></num> 
+
+    <lb n="1"/>ὧν αὐτοῦ ἴδια                  <num value="80">π</num>  αἶγες     <num value="4">δ</num> 
+
+    <lb n="2"/>καὶ Ἀρσινόης φορικὰ                        <gap reason="illegible" quantity="2" unit="character"/> 
+
+    <lb n="3"/>Ἀχορίνιος ἴδια                <num value="40">μ</num>  αἶγες     <num value="3">γ</num> 
+
+    <lb n="4"/><num value="165">ρξε</num>  αἶγες     <num value="7">ζ</num> 
+
+    <lb n="5"/>γίνεται τῆς κώμης <expan>πρό<ex>βατα</ex></expan>  <num value="4241">Δσμα</num> 
+
+    <lb n="6"/>αἶγες <num value="336"><unclear>τλϛ</unclear></num>        <num value="4"><unclear>δ</unclear></num><gap reason="illegible" quantity="3" unit="character"/> 
+
+    <lb n="7"/>ὧν Ἀρσινόης <expan>φορικ<ex>ὰ</ex></expan>         <num value="240">σμ</num> 
+
+    <lb n="8"/><gap reason="illegible" quantity="3" unit="character"/> 
+</ab></div>
+</div>
+<div n="v" type="textpart">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="line"/> 
+</ab></div>
+<div n="2,md" subtype="column" type="textpart"><ab>
+    <lb n="1"/><num value="14">ιδ</num> 
+</ab></div>
+<div n="2,ctr" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="line"/> 
+</ab></div>
+</div></div>

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              The 4th year of Tiberius Claudius Caesar Augustus Germ. Imp., Epeiph 21, des Augustus. I, Theon, sitologus of the district of Pela, have had measured to me by Ar... daughter of Phatris son of Apollonius through Heras son of Onnophris 11 1/4 artabae of wheat in all, by the cuscecancellus measure, and the 4 hundredths required as compensation for the faulty measure. (Endorsed) The 4th year of Tiberius Claudius Caesar.
+            =>
+         =T>
+      

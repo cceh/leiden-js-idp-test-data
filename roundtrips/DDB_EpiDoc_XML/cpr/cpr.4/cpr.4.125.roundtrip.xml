@@ -1,0 +1,23 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" quantity="7" unit="character" precision="low"/> ⲙⲉⲕ<unclear>ⲓⲣⲁⲣⲁ</unclear> <unclear>ⲁ</unclear>ⲛⲛⲉ
+<lb n="2"/><gap reason="lost" quantity="6" unit="character" precision="low"/> ϩⲏⲗⲓⲁ ⲡⲁ ⲧ<choice><reg xml:lang="grc">πόλις</reg><orig>ⲡⲱⲗⲓⲥ</orig></choice>
+<lb n="3"/><gap reason="lost" quantity="6" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/> ϫⲉ ⲉⲡⲙⲉ ⲡⲓⲱϩⲓ
+<lb n="4"/><gap reason="lost" quantity="6" unit="character" precision="low"/><unclear>ⲥ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ϫ</unclear>ⲁ ⲙⲁⲃ ϩⲁⲗⲁ
+<lb n="5" break="no"/>ⲧ<supplied reason="lost">ⲉⲛ</supplied> <choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁ</orig></choice> ϭ<supplied reason="lost">ⲁ</supplied><unclear>ⲙ</unclear> ⲛ<choice><reg xml:lang="grc" cert="low">μίσθωσις</reg><orig>ⲙⲓⲥⲑⲱⲥ</orig></choice>
+<lb n="6"/>ϩⲁ ⲡⲁⲡ<unclear>ⲁ</unclear> ⲡⲉⲧⲣ<unclear>ⲉ</unclear> ⲡⲉⲛ<choice><reg xml:lang="grc">κληρονόμος</reg><orig>ⲕⲗⲏⲗⲱ
+<lb n="7" break="no"/>ⲛⲱⲙⲉ</orig></choice> ⲉⲧⲉ <num value="4"><hi rend="supraline">ⲇ</hi></num> ⲛ<unclear>ⲥⲓ</unclear>ⲱϩⲓ ⲛⲉ
+<lb n="8"/><choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ⲁⲛⲁⲛ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> <choice><reg xml:lang="grc">κληρονόμος</reg><orig>ⲕⲗⲏⲛⲱⲛⲱⲥ</orig></choice>
+<lb n="9"/>ⲛⲧⲏⲛ ⲛⲉⲛϣ ⲉⲗ ⲡ<expan><hi rend="supraline">ϭ</hi><ex>ⲟⲓ</ex><hi rend="supraline">ⲥ</hi></expan> ⲉⲓⲉⲗⲁⲩ
+<lb n="10"/>ϫⲉ ⲁⲛ<gap reason="illegible" quantity="1" unit="character"/>ⲉϣ ϫⲁ ⲛϩⲏⲧⲟⲩ ⲉ
+<lb n="11"/>ϫⲓ ⲡⲁⲩ <supplied reason="lost">ϣ</supplied>ⲁ ⲡϣⲁ <unclear>ⲛ</unclear>ⲉϩ ⲡⲉⲛⲉ
+<lb n="12" break="no"/>ⲓⲉ ⲉⲃⲁⲗ <supplied reason="lost">ⲉⲗⲁⲧⲉⲛ</supplied> ⲉⲧⲃⲉ ⲛⲉ<hi rend="diaeresis">ⲓ</hi>ⲓⲱϩⲓ
+<lb n="13"/>ⲉ<unclear>ⲃ</unclear><supplied reason="lost">ⲉⲧⲓ</supplied> <choice><reg xml:lang="grc">νόμισμα</reg><orig><expan>ⲛⲟ<ex>ⲙⲓⲥⲙⲁ</ex></expan></orig></choice> <num value="6"><hi rend="supraline"><unclear>ϛ</unclear></hi></num> <choice><reg xml:lang="grc">ἕξ</reg><orig><num value="6">ϩⲉⲝ</num></orig></choice> ⲛ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig><expan>ϩ<supplied reason="lost">ⲟⲗⲟ</supplied>ⲕ<ex>ⲟ</ex>ⲧ<ex>ⲧⲓⲛⲟⲥ</ex></expan></orig></choice> <choice><reg xml:lang="grc">πρόστιμον</reg><orig>ⲡⲣⲟⲥⲧⲓⲙⲱⲛ</orig></choice>
+<lb n="14"/>ⲉⲛⲱⲗⲉⲕ <supplied reason="lost">ⲉⲡⲛⲟⲩⲧⲓ ⲡ</supplied><choice><reg xml:lang="grc">παντοκράτωρ</reg><orig>ⲡⲁⲛⲧⲱⲕⲣⲁⲧⲱⲣ</orig></choice>
+<lb n="15"/><supplied reason="lost">ⲙⲛ ⲡⲟⲩϫⲉⲓ ⲛⲉⲧ</supplied><choice><reg xml:lang="grc">ἄρχειν</reg><orig><supplied reason="lost">ⲁⲣⲭ</supplied>ⲓ</orig></choice> ⲉϫⲱⲛ <choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁ</orig></choice>
+<lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲁⲛ</supplied>ⲁⲕ ⲡⲁⲡ<unclear>ⲥ</unclear>
+</ab></div>
+<div n="v" type="textpart"><ab>
+17.<g type="stauros"/> <foreign xml:lang="grc"><expan>ἀσφά<unclear>λ</unclear><ex>εια</ex></expan> <choice><reg>γενομένη</reg><orig>γεναμμ<gap reason="illegible" quantity="3" unit="character"/></orig></choice> <gap reason="lost" extent="unknown" unit="character"/></foreign>
+</ab></div>
+      </div>

@@ -1,0 +1,21 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/>ἕξεις τ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>οδῳ μ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><app type="editorial"><lem>δ<unclear>α</unclear>ν</lem><rdg resp="O.Berenike 1 117">δε<unclear>ν</unclear></rdg><rdg>δ<unclear> </unclear>ν</rdg></app> κα<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>ται <app type="editorial"><lem>εἰ κα</lem><rdg resp="O.Berenike 1 117"><gap reason="illegible" quantity="3" unit="character"/></rdg><rdg><unclear>ν</unclear>εα</rdg></app><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><expan>κρι<ex>θῆς</ex></expan> <num value="5">ε</num>. <app type="editorial"><lem>γράψο<supplied reason="lost">ν</supplied></lem><rdg resp="O.Berenike 1 117"><expan>γί<ex>νονται</ex></expan> <expan>κρ<ex>ιθῆς</ex></expan></rdg><rdg>γι<gap reason="illegible" quantity="1" unit="character"/>ψο<gap reason="lost" extent="unknown" unit="character"/></rdg></app> <supplied reason="lost">μοι</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><app type="editorial"><lem>ἢ <choice><reg>ἔνεστι</reg><orig>ἔνι</orig></choice></lem><rdg resp="O.Berenike 1 117">ημνι</rdg><rdg><gap reason="illegible" quantity="1" unit="character"/>ενι</rdg></app> τινὰ εξ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/>
+    
+    <lb n="7"/><add place="above">ἵνα</add> εἰ μὴ δῶμεν αὐ<supplied reason="lost">τ</supplied> 
+
+    <lb n="8" break="no"/><choice><reg>ἐπεί</reg><orig>ἐπὶ</orig></choice> ἀπαιτούμε<unclear>θ</unclear><supplied reason="lost">α</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+    
+</ab></div>

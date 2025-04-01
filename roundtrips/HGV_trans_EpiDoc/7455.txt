@@ -1,0 +1,20 @@
+
+         <T=.en
+            <D=.a.fragment 
+               <=
+/*No translation provided by the edition*/
+                  ((1)) 
+               =>
+            =D>
+            <D=.b.fragment 
+               <=
+                  ((4)) [...] ((5)) If not, they will be stubborn again in the [...] sailors. Before though, every one of the laoi [...]. 
+If he/they deliver (?) 31 aoilia [...] and they have become engaged in the works [...] in order that [...] is provided to them from the royal store [...] 
+(((10))) it is necessary to take care that not of the sailors [... once they have been] sent [away](?) it will no longer be easy to [bring them back (?) ...] 
+so that they are busy at the works. For if [...] to finish why they do not, disregarding often [...] to know exactly by whom the water [...] 
+(((15))) as Polydoros writes to you now that the [...] in the 10th year when I was writing the letter to you I was collecting the [...] since you write to me contrarywise.
+/*Translation: B. van Beek, P.Petr. Kleon 42*/
+               =>
+            =D>
+         =T>
+      

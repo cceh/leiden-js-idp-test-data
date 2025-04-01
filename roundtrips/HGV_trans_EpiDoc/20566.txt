@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              Thaisous to her mother Syras. I must tell you that Seleucus came here and has fled. Don’t trouble yourself to explain (?). Let Lucia wait until the year. Let me know the day. Salute Ammonas my brother and ... and my sister ... and my father Theonas.
+            =>
+         =T>
+      

@@ -1,0 +1,22 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/>Π<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>λί<ex>τραι</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>Πα<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>λί<ex>τραι</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>Ζεὺς <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>λί<ex>τραι</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>Παῦλο<unclear>ς</unclear> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>λί<ex>τραι</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>Μακάρις <expan>λί<ex>τραι</ex></expan> <num value="2">β</num>
+
+    <lb n="6"/>Φη<unclear>δί</unclear>ων <del rend="erasure"><expan>λί<ex>τραι</ex></expan> <num value="2">β</num></del>
+
+    <lb n="7"/>Πλὸμ <expan>λί<ex>τραι</ex></expan> <num value="3">γ</num> <expan><ex cert="low">ἥμισυ</ex></expan> <num value="1/2"/>
+
+    <lb n="8"/>Μακάρις <expan>λί<ex>τραι</ex></expan> <num value="2">β</num> <expan><ex>ἥμισυ</ex></expan> <num value="1/2"/>
+
+    <lb n="9"/>Μακάρις <expan>λί<ex>τραι</ex></expan> <num value="10">ι</num>
+
+    <lb n="10"/><del rend="erasure">τ<unclear>οῦ</unclear> <expan>μην<ex>ὸς</ex></expan> <expan>κρ<ex>έως</ex></expan> <expan>λί<ex>τραι</ex></expan> <num value="42">μβ</num></del></ab></div>

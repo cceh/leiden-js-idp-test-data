@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              The 10th year of Antoninus Caesar the lord, Pachon 4. Amois also called Papontos, son of Diodorus, has paid to Diogenes, collector of money taxes of M... street, for the pig-tax of the said 10th year 1 drachma 5 1/2 obols, total 1 dr. 5 1/2 ob. T..., his son, his mother being Tapontos, has paid for the poll-tax of the said roth year 4 drachmae, for the pig-tax 1 drachma 5 1/2 obols.
+            =>
+         =T>
+      

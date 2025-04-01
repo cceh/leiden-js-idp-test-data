@@ -1,0 +1,10 @@
+
+            <T=.en
+            <=
+ /*Translation provided by the edition*/
+               ((1)) [...] while we were in Pse[...] [...] Philadelpheia [...] [...] early in the morning; 
+                could you please order to open the sluice gates near [Ptolem]ais as you think [fit. If] you see the works upon your arrival [... if] you please.
+                /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 96, © Peeters*/
+            =>
+         =T>
+        

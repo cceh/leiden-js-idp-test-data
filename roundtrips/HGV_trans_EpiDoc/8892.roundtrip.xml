@@ -1,0 +1,53 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            ... <milestone unit="line" n="1"/>[– – – <app><lem>mir gehört im</lem></app> 
+            <app><lem><term target="amphodon">– – – -Viertel</term></lem></app> 
+            <app><lem>ein Haus (?), in dem ich wohne und</lem></app> mich und] die Meinen [melde für die 
+            <term target="katoikianapographe">Haushaltsmeldung</term> des vergangenen 28. Jahres 
+            im selbem] <term target="amphApHiBoub">Apollônios-Hierakion-</term>[<app><lem><term target="amphApHiBoub">Bûbasteion(?)</term></lem></app><term target="amphApHiBoub">-Viertel</term>]. 
+            <milestone unit="line" n="4"/><app type="BGU_DDbDP"><lem resp="BL X, S. 12">[Ich bin die oben] genannte [Nemesilla alias 
+                Kyrilla]</lem></app>, 39 Jahre (alt) und (ich melde auch) die 
+            [<app><lem>von meinem Ehemann N.N.</lem></app>] 
+            <term target="tonkekosmeteukoton">aus der Gruppe der gewesenen Kosmeten</term> [– – – 
+            <app><lem>abstammenden Kinder</lem></app> – – –]os, 16 Jahre (alt), ohne Kennzeichen, und 
+            <milestone unit="line" n="7"/>[...] Bithynê, 28 Jahre (alt), ohne Kennzeichen, [– – – der – – –]lûstia, mit 
+            Spitznamen [...] der Didymarion alias <milestone unit="line" n="10"/>[– – – der] Herrin <app><lem>im</lem></app> 
+            <app><lem>[– – – -Viertel]</lem></app>[ – – –] <app><lem>der 
+                Inbesitznahme</lem></app> des Schuldners [...] des [...]tôr im 
+            <term target="amphodon"><gap reason="lost" extent="unknown" unit="character"/>-Viertel</term> [...] seiner Ehefrau Theoxe[– – –, 
+            – – –]dôn, 54 Jahre (alt), ohne Kennzeichen, <milestone unit="line" n="15"/><gap reason="lost" extent="unknown" unit="character"/>, gemeldet durch die 
+            [...] der Rhodinê [...]. <app type="BGU_DDbDP"><lem resp="BL X, S. 12">Der [Nemesil]la alias Kyrilla 
+                [gehört]</lem></app>[] [...] [<app type="BGU"><lem resp="BL I, S. 21">im</lem></app>] <app type="BGU"><lem resp="BL I, S. 21."><term target="amphMak">[Mak]edonen-[Viertel]</term></lem></app> der der vierte [Teil] [...] 
+            [<app type="BGU"><lem resp="BL I, S. 21">im</lem></app>] 
+            <app type="BGU"><lem resp="BL I, S. 21."><term target="amphBithIs">[Bithyner]-Isiôn-[Viertel]</term></lem></app> 
+            des [...]
+            <milestone unit="line" n="20" rend="break"/>[– – – (2. Hand) Ich], Nemesilla alias <app type="BGU_DDbDP"><lem resp="BL X, S. 12">Ky[rilla]</lem></app> [reiche] die Meldung <app type="BGU_DDbDP"><lem resp="BL X, S. 12">wie</lem></app> 
+            [vorliegend ein – – –]. <milestone unit="line" n="21"/>(3. Hand) Ich, [...], habe (die Meldung) 
+            [eingereicht]. (1. Hand) Im 29. Jahr <app><lem>[...]</lem></app>.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            [... <milestone unit="line" n="2"/>I register myself and] my family [for the 
+            <term target="katoikianapographe">house-by-house registration</term> of the past year 28 in 
+            the same <term target="amphApHiBoub">quarter of the</term> 
+            <app type="BGU_DDbDP"><lem><term target="amphApHiBoub">Hawk shrine of Apollonios</term></lem></app> 
+            <app><lem><term target="amphApHiBoub">[and of the Boubasteion]</term></lem></app> 
+            [<app><lem>(?)</lem></app>. <milestone unit="line" n="4"/><app type="BGU_DDbDP"><lem resp="BL X 12">And I am Nemesilla alias Kyrilla, the above 
+                mentioned</lem></app>], 39 years old, and (I register) the 
+            [<app><lem>children 
+            (?) born to my husband NN</lem></app>] from the <term target="tonkekosmeteukoton">ex-kosmetai</term> 
+            [...]os, 16 years old, without a distinguishing mark <milestone unit="line" n="7"/>[...]Bithyne, 28 years 
+            old, without a distinguishing mark, [...]loustia nicknamed [...] of Didymarion alias 
+            [– – – <milestone unit="line" n="10"/>registered with] her mistress <app><lem>in the</lem></app>  
+            <app><lem><term target="amphodon">quarter</term></lem></app> of [...] of 
+            <app><lem>the order to possess</lem></app> of the debtor [...] of [...]tor in the 
+            <term target="amphodon">quarter</term> of [...] of his wife Theoxe[– – –, – – –]don, 
+            54 years old, without a distinguishing mark, [...] <milestone unit="line" n="15"/>registered by [...] of 
+            Rhodine [...]. [...] <app type="BGU_DDbDP"><lem resp="BL X 12">[There belongs to Nemesi]lla alias Kyrilla</lem></app> [– – – in the] <term target="amphMak">Macedonians’ </term>
+            [<app type="BGU"><lem resp="BL I 21."><term target="amphMak">quarter</term></lem></app>] a 
+            <term target="amphodon">quarter</term> [...] [<app type="BGU"><lem resp="BL I 21">in the</lem></app>] <app type="BGU"><lem resp="BL I 21."><term target="amphBithIs">[quarter of] the Bithynians of Ision</term></lem></app> [...] <milestone unit="line" n="20"/>[– – – (m. 2) I,] Nemesilla alias 
+            <app type="BGU_DDbDP"><lem resp="BL X 12">Ky[rilla]</lem></app> [submit] this registration 
+            <app type="BGU_DDbDP"><lem resp="BL X 12">as</lem></app> aforesaid. 
+            <milestone unit="line" n="21"/>(m. 3) I, [NN], have submitted (this 
+            registration). <milestone unit="line" n="22"/>(m. 1 ?) Year 29 <app><lem>[...]</lem></app>
+        </p></div>
+      </body>

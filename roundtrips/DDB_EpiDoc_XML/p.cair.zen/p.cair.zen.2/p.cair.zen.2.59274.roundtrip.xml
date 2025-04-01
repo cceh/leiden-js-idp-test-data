@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><expan><ex>ἔτους</ex></expan> <num value="35">λε</num>, Ἐπεὶφ <num value="30">λ</num>. ὅσα <add place="above">Τε<unclear>ρβῶ</unclear>νις Παμεῦτος</add> <subst><add place="inline">παρέδωκεν</add><del rend="corrected">παρεδωκ<del rend="erasure">αν</del></del></subst> Παμ
+
+    <lb n="2" break="no"/><subst><add place="inline"><unclear>μ</unclear>ένει</add><del rend="corrected">Παμ<gap reason="illegible" quantity="1" unit="character"/><unclear>μ</unclear>ένει</del></subst> χοιροδέλφακες <num value="44">μδ</num>, δέλφακες 
+
+    <lb n="3"/>μεγάλοι <num value="13">ιγ</num>, θήλεια <num value="12">ιβ</num>, <expan><ex>γίνονται</ex></expan> <num value="69">ξθ</num>. 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="4"/>Ἁρεῦς Παφούνιος· χοιροδέ<unclear>λ</unclear>φακες <num value="47">μζ</num>, 
+
+    <lb n="5"/>δέλφακες μεγάλοι <num value="4">δ</num>, τοκάδες <num value="13">ιγ</num>, <expan><ex>γίνονται</ex></expan> <num value="64">ξδ</num>. 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="6"/></ab></div>

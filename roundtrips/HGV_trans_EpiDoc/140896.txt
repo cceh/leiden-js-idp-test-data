@@ -1,0 +1,7 @@
+
+         <T=.fr
+            <=
+               ((1))... son père ... Voilà que ... Pierre ... ((5))de synaxe ... j'ai envoyé ... Aie l'amabilité ((10))de ...
+            =>
+         =T>
+      

@@ -1,0 +1,18 @@
+<S=.grc
+<D=.r<=
+1. lost.?lin
+1. [.?] vestig 
+2. [.?] vestig 
+3. [.?] vestig 
+4. [.?] vestig 
+5. [.?].5η
+6. [.?].1 <#σκ=220#> *parens-punctuation-closing*
+7. [.?]λιω̣ι <#σ=200#> *parens-punctuation-closing*
+8. [.?]α̣κιωι <#νζ=57#>
+8. lost.?lin
+=>=D>
+<D=.v<=
+1. lost.?lin
+1. [.?] ((γίνονται?)) ((ἀρτάβαι?)) <#ψκβ=722#>
+2. [.?] vac.?  χρι̣σ.1
+ =>=D>

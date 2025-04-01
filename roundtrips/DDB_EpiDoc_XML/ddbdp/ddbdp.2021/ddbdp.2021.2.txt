@@ -1,0 +1,29 @@
+<S=.la
+<=
+    1. Lucianus.1[.?]
+
+    (2, indent)quando [.?]
+
+    3. <:quindecim.1[.?]|ed|quindecimụ[.?]=Marichal:>
+
+    (4, indent)em.1tria.1[.?]
+
+    5.- <:dis cori.4[.?]|ed|discors .4[.?]=Marichal:>
+
+    6. <:sunt qui|ed|sunt di=Marichal:>.2u.1[.?]
+
+    7. qui eieces.2inn.1[.?]
+
+    8. (ann(o)) secundo dom[ini][.?]
+
+    (9, outdent).3c̣ṭ.2ịṇọbos (|l(?)|) (|b(?)|) u[.?]
+
+    10. vini <:(|o|)|ed|(o(rca))=R. Ast:> uno <:f.1|ed|<:(fi(unt))|alt|(|f|):>=R. Ast:> XV o[.?]
+
+    11. dedisti michi quod .1ob[.?]
+
+    12. vini urci unu
+
+    13. IIII
+=>
+      

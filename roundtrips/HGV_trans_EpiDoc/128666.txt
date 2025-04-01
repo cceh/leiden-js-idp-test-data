@@ -1,0 +1,41 @@
+
+         <T=.de
+            <D=.i.column 
+               <=
+((1))[...]s	  80 Xestai 
+((2))[...]	  45 Xestai
+((3))[...]os	110 Xestai
+((4))[...]s	400 Xestai
+((5))[...]	806 Xestai
+((6))[...]	  40 Xestai
+((7))[...]	  80 Xestai
+((8))[...]	  93 Xestai
+((9))[...]	170 Xestai
+((10))[...]	460 Xestai
+((11))[...]	136 Xestai
+((12))[...]	810 Xestai
+((13))[...]	392 Xestai
+((14))[...]	103 Xestai
+((15))[...]	215 Xestai
+((16))[...]	126 Xestai
+((17))[...]	140 Xestai
+((18))[...]	  50 Xestai
+((19))[...]	400 Xestai
+((20))[...]	  63 Xestai
+               =>
+            =D>
+            <D=.ii.column 
+               <=
+((1)) Liste [...]
+((2)) Artemidoros
+((3)) .90. Chairemon, Sohn des Demetrios
+((4)) Horigenes Hie[...]
+((5)) Horigenis, Sohn [...]
+((6)) Eulogios
+((7)) Ebenso den Gau betreffend
+((8)) aus Psychis
+((9)) nahe bei Panopolis (?)
+               =>
+            =D>
+         =T>
+      

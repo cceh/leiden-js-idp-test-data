@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κα</supplied>ὶ ἄλλῳ
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>ἄρουραι</ex></expan> <num value="3"><unclear>γ</unclear></num>
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+    <lb n="3"/>Τέρτον Πετοχνο<supplied reason="lost">ύβεως</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+      </div>

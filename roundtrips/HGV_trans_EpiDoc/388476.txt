@@ -1,0 +1,15 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1))[Dika]ios to Kleon, greetings. Please [look] where the water can be [led (?) ...] in the Small Lake [...].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((9))(m2) Choiak 9, from Dikaios. To Kleon
+                  /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 73, © Peeters*/
+               =>
+            =D>
+         =T>
+        

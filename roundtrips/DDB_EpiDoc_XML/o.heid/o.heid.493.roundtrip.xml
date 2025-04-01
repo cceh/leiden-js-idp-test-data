@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="illegible" quantity="5" unit="line"><desc>vestiges</desc></gap> 
+<lb n="6"/><num value="19"><hi rend="supraline">ιθ</hi></num>
+<lb n="7"/><gap reason="illegible" quantity="2" unit="line"><desc>vestiges</desc></gap> 
+<lb n="9"/><num atLeast="21" atMost="29"><hi rend="supraline">κ<gap reason="illegible" quantity="1" unit="character"/></hi></num>
+<lb n="10"/><gap reason="illegible" quantity="3" unit="line"><desc>vestiges</desc></gap> 
+<lb n="13"/><num value="26"><hi rend="supraline">κϛ</hi></num>
+<lb n="13"/><gap reason="lost" extent="unknown" unit="line"/>
+
+</ab>
+      </div>

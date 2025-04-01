@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+<div n="a" subtype="fragment" type="textpart">
+
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/><choice><reg>Εὐρώπη</reg><orig>Εὐρόπη</orig></choice>
+ </ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="1"/><choice><reg>Εὐρώπη</reg><orig>Εὐρόπη</orig></choice>
+<lb n="2"/><choice><reg>Εὐρώπη</reg><orig>Εὐρόπη</orig></choice>
+<lb n="3"/><choice><reg>Εὐρώπη</reg><orig>Εὐρόπη</orig></choice>
+</ab></div>
+<div n="iii" subtype="column" type="textpart"><ab>
+<lb n="1"/><choice><reg>Πασιφάη</reg><orig>Πασιφάει</orig></choice>
+<lb n="2"/><choice><reg>Πασιφάη</reg><orig>Πασιφάει</orig></choice>
+<lb n="3"/><choice><reg>Πασιφάη</reg><orig>Πασιφάει</orig></choice>
+</ab></div>
+
+<div n="b" subtype="fragment" type="textpart"><ab> 
+<lb n="1"/><choice><reg>Εὐρώπη</reg><orig>Εὐρόπ</orig></choice>
+</ab></div>
+
+</div>
+
+
+      </div>

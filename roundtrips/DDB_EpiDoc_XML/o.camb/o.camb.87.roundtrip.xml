@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" quantity="6" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" quantity="7" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" quantity="5" unit="character"/> <expan>ὁμ<ex>οίως</ex></expan> <expan>πρ<ex>εσβυτέρου</ex></expan>. 
+
+    <lb n="3"/><expan><gap reason="lost" quantity="3" unit="character"/><unclear>α</unclear>ρπ<supplied reason="lost">ο</supplied>κ<ex>ρατ  </ex></expan> Ἀβῶς. 
+
+    <lb n="4"/><supplied reason="lost">Ἰν</supplied>αρώου<unclear>ς</unclear> <expan>νεώ<ex>τερος</ex></expan>. 
+
+    <lb n="5"/><expan><ex cert="low">δεκανοὶ</ex></expan> <app type="editorial"><lem><expan>Ἀμοντ<ex>ᾶς</ex></expan></lem><rdg><abbr><unclear>Ἀ</unclear>μ<unclear>ο</unclear>ντ</abbr></rdg></app> <app type="editorial"><lem><expan>Παήρ<ex>ιος</ex></expan></lem><rdg><abbr>Π<unclear>α</unclear>ηρ</abbr></rdg></app><unclear>κ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><expan>Πλ<ex>ῆνις</ex></expan> <expan>Παμοντκ<unclear>αμ</unclear><ex>ήτιος</ex></expan>. 
+
+    <lb n="7"/><gap reason="illegible" quantity="2" unit="character"/><expan><ex>  </ex></expan> κ<gap reason="illegible" quantity="2" unit="character"/><abbr>ς<gap reason="illegible" quantity="1" unit="character"/></abbr>. 
+
+    <lb n="8"/><expan><ex>γίνονται</ex></expan> <expan>ἄνδ<ex>ρες</ex></expan> <num value="12">ιβ</num>. </ab></div>

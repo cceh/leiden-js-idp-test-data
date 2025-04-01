@@ -1,0 +1,25 @@
+
+         <T=.en
+            <D=.r,ctr 
+               <=
+                  (From: J. Rowlandson, Women and Society in Greek and Roman Egypt, 1998, no. 140b.)
+
+(((1)))/*Latin*/ To Valerius Firmus, prefect of Egypt, from Aurelia Arsinoe. I ask you, my lord, [to give me as a guardian according to the lex Iulia et Titia and the decree of the senate Aurelius] Herminos. Year 2, Pachon 26. Sheet 94, vol. 1 .
+(((3)))/*Greek*/ Translation of the Latin: 
+To Valerius Firmus, prefect of Egypt, from [Aurelia Arsinoe. I ask you, my lord, to give me] ((5)) as a guardian according to the lex Iulia et [Titia] [Aureius Herminos. Presented] on the 12th day before the Kalends of June in the consulship of the Emperor Philippus Augustus and Titianus. I, Aurelia, Arsinoe daughter of Sarapion, [have presented this petition, requesting that Aurelius Hermi]nos should be appointed my guardian. I, Aurelius Tima[genes ?, son of … wrote for her as she is illiterate.  I, Aurelius Herminos son of Dionysios, consent to the petition. Year 2, Pachon 26.]
+((10))Unless you have the right to another guardian, [I grant you the guardian] for whom [you ask].
+
+               =>
+            =D>
+            <D=.r,minf 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

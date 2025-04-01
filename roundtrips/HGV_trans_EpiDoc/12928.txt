@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Athenodorus, chief of police, from Heracleus son of Pnepheros, farmer of revenue-land, of Euhemeria. On the night before the 22nd of the present month Mesore of the 1st year of Gaius Caesar Augustus Germanicus certain individuals made a thievish inroad on the hay which I have on the revenue-fields cultivated by me in the first plot, stored to the account of the nomarch, sown by myself and belonging to the State, and they carried off by means of donkeys a matter of six hundred bundles. I therefore beg you to write to the archephodus of the village that inquiry may be made into the matter. Farewell. I, Heracles son of Pnepheros, have presented the preceding petition.’
+            =>
+         =T>
+      

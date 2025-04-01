@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.i.column 
+               <=
+                  ((1)) ... page ... ¹⁄₆₄ aruras. ... page 154 ¼⅛¹⁄₆₄ aruras. ... page 153 ½ ¼⅛¹⁄₁₆¹⁄₆₄ aruras. ... of the monks, ((5)) as follows: 
+1st page 181 aruras. 2nd page 153 ½¼⅛¹⁄₃₂ aruras. 3rd page 152 ¼⅛¹⁄₁₆ aruras. 4th page 58 ½¼¹⁄₃₂ aruras.
+               =>
+            =D>
+            <D=.ii.column 
+               <=
+                  ((1)) Through the pakton of Abdallah ... Altogether, ... aruras. Through the church ... Through the topoi of the same ...  ((5)) Total 32½ aruras. /*Translation: N. Gonis, P.Harr. 3 307*/
+               =>
+            =D>
+         =T>
+      

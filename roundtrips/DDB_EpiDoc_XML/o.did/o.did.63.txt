@@ -1,0 +1,13 @@
+<S=.la
+<=
+1. (tur(mae)) *middot* <:Norbani|reg|Norbano:> *middot* Dinis
+2.  (tur(mae)) *middot* An<n>i *middot* Ditenis *middot*
+3.  (tur(mae)) *middot* <: Lo<n>gini|reg|Lo<n>gino:> *middot* (Hezbeni(s))
+4.  (tur(mae)) *middot* <:Bas<s>i|reg|Bas<s>o:> *middot* Bitos *middot*
+5.  (tur(mae)) *middot* <:Corneli|corr|Curnieli:> *middot* Iulis
+6.  (tur(mae)) *middot* <:Sereni|reg|Sareni:> *middot* Dise.1
+7.  (tur(mae)) *middot* <:Asini|reg|Aseni:> *middot* Bitus
+8. Ḅ.2us Desas Doles
+9. b b ḅ ḅ b
+=>
+      

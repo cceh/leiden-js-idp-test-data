@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><abbr>ὑπο</abbr> Ζμαράγδου <expan>κάμ<ex>ηλος</ex></expan> <num value="1"><hi rend="supraline">α</hi></num>
+<lb n="2"/>ἱππέως <expan>κάμη<ex>λοι</ex></expan> <num value="2"><hi rend="supraline">β</hi></num>
+<lb n="3"/><choice><corr><expan>δεκουρίω<ex>νος</ex></expan></corr><sic><expan>δ<unclear>ω</unclear>κουρίω<ex>νος</ex></expan></sic></choice> <expan>κάμ<ex>ηλος</ex></expan> <num value="1"><hi rend="supraline">α</hi></num>
+<lb n="4"/><expan>στρατιώ<ex>του</ex></expan> <expan>κάμη<ex>λος</ex></expan> <num value="1"><hi rend="supraline">α</hi></num>
+<lb n="5"/><expan><ex>δεκανῶν</ex></expan> <num value="3"><hi rend="supraline">γ</hi></num>   Πάκοιβις <choice><reg><expan>Τιθοῆ<ex>τος</ex></expan></reg><orig><expan>Τιθωῆ<ex>τος</ex></expan></orig></choice>
+<lb n="6"/><expan>κ<ex>αὶ</ex></expan> <abbr>Πα<gap reason="illegible" quantity="4" unit="character"/>ω</abbr> Ἁραπάθου
+<lb n="7"/><expan>κ<ex>αὶ</ex></expan> Ἁρυώθης Οὐαβεί<unclear>λ</unclear>ου
+<lb n="8"/><gap reason="lost" quantity="7" unit="character"/><unclear>ω</unclear>ν ὑπὸ φορέτρου
+<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>γίνονται</ex></expan> <expan>κάμ<ex>ηλοι</ex></expan>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan>κάμη<ex>λ  </ex></expan>
+<lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+    </div>

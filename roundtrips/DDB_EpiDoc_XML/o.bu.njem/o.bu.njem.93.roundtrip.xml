@@ -1,0 +1,47 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>age</unclear>ntis <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> salutem <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> exemploru<unclear>m</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan>n<ex>umero</ex></expan> <unclear>du</unclear>obus <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>mineru<unclear>n</unclear>t <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>e<gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab><div n="ctr" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> Po<unclear>m</unclear><supplied reason="lost">ponius S</supplied>ilvanus <expan>dec<ex>urio</ex></expan> 
+
+    <lb n="2"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> s<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="7" unit="character"/>atianu <expan>eq<ex>ue  </ex></expan> <g type="middot"/> <expan>N<ex>umeri</ex></expan> 
+
+    <lb n="3"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>b</unclear><gap reason="lost" quantity="10" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>d concessi 
+
+    <lb n="4"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" quantity="7" unit="character"/><choice><reg><supplied reason="lost">lo</supplied>cum</reg><orig><supplied reason="lost">lo</supplied>cu</orig></choice> qui dicitur 
+
+    <lb n="5"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" quantity="9" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>a</unclear>bsint 
+
+    <lb n="6"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" quantity="10" unit="character"/>bun 
+
+    <lb n="7"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="ms" type="textpart"><ab>
+
+    <lb n="8"/><handShift new="m2"/><note xml:lang="en">Writing perpendicular to main text</note> accepta 
+
+    <lb n="9" rend="perpendicular"/> viiii <expan>kal<ex>endas</ex></expan> Ma
+
+    <lb n="10" rend="perpendicular" break="no"/> ias a Secedi 
+
+    <lb n="11" rend="inverse"/> accepta viii <expan><unclear>kal</unclear><ex>endas</ex></expan> 
+
+
+    <lb n="12" rend="inverse"/> Maias a <unclear>M</unclear><gap reason="illegible" quantity="4" unit="character"/> 
+
+    <lb n="13" rend="inverse"/> <expan>fr<ex>umentario</ex></expan> </ab></div></div>

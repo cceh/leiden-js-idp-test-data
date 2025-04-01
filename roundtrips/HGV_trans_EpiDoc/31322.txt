@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              Greeting, my good Apolinarius, from your friend Diogenes. Having met with a man who is going to you I greet you most kindly, praying to all the gods for your preservation ... I came to the great festival. With regard to the little girl, I was there until she sailed, and everything was provided for her so that when you come back you will bear me witness. Have no more anxiety about your household than you would if you were present. I sent the letter to the little girl and made the night-strategus sleep on guard at the house. Salute my friend Plutogenes. I pray for your health, sir. If it is no trouble to you inquire of Antinous whether he bought the cloak for your child, and if not, buy it. (Addressed) To Apolinarius, ... legate, from Diogenes, linen-merchant.
+            =>
+         =T>
+      

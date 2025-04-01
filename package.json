@@ -1,0 +1,27 @@
+{
+  "name": "leiden-js-idp-test-data",
+  "version": "1.0.0",
+  "main": "create-idp-roundtrips.ts",
+  "private": "true",
+  "type": "module",
+  "scripts": {
+    "get-data": "git submodule update --init --depth 1 ./idp.data",
+    "xsugar:up": "docker compose up --wait xsugar",
+    "xsugar:down": "docker compose down --volumes --remove-orphans",
+    "clean:edition": "rm -Rf roundtrips/DDB_EpiDoc_XML/*",
+    "clean:translation": "rm -Rf roundtrips/HGV_trans_EpiDoc/*",
+    "create:edition": "npm run xsugar:up && tsx create-idp-roundtrips.ts edition",
+    "create:translation": "npm run xsugar:up && tsx create-idp-roundtrips.ts translation",
+    "clean": "npm run clean:edition && npm run clean:translation",
+    "generate": "npm run create:edition && npm run create:translation && npm run xsugar:down"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.13.14",
+    "jsdom": "^26.0.0",
+    "tsx": "^4.19.3"
+  }
+}

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              The tenth year of Tiberius Caesar Augustus, 26th of the month Neos Sebastos. I, ..., and my associates, overseers of the corn supply of the ... division of the lower toparchy, acknowledge that we have received by measure from Aristandrus, son of Ariston, on behalf the villages of Apion in the western toparchy, of wheat in all 41 artabae 3 choenices, total 41 artabae 3 choenices.
+            =>
+         =T>
+      

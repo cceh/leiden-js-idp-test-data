@@ -1,0 +1,18 @@
+
+         <T=.de<=
+            ((1))Im 8. Jahr des Lucius Septimius Severus Pius Pertinax und des Marcus Aurelius 
+            Antoninus, der Augusti, am 26. Thôth. ((4))<:Eingezahlt wurden an 
+                Lucius|BGU:BL I, S. 14|:> und (seine) <:Genossen|BGU:BL I, S. 14|:>, <:<Einnehmer=praktorstephanikou>|BGU:BL I, S. 14.|:> <des 
+                            Kranzgeldes=praktorstephanikou> des Dorfes Ptolemaïs 
+            Nea durch Hôriôn vier <:Drachmen|BGU:BL I, S. 14|:>, das sind 4 
+            <:Drachmen|BGU:BL I, S. 14|:>.
+        =>=T>
+         <T=.en<=
+            ((1))Year 8 of Lucius Septimius Severus Pius Pertinax and of Marcus Aurelius 
+            Antoninus, Augusti, Thoth 26. ((4))<:Paid to Lucius|BGU:BL I 14|:> and his <:associates|BGU:BL I 14|:>, 
+            <:<collectors=praktorstephanikou>|BGU:BL I 14.|:> 
+            <of the crown tax=praktorstephanikou> of the village of Ptolemais 
+            Nea, through Horion, four <:drachmas|BGU:BL I 14|:>, = 4 
+            <:drachmas|BGU:BL I 14|:>.
+        =>=T>
+      

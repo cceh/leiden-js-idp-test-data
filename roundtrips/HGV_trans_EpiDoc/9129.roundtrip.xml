@@ -1,0 +1,22 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 10. Jahr des Antonius C[a]e[sar, des Herren], am 27. des Monats Hadrianos.
+            <milestone unit="line" n="2" rend="break"/>Durch die Bank des Theôn beim Sebasteion.
+            <milestone unit="line" n="3" rend="break"/>Chairêmôn, vaterlos, Sohn der Mutter Thasês, ungefähr 39 Jahre (alt), Narbe an der 
+            linken Augenbraue, aus dem Dorf Soknopaiû Nêsos, (bestätigt), 
+            <app type="BGU"><lem resp="BL I, S. 17">daß er verkauft hat</lem></app> an Isidôra, minderjährig, mit dem Vater 
+            Deidas, Sohn des Zôilos, als <term target="phrontistes">Sachverwalter</term>, ein Kamel – 
+            männlich, weiß, ausgewachsen, mit einer Markierung auf der rechten Kinnlade und dem rechten Schenkel – 
+            zum Kaufpreis von 800 Drachmen.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 10 of Antoninus Caesar, the lord, in the month of Hadrianos 27.
+            <milestone unit="line" n="3" rend="break"/>Through the bank of Theon next to the Sebasteion.
+            <milestone unit="line" n="4" rend="break"/>Chairemon, father unknown, mother Thases, about 39 years old, with a scar on her 
+            left brow, from the village of Soknopaiou Nesos, (acknowledges) 
+            <app type="BGU"><lem resp="BL I 17">that he has sold</lem></app> to Isidora, minor with her 
+            <term target="phrontistes">agent</term>, her father, Deidas, son of Zoilos, a white, fully grown, 
+            male camel, which has a brand mark on its right jaw and on its right haunch, for the price of 800 
+            drachmas.
+        </p></div>
+      </body>

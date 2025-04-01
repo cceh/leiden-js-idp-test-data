@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              To my lord and brother Demetrianus from Isidorus, greeting.
+              The deliveries of the western toparchy are being measured in at Paraetonium by the cultivators there according to custom. Do not therefore worry Zoilas about this. I pray for your lasting health.
+            =>
+         =T>
+      

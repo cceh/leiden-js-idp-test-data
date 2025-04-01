@@ -1,0 +1,22 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) [...] [des] guten Herrn. Zuerst [...]
+(((2))) [...] [Sei so] gut, sprich ein kleines [Gebet (?)] [...]
+(((3))) [...] Gemeinschaft. Möge deine [Fürbitte (?)] [...]
+(((4))) [...] [jeder] Einzelne. Es gibt kein Licht. Viele [...]
+(((5))) [...] schicke es meinem väterlichen Herrn [...]
+(((6))) [...] Mögen deine Hände uns [Gutes] tun [...]
+(((7))) [...] [Gemeinde], sondern er pflegt sich auf [...] niederzulassen [...]
+(((8))) [...] [ich] grüße also und empfehle [mich (?)] [...]
+(((9))) [...] [erinnere] mich, dass er unterwegs zu Gott ist. [...]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) An meinen verehrten Vater Ath[anase (?)][, von NN] /*Translation with minor modifications: G. Schenke, P.KoelnAegypt. 2, p. 33*/
+               =>
+            =D>
+         =T>
+      

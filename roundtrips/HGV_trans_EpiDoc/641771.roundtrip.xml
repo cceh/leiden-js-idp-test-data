@@ -1,0 +1,29 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1"/> Dekania of Kronios son of Sarapion,
+             <milestone unit="line" n="2" rend="break"/> Alexas son of Paminis.
+             <milestone unit="line" n="3" rend="break"/> Eilon of the century of Magnus,
+             <milestone unit="line" n="4" rend="break"/> 35 keramia.
+                      <note>Translation: R. Ast – R.S. Bagnall, O.Berenike 3 283</note>
+            </p>
+         </div>
+         <div xml:lang="it" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1"/> Dekania di Kronios figlio di Sarapion,
+             <milestone unit="line" n="2" rend="break"/> Alexas figlio di Paminis.
+             <milestone unit="line" n="3" rend="break"/> Eilon della centuria di Magnus,
+             <milestone unit="line" n="4" rend="break"/> 35 keramia.
+                      <note>Translation: M. Capano – S. Causo – C. Cenati – F. Luciani (via PN)</note>
+            </p>
+         </div>
+         <div xml:lang="de" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1"/> Dekania des Kronios, Sohn des Sarapion,
+             <milestone unit="line" n="2" rend="break"/> Alexas, Sohn des Paminis.
+             <milestone unit="line" n="3" rend="break"/> Eilon der centuria des Magnus,
+             <milestone unit="line" n="4" rend="break"/> 35 Keramia.
+                      <note>Translation: S. Küppers – F. Weise (via PN)</note>
+            </p>
+         </div>
+      </body>

@@ -1,0 +1,19 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 31. Jahr des Marcus Aurelius Commodus Antoninus Caesar, des Herren.
+            <milestone unit="line" n="3"/><app type="BGU"><lem resp="BL I, S. 34">Gearbeitet hat</lem></app> für <app type="BGU_DDbDP"><lem resp="Nach SIJPESTEIJN - Penthemeros-Certificates, S. 6 mit A. 3">Dammarbeiten
+                </lem></app> 
+            des 31. Jahres vom 13. bis 17. <app type="BGU"><lem resp="BL I, S. 34">Mesorê</lem></app>
+            <app type="BGU"><lem resp="BL I, S. 34; vgl. BL V, S. 10">im Wüstenkanal von Patsôntis</lem></app> 
+            für Philadelphia <app type="BGU_DDbDP"><lem resp="nach Sijpesteijn, ZPE 64, 1986, S. 127, A. 7">5 Tage</lem></app> 
+            <app type="BGU"><lem resp="BL I, S. 34">Hermas</lem></app>, Sohn des Gryllos.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 31 of Marcus Aurelius Commodus Antoninus Caesar, the lord. 
+            <milestone unit="line" n="3"/><app type="BGU"><lem resp="BL I 34">Work has been done</lem></app> 
+            <app type="BGU_DDbDP"><lem>on the dike works</lem></app> of year 31, <app type="BGU"><lem>Mesore</lem></app> 13 to 17 
+            <app type="BGU"><lem resp="BL I 34; cf. BL V 10">in the desert canal of Patsontis</lem></app> for
+            Philadelphia, <app type="BGU_DDbDP"><lem resp="Cf. Sijpesteijn, ZPE 64, 1986, 127, note 7">five days, </lem></app> by <app type="BGU"><lem resp="BL I 34">Hermas</lem></app>, son 
+            of Gryllos.
+        </p></div>
+      </body>

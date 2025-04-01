@@ -1,0 +1,14 @@
+
+         <T=.de
+            <=
+               ((1)) (Blatt) 28. 
+                      Von Aurelios Theon, Sohn
+                      des C. Iulius Dionysios und der Mutter Dionysia,
+                      Tochter des Sarapammon, Stadtbürgerin.
+               ((5)) Entsprechend der Anordnung des Präfekten
+                      Valerius Datus, vir clarissimus,
+                      …
+/*Translation: A. Jördens, P.Louvre 3 184*/
+            =>
+         =T>
+      

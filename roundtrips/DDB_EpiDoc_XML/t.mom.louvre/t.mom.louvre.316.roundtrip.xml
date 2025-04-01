@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" type="textpart"><ab>
+    <lb n="1"/><app type="editorial"><lem resp="A.I. Blasco Torres, ZPE 216 (2020) 232">Τα<unclear>πτ</unclear>ιχε</lem><rdg>Τ<unclear>ατόνβ</unclear>ε</rdg></app> Τα
+
+    <lb n="2" break="no"/>τβέσε
+</ab></div>
+<div n="B" type="textpart"><ab>
+    <lb n="1"/><gap reason="ellipsis" quantity="3" unit="line"><desc>Demotic</desc></gap> 
+</ab></div></div>

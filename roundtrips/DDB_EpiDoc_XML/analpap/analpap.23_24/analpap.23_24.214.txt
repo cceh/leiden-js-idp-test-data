@@ -1,0 +1,79 @@
+<S=.grc
+<=
+    1. <:accepi|reg|acepi:> a p̣uero ad <:villam|reg|bila:> <:hordeum|reg|hordiu:> (b(ilibres)) <#xii=12#>
+
+    2. per <:Tafsurem|reg|Tafsure:> a <:civitate|reg|cibitate:> (b(ilibres)) <#lxxxxv=95#>
+
+    3. a Nonịo (b(ilibres)) <#xxx=30#>
+
+    4. <:accepi|reg|acepi:> ego a <:civitate|reg|cibitate:> (b(ilibres)) <#l=50#>
+
+    5. <:accepi|reg|acepi:> per <:Tafsurem|reg|Tafsure:> (b(ilibres)) <#x̣[x]x̣ṿị=36#>
+
+    6. <:accepi|reg|acepi:> per <:Bernaclum|reg|Bernaclu:> <#lxxiii=73#>
+
+    7. .1ẹn (b(ilibres)) <#xxxvii=37#>
+
+    --------
+
+    8. ex quibus semen <:positum|reg|positụ:> (b(ilibres)) <#xxxiiị=33#>
+
+    9. a (l(ibris?)) <#iiii=4#> in cacabu bilibre in dịẹ
+
+    10. in (l(ibras?)) <#vii=7#> diebus <:quattuor|reg|quator:> (b(ilibres)) <#iiii=4#>
+
+    11. mense (Ịụl(io)) cibariạ posịtạ
+
+    12. 〚ad〛 Zịyrto (b(ilibres)) <#xiiii=14#> cum <:venit|reg|benit:> <:ipse|reg|ifse:>
+
+    13. Ianuaria (b(ilibres)) <#iiii=4#> cum Pamac̣i
+
+    14. Vạ.2atụs (b(ilibres)) <#vi=6#> in cacabu (b(ilibris)) <#i=1#>
+
+    15. Taf̣sur (b(ilibres)) <#x=10#> p̣ueros Pamaci
+
+    16. Prima (b(ilibres)) <#vi=6#> p̣anẹ (b(ilibris)) <#i=1#>
+
+    17. Sibilut et Bernaclus (b(ilibres)) <#x=10#> P̣aulino pane
+
+    18. Lundim (b(ilibres)) <#iiii=4#> <:cynara|reg|cunara:> (b(ilibres)) <#xi=11#>
+
+    19. Calendio (b(ilibres)) <#xviii=18#> vites (b(ilibres)) <#x=10#>
+
+    20. Zemoz (b(ilibres)) <#xiiii=14#> diebus <#<:decem|reg|dece:>=10#>
+
+    21. eg[o] (b(ilibres)) <#xxv=25#>
+
+    22. Procuḷu cunsụ[.1] (b(ilibres)) <#xxxx=40#>
+
+    23. C̣utẓiycṭia (b(ilibres)) <#iiii=4#> .1en (b(ilibres)) <#xxx〚iii〛\v/=35#>
+
+    24. .1a.4 (b(ilibres)) <#xv=15#>
+
+    25. a (l(ibris?)) iịị.10 [.?]
+
+    26. in .1[.?] ḍịẹḅ[us].4 [3]
+
+    27. [.2].10 (ḅ(ilibres)) <#xvi=16#>
+
+    28. .8ṇ ḍịẹ (ḅ(ilibres)) <#viii=8#>
+
+    29. <:accepit|reg|ạcip̣it:> ạ.6 [(b(ilibres))(?)]
+
+    30. in ḍịẹ .9ac.2 [(b(ilibres))(?)]
+
+    31. a (l(ibris?)) <#iiiị=4#> <:accepit|reg|ạc̣ipit:> e.3 (b(ilibres)) [.?]
+
+    32. in die bilibres <:<#duodecim=10#>|reg|dụḍẹ[ci]:> (b(ilibres))
+
+    33. in (l(ibras?)) <#xviiii=19#> diebụs <#sedecị=16#> (b(ilibres)) <#xxx[.?]=30-39#>
+
+    34. a (l(ibris?)) <#iiii=4#> <:accepit|reg|acipịt:> C̣abalus [.?]
+
+    35. in die bilibreṣ <#tres=3#> [.?]
+
+    36. in (l(ibras?)) <#xxi=21#> dieḅus <#dec̣ẹṃ=10#> (b(ilibres)) <#liiii=54#>
+
+    37. <:<#duodecim=10#> [.?]|reg|duḍẹc̣[.?]:>
+=>
+      

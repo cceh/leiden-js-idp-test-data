@@ -1,0 +1,23 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="20" unit="character" precision="low"/> <supplied reason="lost">τελέσω σοι ὑπὲρ ἐνοι</supplied>
+
+    <lb n="2" break="no"/>κίου τοῦ ἐνι<unclear>α</unclear><supplied reason="lost">υσίου χρόνου ἀργυρίου τάλαντα</supplied>
+
+    <lb n="3"/><num value="40">τεσσεράκοντα</num> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">βεβαιουμένης δέ μοι τῆς ἐπι</supplied>
+
+    <lb n="4" break="no"/>δοχῆς ἀποδώσ<supplied reason="lost">ω τὸ ἐνοίκιον δι’ ἑξαμήνου τὸ</supplied>
+
+    <lb n="5"/><num value="1/2">ἥμισυ</num> καὶ χρήσο<unclear>μ</unclear><supplied reason="lost">αι</supplied> <gap reason="lost" quantity="12" unit="character" precision="low"/> <supplied reason="lost">ἐπὶ τὸν χρό</supplied>
+
+    <lb n="6" break="no"/>νον ἀκωλύτως μ<supplied reason="lost">εθ’ ὃν παραδώσω</supplied> <gap reason="lost" quantity="12" unit="character" precision="low"/>
+
+    <lb n="7"/>ὡς παρείληφα κ<unclear>α</unclear><supplied reason="lost">θαρ- </supplied> <supplied reason="lost">ἀπὸ κοπρίων καὶ δεί</supplied>
+
+    <lb n="8" break="no"/>σης πάσης καὶ ἃς ἐ<supplied reason="lost">ὰν παραλάβω θύρας καὶ κλεῖς.</supplied>
+
+    <lb n="9"/>κυρία ἡ ἐπιδοχὴ καὶ ἐπερωτηθ<unclear>εὶ</unclear><supplied reason="lost">ς ὡμολόγησα</supplied>
+<milestone rend="paragraphos" unit="undefined"/>
+</ab></div>

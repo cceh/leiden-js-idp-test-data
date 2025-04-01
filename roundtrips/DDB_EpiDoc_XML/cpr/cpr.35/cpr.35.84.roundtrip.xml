@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>Αὐτοκράτ<supplied reason="lost">ορος Καίσαρος Πουβλίου Λικιννίου</supplied>
+
+    <lb n="3"/><unclear>Γ</unclear>αλλιηνοῦ <supplied reason="lost">Γερμανικοῦ Μεγίστου Περσικοῦ</supplied>
+
+    <lb n="4"/><unclear>Μ</unclear>εγίστου <supplied reason="lost">Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ</supplied>
+
+    <lb n="5"/><supplied reason="lost">Με</supplied>χεὶρ <num value="20"><hi rend="supraline">κ</hi></num> ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Ὀ</supplied><unclear>λ</unclear>ύμπιος ἐξη<unclear>γ</unclear><supplied reason="lost">ητὴς</supplied> <gap reason="lost" quantity="15" unit="character" precision="low"/> <supplied reason="lost">αἰτοῦ</supplied>
+
+    <lb n="7" break="no"/>μαι ὡς πρόκ<supplied reason="lost">ειται</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>

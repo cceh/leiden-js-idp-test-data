@@ -1,0 +1,53 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) /*Body contract*/ In the [thirty]-ninth year of the dominion of Caesar, son of a god,
+                         [on the ninth of the month] Daisios, ninth of Pharmouthi, in Philagris
+                         [of the Themistos meris of the Arsinoite] nome. Harthotes,
+                         son of Marres, [Persian of the epigone (?)], acknowledges to Theon, son of Petermouthis, oil maker
+                         of the oil mill on the estate of Livia and Germanicus Caesar in Philagris,
+                         that he has received from him eighty drachmas of minted silver as a capital sum
+                  ((7)) and in return for these he will provide his daughter Tahaunes who will remain
+                         with Theon for two years and six months from the month
+                         of Pachon of the present thirty-ninth year of Caesar,
+                         feeding olives at the indicated oil mill as well as
+                         staying and doing everything that is ordered, not being
+                         absent by night or by day, but following him
+                         everywhere throughout the nome, being fed and clothed by
+                         Theon. ((14)) And for each day on which she is absent within the
+                         period he will pay one drachma. So it shall not be permissible for Harthotes
+                         to remove his daughter within the period nor for her to leave.
+                         If they remove her or the daughter herself leaves or she is caught stealing
+                         or damaging or removing anything belonging to
+                         Theon /*vacat*/
+              (((20))) /*Registration docket*/ Year 39 of Caesar, Pharmouthi 9, in Philagris.
+                         Registered through NN.
+              (((21))) /*Subscription*/ I, Harthotes, son of Marres, Persian of the epigone, acknowledge
+                         that I have received from Theon, son of Petermouthis, oil maker
+                         of the oil mill on the estate of Livia and Germanicus
+                         Caesar in Philagris
+                         eighty drachmas of minted silver as a capital sum and in return for these I shall provide
+                         my daughter Tahaunes to remain
+                         with Theon for two years and six months from the month of Pachon
+                         of the present thirty-ninth year of Caesar,
+                ((29)) feeding olives at the indicated oil mill
+                         as well as staying and doing everything that is ordered,
+                         [not] being absent by night or by day,
+                         but following him everywhere
+                         throughout the nome, being fed and clothed
+                         by Theon. ((34)) And for [each] day on which she is absent
+                         I shall pay one [drachma] and I shall do the other things as
+                         aforesaid. Ptolemaios, son of Ptolemaios, was asked and [wrote for him]
+                         because he is illiterate.
+                         /*Translation: G. Claytor – N. Litinas – E. Nabney, BASP 53 (2016) 111-113*/
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) [Contract] of paramone of a girl for two years, six months for Theon
+                         [son of Petermouthis] by Harthotes son of Marres.
+               =>
+            =D>
+         =T>
+      

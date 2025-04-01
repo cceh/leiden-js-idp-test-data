@@ -1,0 +1,17 @@
+<S=.grc
+<=
+1. *slanting-stroke* <#ζ=7#> Παῆβις
+2. *slanting-stroke* Τιθοῆς Πετοσῖρι̣ς̣ ρ̣α̣
+3. *slanting-stroke* Ψενῆσις Πεκῦσις
+4. *slanting-stroke* Ψεναμοῦνις Σαμῶτος
+5. *slanting-stroke* <#η=8#> Παῆβις
+6. *slanting-stroke* Τιθοῆς Πετοσῖρι̣ς
+7. *slanting-stroke* Ψενῆσις Πεκῦσις
+8. *slanting-stroke* Ψεναμοῦνις Σαμῶτος
+9. *slanting-stroke* <#θ=9#> Παῆβις
+10. *slanting-stroke* Τιθοῆς Πετοσῖρις
+11. *slanting-stroke* Ψενῆσις Πεκῦσις
+12. *slanting-stroke* Ψεναμοῦνις Σαμῶτ̣ο̣ς̣
+ 
+=>
+      

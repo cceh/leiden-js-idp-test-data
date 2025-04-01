@@ -1,0 +1,45 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r,int" type="textpart"><ab>
+
+    <lb n="1"/>Διογένης Θρασυμήδει <app type="editorial"><lem>χαίρειν</lem><rdg><supplied reason="lost">χαίρειν</supplied></rdg></app>. 
+
+    <lb n="2"/>σύνταξον μετρῆσαι Πάσιτι Πά
+
+    <lb n="3" break="no"/>σιτος εἰς <choice><reg>ἣν</reg><orig>ἣγ</orig></choice> <subst><add place="inline">γεωργεῖ</add><del rend="corrected">γεωργι</del></subst> περὶ Ἐλευσῖνα 
+
+    <lb n="4"/>δάνειον εἰς κάτεργον ὃ ἀποδώσει 
+
+    <lb n="5"/><choice><reg>ἐκ</reg><orig>ἐγ</orig></choice> νέων ἃμα τοῖς ἐκφορίοις ἐν τῶι <num value="36">λϛ</num> <expan><ex>ἔτει</ex></expan> 
+
+    <lb n="6"/>κριθοπυροῦ ἢ κριθῆς παλαιᾶς <expan><ex>ἀρτάβας</ex></expan> <num value="30">λ</num>. 
+
+    <lb n="7"/>ἔρρωσο. <expan><ex>ἔτους</ex></expan> <num value="35">λε</num>, Ἁθὺρ <num value="4">δ</num>.
+</ab></div><div n="r,ext" type="textpart"><ab>
+
+    <lb n="8"/>Διογένης Θρασυμήδει χαίρειν. 
+
+    <lb n="9"/>σύνταξον μετρῆσαι Πάσιτι Πά
+
+    <lb n="10" break="no"/>σιτος εἰς <choice><reg>ἣν</reg><orig>ἣγ</orig></choice> γεωργεῖ περὶ Ἐλευσῖνα 
+
+    <lb n="11"/>δάνειον εἰς κάτεργον ὃ ἀποδώσει 
+
+    <lb n="12"/><choice><reg>ἐκ</reg><orig>ἐγ</orig></choice> νέων ἃμα τοῖς ἐκφορίοις ἐν τῶι 
+
+    <lb n="13"/><num value="36">λϛ</num> <expan><ex>ἔτει</ex></expan> κριθοπυροῦ ἢ κριθῆς παλαιᾶς <expan><ex>ἀρτάβας</ex></expan> <num value="30">λ</num>. 
+
+    <lb n="14"/>ἔρρωσο. <expan><ex>ἔτους</ex></expan> <num value="35">λε</num>, Ἁθὺρ <num value="4">δ</num>. 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="15"/><subst><add place="inline">Πάσιτι</add><del rend="corrected">πασιτος</del></subst>     Θρασυμήδει. 
+
+    <lb n="16"/><expan>κριθ<ex>ῆς</ex></expan> <num value="30">λ</num>. 
+
+    <lb n="17" rend="inverse"/> <choice><reg><num value="34">λδ</num></reg><orig>δλ</orig></choice> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="18" rend="inverse"/> <del rend="erasure">γέγραμμ<unclear>αι</unclear></del>
+
+    <lb n="19" rend="inverse"/> <expan><ex>ἔτους</ex></expan> <num value="35">λε</num>. <choice><reg>δανείων</reg><orig>δανήων</orig></choice> 
+
+    <lb n="20" rend="inverse"/> ποιολογίας 
+
+    <lb n="21" rend="inverse"/> προστάγματα. </ab></div></div>

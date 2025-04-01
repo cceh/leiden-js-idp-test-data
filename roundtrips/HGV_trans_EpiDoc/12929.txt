@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Didymus son of Hierax of the Althaean deme, one of the philosophers maintained in the Museum immune from charges, strategus, from Heraclas son of Diodorus, a cultivator of public land, of Euhemeria in the division of Themistes. Ever since Pharmouthi of the present 2nd year of Gaius Caesar Augustus Germanicus, Seras son of Paes, herdsman, has let his flocks loose upon the public lands which I farm in the area of the village in the 7th plot and has grazed down 2 arurae of young aracus, from which damage has resulted to the amount of 20 artabae. Wherefore I request you to write that the accused man be brought before you for fitting punishment. Farewell.’
+            =>
+         =T>
+      

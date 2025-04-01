@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" quantity="2" unit="line"/> 
+
+    <lb n="3"/>ὁμολο<supplied reason="lost">γῶ ἐσχηκέναι παρὰ</supplied> 
+
+    <lb n="4"/>σοῦ ἀφʼ <unclear>ὧν</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><gap reason="lost" quantity="1" unit="line"/> 
+
+    <lb n="6"/>ἄλλας κρ<unclear>ι</unclear><supplied reason="lost">θῆς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><gap reason="lost" quantity="1" unit="line"/> 
+
+    <lb n="8"/><expan><ex>ἔτους</ex></expan> <num value="14">ιδ</num> Μάρκου Α<unclear>ὐρηλί</unclear>ου <supplied reason="lost">Ἀντωνείνου</supplied> 
+
+    <lb n="9"/>Καίσαρος τοῦ κυρ<supplied reason="lost">ίου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><handShift new="m2"/> Ἁρπαῆσις <expan>Ὀρβάιτο<ex>ς</ex></expan> ἔ<supplied reason="lost">σχον </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

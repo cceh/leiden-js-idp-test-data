@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Zenon to Kleon, greetings. The water in the canal has not risen more than a cubit, so that the land cannot be irrigated from it. ((2)) Please, open the sluice gates so that the land can be irrigated. (((4))) Farewell. [Year 30, Loios] 23, Mesore 23.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((5)) [Year 30, Mes]ore 24. To Kleon [...] water.
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 59, © Peeters*/
+               =>
+            =D>
+         =T>
+      

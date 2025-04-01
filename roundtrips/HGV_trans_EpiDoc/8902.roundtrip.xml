@@ -1,0 +1,20 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>[An <app type="BGU_DDbDP"><lem resp="BL IX, S. 16">Aurelius Platô]n (?)</lem></app>, den 
+            <term target="strategos">Strategen</term> [des Hêrakleidês-Bezirks des Arsinoïtês],
+            <milestone unit="line" n="2" rend="break"/>von Aure[lius N.N.], gemeldet durch ein anderes 
+            [<app type="BGU"><lem resp="BL VII, S. 10">Schriftstück</lem></app>].
+            <milestone unit="line" n="4" rend="break"/>Mir gehört im 
+            <term target="amphThes">[Thesmo]phoreion-[Viertel]</term> <milestone unit="line" n="5"/>ein halber 
+            Teil eines [...] Teils eines Hauses, in dem [ich melde] – – –
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>[To <app type="BGU_DDbDP"><lem resp="BL IX 16">Aurelius Plato]n</lem></app>, 
+            <term target="strategos" xml:lang="grc-Latn">strategos</term> of the A[rsinoite nome, Herakleides 
+            division],
+            <milestone unit="line" n="2" rend="break"/>from Aure[lius NN – – –] registered through another 
+            <app type="BGU"><lem resp="BL VII 10">[(registration) document]</lem></app>. There belongs to me in 
+            the <term target="amphThes">Thesmophoreion quarter</term> half [...] of a part of a 
+            house, in which [I register] – – –
+        </p></div>
+      </body>

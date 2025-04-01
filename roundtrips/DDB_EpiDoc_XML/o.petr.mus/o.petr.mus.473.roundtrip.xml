@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" subtype="text" type="textpart"><ab> 
+<lb n="1"/>Πεκῦσις Κρατίπ<unclear>π</unclear><supplied reason="lost">ου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>Καίσαρος
+</ab></div>
+<div n="B" subtype="text" type="textpart"><ab> 
+<lb n="1"/>Πεκῦσις <choice><reg>Κρατ
+<lb n="2" break="no"/>ίππου</reg><orig>Κρατ<lb n="2" break="no"/>ίπου</orig></choice> πρὸς Καίσαρος 
+<lb n="3"/>τοῦ Π<unclear>α</unclear>ουῆτος
+</ab></div>
+      </div>

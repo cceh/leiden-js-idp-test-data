@@ -1,0 +1,8 @@
+
+         <T=.fr
+            <=
+               ((1))Avant que mon humilité ne s'exprime, j'écris et je salue ((5))mes chers pères saints et pieux, hommes qui portent le Christ et combattent en tout ((10))bien, apa Isaac et apa Élie. Ayez la bonté de prier pour moi ! Salut dans le Seigneur !
+Je suis allé à ...
+            =>
+         =T>
+      

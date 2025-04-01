@@ -1,0 +1,18 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1)) Limnaios à Zénon, bonjour! Que le logement soit bâti
+                         selon le plan que nous en avons fait. Quant au bois, quand tu écriras, nous te l'enverrons.
+                         Il est en effet prêt à Touphis.
+                         Porte-toi bien. An 32, Pachôn 1.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((5)) À Zénon.
+                         /*Translation: J.-L. Fournet, AncSoc 45 (2015) 92*/
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,20 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 3. Jahr des Marcus Aurelius Antoninus Pius Felix Augustus, am 4. Tybi. 
+            <milestone unit="line" n="4"/><app type="BGU"><lem resp="BL I, S. 64">Eingezahlt hat an Koprês</lem></app> und (seine) 
+            <app type="BGU"><lem resp="BL I, S. 64">Genossen</lem></app>, 
+            <app type="BGU"><lem resp="BL I, S. 64."><term target="praktorstephanikou">Einnehmer</term></lem></app> 
+            <term target="praktorstephanikou">des Kranzgeldes</term> des Dorfes Neilû Polis Melas 
+            der <term target="prophetes">prophêtês</term>, achtundzwanzig Drachmen, das sind 28 
+            Drachmen.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 3 of Marcus Aurelius Antoninus Pius Felix Augustus, Tybi 4. 
+            <milestone unit="line" n="4"/>Paid to <app type="BGU"><lem resp="BL I 64">Kopres</lem></app> and his 
+            <app type="BGU"><lem resp="BL I 64">associates</lem></app>, 
+            <app type="BGU"><lem resp="BL I 64."><term target="praktorstephanikou">collectors</term></lem></app> 
+            <term target="praktorstephanikou">of the crown tax</term> of the village of Neilou Polis, 
+            (by) Melas, <term target="prophetes" xml:lang="grc-Latn">prophetes</term>, twenty eight drachmas, 
+            = 28 drachmas.
+        </p></div>
+      </body>

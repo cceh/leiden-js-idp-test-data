@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="5" unit="character" precision="low"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="6" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character" precision="low"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> οὐετρανῶν καὶ Ἀνουβᾶν ποιμένα <choice><reg>αἰτιαθέντας</reg><orig><expan>αἰτιαθέντω<ex>ν</ex></expan></orig></choice>
+<lb n="3"/><supplied reason="lost">ὑπὸ</supplied> <gap reason="lost" extent="unknown" unit="character"/>ωρίωνος βουλευτοῦ. <handShift new="m2"/><expan>σεσημ<ex>είωμαι</ex></expan>.
+</ab>
+      </div>

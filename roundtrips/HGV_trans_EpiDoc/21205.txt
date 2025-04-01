@@ -1,0 +1,8 @@
+
+         <T=.de
+            <=
+               ((1)) Die Aurelier Silvanus alias . . ., der Sohn des Theon, des ehemaligen Kosmeten der berühmten und hochberühmten Stadt Oxyrhynchos, und Sarapion, der Sohn des Horion und der Heras, aus derselben Stadt, grüßen einander.
+(((7))) Wir bekunden, zur Ausübung des . . . -Handwerks auf ein Jahr und sechs Monate vom gegenwärtigen 1. Tag des augenblicklichen Monats Phaophi des gegenwärtigen 6. Jahres an Geschäftspartner sein zu wollen, unter der Voraussetzung, daß wir beide sowohl den Ankauf aller ...
+            =>
+         =T>
+      

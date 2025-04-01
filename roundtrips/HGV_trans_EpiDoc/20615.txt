@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              From Demetrous daughter of Amois son of Philoxenus, with her guardian her son Amois son of Aperos. I wish that Horus, the son of my aforesaid son Amois and Heraclous daughter of Harbaithus, who in the present 20th year of Antoninus Caesar the lord is 8 years of age, should henceforth be registered at the house of which I own part in the quarter of the Square of Thoëris. I therefore duly present this memorandum.
+              /*Date, and signatures of Demetrous and Amois written for them by Hermon.*/
+            =>
+         =T>
+      

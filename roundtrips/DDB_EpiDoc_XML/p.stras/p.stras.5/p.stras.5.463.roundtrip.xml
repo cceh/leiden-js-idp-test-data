@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Αὐρήλιος <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="12" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>ἐ<unclear>ξ</unclear>ηγ<ex>ητεύσας</ex></expan> <gap reason="lost" quantity="2" unit="character"/>υ<gap reason="illegible" quantity="3" unit="character"/>δ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>να<unclear>ρ</unclear>χο<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Αὐ</supplied>
+
+    <lb n="4" break="no"/>ρηλίοις Πτ<supplied reason="lost">ο</supplied>λλ<supplied reason="lost">ᾷ καὶ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>πρεσβυτέροι<supplied reason="lost">ς</supplied> <unclear>κ</unclear><supplied reason="lost">ώμης Πολυδευκίας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><choice><reg>χαίρειν</reg><orig>χαίριν</orig></choice>. ἔσχο<unclear>ν</unclear> <unclear>πα</unclear><supplied reason="lost">ρʼ ὑμῶν </supplied><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> Νε</supplied>
+
+    <lb n="7" break="no"/>μησίας Κ<unclear>ο</unclear>ρκ<unclear>ο</unclear>δ<supplied reason="lost">ίλων ἐπὶ λόγου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/>δραχμὰς <choice><reg>ἑξήκον<supplied reason="lost">τα</supplied></reg><orig>ἑξάκον<supplied reason="lost">τα</supplied></orig></choice> <num value="60"/> <gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/> 
+
+    <lb n="9"/><subst><add place="inline"><num value="5"><unclear>ε</unclear></num></add><del rend="corrected"><num value="7">ζ</num></del></subst> Ἐπὶφ <num value="20">κ</num> καὶ ἄλ<supplied reason="lost">λας </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

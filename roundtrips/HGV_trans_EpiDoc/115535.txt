@@ -1,0 +1,21 @@
+
+         <T=.en
+            <D=.i.column 
+               <=
+(((1))) Chorion of Pyrgos: of 30 nom., 28 nom. 1 kar. [paid]
+(((2))) Chorion of Pois: of 40 nom.	[...]
+(((3))) Chorion of Poimenes (Shepherds): of 50 nom., 46 nom. 15 kar. [paid]
+(((4))) Chorion of Sitheus	: of 15 nom., 11 nom. [paid]
+               =>
+            =D>
+            <D=.ii.column 
+               <=
+(((5))) Chorion of Peempibykis: of [ ? nom.] [...]
+(((6))) Chorion of P.rch( ) of Machor: of [ ? nom.] [...]
+(((7))) Chorion of Pedion: of [ ? nom.] [...]
+(((8))) Chorion of Sasos: [...] 
+(((9)))  Chorion of Sorbthis (?) [...] 
+               =>
+            =D>
+         =T>
+      

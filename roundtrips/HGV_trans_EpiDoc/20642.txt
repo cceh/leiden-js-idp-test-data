@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Harmiusis also called Heraclas to Didymus son of Sarapion, keeper of a public ἀφρόδισιον, greeting. I have received from you the remainder of the tax upon a mortgage of the 3rd year of Trajanus Caesar the lord, namely 16 drachmae of silver, total 16 drachmae, which I will repay to you when I arrive on the spot without delay. The 7th year of the Emperor Caesar Nerva Trajanus Augustus Germanicus Dacicus, Thoth 6.
+            =>
+         =T>
+      

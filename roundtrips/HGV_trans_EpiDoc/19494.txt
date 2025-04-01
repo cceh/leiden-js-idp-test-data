@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Apollonius, strategus of the Apollonopolite-Heptacomia nome, from Harbaithes son of Paesis and Patnaios ... of the metropolis. Crown-land is registered in our name in the area of the said metropolis, for Harbaithes 1 9/16 arurae at the rate of 3 1/12 artabae, and for Patnaios 3/8 arura similarly at the rate of 3 1/12. Since, therefore, it does not bear so great a charge and we are burdened with the rent, we henceforth undertake in accordance with the indulgence of our lord Hadrianus Caesar to cultivate the aforesaid arurae, the 1 9/16 arurae of Harbaithes held at 3 1/12 artabae and the similarly rated 3/8 arura of Patnaios, at a rate per arura of 1 1/24 artabae of wheat, with allowances for unirrigated land or land artificially irrigated, as is usual.’
+            =>
+         =T>
+      

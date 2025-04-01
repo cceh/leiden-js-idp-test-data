@@ -1,0 +1,32 @@
+<S=.la<D=.int<=
+
+    1. (T(itus)) Flauius Longus optio (leg(ionis)) ỊỊỊ <:Cyrenaicae|reg|cur:>, ((centuria)) Ạṛelli .3 testatus ẹ[st cautoresque dedit ][.3][ Frontonem ((centuria)) Pompei Reg ][.6][ et (L(ucium)) Longinum] 
+
+    2. [Celerem ((centuria)) Cre][.6][ et (L(ucium)) Herennium Fuscum ueteranum ][.5][ iuratusque dixit per ][.6][ se ingenuum et (c(iuem)) (R(omanum)) esse] 
+
+    3. iusque militandi in (leg(ione)) habẹ[r]e. ibi caut[ores ][.5][ Fronto et (L(ucius)) Longinus Celer et (L(ucius)) Herennius Fuscus iurati per Iouem] 
+
+    4. Optimum Maximum et genium (Imp(eratoris)) (Caes(aris)) Dọ[mitiani Augusti Germanici dixerunt ][.6][ (T(itum)) Flauium Longum (s(upra)) (s(criptum))] 
+
+    5. ingenuum natum et (c(iuem)) (R(omanum)) esse iusque miliṭaṇ[di in (leg(ione)) habere.] 
+
+    6. ạctum ca[s]tris (Aug(ustis)) in (hib(ernis)) legionis III XVII Ḳạ[lendas ][.6][ anno XVII (Imp(eratoris)) (Caes(aris)) Domitiani (Aug(usti)) Germanici] 
+=>=D><D=.ext<=
+
+    1. (T(itus)) Flauius Longus optio (leg(ionis)) III <:Cyr[enaicae]|reg|cuṛ:>[, ((centuria)) Arelli ][.4][ testatus est cautoresque dedit ][.4] 
+
+    2. Frontonem ((centuria)) P̣omp̣ei Reg[.6][ et (L(ucium)) Longinum Celerem ((centuria)) Cre][.6][ et (L(ucium)) Heren]
+
+    3.- nium Fuscum ueteranum [iuratusque per Iouem Optimum Maximum et genium (Imp(eratoris)) (Caes(aris)) Domitiani (Aug(usti)) Germanici dixit se inge]
+
+    4.- nuum natum et (c(iuem)) (R(omanum)) esse ịụṣ[que militandi in (leg(ione)) habere. ibi cautores ][.5][ Fronto] 
+
+    5. et (L(ucius)) Longinus Celer et (L(ucius)) Hẹṛẹ[nnius Fuscus iurati per Iouem Optimum Maximum et genium (Imp(eratoris)) (Caes(aris))] 
+
+    6. D[o]mitiani (Aug(usti)) Ger[ma]nici dixeru[nt ][.6][ (T(itum)) Flauium Longum (s(upra)) (s(criptum)) ingenuum natum et (c(iuem)) (R(omanum)) esse] 
+
+    7. iusque miliṭaṇ[di in (leg(ione)) habere.] 
+
+    8. actum (cast(ris)) (Aug(ustis)) in (hib(ernis)) (ḷeg(ionis)) ỊỊỊ [XVII (Kal(endas)) ][.3] 
+
+    9. (Q(uinto)) Uolusio Saturn[ino (L(ucio)) Uenuleio Montano Aproniano (con(sulibus)) anno XVII (Imp(eratoris)) (Caes(aris)) Domitiani (Aug(usti)) Germanici ][.?] =>=D>

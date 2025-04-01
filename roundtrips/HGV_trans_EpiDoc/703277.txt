@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) In the 11th year of Tiberius Caesar Augustus on the 30th of the month of Neos Sebastos, Harthotes son of Marres paid to Heraklas, the collector’s agent, the syntaximon of the tenth year at Theadelphia, twenty silver dr. = 20 dr;
+               ((6)) on the … of Mecheir, twelve dr. = 12 dr;
+               ((7)) on the 24th of Pharmouthi, four dr. = 4 dr; 
+               ((8)) after the accounting on the 30th, on the 8th (i.e. of Pachon) = equals 4 dr.
+               ((9)) on the 9th of Pauni, four dr. = 4 dr.
+/*Translation by Zachary Smith, BASP 53 (2016) 138-139*/
+            =>
+         =T>
+      

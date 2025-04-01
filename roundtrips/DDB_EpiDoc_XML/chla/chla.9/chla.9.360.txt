@@ -1,0 +1,185 @@
+<S=.la<D=.FrA,1<=
+
+    1. [.?].2[.?] 
+
+    2. [.?].1[.?].1ic.1[.?] 
+
+    3. [.?]--------[.?].2sas 
+
+    4. [.?]--------[.?] Aziz.1[.1]
+
+    5. --------[.?] (|r|) illi.3[.2]s[.?] 
+
+    6.  [.?] ([si]ngụl(aris)) (dec̣(urio)) *filled-circle* .1 Romullụs 
+
+    7. [.?].3[.?] 
+
+    8.  [.?][ ad ]([pr]ạetor(em)) dụpḷ[.2].2[.3].1
+
+    9. .1[.?] 
+
+    10. [.?]-------- (dupl(icarius)) [.?] 
+
+    11. [.?].2[.?] 
+
+    12. [.?].3[.?].1ellus 
+
+    13. [.?].1[.?].2s 
+
+    14. [.?].1[.?] 
+=>=D><D=.FrA,2<=
+
+    6. si[.?] 
+
+    7. --------[.?]
+=>=D><D=.FrB,1<=
+
+    1. ((centuria)) .1[.12]ọ[.?] 
+
+    2. -------- ((centuria?)) (Ạụ[rel(ii)]) [.5]ụs[.?] 
+
+    3. Ṣ[abino ii] (co(n)s(ule)) 
+
+    4. (sing(ularis)) (dupl(icarius)) (Au[rel(ius)]) C̣ạṣṭor 
+
+    5. [(d(omino)) ]([A]lex(andro)) iị ([co(n)]s(ule))
+
+    6. [.?]-------- 〚.5〛 (sesq(uiplicarius)) 
+Luc̣ị[us] Ịụlian[u]s 
+
+    7. F̣[u]sco ịị (co(n)s(ule))
+
+    8. (singul(aris)) (Aurel(ius)) Doṃitianus 
+
+    8a. [.?].1nsạpunc
+
+    8b. <:[.?].4=Ch.L.A. 48,p.66|ed|[.?].3l:> epulis
+
+    9. -------- (Iul(ius)) Apoliṇạṛiụs 
+
+    10. (d(omino)) (Alex̣(andro)) [ii (co(n)s(ule))] 
+
+    11. -------- Ạ(ureḷ(ius)) Iaddạ[.?] 
+
+    12. -------- Ạ(ureḷ(ius)) Ia.2[.?] 
+
+    13. -------- (Ạurel(ius)) D[.?] 
+
+    14. Albiṇ[o (co(n)s(ule))] 
+
+    15. --------[.?]--------[.?] (Au[rel(ius)]) [.3]us 
+
+    16. [Mo]ḍẹṣ (co(n)s(ule))
+
+    17. [.?].2lo[.1].1[.1]lus 
+
+    18. [.?] (d(omino)) (Alẹx(andro)) iii (co(n)s(ule))
+
+    19. [.?] (Aurel(ius)) Antoṇ[i]nus
+
+    20.  [.?] ([A]urel(ius)) Asclepiadẹs 
+
+    21. [.?] (Ạurel(ius)) Ualẹns 
+
+    22. Agricoḷa (c̣o(n)s(ule))
+
+    23. [.?] -------- (Aụṛ[el(ius)]) .3ius 
+
+    24. [.?]-------- Ạụ([r]ẹl(ius)) Sịḷ[ua]nus 
+
+    25.  [.?] ([singu]l(arilus)) .1[.2]ge.4s 
+=>=D><D=.FrB,2<=
+
+    1. lost.9lin 
+
+    10. [.?]--------[.?] 
+
+    11. [.?]--------[.?] 
+
+    12. [.?]--------[.?] 
+
+    13. --------[.?]--------[.?]
+
+    14. --------[.?]--------[.?]
+
+    15. .1[.?].2[.?] 
+ 
+    16. [.?][ si]ṇg̣[.2] (Ạụ[rel(ius)]) [.?]  
+
+    17.  .1[.2] ([si]ṇgul(aris)) (Ạụ[rel(ius)]) [.?]  
+
+    18.  [.?] ([si]ngul(aris)) (Au[rel(ius)]) [.?]  
+
+    19.  [.?] ([of]f(icio)) (proc(uratoris)) (Au[rel(ius)]) [.?]  
+
+    20. L[u]p̣[o (co(n)s(ule)) ][.?]  
+
+    21. -------- (Aurel(ius)) Ṭheṃ[.?] 
+
+    22. (siṇg̣ul(aris)) (Aurel(ius)) Baṛ.1[.?] 
+
+    23. -------- (Aurel(ius)) Zeṇ[.?] 
+
+    24. -------- Marinus Ṃ[.?] 
+
+    25. -------- (Aurel(ius)) Ṣer.2[.?] 
+=>=D><D=.FrD<=
+
+    1. [.?] P̣upp[.1].1[.?]
+
+    2. Ạ([u]ṛẹl(ius)) .4aṣ.1[.?] 
+=>=D><D=.FrF<=
+
+    1. [.?]--------[.?] 
+
+    2. [.?]--------[.?] 
+
+    3. [.?] (off(icio)) p̣ṛ(oc̣(uratoris)) [.?] 
+=>=D><D=.FrJ<=
+
+    1. [.?]f̣p̣oc̣ (Aure[l(ius)]) [.?]  
+
+    2.  [.?] ([sin]gul(aris)) (Aure[l(ius)]) [.?]  
+
+    3. [.?]-------- ḥ[.?] 
+
+    4. [.?].1[.?] 
+
+    5. [.?][ o]p̣inio .2[.?] 
+=>=D><D=.FrK<=
+
+    1.  [.?] ([A]ụṛ[el(ius)]) .4o.1[.?] 
+
+    2.  [.?] ([A]ure[l(ius)]) C̣ṛị[s]pi[nus ][.?] 
+
+    3. [.?] Africa[no (co(n)s(ule))] 
+
+    4. [.?][ Co]cceiụṣ .2[.?] 
+=>=D><D=.FrL<=
+
+    1. [.?].2[.?] 
+
+    2.  [.?] ([Aur]el(ius)) Long[.?] 
+
+    3. [.?].2or[.?] 
+
+    4. [.?].1[.2]o[.?] 
+
+    5. [.?].2[.1].1[.?] 
+=>=D><D=.FrM<=
+
+    1. [.?].3[.?] 
+
+    2. [.?].2al[.?] 
+
+    3. [.?] (Auṛẹḷ(ius)) Ụị.1[.?]
+
+    4. [.?]-------- .1dre[.?] 
+
+    5. [.?].1eon Isid.2[.?] 
+
+    6. [.?].2[.4].3[.?] 
+
+    7. [.?]ṣ[i]ng[.2].3[.?] 
+
+    8. [.?].2[.?] =>=D>

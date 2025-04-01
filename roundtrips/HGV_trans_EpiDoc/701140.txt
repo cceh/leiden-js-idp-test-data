@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) For God’s sake, don’t let ...
+                  (((2))) the linen cloth and the face-cloth. ... sent …
+                  ((3)) halter that is hanged ...
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) ... from Petros.
+               /*Translation with minor modifications: A. Koroli, CdE 91 (2016) 195*/
+               =>
+            =D>
+         =T>
+      

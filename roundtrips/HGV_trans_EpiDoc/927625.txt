@@ -1,0 +1,14 @@
+
+         <T=.fr
+            <=
+               ((1)) À Flavius Salvitius ex protectoribus, tribun du camp du village de Narmouthis du nome Arsinoïte.
+               (((3))) De la part d’Aurélios Nilas fils de Syros du village de Narmouthis du nome Arsinoïte: je déclare mon accord, en jurant par le dieu qui a nourri (?) toutes choses, 
+ainsi que par la fortune divine et la victoire de nos seigneurs éternels Augustes, pour me porter garant, de mon plein gré et volontairement, du lieu de résidence et de la comparution d’Aurélia Tirésis, 
+épouse du vétéran Philippos, fille de Pébis, ((10)) que je présenterai quand tu la réclameras; si je ne la présente pas, je serai responsable pour tout ce qui lui sera réclamé 
+ou bien puissé-je être exposé aux conséquences de mon serment divin et au risque qui y est attaché. Et, interrogé, j’ai déclaré mon accord. (((17))) Sous le consulat de nos seigneurs Constantin, 
+consul pour la (?) fois, et Constantin (ou Constance) le très illustre César, consul pour la (?) fois, (mois, jour).
+               (((20))) Moi, Aurélios Nilas, fils de Syros, je me porte garant ... .
+            /*Translation with minor modifications: A. Martin and R. Pintaudi, CdE 95 (2020) 109-110*/
+            =>
+         =T>
+      

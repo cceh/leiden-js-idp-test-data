@@ -1,0 +1,16 @@
+
+         <T=.de<=
+            ((1))Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 50. 
+            <Kleruchie=cleruchy>. Hôros, Sohn des Menandros, 
+            und Anchôphis, Sohn des Mysthês, für 4 1/2 <Aruren=aroura> 
+            <Königsland=basilikege> bei Karanis.
+            (((5)))Ich, Ptolemaios, habe geschrieben.
+        =>=T>
+         <T=.en<=
+            ((1))From the seed reserves of year 22 of Antoninus Caesar, the lord. 50th 
+            <cleruchy=cleruchy>. Horos, son of Menander and Anchophis, 
+            son of Mysthes. At Karanis 4 1/2 <arouras=aroura> of 
+            <royal (land)=basilikege>.
+            (((5)))I, Ptolemaios, wrote this.
+        =>=T>
+      

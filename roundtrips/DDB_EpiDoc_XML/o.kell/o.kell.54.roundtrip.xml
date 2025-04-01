@@ -1,0 +1,6 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>δι</unclear>έγραψεν Αὐρήλιος <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <subst><add place="inline">ὑπὲρ</add><del rend="corrected">υπ<gap reason="illegible" quantity="2" unit="character"/></del></subst>  <expan>γενήματ<ex>ος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <subst><add place="inline"><num value="24">κδ</num></add><del rend="corrected"><gap reason="illegible" quantity="2" unit="character"/></del></subst>.  Αὐρήλι<unclear>ος</unclear> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> σεσημείωμαι</supplied></ab></div>

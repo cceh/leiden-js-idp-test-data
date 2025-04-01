@@ -1,0 +1,10 @@
+<S=.grc<=
+    1. *rho-cross* Θ̄ὼ̄θ̄ *dipunct*  <#κ̄γ̄=23#> *dipunct* ~|ⲧⲟⲩϩⲱ|~cop  *dipunct* *filler(extension)* 
+
+    2. (οἴ(νου)) (μεγ(άλα)) *dipunct*  <#η̄=8#> *dipunct* *dipunct* *filler(extension)* 
+
+    3. ὁμοίως ~|ⲑⲁⲗⲗⲟⲩ|~cop  *dipunct* 
+
+    4. (οἴ(νου)) (μεγ(άλα)) *dipunct*  <#λ̄ϛ̄=36#> *dipunct* 
+
+    5. ~|ⲉⲛⲱⲭ|~cop  <:(καμηλ(ίτης))|reg|(καμαλ(ίτης)):> =>

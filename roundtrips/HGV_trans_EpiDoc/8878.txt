@@ -1,0 +1,31 @@
+
+         <T=.de<=
+            ((1))An die <Sitologen=sitologos> von Karanis. 
+            Ich habe erhalten <:unter Abgabe einer eidlichen handschriftlichen 
+                Erklärung|BGU_DDbDP:Nach GUNDEL, CE 47, 1972, S. 207 f.|:> <:vom
+                    Saatgut|BGU:BL I, S. 20|:> des 22. Jahres des Antoninus Caesar, 
+            des Herren: ((2))<:(2. Hand)|BGU_DDbDP:BGU I, S. 356|:>
+            5. <Kleruchie=cleruchy>. Psenobastis, Sohn des Hôros, für 
+            10 1/8 1/16 1/32 <Aruren=aroura> 
+            <Königsland=basilikege> bei Karanis, für 2 1/16 1/32 1/64
+            <Aruren=aroura> <:des Senecanischen (Landguts)
+                |BGU_DDbDP:P. Hamb. I 3, Komm. zu Z. 9 (S. 13)|:>bei Karanis,
+            (((5)))für 3 3/4 1/8 1/64 <Aruren=aroura> 
+            des Kamelianischen (Landguts).
+        =>=T>
+         <T=.en<=
+            ((1))To the <sitologoi=sitologos> 
+            of Karanis. 
+            <:I received under declaration (with a written sworn statement) 
+                |BGU_DDbDP:Cf. Gundel, CE 47, 1972, 207f.|:>
+            <:from the seed grain|BGU:(BL I 20)|:>
+            of year 22 of Antoninus Caesar, the lord. ((2))
+            <:(m. 2) |BGU_DDbDP:BGU I, p. 356|:>
+            5th <cleruchy =cleruchy>. Petobastis, son of Horos. At 
+            Karanis for 10 1/8 1/16 1/32 <arouras =aroura> 
+            of <royal (land)=basilikege>, at Karanis for 2 1/16 1/32 1/64 
+            <arouras=aroura> <:on the Senecan (estate) 
+                |BGU_DDbDP:P.Hamb. I 3.9 comm. (p. 13)|:>, ((5)) 
+            on the Camelian (estate) for 3 3/4 1/8 1/64 <arouras=aroura>.
+        =>=T>
+      

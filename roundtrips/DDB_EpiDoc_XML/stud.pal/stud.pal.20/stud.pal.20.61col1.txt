@@ -1,0 +1,49 @@
+<S=.grc<D=.1,ctr<=
+
+    1. [.?].1ας της αβ[.?] 
+
+    2. [.?][ ἰδιω]τικῆς (ἐσπαρμ(ένης)) [.?] 
+
+    3. [.?]ης (ἀβρόχ(ου)) ((ἀρουρ  )) 
+
+    4. [.?](|κατας|) ((ἀρουρ  )) [.?] 
+
+    5. [.?]πραθ.2 
+
+    6. [.?]ε[.2]ιω[.?] 
+
+    7. [.?]ανιος ιδ.1 
+
+    8. [.?] (ἐ[σ]παρμ(ένης)) 
+
+    9. [.?].1α 
+
+    10. [.?]ω καὶ α 
+
+    11. [.?] 
+=>=D><D=.1,md<=
+
+    3. *long-vertical-bar* ν̣ 
+
+    4. *long-vertical-bar* ο̣ς̣ 
+
+    5. *long-vertical-bar* οτι 
+
+    6. *long-vertical-bar* τω 
+
+    7. *long-vertical-bar* α 
+
+    8. *long-vertical-bar* οτι 
+
+    9. *long-vertical-bar* (|δραχ|) 
+
+    10. *long-vertical-bar* ια 
+
+    11. *long-vertical-bar* ν̣η̣ 
+
+    12. *long-vertical-bar* τε 
+
+    13. vac.? 
+
+    14. *long-vertical-bar* .1 
+=>=D>

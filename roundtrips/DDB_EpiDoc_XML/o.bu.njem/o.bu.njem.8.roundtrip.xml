@@ -1,0 +1,30 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><num value="12">xii</num> <expan>Kal<ex>endas</ex></expan> <expan>Aug<ex>ustas</ex></expan> <expan>n<ex>umerus</ex></expan>  <num value="44">xliiii</num> 
+
+    <lb n="2"/>ex is librarius <num value="1">i</num> 
+
+    <lb n="3"/>optio  <num value="1">i</num> 
+
+    <lb n="4"/><choice><reg>proculcator</reg><orig>proculcato</orig></choice> <num value="1">i</num> 
+
+    <lb n="5"/>ad <choice><reg>aquam</reg><orig>aqua</orig></choice> balnei <num value="7">vii</num> 
+
+    <lb n="6"/>stationari <num value="5">v</num> 
+
+    <lb n="7"/>molendarius <num value="1">i</num> 
+
+    <lb n="8"/>fornarius <num value="1">i</num> 
+
+    <lb n="9"/>ad <choice><reg>carcerem</reg><orig>carcare</orig></choice> <num value="1">i</num> 
+
+    <lb n="10"/>eger Paccius <expan>Maxi<ex>mus</ex></expan> <num value="1">i</num>
+
+    <lb n="11"/><add place="above">cum <choice><reg>camellos</reg><orig>kamellos</orig></choice> <num value="3">iii</num> </add>
+
+    <lb n="12"/>reliqui repungent <num value="22">xxii</num> 
+
+    <lb n="13"/>balneus accipit xvi <add place="above">i</add> et <choice><reg><expan>camel<ex>larius</ex></expan></reg><orig><expan>kamel<ex>larius</ex></expan></orig></choice>
+
+    <lb n="14"/>furnus accipit  <num value="5">v</num> 
+</ab></div>

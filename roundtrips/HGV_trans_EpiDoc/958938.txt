@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) Petor(zmethis) son of Bienchis [has paid] 8 dr. on account [for] the poll tax of the 14th year of
+Domitian, [Caesar], the lord, ((4)) [the same (man)] (has paid) the remaining 9 dr., the total 17 dr. (((5))) I,
+[Sokrates], tax collector, have written. [Year 15] of Domitian, Caesar, the lord, 10th Phaophi.
+/*Translation: S.A. Aly, ZPE 219 (2021) 150*/
+            =>
+         =T>
+      

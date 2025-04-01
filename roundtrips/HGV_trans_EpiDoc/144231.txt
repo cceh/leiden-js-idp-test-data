@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.1.side 
+               <=
+                  ((1)) Account of Chabrias
+                (((2))) Mecheir, to Zenon  25 dr.
+                (((3))) Phamenoth
+                (((4))) To Samaus, the price
+                (((5))) of geese (?),  17 dr. 2 ob.
+                (((6))) […] n dr.
+                (((7))) [To ...], of oil 6-choes [n.]
+                (((8))) Pharmouthi, to Zenon  20 … […]
+                         /*Translation: S. Torallas Tovar – K.A. Worp, P.Monts.Roca 4 88*/ 
+               =>
+            =D>
+         =T>
+      

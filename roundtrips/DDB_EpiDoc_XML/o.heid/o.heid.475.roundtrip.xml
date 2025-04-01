@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><unclear>ρο</unclear>ς</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost" cert="low">Ὧ</supplied><unclear>ρο</unclear>ς</rdg></app> Ὀσορουήριος
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="13">ιγ</num>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <expan><unclear>ὁμ</unclear><ex>οίως</ex></expan> <abbr><unclear>η</unclear><gap reason="illegible" quantity="3" unit="character"/>ρο</abbr> <expan><ex cert="low">δραχμαὶ</ex></expan> <gap reason="illegible" quantity="2" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>σθ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ς</unclear> Ὥρου
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ν</unclear>ις <space extent="unknown" unit="character"/> υἱὸς <expan><ex cert="low">πυροῦ ἀρτάβαι</ex></expan>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <abbr>Π<gap reason="illegible" quantity="4" unit="character"/></abbr>
+<lb n="7"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>φος</lem><rdg><supplied reason="lost">ἀδε</supplied><unclear>λ</unclear>φος</rdg></app>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

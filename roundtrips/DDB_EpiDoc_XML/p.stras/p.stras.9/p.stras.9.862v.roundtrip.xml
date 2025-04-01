@@ -1,0 +1,21 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/>παρὰ <expan>Ἀντᾶτ<ex>ος</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num> 
+
+    <lb n="2"/>παρὰ <abbr>Κυρια</abbr> <expan><ex>δραχμὰς</ex></expan> <num value="20">κ</num> 
+
+    <lb n="3"/>Ἀντᾶς <expan>Ἀμμ<ex>ων  </ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> 
+
+    <lb n="4"/><expan>Ἀντ<ex>ᾶς</ex></expan> <abbr>Γερμαν</abbr> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> 
+
+    <lb n="5"/><expan>Ἀντ<ex>ᾶς</ex></expan> <abbr>Σαραπ</abbr> <abbr>Ἀμ<unclear>μ</unclear></abbr> <expan><ex>δραχμὰς</ex></expan> <num value="8">η</num> 
+
+    <lb n="6"/>Πτολέμα <abbr>Σαρ<supplied reason="lost">α</supplied>π</abbr> <expan><ex>δραχμὰς</ex></expan> <num value="20">κ</num> 
+
+    <lb n="7,ms"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="7"/><expan>Πτολέμ<ex>α</ex></expan> <unclear>ι</unclear> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <num value="4">δ</num> 
+
+    <lb n="8"/>ἡ αὐτὴ <abbr>Ἰ<unclear>ς</unclear><gap reason="illegible" quantity="1" unit="character"/></abbr> <expan><ex>δραχμὰς</ex></expan> <num value="44">μδ</num> 
+
+    <lb n="9"/><handShift new="m2"/> <num value="24">κδ</num> Πτολέ<supplied reason="lost">μα </supplied><gap reason="lost" extent="unknown" unit="character"/>. </ab></div>

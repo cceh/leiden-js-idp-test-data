@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>ἔτους <num value="3">γ</num> <subst><add place="inline">Πα<unclear>χὼ</unclear>ν</add><del rend="corrected">φα<unclear>χω</unclear>ν</del></subst> 
+
+    <lb n="2"/><subst><add place="inline"><num value="26">κϛ</num></add><del rend="corrected">κ<del rend="erasure">ζ</del>ς</del></subst> <expan><unclear>τέ</unclear><ex>τακται</ex></expan> <unclear>ἐπὶ</unclear> τὴν <unclear>ἐν</unclear> <gap reason="illegible" quantity="3" unit="character"/> 
+
+    <lb n="3"/><expan>τρά<ex>πεζαν</ex></expan> ἐ<unclear>φ</unclear>ʼ <unclear>ἧς</unclear> <expan><unclear>Ἀπολλ</unclear>ώ<ex>νιος</ex></expan> <expan>ἀ<unclear>πομο</unclear>ί<ex>ρας</ex></expan> <num value="3">γ</num> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="4"/><expan>Ψε<unclear>νμώ</unclear><ex>νθης</ex></expan> <gap reason="illegible" quantity="4" unit="character"/><abbr>χ<gap reason="illegible" quantity="2" unit="character"/></abbr>
+<choice><reg>χιλί<lb n="5" break="no"/>ας</reg><orig><unclear>χειλί</unclear><lb n="5" break="no"/>ας</orig></choice>  <num value="350">τ<unclear>ν</unclear></num> <expan><ex>γίνονται</ex></expan> <num value="1350">Ατν</num>. 
+
+    <lb n="6"/><expan>Ἀ<unclear>πολλώ</unclear><ex>νιος</ex></expan> <expan><unclear>τρ</unclear>α<ex>πεζίτης</ex></expan> <num value="1500">Αφ</num>. </ab></div>

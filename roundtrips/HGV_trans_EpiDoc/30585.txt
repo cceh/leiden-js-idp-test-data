@@ -1,0 +1,19 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((9)) 9ff. ‘One talent of silver from your brother Thonius. I have recovered only 4 pounds from the launderer; the rest are with him. I got the remnants from the carpenter: from his debt of 2000 drachmae I got 1000 on account. Get from Apion one sack of hair (?) and another of tow. I have obtained nothing from anyone in Apion’s house. Of the bronze …,’
+               =>
+            =D>
+            <D=.v,1 
+               <=
+                  ((27))
+               =>
+            =D>
+            <D=.v,2 
+               <=
+                  ((34))
+               =>
+            =D>
+         =T>
+      

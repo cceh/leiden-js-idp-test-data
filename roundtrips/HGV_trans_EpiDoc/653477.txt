@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) To my lord …,
+                      Herakleides, superintendent
+                      of wheat and barley, greetings. I have received from
+                      Anoubion …
+                      one modius of wheat,
+                      that is, 1 mod. of wheat.
+                      I, the aforementioned Ischyrion, decurion, have signed.
+                      /*Translation: R.S. Bagnall – G. Tallet, ZPE 196 (2015) 191*/
+            =>
+         =T>
+      

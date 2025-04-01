@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  [Translation from Bagnall and Derow, The Hellenistic Period 2004] Athenagoras the chief physician to the priests of the stolistai in the Labyrinth and to the stolistai, greeting. Since Herakleides, my subordinate over your district, has died and is in your cemetery, I have sent Nikias and Krokos for him. You will do well to release the body without having charged anything, and you will accompany them as far as Ptolemais. The vestmentkeepers in Alexandria have also written to you about him. Take care of yourselves, that you may be well. Farewell. Year 14, Hathyr 25. 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  (Address) to the priests of the stolistai and to the stolistai. 
+               =>
+            =D>
+         =T>
+      

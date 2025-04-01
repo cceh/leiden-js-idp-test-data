@@ -1,0 +1,13 @@
+
+            <T=.en
+               <=
+               ((1))... I have received by way of payment for the complete period nine golden solidi and a half ... out of my wages for my food. 
+((3))And moreover, I acknowledge receipt of two golden solidi received already as earnest-money, and the remaining seven solidi and a half ..., 
+and that it is impossible for me to leave you before the end of this period without reason ..., but if I should run away, 
+I shall give you ... golden solidi by way of fine ... and that you, ((7))if you should want to dismiss me before the end of this period without due reasons, 
+will be subject to the same fine. The agreement, drawn up in single copy (or: in duplicate), is valid and in answer to the formal question I have given my assent, 
+giving as a pledge for everything that has been written above everything I have ans hall have ... by right of mortgage and as security ...
+                /*Translation: P.Select 4*/
+              =>
+           =T>
+        

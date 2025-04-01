@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              In the consulship of Julianus for the fourth time and Sallustius the most illustrious praefect of the sacred praetorium, Thoth .. To Flavius Psoeis, logistes of the Oxyrhynchite nome, from Aurelius Moses son of Theon, of the said city, delegate of appointments of the quarter of the Gymnasium Square and other quarters. I present and announce at my own risk for the inspection of the ... provided as is the custom at the temple of Augustus in the most illustrious Alexandria, for one year from the first day of Thoth up to and including the fifth intercalary day of Mesore of the present 40th which = the 9th year, the person whose name follows below, who is suitable for the office, namely Aurelius son of Zakaon son of Melanas, of the said city and said tribe. /*Signatures of Aurelius Moses and other officials.*/
+            =>
+         =T>
+      

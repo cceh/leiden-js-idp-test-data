@@ -1,0 +1,8 @@
+
+         <T=.de
+               <=
+                  ((1)) Im Jahr ... des Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, am 3. Thoth. 
+((3)) Eingezahlt hat an Ammonios und Herakleides und ihre Kollegen, die Erheber ... NN, Zimmermann, für die Gewerbesteuer für dasselbe Jahr zwölf Drachmen, das sind 12 Dr.
+               =>
+            =T>
+      

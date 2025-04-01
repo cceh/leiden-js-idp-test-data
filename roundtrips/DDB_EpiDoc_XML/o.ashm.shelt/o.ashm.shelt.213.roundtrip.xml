@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>αρητην<gap reason="illegible" quantity="1" unit="character"/>α
+<lb n="2"/><app type="alternative"><lem>λαβελαιν</lem><rdg>λάβ’ <choice><reg>ἔλαιον</reg><orig>ἔλαιν</orig></choice></rdg></app>
+<lb n="3"/>εναρην
+<lb n="4"/><app type="alternative"><lem>οινανθη<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>οἰνάνθη<gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+<lb n="5"/>κ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>θ
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <space extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβη</ex></expan> <num value="1">α</num>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <space extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="2">β</num> <num value="1/12" rend="tick">ιβ</num>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>γ</unclear>ο</abbr> <space extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβη</ex></expan> <num value="1">α</num> <num value="1/12" rend="tick">ιβ</num>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="6" unit="character"/> <space extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβης</ex></expan> <num value="2/3">𐅷</num>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="8" unit="character"/> <space extent="unknown" unit="character"/> <expan><ex>πυρο­ῦ ἀρτάβαι</ex></expan> <num value="4">δ</num> <num value="1/4">δ</num>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="6" unit="character"/> <space extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβης</ex></expan> <num value="1/12" rend="tick">ιβ</num>
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <app type="alternative"><lem><abbr>Ἐσουη<gap reason="illegible" quantity="2" unit="character"/></abbr></lem><rdg>Ἐσουή<unclear>ρε</unclear>ι</rdg></app> <space extent="unknown" unit="character"/> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="7">ζ</num> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>

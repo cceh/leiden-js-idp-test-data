@@ -1,0 +1,41 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/>παντοπωλῶν
+<lb n="2"/>ἔτο<supplied reason="lost">υς</supplied> <num value="12"><hi rend="supraline">ιβ</hi></num> Νέρ<unclear>ω</unclear>νος τοῦ κυρίου
+<lb n="3"/>Θὼθ <num value="5">ε</num>
+<lb n="4"/>Φαῶφι <num value="5">ε</num>
+<lb n="5"/>Ἁθὺρ <num value="5">ε</num>
+<lb n="6"/>Χοιὰχ <num value="5">ε</num> 
+<lb n="7"/>Τῦβι <num value="5">ε</num> 
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+</div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="1"/>Θὼθ χρυσοχεῖς <num value="2">β</num>
+<lb n="2"/>Φαῶφι <num value="2">β</num>
+<lb n="3"/>Ἁθὺρ <num value="2">β</num>
+<lb n="4"/><supplied reason="lost">Χο</supplied><unclear>ι</unclear>ὰχ <num value="1">α</num>
+<lb n="5"/>Τῦβι <num value="1">α</num>
+<lb n="6"/>Μεχεὶρ <num value="1">α</num>
+<lb n="7"/>Φαμενὼθ <num value="1">α</num>
+<lb n="8"/>Φαρμοῦθι <num value="1">α</num> 
+<lb n="9"/>Παχὼν <num value="0">-</num>
+<lb n="10"/>Παῦνι <num value="0">-</num>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+</div>
+<div n="iii" subtype="column" type="textpart"><ab>
+<lb n="1"/><choice><reg>μολυβ<supplied reason="lost">δ</supplied>ουργοί</reg><orig>μολυ<unclear>β</unclear><supplied reason="lost">δ</supplied>εργοί</orig></choice>
+<lb n="2"/>Θὼθ <num value="1">α</num>
+<lb n="3"/>Φαῶφι <num value="1">α</num> 
+<lb n="4"/>Ἁθὺρ <num value="1">α</num>
+<lb n="5"/>Χοιὰχ <gap reason="lost" quantity="1" unit="character"/>
+<lb n="6"/>Τῦβι <gap reason="lost" quantity="1" unit="character"/>
+<lb n="7"/>Μεχε<unclear>ὶρ</unclear> <num value="1">α</num>
+<lb n="8"/>Φαμεν<supplied reason="lost">ὼ</supplied>θ  <num value="1">α</num>
+<lb n="9"/>Φαρμο<unclear>ῦ</unclear><supplied reason="lost">θι</supplied> <num value="2">β</num>
+<lb n="10"/>Παχὼν <gap reason="lost" quantity="1" unit="character"/>
+<lb n="11"/><unclear>Παῦνι</unclear>  <num value="2">β</num> 
+<lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+</div></div>

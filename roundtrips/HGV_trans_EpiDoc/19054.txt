@@ -1,0 +1,23 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Aurelii Charisios, son of Hermauos, and Besarion, son of Dioskoros, protokometai of the village of Aphrodite, 
+((3)) to Aurelius Apollos, son of Dioskoros, boethos of the same (village), greetings.
+(((5))) We acknowledge through this written procuratorship of ours, we entrust you and command you, so that, if need invokes, 
+that you borrow on our behalf in Antinoopolis and give for any matter whatsoever pertaining to the public matter of the same village, this we have deemed worthy to do. 
+(((12))) And we are ready to, when you are present in the village, deliver to you the things borrowed by you for this matter of the village.
+(((15))) And for your security we have issued for you this procuratorship with our signature as above.
+I, the aforementioned Aurelius Charisios, son of Hermauos, entrust this procuratorship by mutual security as above.
+I, the aforementioned Aurelius Besarion, son of Dioskoros, entrust this procuratorship by mutual security as above.
+(((22))) I, Hadrianus, son of Abraham (pap.: Abraamios), soldier of the company of Antaiopolis, am witness to this procuratorship having heard it 
+from the ones who set it and having written the text.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) procuratorship of Charisios and Besarion for Apollos, boethos. /*Translation: Law in Social Networks Project (Warsaw)*/
+               =>
+            =D>
+         =T>
+      

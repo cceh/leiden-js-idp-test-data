@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart">
+    <div n="1" subtype="fragment" type="textpart"><ab>
+    <lb n="1"/><g type="stauros"/> ἔχω ἐγὼ Ἰωάννης υἱὸς <choice><reg>Γεωργί<supplied reason="lost">ου</supplied></reg><orig>Γεγωργί<supplied reason="lost">ου</supplied><gap reason="lost" extent="unknown" unit="character"/></orig></choice> 
+    <lb n="2"/><g type="stauros"/> ἔχω <unclear>ἐ</unclear><supplied reason="lost">γὼ Ἰωάνν</supplied><unclear>η</unclear>ς υἱὸ<unclear>ς</unclear> <choice><reg>Γεωργί<supplied reason="lost">ου</supplied></reg><orig>Γε<unclear>γ</unclear>ω<supplied reason="lost">ργίου</supplied><gap reason="lost" extent="unknown" unit="character"/></orig></choice>     
+    <lb n="3"/><gap reason="lost" quantity="15" unit="character" precision="low"/><unclear>ε</unclear><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>
+    </ab></div>
+    <div n="5" subtype="fragment" type="textpart"><ab>
+     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+     <lb n="4"/><g type="stauros"/> ἐν <unclear>ὀ</unclear><supplied reason="lost">νόματι</supplied><gap reason="lost" extent="unknown" unit="character"/>
+     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+     </ab></div>
+</div>
+  </div>

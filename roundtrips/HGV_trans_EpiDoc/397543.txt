@@ -1,0 +1,27 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                         [I greet
+                  ((1)) my … and]
+                         my brother Pasion
+                         with his wife and children;
+                         I greet Ptollemon (?)
+                         with his wife and children;
+                         I greet Sanpas with his wife and children; I
+                         also greet your wife
+                         many times; ((9)) I did not find anybody,
+                         who was travelling, so that you could send
+                         me news about your safety
+                         …
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) To [.... ]nios, the brother …
+                         From Sanpas
+                         /*Translation: F. Hamouda, P.Cair.Mich. 2 20*/
+               =>
+            =D>
+         =T>
+      

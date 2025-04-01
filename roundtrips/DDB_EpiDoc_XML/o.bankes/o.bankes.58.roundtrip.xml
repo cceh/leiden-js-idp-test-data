@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <expan>Ἀ<unclear>λε</unclear>ξαν<ex>δρ- </ex></expan>.
+<lb n="2"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan></supplied> <num atLeast="1" atMost="8"><gap reason="lost" quantity="1" unit="character"/></num> <supplied reason="lost">Αὐ</supplied>τοκράτορος Καίσαρος
+<lb n="3"/><supplied reason="lost">Μάρκου Α</supplied>ὐρηλίου Ἀντωνίνου
+<lb n="4"/><supplied reason="lost">Σεβαστοῦ κα</supplied>ὶ Αὐτοκράτορος
+<lb n="5"/><supplied reason="lost">Καίσαρος Λουκ</supplied>ίου Αὐρηλίου
+<lb n="6"/><supplied reason="lost">Οὐήρου Σεβαστο</supplied>ῦ, Παῦνι <num value="29"><hi rend="supraline">κθ</hi></num>.
+</ab>
+      </div>

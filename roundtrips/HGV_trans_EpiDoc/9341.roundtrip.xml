@@ -1,0 +1,24 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An Ammônios, den 
+            <term target="basilikosgrammateus">Königlichen Schreiber</term> des 
+            Hêrakleidês-Bezirks des Arsinoïtês,
+            <milestone unit="line" n="3" rend="break"/>von Panephremmis, Sohn des Stotoêtis, aus dem Dorf Sok[nopaiû Nês]os 
+            im Hêrakleidês-Bezirk. <milestone unit="line" n="5"/>Mein vom Vater geerbter Sklave Panomieus ist 
+            gestorben im Monat Phaôphi des gegenwärtigen vierten Jahres des Imperator Caesar 
+            Ne[r]va [Traianus] Augustus Ge[r]manicus.
+            <milestone unit="line" n="10" rend="break"/>[Hiermit bitte ich darum, ihn] in das 
+            <term target="taxistonteteleutekoton">[Verzeichnis der] Verstorbenen</term> 
+            [aufzunehmen] ...
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To Ammon[i]os, <term target="basilikosgrammateus">royal scribe</term> 
+            of the Arsinoite nome, Herakleides division,
+            <milestone unit="line" n="3" rend="break"/>from Panephremmis, son of Stotoetis, of those of the village of 
+            Sok[nopaiou Nes]os, Herakleides division. <milestone unit="line" n="5"/>My slave Panomieus, inherited 
+            from my father, died in the month of Phaophi of the present fourth year of Imperator 
+            Caesar Ne[r]va [Traianus] Augustus Ge[r]manicus.
+            <milestone unit="line" n="10" rend="break"/>Therefore I request that he is included in the 
+            <term target="taxistonteteleutekoton">list] of those, who have died</term> ...
+        </p></div>
+      </body>

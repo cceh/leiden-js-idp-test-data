@@ -1,0 +1,8 @@
+<S=.grc
+<=
+1. (Lang: Demotic 12 char)  Ἥρων
+2. Demotic 1 line
+3. (Lang: Demotic 2 char) κακκάβια (Lang: Demotic 8 char)
+4. (Lang: Demotic 1 lines)
+=>
+      

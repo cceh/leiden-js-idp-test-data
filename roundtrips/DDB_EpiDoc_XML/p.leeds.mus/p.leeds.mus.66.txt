@@ -1,0 +1,30 @@
+<S=.grc<D=.Fr1<=
+
+    1. vestig.?lin 
+=>=D><D=.Fr2<=
+
+    1. $m2  vestig.?lin 
+=>=D><D=.Fr3<=
+
+    1. $m3  vestig.?lin 
+=>=D><D=.Fr4<=
+
+    1. $m4  vestig.?lin 
+=>=D><D=.Fr5<=
+
+    1. $m5  vestig.?lin 
+=>=D><D=.Fr6<=
+
+    1. $m6  vestig.?lin 
+=>=D><D=.Fr7<=
+
+    1. $m7  vestig.?lin 
+=>=D><D=.Fr8<=
+
+    1. $m8  vestig.?lin 
+=>=D><D=.Fr9<=
+
+    1. $m9  vestig.?lin 
+=>=D><D=.Fr10<=
+
+    1. $m10  vestig.?lin =>=D>

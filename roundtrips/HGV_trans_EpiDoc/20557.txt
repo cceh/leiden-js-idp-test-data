@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              ... (Heron) agreed that Zenarion would repay after 5 years to his mother Philumene, daughter of Heron, the 2000 drachmae of silver which Philumene lent me and my mother Thaësis by a contract completed through the record office at Oxyrhynchus in Pharmuthi of the ninth year of the deified Vespasian, both the capital and the interest on it from the beginning up to the time of repayment, and would guarantee me and my mother against any trouble or liability whatsoever under penalty of paying us in full any loss or damage which we might incur in connection with the transaction, in addition to half the amount, with the other guarantees contained in the agreement. Since Philumene is continually pressing me to repay, I have been forced to come forward, and request you to order the collector of external debts to be instructed to serve Zenarion and Heron with a copy of this memorandum, in order that they may secure us against any liability or trouble in connexion with the aforesaid debt, and may repay it, or take cognizance of the fact that, if I am made to pay anything on this account, I shall have the right of execution upon both their persons and any property which I may find in their abodes, whether granaries or other possessions. This petition is without prejudice to other claims which I have or may have against them, and to all my legal rights. I have dispatched as my agent Heraclides, son of Heraclides, to conclude the transaction. /*Date.*/
+            =>
+         =T>
+      

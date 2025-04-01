@@ -1,0 +1,21 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>π</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/>αι<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πρ</supplied>οειληφόσιν καὶ ὅτι καθολικῶς κε
+
+    <lb n="3" break="no"/><supplied reason="lost">λευ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low">προσέτ</supplied><unclear>αξ</unclear>α χρήσασθαι τοῖς τῶν Αἰγυπτίων 
+
+    <lb n="4"/><supplied reason="lost">νόμοις </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied>ῇ τῶν Ῥωμαίων πολιτείᾳ 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> Διονυσία ἐπιδέδωκα. <expan><ex>ἔτους</ex></expan> <num value="14">ιδ</num> Τῦβι <num value="8">η</num>. 
+
+    <lb n="6"/><handShift new="m2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἔντευξ</supplied><unclear>ί</unclear>ν σου τοῖς βιβλιοφύλαξι φανερὰν 
+
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> πρὸς τ</supplied>ὸ μηδὲν ἐπὶ περιγραφῇ τοῦ <hi rend="diaeresis">ἱ</hi>ερωτάτου 
+
+    <lb n="8"/><supplied reason="lost">ταμείου γενέσθαι. <app type="editorial"><lem><gap reason="illegible" extent="unknown" unit="character"/></lem><rdg><foreign xml:lang="la">c ?</foreign> τὰ</rdg></app> Ῥωμ</supplied><unclear>α</unclear><hi rend="diaeresis">ϊ</hi>κά. <expan>κόλ<ex>λημα</ex></expan> <num value="2">β</num>. <handShift new="m3"/> <expan>Αὐρήλ<ex>ιος</ex></expan> Σερῆνος ὁ καὶ Σαραπίων <expan>ἐπιδ<ex>έδωκα</ex></expan>. 
+
+    <lb n="9"/><handShift new="m4" cert="low"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τ</supplied>ῷ διʼ ἐναντίας μέρει δικάζοντί μοι ἔντυχε. </ab></div>

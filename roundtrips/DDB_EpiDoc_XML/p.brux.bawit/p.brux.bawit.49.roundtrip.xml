@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><foreign xml:lang="cop"><gap reason="lost" extent="unknown" unit="character"/>ⲫⲁⲗⲉ ⲙⲁϩⲉ ⲛⲡϣⲟⲣⲡ ⲛⲥⲟⲡ</foreign>
+
+<lb n="2"/><del rend="erasure"><expan>κόλ<ex>λα</ex>θ<ex>ον</ex></expan> <g type="slanting-stroke"/><g type="slanting-stroke"/> <num value="1">α</num></del>
+
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan>κόλ<ex>λα</ex>θ<ex>ον</ex></expan> <g type="slanting-stroke"/><g type="slanting-stroke"/> <num value="1">α</num>
+
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan>κόλ<ex>λα</ex>θ<ex>ον</ex></expan> <g type="slanting-stroke"/><g type="slanting-stroke"/> <num value="1">α</num>
+
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

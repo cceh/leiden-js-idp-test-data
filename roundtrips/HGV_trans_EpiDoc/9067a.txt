@@ -1,0 +1,18 @@
+
+            <T=.de<=
+            ((1))Im 15. Jahr des Lucius Sep[ti]mius Severus Pius Pertinax und des Mar[cus] 
+            Aurelius Antoninus Pius, der Augusti, und des Publius Septimius Geta Caesar Augustus, am 30. 
+            Phamenôth. ((4))<:Eingezahlt wurden|BGU_DDbDP:BL VIII, S. 24|:> an 
+            Apiôn, den <Nomarchen=nomarches> des Arsinoïtês, durch Sarapiôn, 
+            den <Gehilfen=cheiristes>, an Heu in Naturalien für Tanis durch 
+            Meleagros für das 15. Jahr dreihundert Drachmen, das sind 300 Drachmen.
+        =>=T>
+            <T=.en<=
+            ((1))Year 15 of Lucius Sep[ti]mius Severus Pius Pertinax and of Mar[cus] Aurelius 
+            Antoninus Pius, Augusti, and of Publius Septimus Geta Caesar Augustus, Phamenoth 30. 
+            ((4))<:Paid|BGU_DDbDP:BL VIII 24|:> to Apion, 
+            <nomarch=nomarches> of the Arsinoite nome, through Sarapion, 
+            <agent=cheiristes>, for hay in kind for Tanis through Meleagros for 
+            year 15 three hundred drachmas = 300 drachmas.
+        =>=T>
+        

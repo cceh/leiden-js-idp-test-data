@@ -1,0 +1,36 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+  <lb n="1"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Arabic</desc></gap>
+
+    <lb n="3"/><foreign xml:lang="grc"><g type="stauros"/> ἐν ὀνόματι τοῦ πατρ<supplied reason="lost">ός</supplied> <gap reason="lost" extent="unknown" unit="character"/></foreign>
+
+    <lb n="4"/><space extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><g type="stauros"/> ⲁⲛⲟⲛ ⲁⲡⲁ ⲕⲩⲣⲟⲥ ⲡ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/>ϫⲉⲥⲓⲱⲥ ⲡϣⲉ ⲛⲡ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/>ⲉⲛⲥϩⲁⲓ ⲛⲡ<choice><reg xml:lang="grc">δημόσιος</reg><orig>ⲇⲏⲙⲟⲥⲓ<supplied reason="lost">ⲟⲥ</supplied></orig></choice> <choice><reg xml:lang="grc">λόγος</reg><orig><supplied reason="lost">ⲗⲟⲅⲟⲥ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/>ⲡ<choice><reg xml:lang="grc">σύμβουλος</reg><orig>ⲥⲩⲙⲃⲟⲩⲗⲟⲥ</orig></choice> ϩⲓⲧⲟⲟⲧ ⲧ<supplied reason="lost">ⲏⲩⲧⲛ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/>ⲛⲟⲩⲱⲧ ϫⲕⲱⲟⲩ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/>ⲛⲡⲉⲃⲟⲧ ⲡⲁⲱⲛⲓ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/>ⲛⲉⲩϣⲏⲣⲉ ⲁⲩⲉⲓ <supplied reason="lost">ⲉⲧⲟⲟⲧⲛ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/>ⲛⲁⲓ ⲛⲧⲁⲩ<choice><reg xml:lang="grc">παριστάναι</reg><orig>ⲡⲁ<unclear>ⲣ</unclear>ϩⲓⲥⲧⲁ</orig></choice> ⲙⲙⲟⲟⲩ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/>ⲁⲩⲱ ⲡ<choice><reg xml:lang="grc">ἐπικείμενος</reg><orig>ⲉⲡⲓⲕⲉⲙ<supplied reason="lost">ⲉⲛⲟⲥ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="14"/>ⲧⲓ ⲉⲙⲧⲟⲛ ⲛⲁⲩ <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="14"/><gap reason="lost" extent="unknown" unit="line"/>
+
+</ab></div><div n="v" type="textpart"><ab>
+
+    15.<foreign xml:lang="grc"> <gap reason="lost" extent="unknown" unit="character"/> ἀπὸ <num value="3">γ</num> <expan>Πεδι<ex>άδων</ex></expan> <expan>χάρ<ex>ιν</ex></expan> 
+
+    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Θ</unclear>ινίτο<add place="above">υ</add> <expan>γρ<ex>αφ  </ex></expan> <expan>μ<ex>ηνὸς</ex></expan> <expan>Π<ex>α</ex>ῦ<ex>νι</ex></expan> <num value="27">κζ</num> <expan>ἰ<ex>ν</ex>δ<ex>ικτίωνος</ex></expan> <num value="7">ζ</num> <g type="stauros"/></foreign>
+
+</ab></div></div>

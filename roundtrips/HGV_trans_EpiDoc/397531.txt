@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) … of the vintage …, all his activities (have been performed?) …, of the productive possession and the …
+               ((4)) However, after a few days, Pasion … bought for Onnophris himself …, according to the old calendar; they were shut into …,
+               ((7)) your brother said to the donkey driver …, onto the prairy of the …? four hundred bundles of hay.
+                      /*Translation: N. Reggiani, P.Cair.Mich. 2 12 C*/
+            =>
+         =T>
+      

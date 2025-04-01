@@ -1,0 +1,19 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="A" subtype="part" type="textpart">
+<div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ⲁ<hi rend="diaeresis">ⲓ</hi> ⲟⲩⲥϩⲓⲙⲉ ⲉⲥ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ϩⲁⲙ ⲡⲉⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><hi rend="supraline">ⲡ</hi> ⲉⲣⲟϥ ⲁⲡ<app type="alternative"><lem>ⲥⲁ<supplied reason="lost">ϩ</supplied></lem><rdg><choice><reg xml:lang="grc">σατανᾶς</reg><orig>ⲥⲁ<supplied reason="lost">ⲧⲁⲛⲁⲥ</supplied></orig></choice></rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> ⲙⲙⲟⲥ ϩⲓⲑⲏ <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> ϯⲥⲟⲟⲩ<unclear>ⲛ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+<div n="v" type="textpart"><ab>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> ⲛϣⲙⲙⲟ<g type="word-sep-apostrophe"/> ⲙ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="8"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>ⲉϩ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲉⲛ</supplied>ⲉϩ</rdg></app> ⲙⲁⲛⲧⲁ<hi rend="diaeresis">ⲓ</hi> <unclear>ⲁ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>ⲉⲓⲥ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲟⲩϫⲁⲓ ϩⲙ ⲡϫⲟ</supplied>ⲉⲓⲥ</rdg></app> <foreign xml:lang="grc">ἡ ἁγία <choice><reg>τ<supplied reason="lost">ριάς</supplied></reg><orig>δ<supplied reason="lost">ριάς</supplied></orig></choice></foreign><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲉ</supplied><unclear>ⲧ</unclear>ⲟⲩⲁⲁⲃ <hi rend="supraline">ⲙ</hi><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="11"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>ⲡⲁ<unclear>ⲥ</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲁ</supplied>ⲡⲁ ⲥ<gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+</ab></div>
+</div></div>

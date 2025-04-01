@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Ἰούλιος καὶ <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>Σοήνη<ex>ς</ex></expan> Ἰου<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><expan>ἀπέχομ<ex>εν</ex></expan> <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><expan>κούφ<ex>ων</ex></expan> <add place="above"> <num value="3">γ</num> </add> <expan>λα<ex>γύνων</ex></expan> τε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><expan><ex>ἔτους</ex></expan> <num value="8">η</num> Δομιτ<supplied reason="lost">ιανοῦ Καίσαρος</supplied> 
+
+    <lb n="6"/>τοῦ κυρίου Μ<supplied reason="lost">ε </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Demotic</desc></gap> </ab></div>

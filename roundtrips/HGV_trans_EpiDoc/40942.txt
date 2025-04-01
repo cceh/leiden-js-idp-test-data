@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((13)) ‘Paid at the custom-house of Socnopaei Nesus the dues for the harbour of Memphis by Paeis, importing six . . . on two donkeys. The 9th year, Phaophi 29.’
+            =>
+         =T>
+      

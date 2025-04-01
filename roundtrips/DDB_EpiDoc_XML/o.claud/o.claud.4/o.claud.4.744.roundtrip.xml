@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/>προσέβη
+<lb n="2"/>φυσητής
+<lb n="3"/>Μίρησις
+<lb n="4"/><space extent="unknown" unit="character"/>
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="5"/><handShift new="m2"/><expan>Παχ<ex>ὼν</ex></expan> <num value="2"><unclear>β</unclear></num>
+<lb n="5"/><space quantity="1" unit="line"/>
+<lb n="6"/><app type="alternative"><lem>Ἀπιτυς</lem><rdg>Ἀπιτυσ<gap reason="illegible" quantity="1" unit="character"/></rdg></app>
+<lb n="7"/><gap reason="illegible" quantity="2" unit="character"/><add place="above"><gap reason="illegible" quantity="1" unit="character"/></add> μ<gap reason="illegible" quantity="2" unit="character"/>α
+<lb n="8"/>Ὄρσης <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div></div>

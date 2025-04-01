@@ -1,0 +1,42 @@
+
+         <T=.en
+            <D=.A 
+               <=Translation from: P.L.Bat. 19.40A=>
+            =D>
+            <D=.r 
+               <=Senpsennêsis (daughter) of Apollônios, the mother is Senaremêphis.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  [Demotic] Her soul will serve Osiris-Sokaris, the great god, Lord of Abydos: Senpsennêsis, son /*sic*/ of Apollônios, her mother is Senaremêphis.
+               =>
+            =D>
+            <D=.Brp 
+               <=Translation from: P.L.Bat. 19.40B=>
+            =D>
+            <D=.r 
+               <=
+                  Sentôous, (son) of Apollônios, the mother is Senaremêphis.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  [Demotic] His soul will serve Osiris-Sokaris, the great god, Lord of Abydos: Sentôous, son of Apollônios, her /*sic*/ mother is Senaremêphis.
+               =>
+            =D>
+            <D=.Crp 
+               <=Translation from: P.L.Bat. 19.40C=>
+            =D>
+            <D=.r 
+               <=
+                  Senapollônios /*sic*/, (daughter) of Apollôni(os), the mother is Senaremêphis, from Bompaê.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  [Demotic] Her soul will serve Osiris-Sokaris, the great god, Lord of Abydos: Senapollônia, daughter of Apollônios, the mother is Senaremêphis, the woman (originating) from the village Bompaê.
+               =>
+            =D>
+         =T>
+      

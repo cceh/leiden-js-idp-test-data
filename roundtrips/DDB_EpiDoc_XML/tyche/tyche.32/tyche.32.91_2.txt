@@ -1,0 +1,13 @@
+<S=.grc
+<=
+    1. lost.?lin
+
+    1. vestig
+
+    (2a, indent)*stauros*χμγ*stauros*
+
+    2. *stauros* ~|di emu Helia (eprach(thh))|~grc-Latn  δι’ ἐμοῦ Ἠλία .1
+
+    (2b, indent)<#ρξζ=167#>
+=>
+      

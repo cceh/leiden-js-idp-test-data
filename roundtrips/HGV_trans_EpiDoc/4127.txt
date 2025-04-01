@@ -1,0 +1,26 @@
+
+         <T=.en
+            <D=.Fr1 
+               <=
+                  ((1)) [To X, greetings, from Y], royal farmer from Karanis. While I was bringing food on my donkey to Krokodilopolis 
+for someone being detained in the phylakê—the food stored in jars/boxes, as well as four choinikes of barley, 
+so that the donkey might have what she needed—Hathoris, phylakitês, son of Phremithieios, 
+met with me and took away from my laden donkey the jars/boxes of food and a sack made of tow. 
+And I ran away, so that I might not be hauled off for the sake of four choinikes of barley. 
+And with the… having been…, I gave you a petition concerning the donkey, (a petition) for which I did not receive a summons. 
+When I appealed to Anchophis, your archimachimos, against the aforementioned phylakitês, (saying) that he had my sack and the…
+               =>
+            =D>
+            <D=.Fr2,r 
+               <=
+                  ((28)) he received… my sack, and when I asked (for it from?) him, he asked me for three obols and…. 
+               =>
+            =D>
+            <D=.Fr2,v 
+               <=
+                  ((36)) I ask, then, that you please write Anchophis to give me back my sack and the donkey’s pack-saddle and the [ --- ] and the boxes/jars….
+(J. Bauschatz, Law and Enforcement, p. 147)
+               =>
+            =D>
+         =T>
+      

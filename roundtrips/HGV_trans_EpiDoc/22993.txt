@@ -1,0 +1,12 @@
+
+         <T=.fr
+            <=
+               ((1)) Le très puissant Conseil d'Hermoupolis la Grande, [ancienne] et très vénérable et [très brillante], à [Aurélios] Démétrios appelé aussi Philoth (?) […],
+agoranome, conseiller municipal, notre très cher, salut. (((7))) L'agora urbaine contribue non seulement pour l'ornementation de la ville en tant qu'édifice excellent, 
+mais aussi pas peu pour l'utilité en [tirant] des revenus de ceux qui prennent en location des emplacements sur le marché […] avec un inspecteur […]
+(((15))) car il convient [d'embellir les ?] édifices publics, et tu [déposeras] les comptes au bureau municipal de comptabilité [et devant ceux qui sont compétents],
+le droit de réclamation étant conservé [à la Ville] et au Conseil pour tout ce qui [leur revient. Sois heureux]. (((22))) An 2 de l'Empereur César [Marcus Aurelius] 
+Claudius Pius [Felix Augustus], le 30 de Choiak. /*Translation: CPR 35 23 with the addition of line numbers*/
+            =>
+         =T>
+      

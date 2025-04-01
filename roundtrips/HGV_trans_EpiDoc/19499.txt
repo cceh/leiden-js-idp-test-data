@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘To the keepers of the archives of the Hermopolite nome from Ammonius, Horion, and Achilles, all three sons of Ammonius son of Athenion, their mother being Eudaemonis also called Soeris, daughter of Achilles, of Hermopolis, registered in the quarter of the Western Guard-house. We register now for the current 14th year of Trajanus Caesar the lord jointly in equal shares two arurae of catoecic land in the upper Patre toparchy in the area of Teretonpso in the holding of Demetrius, forming part of the inheritance of our deceased mother Eudaemonis also called Soeris, daughter of Achilles ; and we swear by the Fortune of the Emperor Caesar Nerva Trajanus Augustus Germanicus Dacicus that we have made the return truthfully and have told no falsehood. If we swear truly, may it be well with us, if falsely, the reverse.’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((21))
+               =>
+            =D>
+         =T>
+      

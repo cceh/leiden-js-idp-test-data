@@ -1,0 +1,17 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+<lb n="1"/><supplied reason="lost"> <gap reason="illegible" quantity="25" unit="character" precision="low"/></supplied><gap reason="illegible" quantity="3" unit="character"/>
+<lb n="2"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="20" unit="character" precision="low"/><supplied reason="lost"> ἐπὶ</supplied> δὲ τῆς ἀριστε
+<lb n="3" break="no"/>ρᾶς <unclear>χε</unclear><supplied reason="lost">ιρό</supplied><unclear>ς</unclear> <supplied reason="lost">ο</supplied><unclear>ἴδ</unclear>ημα μετὰ <choice><reg>ἀποσυρμά <lb n="4" break="no"/>των</reg><orig>ἀποσύρμ<unclear>α</unclear>
+<lb n="4" break="no"/>τα</orig></choice> καὶ ἐπὶ τοῦ δεξιοῦ ἀντικνημίου
+<lb n="5"/>καταξυσμὴν καὶ τὸν Ζωίλον ἔχον
+<lb n="6" break="no"/>τα ἐπὶ τοῦ νώτου τύπους πληγῶν,
+<lb n="7"/>ἅπερ προσφωνῶ. <expan><ex>ἔτους</ex></expan> <num value="31"><hi rend="supraline">λα</hi></num> Αὐτοκράτορος
+<lb n="8"/>Καίσαρος Μάρκου Αὐρηλίου Κομμόδου
+<lb n="9"/>Ἀντωνίνου Εὐσεβοῦς Εὐτυχοῦς
+<lb n="10"/>Σεβαστοῦ Ἀρμενιακοῦ Μηδικοῦ
+<lb n="11"/>Παρθικοῦ Σαρματικοῦ Γερμανι<unclear>κο</unclear>ῦ
+<lb n="12"/><unclear>μ</unclear>ε<unclear>γ</unclear>ίστου <unclear>Βρ</unclear>εταννικοῦ, Θωθ <num value="28"><hi rend="supraline">κη</hi></num>.
+</ab>
+      </div>

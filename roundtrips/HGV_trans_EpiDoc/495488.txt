@@ -1,0 +1,17 @@
+
+         <T=.de
+            <=
+               ((1)) Liste der dem Steuersatz gemäßen in Geld zu zahlenden Steuern;
+               (((2))) Steuerveranlagung der Getreidesteuerschulden;
+               (((3))) Liste der dem Steuersatz gemäßen an den Idios Logos zu zahlenden Steuern;
+               (((4))) Steuerveranlagung ebenfalls (sc. des Idios Logos);
+               (((5))) Monatsweise Abrechnung der Geldsteuern von Thoth bis Mesore (?);
+               (((6))) Liste der über 60jährigen;
+               (((7))) Liste der (steuerbefreiten) Erbpriester;
+               (((8))) 28. Pauni: Geldsteuern, die dem Ousiakos Logos zugeordnet worden sind;
+               (((9))) Steuerveranlagung der Geldsteuern
+               (((10))) und des Ousiakos Logos;
+               (((11))) ... Geldsteuern ... /*Translation with minor modifications: J. Gruber, APF 61 (2015) 155*/
+            =>
+         =T>
+      

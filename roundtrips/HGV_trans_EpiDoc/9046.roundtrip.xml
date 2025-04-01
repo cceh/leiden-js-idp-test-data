@@ -1,0 +1,17 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 25. 
+            <term target="cleruchy">Kleruchie</term>. Sôkradês, Sohn des Sôkradês, 
+            <app><lem>für</lem></app> 4 1/8 <app><lem><term target="aroura">Aruren</term></lem></app> 
+            des Gutes des Severus bei Kerkesûcha.
+            <milestone unit="line" n="7" rend="break"/>Ich, Chairêmôn, Sohn des <app type="BGU"><lem resp="BL I, S. 10">Pnepherôs</lem></app>, 
+            habe für ihn geschrieben, weil er Analphabet ist.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>From the seed reserves of year 22 of Antoninus Caesar, the lord. 25th 
+            <term target="cleruchy">cleruchy</term>, Sokrates, son of Sokrates. At Kerkesoucha 
+            4 1/8 <term target="aroura">arouras</term> on the (estate) of Severus.
+            <milestone unit="line" n="7" rend="break"/>I, Chairemon, son of <app type="BGU"><lem resp="BL I 10">Pnepheros</lem></app>, 
+            wrote on his behalf, because he does not know letters.
+        </p></div>
+      </body>

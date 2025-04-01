@@ -1,0 +1,94 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="4"/><gap reason="illegible" quantity="4" unit="line"/> 
+
+    <lb n="5"/><supplied reason="lost"><g type="stauros"/> <expan>γνῶσι<ex>ς</ex></expan></supplied> καμ<supplied reason="lost">ήλων </supplied><gap reason="lost" quantity="2" unit="character"/> <abbr><unclear>ἀ</unclear>πελθ</abbr> εἰς <unclear>κ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><supplied reason="lost"><expan>π<ex>α</ex>ρ<ex>ὰ</ex></expan> τοῦ</supplied> <expan>δεκ<ex>άρχου</ex></expan> Σερ<unclear>γ</unclear><supplied reason="lost">ίου Ἀ</supplied>μμονίο<unclear>υ</unclear>  <expan>κά<ex>μηλος</ex></expan> 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>                   <expan><unclear>κά</unclear><ex>μηλος</ex></expan> 
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>                   <expan><unclear>κ</unclear><ex>άμηλος</ex></expan> 
+
+    <lb n="9"/><unclear>Ἑρμ</unclear>όλα<supplied reason="lost">ος </supplied><gap reason="lost" quantity="5" unit="character"/><unclear>ου</unclear>          <expan>κ<ex>άμηλος</ex></expan> 
+
+    <lb n="10"/>Στέφανος <unclear>Ἀβρ</unclear><supplied reason="lost">αα</supplied><unclear>μ</unclear>ίου     <expan>κ<ex>άμηλος</ex></expan> 
+
+    <lb n="11"/>Ἰωάννες <unclear>Κ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">         <expan>κ<ex>άμηλος</ex></expan></supplied> 
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">                     <expan>κ<ex>άμηλος</ex></expan></supplied> 
+
+    <lb n="13"/><unclear>Ἀ</unclear>βραάμ<unclear>ι</unclear><supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">           <expan>κ<ex>άμηλος</ex></expan></supplied> 
+
+    <lb n="14"/>Ι<unclear>μομ</unclear>αερος  <gap reason="lost" extent="unknown" unit="character"/>        <expan>κ<ex>άμηλος</ex></expan> 
+
+    <lb n="15"/><g type="stauros"/> <choice><reg><expan>γνῶσι<ex>ς</ex></expan></reg><orig><expan>γνο͂σι<ex>ς</ex></expan></orig></choice> <choice><reg>καμήλων</reg><orig>καμέλον</orig></choice> <gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ντα εἰς Κεσαρί<unclear>α</unclear>ν 
+
+    <lb n="16"/><expan>π<ex>α</ex>ρ<ex>ὰ</ex></expan> τοῦ <expan>δεκ<ex>άρχου</ex></expan> Σεργίο<unclear>υ</unclear> <gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ι</unclear>ου 
+
+    <lb n="17"/>Οὐάλες Φ<unclear>εσαν</unclear><supplied reason="lost">ου </supplied><gap reason="lost" extent="unknown" unit="character"/>     <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="18"/>Γεόργις <unclear>Σ</unclear>α<gap reason="illegible" quantity="1" unit="character"/>ανου <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">     <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num></supplied> 
+
+    <lb n="19"/>Οὐάλες <unclear>Γ</unclear>ερ<unclear>μ</unclear>ανο<unclear>ῦ</unclear> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">     <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num></supplied> 
+
+    <lb n="20"/>Σαδαλλας <unclear>Αλ</unclear>μο<unclear>ζ</unclear><gap reason="lost" extent="unknown" unit="character"/>     <expan><unclear>κ</unclear>ά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="21"/><unclear>Μέ</unclear>λις <g type="unintelligible"/> <g type="unintelligible"/> <g type="unintelligible"/>         <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="22"/><expan><unclear>δ</unclear>εκ<ex>άρχου</ex></expan> 
+
+    <lb n="23"/>Ζονενος Ἀβρααμίο<unclear>υ</unclear>             <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="24"/>Ἰωάννες Ανουν<unclear>ες</unclear>               <expan><unclear>κ</unclear>ά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="25"/><expan>δεκ<ex>άρχου</ex></expan> Αβδαλλας <unclear>Ει</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/> 
+
+    <lb n="26"/>Στέφανος Μαρίνο<unclear>υ</unclear>               <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="27"/><hi rend="diaeresis">Ἰ</hi>ωάνις Ἀμμονίο<unclear>υ</unclear>           <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="28"/><hi rend="diaeresis">Ἰ</hi>ωάννες <expan>Στεφ<ex>άνου</ex></expan> Ουαηβου <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="29"/><expan><unclear>δε</unclear>κ<ex>άρχου</ex></expan> Ἑρμογένου 
+
+    <lb n="30"/>Ζονενος Ζαβεου <g type="unintelligible"/>                 <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="31"/><unclear>Γ</unclear>εόργις Βουσιν <g type="unintelligible"/> <g type="unintelligible"/>             <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="32"/><supplied reason="lost">Ἀ</supplied>βραάμις Οὐλίου                 <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="33"/><supplied reason="lost">Γ</supplied><unclear>εό</unclear>ργις Ζονενου  <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> εἰς <choice><reg>Αἴγυπτον</reg><orig>ἔγ<unclear>υπ</unclear>τον</orig></choice> 
+
+    <lb n="34"/><supplied reason="lost">Ἀβ</supplied>ραάμις Αεδου <g type="unintelligible"/>              <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="35"/><expan>δεκ<ex>άρχου</ex></expan> Στεφάνου Ζονενου        <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="36"/>Ἰωάνες υἱός <g type="unintelligible"/> <g type="unintelligible"/>               <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="37"/>Ἀμμόνις Ἰάλετος                  <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="38"/><supplied reason="lost">Ο</supplied>ὐάλες <expan>Στεφ<ex>άνου</ex></expan> <expan>Οεδο<ex>υ</ex></expan>        <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="39"/>Φεσανες <expan>Αλλαφαλ<ex>λου</ex></expan>               <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="40"/>Θώαμος <expan>Βίκτορ<ex>ος</ex></expan>  <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> εἰς <choice><reg>Αἴγυπτον</reg><orig>ἔγυπτον</orig></choice> 
+
+    <lb n="41"/><expan><supplied reason="lost">δ</supplied>εκ<ex>άρχου</ex></expan> <hi rend="diaeresis">Ἰ</hi>ωάννου Ἀβρααμίου <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="42"/><supplied reason="lost">Σέ</supplied><unclear>ρ</unclear>γις Ααμονα                    <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="43"/><unclear>Π</unclear>αλλάδις Κεφαλανου                 <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="44"/>Θώαμος Αββου                       <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="45"/>Ζονενος Αζαλες                     <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="46"/><supplied reason="lost"><expan>δεκ<ex>άρχου</ex></expan> </supplied><gap reason="lost" quantity="4" unit="character"/> <unclear>Ουαλ</unclear>ει<supplied reason="lost">ο</supplied><unclear>υ</unclear> <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> <unclear>Ἰ</unclear>ωάννε<supplied reason="lost">ς </supplied><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ερο<supplied reason="lost">υ</supplied> <add place="above"><expan>κ<ex>άμηλος</ex></expan> <supplied reason="lost"><num value="1">α</num></supplied></add> 
+
+    <lb n="47"/><supplied reason="lost">Ἀβ</supplied><unclear>ρ</unclear>αάμις Αλοβεου        <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="48"/><supplied reason="lost">Αλ</supplied><unclear>ο</unclear>βεος Σεργίου          <expan>κά<ex>μηλος</ex></expan> <num value="1">α</num> 
+
+    <lb n="49"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

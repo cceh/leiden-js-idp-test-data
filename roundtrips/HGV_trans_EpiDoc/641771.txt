@@ -1,0 +1,29 @@
+
+         <T=.en
+            <=
+               ((1)) Dekania of Kronios son of Sarapion,
+             (((2))) Alexas son of Paminis.
+             (((3))) Eilon of the century of Magnus,
+             (((4))) 35 keramia.
+                      /*Translation: R. Ast – R.S. Bagnall, O.Berenike 3 283*/
+            =>
+         =T>
+         <T=.it
+            <=
+               ((1)) Dekania di Kronios figlio di Sarapion,
+             (((2))) Alexas figlio di Paminis.
+             (((3))) Eilon della centuria di Magnus,
+             (((4))) 35 keramia.
+                      /*Translation: M. Capano – S. Causo – C. Cenati – F. Luciani (via PN)*/
+            =>
+         =T>
+         <T=.de
+            <=
+               ((1)) Dekania des Kronios, Sohn des Sarapion,
+             (((2))) Alexas, Sohn des Paminis.
+             (((3))) Eilon der centuria des Magnus,
+             (((4))) 35 Keramia.
+                      /*Translation: S. Küppers – F. Weise (via PN)*/
+            =>
+         =T>
+      

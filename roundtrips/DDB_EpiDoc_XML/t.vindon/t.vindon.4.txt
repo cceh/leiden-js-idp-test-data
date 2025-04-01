@@ -1,0 +1,58 @@
+<S=.la
+<D=.3.side
+<D=.a.text<=
+    1. lost.?lin
+
+    1. [.?] vestig  
+
+    2. vestig  
+
+    3. vestig  icium 
+
+    4. actum (castr(is)) (Vindonissens(ibus)) 
+
+    5. <#VIIII=9#> (K(alendas)) Septembres 
+
+    6. [Nonio] Aspren[ate Sextio Late]
+
+    7.- rano (co(n)s(ulibus)) [.?]
+=>=D>
+<D=.b.text<=
+    8. et opto te ben[e vale]re frater. vale.
+=>=D>
+=D>
+<D=.4.side
+<D=.1.column<=
+    1. (C(ai)) Albi Barba
+
+    2.- ri
+
+    3. [.?]si
+
+    4. ((centuria)) Saeni 
+
+    5. Secundi 
+=>=D>
+<D=.2.column<=
+    1. ((centuria)) Crispi 
+
+    3. Quadrati 
+
+    4. (C(ai)) Caeli Nigri (sig
+
+    5.- nif(eri)) ((centuria)) Sabini
+
+    6. (C(ai)) Papiri Celsi
+
+    7. ((centuria)) Iuli Maronis 
+
+    8. (M(arci)) Deci Valen
+
+    9- [tis ((centuria)) ]
+=>=D>
+<D=.c.text<=
+    1. fratri qui est in 
+
+    2. [cust]odia rivi
+=>=D>
+=D>

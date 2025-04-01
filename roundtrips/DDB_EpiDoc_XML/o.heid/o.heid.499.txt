@@ -1,0 +1,18 @@
+<S=.grc
+<D=.i.column<= 
+1. lost.?lin
+1. vestig.12lin
+1. lost.?lin
+=>=D> 
+<D=.ii.column<= 
+1. lost.?lin
+1. vestig.2lin
+3. Πακ[.?]
+4. Ἀβῶς [.?]
+5. Ψ̣άις̣ [.?]
+6. Καμῆτι̣[ς ][.?]
+7. vestig.2lin
+9. Ψ̣ε̣ν̣βῆκ̣[ις ][.?]
+10. vestig 
+10. lost.?lin
+=>=D>

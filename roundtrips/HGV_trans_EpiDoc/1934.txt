@@ -1,0 +1,19 @@
+
+            <T=.en
+            <D=.int 
+               <=
+                  ((1)) Year 31, Athyr 12 in Philadelphia of the Arsinoite nome. A notification to Alexandros, chief policeman, 
+from Antigenes, a Macedonian, of the troop of Nikanor, cleruch. ((6))I have lost a white female ass, which escaped from Nikias by night, 
+of which the value is 80 drachmas.
+               =>
+            =D>
+            <D=.ext 
+               <=
+                  ((9)) Year 31, Athyr 12 in Philadelphia of the Arsinoite nome. A notification to Alexandros, chief policeman, 
+from Antigenes, a Macedonian, of the troop of Nikanor, cleruch. ((15))I have lost a white female ass, which escaped from Nikias by night, 
+of which the value is 80 drachmas.
+                  /*Translation: P.Mich. 1 34*/
+               =>
+           =D>
+           =T>
+        

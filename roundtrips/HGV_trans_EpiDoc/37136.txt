@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              May your true brotherliness vouchsafe to cause the most illustrious Menas and Serenus the most illustrious banker, and Menas the agent to come to arbitration with respect to the bath, and let not the official leave them until the one of them who owes the rent of the bath agrees with the noble house to pay it. For Serenus the most illustrious banker through the persuasion of his wife chased the most discreet Colluthus out of the bath, and having done what he was persuaded to do will not depart. As the Lord lives I do not leave the three, but they pay the rent of the bath until the deputy ... (Addressed) To the most illustrious and honourable lord, by the grace of God my brother George, secretary, from Victor, by the grace of God...
+            =>
+         =T>
+      

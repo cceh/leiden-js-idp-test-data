@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              Lucius to Apolinarius his brother, greeting. Since now that Zopyrus is dead there are persons making designs upon Thats daughter of Amphithales, and you once had a conversation with me on this subject, I therefore inform you, in order that if you think fit you may act before she is entrapped; for the son (?) of Sebastinus has no mother either. If you are making pickled fish for yourself send me a jar too. Greet the children from me and Isidorion. I pray for your health. (Addressed) To Apolinarius.
+            =>
+         =T>
+      

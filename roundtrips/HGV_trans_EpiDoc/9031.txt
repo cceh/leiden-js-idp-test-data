@@ -1,0 +1,20 @@
+
+         <T=.de<=
+            ((1))Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 57. 
+            <Kleruchie=cleruchy>. Pyrrhos, Sohn des Didymos, für 
+            2 1/2 <Aruren=aroura> Staatsland <:bei Patsôntis
+                |BGU:BL I, S. 36|:>,
+            (((4)))4 1/2 1/8 1/16 <Aruren=aroura> 
+            <Königsland=basilikege> <:bei Patsôntis
+                |BGU:BL I, S. 36|:>.
+        =>=T>
+         <T=.en<=
+            ((1))From the seed reserves of year 22 of Antoninus Caesar, the lord. 57th 
+            <cleruchy=cleruchy>. Pyrrhos, son of Didymos. At 
+            <:Patsontis|BGU:BL I 36|:> 2 1/2 
+            <arouras=aroura> of public (land).
+            (((4)))At <:Patsontis|BGU:BL I 36|:> 4 1/2 1/8 1/16
+            <arouras=aroura> of 
+            <royal (land)=basilikege>.
+        =>=T>
+      

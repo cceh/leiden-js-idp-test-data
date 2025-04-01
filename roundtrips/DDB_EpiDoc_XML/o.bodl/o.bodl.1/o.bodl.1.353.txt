@@ -1,0 +1,17 @@
+<S=.grc<=
+    1. (Παῦ(νι)) *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* [.?] 
+
+    2. (|η̣π̣.1|) *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* η̣.1[.?] 
+
+    3. (|ἀρχι|) *short-vertical-bar* *short-vertical-bar* *short-vertical-bar* <:<#𐅵=1/2#>|subst|`*short-vertical-bar*:> *short-vertical-bar* <#𐅵=1/2#> ε[.?] 
+
+    4. (ἡγου(μένωι)) *short-vertical-bar* <#𐅵=1/2#> <#𐅵=1/2#> <#𐅵=1/2#> <#𐅵=1/2#> 
+
+    5. Ἀμμ̣ώ̣νιο̣ς̣ .4 <#𐅵=1/2#> 
+
+    6. Ἡρακλείωι (Θέω(νος)) <#𐅵=1/2#> 
+
+    7. (τέκτω(ν)) <#𐅵=1/2#> \.2[.?]/ 
+
+    8. (|ν̣ι̣βλ̣α̣ι̣ο̣δ|) <#δ '=1/4#> 
+=>

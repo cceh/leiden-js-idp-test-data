@@ -1,0 +1,19 @@
+
+         <T=.fr
+            <D=.ii.column 
+               <=
+                         […]
+                  ((2)) Je demande de mandater
+                         sur la Caisse municipale [pour l'achat]
+                         d'un bateau destiné au service
+                         par les matelots des [besoins ?] publics,
+                         au compte en monnaie d'argent nouvelle […]
+                         vingt, [soit 20 drachmes d'argent, ((9)) le droit]
+                         de réclamation [étant conservé à la Ville et
+                         au Conseil pour tout
+                         ce qui leur revient.]
+                         /*Translation: M. Drew-Bear, CPR 35 82*/
+               =>
+            =D>
+         =T>
+      

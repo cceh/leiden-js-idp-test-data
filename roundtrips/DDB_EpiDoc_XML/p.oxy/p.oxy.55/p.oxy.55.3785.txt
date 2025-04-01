@@ -1,0 +1,74 @@
+<S=.grc<D=.1<=
+
+    1. ~|[(c(enturia)) Eu]daemonọṣ |~la 
+
+    2. ~|[Sabi]no ii et <:Venust<o>|reg|venust:> <:(co(n)s(ulibus))|reg|cos:> |~la 
+
+    3. [.?]~|ṣ Horigenes |~la 
+
+    4. [.?]~|ṣ Arrianus |~la 
+
+    5. [.?]~|ṣ Copres |~la 
+
+    6. ~|[(c(enturia)) ]<:[Cop]reti<s (?)>|reg|[cop]reti:> |~la 
+
+    7. ~|[Lupo e]t Maximo <:(co(n)s(ulibus))|reg|cos:>|~la 
+
+    8. [.?]~|ṣ [P]ṛịṣc̣us |~la 
+
+    9. ~|[Sabi]no ii et Venusṭọ <:(co(n)s(ulibus))|reg|cos:>|~la 
+
+    10. [.?]~|ṣ Hoṛ[ig]ẹnes |~la 
+
+    11. [.?] ~|Ḷ[eo]nides |~la 
+
+    12. [.?]~|ṣ Horigenes |~la 
+
+    13. [.?]~|ṣ Epimac̣ḥụs |~la 
+
+    14. [.?]~|ṣ Nilammon |~la 
+
+    15. [.?]~|ṣ Orion |~la 
+
+    16. [.?]~|ṣ Sarapammon |~la 
+
+    17. [.?]~|ṣ Arpocration |~la 
+
+    18. lost.?lin 
+=>=D><D=.2<=
+
+    18. ~|(c(enturia)) Sereni, Venusto <:(co(n)s(ule))|reg|cos:> 
+
+    19. Aurelius Agathocles 
+
+    20. (c(enturia)) Anniani, isdem <:(co(n)s(ulibus))|reg|cos:> 
+
+    21. Iulius Castor 
+
+    22. (c(enturia)) <:Copreti<s (?)>|reg|copreti:>, isdem <:(co(n)s(ulibus))|reg|cos:> 
+
+    23. Aurelius Sarapion 
+
+    24. Aurelius .1[.?] 
+
+    25. <:(s(upra)s(cript  ))|reg|s*middot*s*middot*:> iuẹ|~la .4[.?] 
+
+    26. ~|Praesente ẹ[t Albino (co(n)s(ulibus))] 
+
+    27. (c(enturia)) Copreṭ[i<s (?)>] 
+
+    28. Attico [et Praetextato (co(n)s(ulibus))] 
+
+    29. Aurelius|~la  .2[.?] 
+
+    30. ~|Praesent[e et Albino (co(n)s(ulibus))] 
+
+    31. Arrius Ịụḷ[.?] 
+
+    32. (c(enturia)) Annianị [.?] 
+
+    33. Aufidio Ṃ[arcello ii (co(n)s(ule))] 
+
+    34. Petronius|~la  .1[.?] 
+
+    35. lost.?lin =>=D>

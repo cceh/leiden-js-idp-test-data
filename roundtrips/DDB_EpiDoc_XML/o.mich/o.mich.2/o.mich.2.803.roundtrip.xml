@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><num value="22">κβ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><space extent="unknown" unit="character"/> 
+
+    <lb n="2"/><num value="21">κα</num> Τεμᾶς <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><del rend="erasure"><num value="22">κβ</num> Τεμᾶ<supplied reason="lost">ς</supplied></del> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><num value="22">κβ</num> <unclear>Τ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Serenilla acting through Heraclides to Marion, cultivator, greeting. I have received from you fifteen
+artabae of wheat the rent of the arurae of mine which you cultivate in the area of the village of Theadelphia for the present 22nd year, the lease of which remains valid.’ Date.
+
+            =>
+         =T>
+      

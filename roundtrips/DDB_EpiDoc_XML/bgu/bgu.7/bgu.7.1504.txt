@@ -1,0 +1,32 @@
+<S=.grc<=
+    1. ((ἔτους)) <#ιϛ=16#>
+
+    2. Παμμένῃ (κερ(άμιον)) <#α=1#>, *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke*
+
+    3. *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke* *slanting-stroke*
+
+    4. Πτολεμαῖος (δωρεα(κὸς?)) διὰ τοῦ
+
+    5. ἀδελφοῦ (κερ(άμια)) <#ε=5#>,
+
+    6. *parens-punctuation-opening*  ὁ σκορδευτὴς (κερ(άμιον)) <#α=1#>, ἀπέχω 
+
+    7. Στοτοήτει κεραμεῖ (κερ(άμιον)) <#α=1#>,
+
+    8. Π̣ε̣τ̣ vestig 
+
+    9. .5lin
+
+    14. ἔχει Ὁρπαὰτ (κερ(άμιον)) <#α=1#>,
+
+    15. .3lin
+
+    18. Πετοσεῖρις χειριστὴς (κερ(άμιον)) <#α=1#>,
+
+    19. .1lin
+
+    20. .4.3 (κερ(άμια)) .1
+
+    21. ἔχει Μαρρῆς (κερ(άμια)) .4.4
+
+    22. Τεῦ̣θ̣ (κερ(άμιον)) <#α̣=1#>. =>

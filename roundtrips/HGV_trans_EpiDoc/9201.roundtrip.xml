@@ -1,0 +1,15 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            ... <app><lem>[Wir zeigen an, daß sich im vorher genannten]</lem></app> 
+            <milestone unit="line" n="1"/>Aufsichtsbereich [vom x. bis zum <app><lem resp="1., 11. oder 21.">.]1.</lem></app> 
+            Hathyr des gegenwärtigen 17. Jahres des Antoninus Caesar, des Herren 
+            <app><lem>[nichts ergeben hat]</lem></app>, weil es kein 
+            <app type="BGU"><lem resp="BL I, S. 48">Vieh</lem></app> im Dorf gab.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            ... <app><lem>[We depose that nothing has accrued from the above mentioned]</lem></app> 
+            <milestone unit="line" n="1"/>office from [the xth to the]<app><lem resp="1st, 11th or 21st">1st</lem></app> 
+            of [the month] of Hathyr of the present year 17 of Antoninus Caesar, the lord, because there 
+            were no <app type="BGU"><lem resp="BL I 48">beasts</lem></app> in the village.
+        </p></div>
+      </body>

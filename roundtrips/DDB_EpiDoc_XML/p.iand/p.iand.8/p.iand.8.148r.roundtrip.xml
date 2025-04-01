@@ -1,0 +1,38 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><expan>λόγ<ex>ος</ex></expan> <expan>ἄρτω<ex>ν</ex></expan> <expan>ἀπο<ex>δεδομένων</ex></expan> 
+
+    <lb n="2"/><num value="12">ιβ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="44">μδ</num> 
+
+    <lb n="3"/><num value="13">ιγ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="52">νβ</num> 
+
+    <lb n="4"/><num value="14">ιδ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="44">μδ</num> 
+
+    <lb n="5"/><num value="15">ιε</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="44">μδ</num> 
+
+    <lb n="6"/><num value="16">ιϛ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="48">μη</num> 
+
+    <lb n="7"/><del rend="erasure"> <num value="17">ιζ</num>   <expan>ἄρτ<ex>οι</ex></expan>           <num value="4">δ</num><gap reason="illegible" quantity="1" unit="character"/></del> 
+
+    <lb n="8"/><num value="18">ιη</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="52">νβ</num> <add place="above">μις</add> 
+
+    <lb n="9"/><num value="19">ιθ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="48">μη</num> 
+
+    <lb n="10"/><num value="20">κ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="40">μ</num> 
+
+    <lb n="11"/><num value="21">κα</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="30">λ</num> <add place="above">μ</add> 
+
+    <lb n="12"/><num value="22">κβ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="48">μη</num> 
+
+    <lb n="13"/><num value="23">κγ</num>      <expan>ἄρτ<ex>οι</ex></expan>           <num value="30">λ</num> 
+
+    <lb n="14"/><num value="24">κδ</num>      <expan>ἀργ<ex>ία</ex></expan> 
+
+    <lb n="15"/><supplied reason="lost"><num value="25">κε</num>    </supplied><expan><supplied reason="lost">ἄ</supplied>ρτ<ex>οι</ex></expan>          <num value="48">μη</num> 
+
+    <lb n="16"/><supplied reason="lost"><num value="26">κϛ</num>    </supplied><expan><supplied reason="lost">ἄρ</supplied>τ<ex>οι</ex></expan>          <num value="48">μη</num> 
+
+    <lb n="17"/><supplied reason="lost"><num value="27">κζ</num>    </supplied><expan><supplied reason="lost">ἄρτ</supplied><ex>οι</ex></expan>          <num value="48">μη</num> 
+
+    <lb n="18"/><supplied reason="lost"><num value="28">κη</num>    <expan>ἄρτ<ex>οι</ex></expan></supplied>          <num value="4"><unclear>δ</unclear></num><gap reason="lost" quantity="1" unit="character"/> 
+</ab></div>

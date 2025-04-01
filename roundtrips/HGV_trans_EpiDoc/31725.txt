@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              ... that I may not trouble him about provisions, since I wrote to him that I was coming by the 30th; otherwise, arrange with him that he shall come by the 13th Phamenoth. With regard to the deposit of corn, do not neglect to worry Thonius. With regard to my tools, tell the men that I am sending the expenses for them, and leave the tools with them until I send the expenses. When you come, bring the old cushion that is up in the dining-room. Salute my children, whom the evil eye shall not harm, and our mother and your sister and all our friends.
+            =>
+         =T>
+      

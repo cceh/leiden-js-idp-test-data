@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              To Marcus Claudius Serenus, neocorus of the great god Sarapis, ex-chiliarch, late praefect of the first cohort of the Damascenes, chief of the cultivators, priest and exegetes, and to the Caesarii and the other prytaneis, from Ammonius son of Theon son of Sarapion, of the Althaean deme of the Propapposebastian tribe, who became an ephebus in the 5th year of Domitian. I wish to enroll among those becoming ephebi in the coming 18th year of the Emperor Caesar Trajanus Hadrianus Augustus my son Nilammon by my late sister Thaubarion, citizen, and therefore request you to instruct the officers concerned, on receipt of my declaration on oath that the foregoing statements are true, to write to the proper officials to deal with my case on my (proving the descent) of my aforesaid son Nilammon, and to (communicate with) the cosmetes and gymnasiarch ... to enroll him among the ephebi ...
+            =>
+         =T>
+      

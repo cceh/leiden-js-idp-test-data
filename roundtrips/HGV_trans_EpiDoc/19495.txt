@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘… at a rent of a metretae for … and for … of 13 metretae of … oil that is acceptable, new, pure, unadulterated and strained, making a total of 15 metretae, and an extra amount of a cotylae for each metretes, subject to no deduction or risk ; and we will perform the gathering of the olives by divisions (?) and reeds, and will complete the work by the 10th of Tubi and deliver the rent by the 30th of Mecheir of the same year, you supplying the vessels and the storehouse free of rent, on condition that the lease to us be confirmed by the 9th of the present month Hadrianus (but if it is not confirmed by the 9th, we will not be bound by our promise), if you consent to the lease on the aforesaid terms. I, Tiberius Julius …, have presented this application, offering a rent of 15 metretae of oil with extra amounts as aforesaid. I, Lucretius, have presented this application. The 3rd year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, the 5th of the month Hadrianus.’
+            =>
+         =T>
+      

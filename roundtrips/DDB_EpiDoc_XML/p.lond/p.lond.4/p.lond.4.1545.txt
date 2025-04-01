@@ -1,0 +1,26 @@
+<S=.grc
+<D=.r
+<D=.1.fragment<=
+
+    1. ἐν ὀνόμα[τι τοῦ (θ(εο)ῦ) τοῦ] 
+
+    2. ἐ̣λ̣ε̣ή̣μ̣ο̣[νος ((καὶ)) (φιλανθρώπ(ου))] 
+
+    3. (Lang: Arabic 1 lines) 
+
+    4. οὐκ ἔστιν [(θ(εὸ)ς) ][.?] 
+
+    5. [.?] 
+=>=D>
+<D=.2.fragment<=
+    1. (Lang: Coptic 11 lines)
+=>=D>
+<D=.3.fragment<=
+    1. (Lang: Coptic 4 lines)
+=>=D>
+=D>
+<D=.v
+<D=.1.fragment<=
+    1. (Lang: Coptic 2 lines)
+=>=D>
+=D>

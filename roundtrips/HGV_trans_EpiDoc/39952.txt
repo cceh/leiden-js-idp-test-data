@@ -1,0 +1,20 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) † Ich, Stephanos, Sohn […] habe erhalten von dir, Georgios, Sohn des Theodosios, aus derselben Stadt,
+                         den Kaufpreis auf Rechtsgrundlage […] freiwillig und ohne jeden Zwang, an Geräten, fünf an der Zahl,
+                         dies ist 1 bronzenes Gitter […] vollständig, das macht an Gold drei nicht vollwertige Solidi, das sind an Gold 3 Solidi,
+                         und weder ich, noch irgendwer aus […] soll imstande sein [weder gegen dich] noch gegen deine Erben betreffs dieser (Gegenstände) oder betreffs eines anderen Preises für sie vorzugehen.
+                  ((5)) Ich habe geschworen bei Gott, dem Allmächtigen. Geschrieben […] im Monat […] (2. H.) […] aus Herakleopolis, ich habe unterschrieben und bezeuge. † (3. H.) † Ich, Georgios, von Gottes Gnaden Priester
+                         der heiligen Apostel, [ich habe unterschrieben und bezeuge.] (4. H.) † Durch mich, den Notar Synkritios
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((7)) (1. H.) […] 5, 3 Solidi Gold †
+                         /*Translation: S. Kovarik, Tyche 35 (2020) 68-69*/
+               =>
+            =D>
+         =T>
+      

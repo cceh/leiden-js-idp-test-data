@@ -1,0 +1,14 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) Zephyros grüßt Dikaios. Führe uns Piyris, den Bademeister von Oxyrhyncha, ((5)) vor; und du wirst nicht anders handeln; wenn aber nicht, wirst du Unrecht tun. Grüße.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((9)) An Dikaios. /*translated by Johannes Kern as part of the Papyrology course at Würzburg taught by Birgit Breuer in WS 2022/23*/    
+               =>
+            =D>
+         =T>
+      

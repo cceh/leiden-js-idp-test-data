@@ -1,0 +1,7 @@
+
+         <T=.en
+          <=
+                  (((1)))Sausages 38, Sausages 22, Sausages and amazoni(a?) 29, Filled(?) sausages 13, Salted(?) sausages 34 /*Translation: N. Gonis, P.Harr. 3 288*/
+          =>
+         =T>
+      

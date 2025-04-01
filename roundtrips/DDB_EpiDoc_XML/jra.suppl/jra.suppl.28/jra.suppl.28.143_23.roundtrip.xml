@@ -1,0 +1,25 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="surface" subtype="exterior" type="textpart"><ab>
+    <lb n="1"/><gap reason="illegible" quantity="3" unit="line"><desc>vestiges</desc></gap>
+
+    <lb n="4"/>fieri <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>summa</ex></expan> <expan><ex>mille</ex></expan> <expan>p<ex>ondo</ex></expan> <expan>l<ex>ibras</ex></expan> <num value="3">III</num>
+
+    <lb n="6"/>fie<supplied reason="lost">ri</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><gap reason="illegible" quantity="1" unit="line"><desc>vestiges</desc></gap>
+
+    <lb n="8"/><expan>fier<ex>i</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/><gap reason="illegible" quantity="1" unit="line"><desc>vestiges</desc></gap>
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>XIIII <gap reason="illegible" quantity="1" unit="character"/> <expan><ex>summa</ex></expan> <num value="63">LXIII</num>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <expan>n<ex>umero</ex></expan> XIIII<gap reason="illegible" quantity="3" unit="character"/>XCVII 
+
+    <lb n="12"/>et <abbr>Vol</abbr> <expan>as<ex>copae</ex></expan> a <expan>B<ex cert="low">yzacena</ex></expan> <expan>n<ex>umero</ex></expan> <num value="564">DLXIIII</num> et <expan>k<ex>entenaria</ex></expan> <num atLeast="72"><gap reason="illegible" quantity="2" unit="character"/>LXX<unclear>II</unclear></num> 
+
+    <lb n="13"/><expan><ex>summa</ex></expan> <expan><ex>mille</ex></expan> <num value="782">DCCLXXXII</num> <expan>p<ex>ondo</ex></expan> <expan>l<ex>ibras</ex></expan> <num value="35">XXXV</num>
+</ab></div>
+      </div>

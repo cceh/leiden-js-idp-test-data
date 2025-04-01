@@ -1,0 +1,11 @@
+
+         <T=.de
+            <=
+               ((2)) (Hergestellt während der Amtszeit) des Flavius N. N.,
+                      des gloriosissimus comes (sacrarum largitionum)
+                      (und) des Flavius N. N.,
+                      des vir clarissimus, comes.
+                      /*Translation: K. Sänger-Böhm, APF 65 (2019) 121*/
+            =>
+         =T>
+      

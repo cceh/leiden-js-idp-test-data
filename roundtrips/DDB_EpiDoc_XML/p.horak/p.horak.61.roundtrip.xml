@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> μαρ
+
+    <lb n="2" break="no"/>τυρίῳ·
+
+    <lb n="3"/>παράσχου
+
+    <lb n="4"/><choice><reg>Δωροθέῳ</reg><orig>Δωρωθεος</orig></choice>
+
+    <lb n="5"/><expan>οἴ<ex>νου</ex></expan> <expan>κόλ<ex>οβα</ex></expan> ὀκτώ,
+
+    <lb n="6"/><expan><unclear>γί</unclear><ex>νεται</ex></expan> ὀκτώ <num value="8"/> <supplied reason="lost"><expan>κόλ<ex>οβα</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

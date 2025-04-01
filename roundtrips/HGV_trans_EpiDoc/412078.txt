@@ -1,0 +1,29 @@
+
+         <T=.de
+            <D=.v 
+               <=
+                  ((1)) An Harpochration.
+                         Paß in jeder Hinsicht darauf auf, daß kein
+                         Getreide bei den Bauern geerntet wird.
+                         Denn
+                         die (Früchte) von (Ibion) Argaiou und von
+                         Chrysochou und von Kerkesucha sind unreif.
+                  ((7)) Ferner ordne dem Mann aus Kerkesucha an,
+                         dem Zimmermann, daß er Dir Bescheid sagt,
+                         sobald es (i.e. das Getreide) bereit ist. Das Grünfutter
+                         deponiere im
+                         Magazin des Habon. Fülle
+                         das Magazin und
+                         schick uns den Rest. ((15)) ⟨Schick⟩ mir auch eine
+                         Auflaufform morgen mit Broten.
+                         Μach es nicht anders.
+                         /*Translation: A. Papathomas, APF 62 (2016) 117*/
+               =>
+            =D>
+            <D=.r 
+               <=
+                  ((19)) An Harpochration.
+               =>
+            =D>
+         =T>
+      

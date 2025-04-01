@@ -1,0 +1,20 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                         …
+                  ((7)) Le sens et la pratique de la justice illuminent tout entiers les audiences de votre glorieuse Autorité
+                         et tous les saints monastères et les très vénérables oratoires de Dieu se réjouissent de l’équité de votre
+                         bonne administration pour autant qu’est bannie toute l’injustice qui doit être évitée et doit être détournée loin de ces derniers,
+                         causée par ceux qui ont pour habitude d’être avides et de chercher à augmenter leurs propres biens par la violence.
+                ((11)) Ceux-là et ceux qui vivent dans leur communauté font des prières de supplication, et des demandes d’intercession
+                         pour votre salut, vous le très célèbre seigneur de l’éparchie tout entière ainsi que vos très glorieux enfants,
+                         ne cessent d’être adressées continûment à Dieu le souverain de l’univers, du fait de votre compassion pour eux
+                         et de votre zèle pour tout ce qui contribue à leur accroissement et pour les bonnes œuvres que tant aime Dieu. Et
+                         sachant cela parfaitement, nous tombons à vos pieds glorieux et immaculés, en vous
+                         informant de l’objet de notre affaire. ((16)) …
+                         /*Translation: J.-L. Fournet, JJP 43 (2013) 242-243*/
+               =>
+            =D>
+         =T>
+      

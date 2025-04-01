@@ -1,0 +1,16 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) (Blatt) 30. Von Aurelia Serenilla alias Dionysia, Tochter des Sarapion alias Serenos und der Mutter Faustina aus Oxyrhynchos, 
+((5)) vertreten durch Aurelios N.N. Entsprechend der Anordnung des Valerius …
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((6)) (Von?) Serenilla …
+/*Translation: A. Jördens, P.Louvre 3 186*/
+               =>
+            =D>
+         =T>
+      

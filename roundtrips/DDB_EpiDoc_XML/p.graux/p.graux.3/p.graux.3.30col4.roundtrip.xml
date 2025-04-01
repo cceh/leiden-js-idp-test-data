@@ -1,0 +1,46 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><handShift new="m3" cert="low"/> <gap reason="illegible" quantity="6" unit="character"/>
+
+    <lb n="2"/><handShift new="m1"/>Σαβείνῳ καὶ μετόχοις <expan>δη<ex>μοσίων</ex></expan>
+
+    <lb n="3"/><choice><reg>τραπεζίταις</reg><orig>τραπεζείταις</orig></choice>
+
+    <lb n="4"/>οἱ <expan>ὑπογεγρα<ex>μμένοι</ex></expan> <expan>δη<ex>μόσιοι</ex></expan> κτηνοτρόφοι
+
+    <lb n="5"/><expan>κώ<ex>μης</ex></expan> Ταμαύεως· <expan>ἀπέχο<ex>μεν</ex></expan> παρʼ ὑμῶν
+
+    <lb n="6"/>τὰς ἐπισταλείσας <choice><reg>ἡμῖν</reg><orig>ἡμεῖν</orig></choice> ὑπὲρ τῶν
+
+    <lb n="7"/><expan>ὀφειλο<ex>μένων</ex></expan> <choice><reg>ἡμῖν</reg><orig>ἡμεῖν</orig></choice> φορέτρων οὗ κα
+
+    <lb n="8" break="no"/><expan>τήξα<ex>μεν</ex></expan> <expan>δη<ex>μοσίου</ex></expan> πυροῦ ἀπὸ θησαυρῶν
+
+    <lb n="9"/>τῆς <expan>Πολ<ex>έμωνος</ex></expan> <expan>μερίδ<ex>ος</ex></expan> εἰς <expan>ὅρ<ex>μους</ex></expan> ἀπεργασίας
+
+    <lb n="10"/><expan>γενή<ex>ματος</ex></expan> <num value="17">ιζ</num> <expan><ex>ἔτους</ex></expan> ἐπὶ τὸ αὐτό, <expan>ἀκολ<ex>ούθως</ex></expan> τῷ
+
+    <lb n="11"/>ἐπιστάλματι οὗ <expan>χρό<ex>νος</ex></expan> ὁ ἐνεστὼς
+
+    <lb n="12"/>μὴν Μεχεὶρ <num value="18">ιη</num>, ὑπὲρ <expan><ex>πυροῦ ἀρταβῶν</ex></expan> <num value="5">ε</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/24" rend="tick">κδ</num>,
+
+    <lb n="13"/>ὡς τῆς <expan><ex>ἀρτάβης</ex></expan> ἐκ <expan><ex>δραχμῶν</ex></expan> <num value="8">η</num>, τὰς <expan>συναγο<ex>μένας</ex></expan> <expan>ἀρ<ex>γυρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="45">με</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>, <expan>γ<ex>ίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="45">με</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> πλήρης. ἐσμὲν <expan>δ<ex>έ</ex></expan>·
+
+    <lb n="15"/>Πνεφερῶς Πνεφερῶτος εἰδὼς
+
+    <lb n="16"/><expan>γρά<ex>μματα</ex></expan> <expan><ex>πυροῦ ἀρτάβας</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num>.
+
+    <lb n="17"/>Σοκμῆνις Ὀννώφρεως ὡς <expan><ex>ἐτῶν</ex></expan> <num value="45">με</num>
+
+    <lb n="18"/><expan>ο<ex>ὐλὴ</ex></expan> γόνατι δεξιῷ <expan><ex>πυροῦ ἀρτάβας</ex></expan> <num value="3">γ</num> <num value="1/8" rend="tick">η</num>.
+
+    <lb n="19"/><expan>εἰκο<ex>νίσθη</ex></expan> <expan>φά<ex>μενος</ex></expan> <expan>μ<ex>ὴ</ex></expan> <expan>εἰδέ<ex>ναι</ex></expan> <expan>γρά<ex>μματα</ex></expan> διὰ <expan>Ἡρακ<ex>λ  </ex></expan> <expan>νο<ex>μογράφου</ex></expan>.
+
+    <lb n="20"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan></supplied> <num value="18">ιη</num> Ἀντωνίνου Καίσαρος τοῦ κυρίου
+
+    <lb n="21"/>Μεχεὶρ <num value="20">κ</num>. <handShift new="m2"/>Πνεφερῶς Πνεφερῶτος ἀπέ
+
+    <lb n="22" break="no"/>χω τὰς <subst><add place="inline">δρ<unclear>α</unclear>χμὰς</add><del rend="corrected">τ<unclear>α</unclear>χμας <certainty match=".." locus="value"/></del></subst> τεσσαράκοντα πέντε <num value="45"/> <choice><reg>τετρώβολον</reg><orig>τετροβολ</orig></choice> <num value="4"/>
+
+    <lb n="23"/>πλήρη<supplied reason="lost">ς</supplied>, <unclear>κ</unclear><supplied reason="lost">αθ</supplied>ὼς πρόκ<unclear>ει</unclear>ται.
+</ab></div>

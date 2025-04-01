@@ -1,0 +1,25 @@
+
+         <T=.en
+            <=
+               (((1))) The Comes Felix (?): solidi 3
+               (((2))) Theodorus his brother: solidi 6
+               (((3))) Anoup the riparios: solidi 3
+               (((4))) Serenus vir clarissimus: solidi 3
+               (((5))) Paul the overseer: solidi 3
+               (((6))) Apollos the overseer: solidi 6
+               (((7))) Urbicus: solidi 6
+               (((8))) Amphouas, son of Psois: solidi 6
+               (((9))) George the public weigher: solidi 3
+             (((10))) Serenus his brother: solidi 6
+             (((11))) Peter the public weigher: solidi 6
+             (((12))) Petronius the assistant: solidi 6
+             (((13))) Petronius the secretary: solidi 6
+             (((14))) Serenus the secretary: solidi …
+             (((15))) Papnouthios the assistant: solidi …
+             (((16))) Sergius the magistrianus: solidi 3
+             (((17))) Apphouas vir clarissimus: solidi 6
+             (((18))) Pamouthios vir clarissimus: solidi 6
+                        /*Translation: M.C.D. Paganini, ZPE 190 (2014) 229*/
+            =>
+         =T>
+      

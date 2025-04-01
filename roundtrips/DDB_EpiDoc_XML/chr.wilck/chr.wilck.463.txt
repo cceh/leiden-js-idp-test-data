@@ -1,0 +1,97 @@
+<S=.la<D=.int,1<=
+    1.  /*Writing perpendicular to main text*/ 
+    1. <:(G(aius))|reg|(C(aius)):> Epidius <:(G(aii))|reg|(C(aii)):> (f(ilius)) (Pol(lia)) 
+
+    2. Bassus (vet(eranus))
+
+    3. (L(ucius)) Petronius (L(ucii)) (f(ilius)) (Pol(lia)) 
+
+    4. Crispus (vet(eranus))
+
+    5. (M(arcus)) Plotius (M(arci)) (f(ilius)) (Pol(lia))
+
+    6. Fuscus (vet(eranus))
+
+    7. (M(arcus)) Antonius (M(arci)) (f(ilius)) (Pol(lia))
+
+    8. Celer (vet(eranus))
+
+    9. (P(ublius)) Audasius (P(ublii)) (f(ilius)) (Pol(lia))
+
+    10. Paullus (vet(eranus))
+
+    11. (M(arcus)) Antonius Lon12.- gus  (|Pull|) (vet(eranus)) 
+
+    13. (L(ucius)) Petronius Niger
+
+    14. (vet(eranus))
+
+    15. (L(ucius)) Valerius (Clemen(s))
+
+    16. (vet(eranus))
+
+    17. (M(arcus)) Antonius Ger18.- manus (vet(eranus))
+=>=D><D=.int,2<=
+
+    1. ~|(L(ucio)) Nonio Calpurnio Torquato Asprenate (T(ito)) Sextio Magio 
+
+    2. Laterano <:(co(n)s(ulibus))|reg|cos:> <#vi=#> (Non(as)) Iulias anno <#xiii=#> (Imp(eratoris)) Caesaris Domitiani 
+
+    3. (Aug(usti)) Germanici mense Epip die <#viii=#> (Alex(andriae)) ad Aegyptum 
+
+    4. (M(arcus)) Valerius (M(arci)) (f(ilius)) (Pol(lia)) Quadratus (vet(eranus)) dimissus honesta 
+
+    5. missione ex (leg(ione)) <#x=#> Fretense testatus est se descriptum 
+
+    6. et recognitum fecisse ex tabula aenea, quae est fixa 
+
+    7. in Caesareo Magno escendentium scalas secundas 
+
+    8. sub porticum dexteriorem secus aedem Veneris Mar9.- moreae in pariete, in qua scriptum est {et} id, quod infra scriptum es[t] 
+
+    10. (Imp(erator)) Caesar divi Vespasiani (f(ilius)) Domitianus (Aug(ustus)) Germanicus 
+
+    11. pontifex maximus (trib(unicia)) (potest(ate)) <#vii=#> (imp(erator)) <#xiii=#> censor perpetuus 
+
+    12. (p(ater)) (p(atriae)) dicit visum est mihi edicto significare universoru[m] 
+
+    13. vestrorumve veterani milites omnibus vectigalib[us] 
+
+    14. <:portoriis|reg|portitoribus:> publicis liberati immunes esse deben[t] 
+
+    15. ipsi coniuges liberique eorum parentes qui conubia|~la  [.2] 
+
+    16. ~|rum sument omni optumo iure (c(ives)) (R(omani)) esse possint et om[ni] 
+
+    17. immunitate liberati <:absolutique|reg|apsolutique:> sint et omnem i[mmu]18.- nitatem (q(ui)) (s(upra)) (s(cripti)) (s(unt)) parentes liberique eorum <:eiusdem|reg|idem:> iuri[s] 
+
+    19. <:eiusdem|reg|idem:> condicionis sint, utique praedia domus tabern[ae] 
+
+    20. invitos <:indemnisque(?)|reg|intemniqui:> veteranos s|~la .2~|onis|~la .4.4.3[.1].1 
+=>=D><D=.int,3<=
+
+    1. [.8]~|[v]eteranorum cum uxoribus et liberis (s(upra)) (s(criptis)) in aere in2.- cisi aut si qui caelibes sint cum <:eis|reg|is:> quas postea duxissent 
+
+    3. dumtaxat singuli singulas, qui militaverunt <:Hierosolymis|reg|hierosolymnis:> 
+
+    4. in (leg(ione)) <#x=#> Fretense <:dimissorum|reg|dimmissorum:> honesta missione stipendis eme5.- ritis per (Sex(tum)) Hermetidium Campanum legatum (Aug(usti)) pro praetore |~la 
+
+    6. <#v=5#> ~|(K(alendas)) (Jan(uarias)) (Sex(to)) Pompeio Collega (Q(uinto)) Peducaeo Priscino <:(co(n)s(ulibus))|reg|cos:>, qui militare 
+
+    7. coeperunt (P(ublio)) Galerio Trachalo (Ti(berio)) Catio et (T(ito)) Flauio (Cn(aio)) Aruleno <:(co(n)s(ulibus))|reg|cos:> 
+
+    8. ex permissu (M(arci)) Iuni Rufi praefecti Aegypti (L(ucio)) Nonio Calpurnio Torquato Asprenate (T(ito)) Sextio Magio Laterano <:(co(n)s(ulibus))|reg|con:> (K(alendis)) Iulis anno 
+
+    9. <#xiii=#> (Imp(eratoris)) Caesaris Domitiani (Aug(usti)) Germanici mense Epip die <#vii=#>. 
+
+    10. ibi (M(arcus)) Valerius (M(arci)) (f(ilius)) (Pol(lia)) Quadratus <:coram|reg|coraam:> ac praesentibus eis, 
+
+    11. qui signaturi erant, textatus est iuratusque dixit per (I(ovem)) (O(ptimum)) (M(aximum)) et genium 
+
+    12. sacratissimi (Imp(eratoris)) Caesaris Domitiani (Aug(usti)) Germanici in militia 
+
+    13. sibi (L(ucium)) Valerium Valentem et Valeriam Heraclun et Valeriam 
+
+    14. Artemin omnes tres <#=3#> \(s(upra)) (s(criptos))/ natos esse eosque in aere incisos civitatem 
+
+    15. Romanam consecutos esse beneficio \eiusdem/ optimi principis.  |~la =>=D>

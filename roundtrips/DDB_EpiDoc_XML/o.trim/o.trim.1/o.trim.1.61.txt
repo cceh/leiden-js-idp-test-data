@@ -1,0 +1,13 @@
+<S=.grc
+<=
+1. vestig  απο vestig 
+2. vestig 
+3. vestig 
+4. vestig  (δέσμ(αι)) vestig 
+5. vestig  (δέσμ(αι)) <#β=2#>
+6. vestig  (δέσμ(αι)) <#β=2#>
+7. vestig  (δέσμ(αι)) vestig 
+8. vestig  (δέσμ(αι)) vestig 
+9. vestig  (δέσμ(αι)) vestig 
+=>
+      

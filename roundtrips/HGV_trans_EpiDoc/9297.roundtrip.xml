@@ -1,0 +1,17 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 29. (Jahr) des Marcus Aurelius Commodus Antoninus C[aes]a[r], des Herren, am 
+            9. Epeiph. Isidôros und (seine) Genossen, <term target="praktorargurikon">Einnehmer der 
+                Geldsteuern</term> des Dorfes [...]: <milestone unit="line" n="3"/>Am 
+            9. Epeiph hat eingezahlt Nô[..]ûôbios für <term target="naubionkatoikon" xml:lang="la"><foreign xml:lang="la">naubion 
+                katoikôn</foreign></term> [...] sechsundzwanzig Drachmen.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 29 of Marcus Aurelius Commodus Antoninus C[aes]a[r], the lord, Epeiph 9. 
+            <milestone unit="line" n="2"/>Isidoros and his associates, <term target="praktorargurikon">collectors of money 
+                taxes</term> of the village of [...]
+            <milestone unit="line" n="3" rend="break"/>Epeiph 9 No[..]ouobios paid for 
+            <term target="naubionkatoikon" xml:lang="grc-Latn">naubion katoikon</term> [...] twenty six 
+            drachmas.
+        </p></div>
+      </body>

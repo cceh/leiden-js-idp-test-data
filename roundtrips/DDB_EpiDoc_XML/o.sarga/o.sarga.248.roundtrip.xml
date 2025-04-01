@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><g type="rho-cross"/> <hi rend="supraline">Θὼθ</hi> <foreign xml:lang="cop">ⲛⲓ</foreign><abbr>ἀνδ</abbr> 
+
+    <lb n="2"/><foreign xml:lang="cop">ⲧ<hi rend="supraline">ⲙⲟ</hi>ⲩⲛⲥⲓⲙ</foreign><g type="dipunct"/> <app type="alternative"><lem><abbr>μεκ</abbr></lem><rdg><expan>μεγ<ex>άλα</ex></expan></rdg><rdg><expan>μικ<ex>ρὰ</ex></expan></rdg></app> <g type="dipunct"/> <num value="80">π</num> 
+
+    <lb n="3"/><foreign xml:lang="cop">ⲗⲟⲩⲕⲁⲥ ⲡⲙⲁⲛ ϭⲁⲙⲟⲩⲗ</foreign> 
+</ab>
+
+
+</div>

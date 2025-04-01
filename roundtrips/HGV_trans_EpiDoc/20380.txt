@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              The sixth year of Lucius Septimius Severus Pius Pertinax Augustus Arabicus Adiabenicus Parthicus Maximus and of the emperor Caesar Marcus Aurelius Antoninus Augustus, Pauni. Paid to Pasion and his associates, public bankers of the Oxyrhynchite nome, on account of the tax of 1/8(?) ordered to be paid upon the aroura in accordance with the edict of his excellency the praefect Aemilius Saturninus, by Tiberius Claudius Geminus also called Gaiion (?) two hundred drachmae, total 200 dr. Signed by me, Pasion, public banker. /*Records of other instalments follow.*/
+            =>
+         =T>
+      

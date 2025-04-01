@@ -1,0 +1,8 @@
+
+            <T=.en
+            <=
+               ((1))Adjutant [...]; soldiers on exercise 15; assigned to the water supply for the baths 6; on lookout 1; assigned to the standards 1; 
+at the commander's office 1; assigned to flogging 1; sick 2: (((9)))Cornelius Annibal, Aurelius Celestinus.  Available for [redeployment ...]
+            =>
+         =T>
+        

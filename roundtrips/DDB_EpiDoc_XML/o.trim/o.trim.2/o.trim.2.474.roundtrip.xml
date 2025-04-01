@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>Μάρω<unclear>ν</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>Ὧρος <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/>Ἀνοῦφις <g type="slanting-stroke"/> <num value="20">κ</num>
+<lb n="5"/>Ἀμμω<add place="above"><gap reason="illegible" quantity="2" unit="character"/><unclear>νο</unclear><gap reason="illegible" quantity="1" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/></add> <gap reason="illegible" quantity="4" unit="character"/><unclear>ρ</unclear> <num value="20">κ</num>
+<lb n="6"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
+<div n="v" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><expan>σακκοφ<ex>όρῳ</ex></expan> <num value="4">δ</num>
+<lb n="2"/>Πεβῶς <choice><reg>Σύρου</reg><orig>Σύρος</orig></choice> <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> <expan>Ἀμμω<ex>νίου</ex></expan> <num value="2">β</num>
+</ab></div>
+      </div>

@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) 'Ta ... to her dearest Ammonaphris, greeting. As soon as the strategus arrived at Heracleia, he inquired about you because of the secretaryship of the cultivators, and the officials told him that you were staying in the village. I write to you therefore to inform you.’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((13))
+               =>
+            =D>
+         =T>
+      

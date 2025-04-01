@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><choice><reg>κοινῆς</reg><orig><unclear>κ</unclear>υνῆς</orig></choice> <expan><ex cert="low">δραχμαὶ</ex></expan> <num value="1613"><unclear>Α</unclear>χιγ</num> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>Ἀρχίας <unclear>ἀσ</unclear>κοῦ  <expan><ex cert="low">δραχμαὶ</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>ιμ <space extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><supplied reason="lost">π</supplied><unclear>τ</unclear>ολεμα<supplied reason="omitted">ϊ</supplied>κοῦ  <num value="1">α</num> <expan><ex cert="low">δραχμαὶ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/>μαρσίππων  <num value="4">δ</num>  <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/>Ὥρῳ  <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num>  <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="7"/>τιμὴν κριθῆ<supplied reason="lost">ς</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="8"/>ἀχύρου <expan><ex>τάλαντα</ex></expan> <num><gap reason="illegible" quantity="1" unit="character"/></num><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><expan><ex>δραχμαὶ</ex></expan> <num value="310">τι</num><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

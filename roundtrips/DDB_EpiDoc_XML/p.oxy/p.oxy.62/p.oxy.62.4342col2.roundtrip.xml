@@ -1,0 +1,39 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><gap reason="illegible" quantity="10" unit="line"/>
+
+    <lb n="11"/><handShift new="m5"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="10" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/>κ<supplied reason="lost">αὶ ἐπὶ </supplied><expan><supplied reason="lost">χώ</supplied>μ<ex>ατος</ex></expan> ἐκ ν<supplied reason="lost">ότου </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/>κα<supplied reason="lost">ὶ ἐ</supplied>πὶ <expan>χώμ<ex>ατος</ex></expan> ἐκ βο<unclear>ρ</unclear><supplied reason="lost">ρᾶ </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="14"/>τὰ <choice><reg>προκείμενα</reg><orig>προκίμενα</orig></choice>, τὰ καὶ ἀ<unclear>ν</unclear><supplied reason="lost">αβληθέντ</supplied><unclear>α</unclear>
+
+    <lb n="15"/>ὑπὸ τῶν ἀπὸ τῆς αὐτῆ<supplied reason="lost">ς κώμης ὑπὲρ κ</supplied><unclear>ω</unclear>μη
+
+    <lb n="16" break="no"/>τικῆς κτήσεως καὶ <unclear>κεφ</unclear><supplied reason="lost">αλῆς </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="17"/>τὰ καὶ ἀπεργασθέντα οὕτως·
+
+    <lb n="18"/>ἀπὸ <num value="1">α</num> ἕως <num value="5">ε</num> <expan>ν<ex>αύβια</ex></expan> <num value="42">μβ</num> 
+ἀπὸ <num value="16">ιϛ</num> ἕως <num value="20">κ</num> <expan>ν<ex>αύβια</ex></expan> <num value="42">μβ</num>
+
+    <lb n="19"/>ἀπὸ <num value="6">ϛ</num> ἕως <num value="10">ι</num> <expan>ν<ex>αύβια</ex></expan> <num value="42">μβ</num> 
+ἀπὸ <num value="21">κα</num> ἕως <num value="25">κε</num> <expan>ν<ex>αύβια</ex></expan> <num value="41">μα</num>
+
+    <lb n="20"/>ἀπὸ <num value="11">ια</num> ἕως <num value="15">ιε</num> <expan>ν<ex>αύβια</ex></expan> <num value="42">μβ</num> 
+ἀπὸ <num value="26">κϛ</num> ἕως <num value="30">λ</num> <expan>ν<ex>αύβια</ex></expan> <num value="41">μα</num>.
+
+    <lb n="21"/>ὑπατείας τῆς <expan>προκ<ex>ειμένης</ex></expan>, Φαμενὼθ <num value="30">λ</num>.
+
+    <lb n="22"/><handShift new="m6"/>Αὐρήλιος Σιλβανὸς ἐπιδέδωκα.
+Α<supplied reason="lost">ὐ</supplied>ρήλιος
+
+    <lb n="23"/>Ἑρμείας ἔγραψα ὑπὲρ <expan><ex>αὐτοῦ</ex></expan>
+<expan>γράμμ<ex>ατα</ex></expan> μὴ <expan>εἰδότ<ex>ος</ex></expan>.
+
+    <lb n="24"/><handShift new="m7"/>Αὐρήλιος Ἁτρῆς συνεπιδέδωκα.
+
+    <lb n="25"/><handShift new="m8"/>Αὐρήλιος Ὧρος συνεπιδέδωκα.
+</ab></div>

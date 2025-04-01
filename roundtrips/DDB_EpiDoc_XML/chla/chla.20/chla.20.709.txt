@@ -1,0 +1,130 @@
+<S=.la<D=.I,1<=
+
+    1. [(pr(aestat))] (sol(idos)) (n(umero)) XIII, (siliq(uas)) XIII, 
+
+    2. [(pr(aestat))] (sol(idos)) (n(umero)) IIII, (siliq(uas)) IIII, 
+
+    3. [(pr(aestat))] (sol(idos)) (n(umero)) ỊIII, (siliq(uas)) ỊIII, 
+
+    4. [(pr(aestat))] (sol(idos)) (n(umero)) III, (siliq(uas)) III, 
+
+    5. [(pr(aestat))] (sol(idos)) (n(umero)) VIII, (siliq(uas)) VIII, 
+
+    6. [(pr(aestat))] (sol(idos)) (n(umero)) IIỊ, (siliq(uas)) XX, (siliq(uas)) IIỊ, 
+
+    7. [(pr(aestat))] (sol(idos)) (n(umero)) II[I], (siliq(uas)) XX, (siliq(uas)) III, 
+
+    8. [.?] 
+
+    9. [(pr(aestat))] (sol(idos)) (n(umero)) Ị[I], (siliq(uas)) II, 
+
+    10. ([p]r(aestat)) (sol(idos)) (n(umero)) [.4] IS in domnico. 
+
+    11. [(pr(aestat)) ][.7], ((tre)m(isses)) II. 
+=>=D><D=.I,2<=
+
+    1. in (xen(iis)) (lar(di)) (p(ond)o) CLX, (ans(eres)) IIII, 
+
+    2. in (xen(iis)) (lar(di)) (p(ond)o) CXX, (ans(eres)) II, 
+
+    3. in (xen(iis)) (lar(di)) (p(ond)o) CXX, (ans(eres)) II, 
+
+    4. in (xen(iis)) (lar(di)) (p(ond)o) C, (ans(er)) I, 
+
+    5. in (xen(iis)) (lar(di)) (p(ond)o) CLX, (ans(eres)) II, 
+
+    6. in (xen(iis)) (lar(di)) (p(ond)o) LXXX, (ans(eres)) II, 
+
+    7. in (xen(iis)) (lar(di)) (p(ond)o) LXXX, (ans(eres)) II, 
+
+    8. in (xen(iis)) [.11], 
+=>=D><D=.I,3<=
+
+    1. (gal(linas)) XIII, ovạ CXXX. 
+
+    2. (gal(linas)) XIII, ọṿạ C̣XXX, (p(er)) (ebd(o)m(ad)a) (oper(as)) II. 
+
+    3. (gal(linas)) VIII, ova LXXX, (p(er)) (ebd(omada)) (oper(am)) I. 
+
+    4. (gal(linas)) XỊ, ova C̣X̣, (p(er)) (ebd(omada)) (oper(am)) I. 
+
+    5. (gal(linas)) XVI, [ova C]LX, (p(er)) (ebd(omada)) (oper(as)) III. 
+
+    6. (gal(linas)) X, ova C, (p(er)) (ebd(omada)) (oper(as)) III. 
+
+    7. (gal(linas)) X, oṿa C, (oper(as)) III. 
+
+    8. (gaḷ(linas)) X̣, ova C̣. 
+
+    9. (terri(torio)) Patavino: 
+=>=D><D=.II,1<=
+
+    1. locus, qui <:appellatur|reg|adpellatur:> Saltus Erudianus, per Maximum (vil(icum)): 
+
+    2. (col(onia)) (s(upra)s(cript)a) per Iohannem, Vigilium et Bassum: 
+
+    3. Idịiṣ: (col(onia)) Noviciana pro medietate per Proiectum (col(onum)): 
+
+    4. Idịiṣ: (col(onia)) (s(upra)s(cript)a) pro parte alia pro medietate per Valerium (col(onum)): 
+
+    5. (col(onia)) Simpliciaca, <:quae|reg|que:> iacet in (sentib(us)), (p(er)) Re[paratum et Iustinum (col(onos))]: 
+
+    6. {(col(onia)) Candidiana, <:quae|reg|que:> iacet in (sentib(us)), (p(er)) Reparatum et Iụstinum (col(onos))}: 
+
+    7. (col(onia)) Valeriaca (p(er)) Quintulum <:et Sabinionem|subst|victurinum et severum:> 
+
+    8. <:colonia|subst|dol:> Severiaca (p(er)) Ḷẹ[o]nem et Achillem, Victurinum et Severum: 
+
+    9. (d(e)) palude Micauri: 
+
+    10. (d(e)) palude <:Pampiliana|subst|campiliana:>, quem sibi dicet (presb(yter)) Victor (donaṭ(am)): 
+
+    11. (col(onia)) Candidiana, <:quae|reg|qui:> nuper <:ordinata|reg|ordenata:> est, uṭ post quinquennio possit aliquid praestare,
+=>=D><D=.II,2<=
+
+    1. (pr(aestat)) (sol(idos)) (n(umero)) III, (tr(e)m(isses)) II, ([si]liq(uas)) III, 
+
+    2. (pr(aestat)) (sol(idos)) (n(umero)) IIII, (tr(e)m(isses)) II, (si[li]q(uas)) IIII, 
+
+    3. (pr(aestat)) (ṣọl(idos)) (n(umero)) IỊỊ, (tṛ(e)ṃ(issem)) I, (s[i]lịq̣(uas)) IỊỊ, 
+
+    4. (pr(aestat)) (sol(idos)) (n(umero)) III, [.1] (t[r](e)[m(isses)]) [.1], (sil[iq(uas)])[ III], 
+
+    5. (pr(aestat)) (sol(idos)) (n(umero)) IIII, (sili[q(uas)])[ IIII], 
+
+    6. {(pr(aestat)) (sol(idos)) (n(umero)) III, (sili[q(uas)])[ ỊỊỊ]}, 
+
+    7. (pr(aestat)) (sol(idos)) (n(umero)) IIII, (tr(e)m(isses)) II, ạ (siliq̣(uas)) ỊỊỊỊ, 
+
+    8. (pr(aestat)) (sol(idos)) (n(umero)) V, (tr(e)m(isses)) II, (s[i]ḷịq̣(uas)) Ṿ, 
+
+    9. (pr(aestat)) (sol(idos)) (n(umero)) VI, (siḷịq(uas)) ṾỊ, 
+
+    10. (pr(aestat)) (sol(idos)) (n(umero)) III, (siliq(uas)) III, 
+
+    11.  iṭẹṃ [.4] ex̣igẹ[.1]ḍ[.1] sịṇgụ[l]ịs anniṣ, ị[n quibus]
+=>=D><D=.II,3<=
+
+    1. ị[n] (xen(iis)) (gal(linas)) VIII, ova LXXX, (mel(lis)) (p(ond)o) LXX. 
+
+    2. in (xen(iis)) (ans(eres)) II, (gal(linas)) XII, ova CXX, (mel(lis)) (p(ond)o) LXXX. 
+
+    3. ịṇ (xen(iis)) (ans(eres)) II, (gal(linas)) XII, ova CXX, (mel(lis)) (p(ond)o) LXX. 
+
+    4. [in] (xen(iis)) (ans(eres)) II, (gal(linas)) XII, ova CXX, (mel(lis)) (p(ond)o) [.3]. 
+
+    5. [.2]ạ (ans(eres)) II, (gal(linas)) XII, ova CXX, (mel(lis)) (p(ond)o) CXXX. 
+
+    6. {(Ḳạḷ(endis)): [i]n [(xen(iis))] (ans(eres)) II, (gal(linas)) VI, ova LX, (mel(lis)) (p(ond)o) [.1]XX[.1]}. 
+
+    7. (Ḳạl(endis)): [i]n [(xen(iis))] (ans(eres)) II, (gal(linas)) XII, ova CXX, (mel(lis)) (p(ond)o) [.4]. 
+
+    8. ịṇ (xe[n(iis)]) (ạns(eres)) II, (gal(linas)) XVI, ova CLX, (mel(lis)) (p(ond)o) C[X]XX. 
+
+    9. ị[n] (xen(iis)) (lac(tis)) (p(ond)o) C. 
+
+    10. [in] (x[e]n(iis)) (lac(tis)) (p(ond)o) C.
+
+    11. ḍeseṛta iacebat, et scrib[.2] era[t] iṇ ḥịṣ (sol(idos)) (n(umero)) III, (siliq(uas)) III. 
+
+    12. [(gal(linas)) DCCCLXXXVIII], (pull(os)) CCLXVI, ova VIIIDCCCLXXX, (lar(di)) (p(ond)o) IIIDCCLX, mellis (p(ond)o) IIICCCCL. =>=D>

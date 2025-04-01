@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Gaius Arrius Priscus, chief of police, from Sotas son of Maron, superintendent of the estates of the children of Tiberius and Livia, wife of Drusus Caesar. Orsenouphis son of Heracleus and Heracles son of Ptollis, letting their flocks into the young plantations in the olive-yards of the aforesaid estate, grazed down 200 olive-plants on the Dromeus-farmstead amongst those formerly the property of Falcidius. Over and beyond this I detected him when under cover of night he had sprung into the farmstead called Dromeus from a point where ingress was possible and had robbed me of a number of tools in the tower : 5 rakes, 6 hay-sickles, 15 measures of wool, as well as other implements, and 300 silver drachmae which I was keeping in the farmstead for the purchase of goods. Wherefore I ask that the accused be brought before you in order that I may obtain
+justice. Farewell. The 20th year of Tiberius Caesar Augustus, Epeiph 23.’
+            =>
+         =T>
+      

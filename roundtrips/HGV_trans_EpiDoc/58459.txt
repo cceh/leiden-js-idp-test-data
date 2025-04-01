@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Ischyrion to Petosiris and his partners in the buriers’ guild, greeting. You have paid as tax for drugs of the Serapeum 40 silver drachmae….’
+            =>
+         =T>
+      

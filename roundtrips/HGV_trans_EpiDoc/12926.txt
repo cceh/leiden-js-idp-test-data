@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Gaius Arrius Priscus, chief of police, from Aunes son of Anchorimphis, a farmer of state land of Euhemeria, and also a farmer on the estate of Antonia wife of Drusus. On the 18th of the present month Neus Sebastus of the 23rd year of Tiberius Caesar Augustus a young tawny-coloured pig worth 8 drachmae was thievishly stolen from me by certain individuals at my very door. I therefore entreat you to write that an inquiry may be made into the matter. Farewell.
+‘Aunes, aged 35, having a scar on the left thumb.’
+            =>
+         =T>
+      

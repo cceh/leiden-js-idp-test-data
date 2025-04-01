@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> <expan>λόγ<ex>ος</ex></expan> τ<add place="above">οῦ</add> <expan>δεσπ<add place="above">ό</add>το<ex>υ</ex></expan> μ<add place="above">ου</add> τ<add place="above">οῦ</add> <expan>κυρ<ex>ίου</ex></expan> Γεροντίο<add place="above">υ</add> 
+
+    <lb n="2"/><expan>ἀ<unclear>ντι</unclear>γεούχ<ex>ου</ex></expan> ἔχω <expan>αὐτ<ex>ῷ</ex></expan> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><abbr>ρ</abbr> <gap reason="illegible" quantity="1" unit="character"/> <num value="500">φ<certainty match="../@value" locus="value"/></num> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

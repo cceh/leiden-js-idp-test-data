@@ -1,0 +1,19 @@
+
+         <T=.en
+            <D=.FrA 
+               <=
+                  ((1)) ‘Quarter of the Eastern Guard-house. To … son of Cronius, exegetes of the Hermopolite nome, from Anoubion son of Dioscorus, member of the gymnasium, one of those enrolled as ephebi in the I2th year of Tiberius Caesar Augustus. My son Dioscorus, whose mother is Antigone daughter of Horion, member of the gymnasium, having reached the age for admission as an ephebus, I request you to order …, scribe of the gymnasium, to inscribe him amongst those who are being admitted ephebi for the 10th year of Nero Claudius Caesar Augustus Germanicus…’
+               =>
+            =D>
+            <D=.FrB 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.FrC 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

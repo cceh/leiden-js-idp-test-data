@@ -1,0 +1,28 @@
+
+         <T=.de<=
+            ((1))Im 12. Jahr des Lucius Septimius [Se]verus Pius Pertinax und des Marcus 
+            Aurelius Antoninus Pius, der Augusti, und des Publius Septimius Geta Caesar Augustus, am 30. 
+            <:[Hath]yr|BGU:BL I, S. 27|:>. ((9))Eingezahlt wurden an Apiôn, 
+            [den <Nomarchen=nomarches> des Ar]sinoïtês <:durch Mô[r]os 
+                alias|BGU_DDbDP:BL XI, S. 16|:> Mysthês, den 
+            <:<Helfer=boethos>|BGU_DDbDP:BL XI, S. 16.|:>, 
+            <:an|BGU_DDbDP:BL XI, S. 16; vgl. BL III, S. 9|:> 
+            <:<Lizenz=diplomahalieonapopodos>|BGU_DDbDP:BL XI, S. 16; vgl. BL III, S. 9.|:> <für die Fischer zu 
+                    Fuß=diplomahalieonapopodos> <:durch|BGU:BL I, S. 27|:> die Fischer <:[...]|BGU_DDbDP:Reiter, Nomarchen, S. 102 mit A. 12; vgl. BL XI, S. 16|:> für das 9. Jahr 
+            <:sechzehn|BGU:BL I, S. 27|:> Drachmen, sechzehn <:Obolen|BGU:BL I, S. 27|:>, <:[das sind] 1[6 Drachmen, 16 Obolen].|BGU_DDbDP:Reiter, Nomarchen, S. 102|:> – – –
+        =>=T>
+         <T=.en<=
+            ((1))Year 12 of Lucius Septimius [Se]verus Pius Pertinax and of Marcus Aurelius 
+            Antoninus Pius, Augusti, and of Publius Septimus Geta Caesar Augustus, 
+            <:[Hath]yr|BGU:BL I 27|:> 30. ((9))Paid to Apion, 
+            [<nomarch=nomarches> of the Ar]sinoite nome, <:through 
+                Mo[ro]s, alias|BGU_DDbDP:BL XI 16|:> Mysthes, 
+            <:<assistant=boethos>|BGU_DDbDP:|:> for 
+            <:<diploma~la=diplomahalieonapopodos>|BGU_DDbDP:Cf. BL III 9; XI 16.|:> 
+            <of the fishermen-on-foot=diplomahalieonapopodos>
+            <:through|BGU:BL I 27|:> the fishermen 
+            <:[...]|BGU_DDbDP:Reiter, Nomarchen, p. 102, n. 12, cf. BL XI 16|:> for year 9 <:sixteen|BGU:BL I 27|:> drachmas, 
+            sixteen <:obols|BGU:BL I 27|:> <:[=] 1[6 drachmas, 16 
+                obols]|BGU_DDbDP:Reiter, Nomarchen, p. 102|:>.
+        =>=T>
+      

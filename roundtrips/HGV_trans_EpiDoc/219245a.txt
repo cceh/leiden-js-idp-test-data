@@ -1,0 +1,22 @@
+
+         <T=.en
+            <D=.1.document 
+               <=
+                 ((1)) “---- (son) of --nus 400 modii on behalf of Nikantinoos -- 2900 modii as follows: on behalf of Anysios -- (son) of (or: through?) Euangelos 600 modii and on behalf of Kous- -- 
+and Kyros and ---- (son) of (or: through?) Harpokration [--] modii ((5)) and on behalf of N.N. 1985 modii as follows; on behalf of --- (son of) --is 2900 modii as follows: 
+on behalf of N.N. son of N.N. through Soter his successor (?) 2100 modii ; [on behalf of / through N.N.] son of --tion, villager, 
+700 modii and on behalf of   --us son of Eulogios through the same (person) 500 modii and on behalf of N.N. son of Heron through N.N. his successor on behalf of ----.”
+               =>
+            =D>
+            <D=.2.document 
+               <=
+                  “Copy. After the consulate of our Lords Valens VI and Valentinianus Iunior II, perpetual Augusti, --- nth indiction. 
+In defence of Theodore the nauclerus --- the advocate Soterichus said: ((2)) “Theodore --- having delivered in full --- the guaranty (?) ---.” 
+Flavius Cratinus, vir clarissimus, prefect of the Annona of Alexandria said: “---”; (((5))) and he replied: 
+“To the court --- I receive from the granaries of Alexandria ---” (in / after the consulate) of Valens Augustus for the sixth time and Valentinianus Iunior for the second time --- 
+(((9))) Flavius Cratinus, vir clarissimus, prefect of the Annona of Alexandria said: “By --- Theodore ---”. 
+/*Translation: P.Monts. Roca 4 70*/
+               =>
+            =D>
+         =T>
+      

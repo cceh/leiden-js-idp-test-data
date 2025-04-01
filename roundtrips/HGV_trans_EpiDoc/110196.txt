@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1))Ptolemaios son of Tauron, one of the katoikic cavalry.
+            =>
+         =T>
+      

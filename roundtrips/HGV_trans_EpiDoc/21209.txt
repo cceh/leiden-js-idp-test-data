@@ -1,0 +1,11 @@
+
+            <T=.de
+            <=
+               ((1))Im Konsulat unseres Herrn Theodosius, des ewigen Augustus, zum 16. Mal und des Flavius Faustus, vir clarissimus, 
+am... Choiak. (((3)))Dem Flavius Samuelios, vir magnificentissimus, comes primi ordinis, der Landbesitz in der prächtigen 
+und prächtigsten Stadt Oxyrhynchos hat, entbietet Aurelius Du..., der Sohn des Marelle (?), aus derselben Stadt Oxyrhynchos, Gruß.
+((7)) Ich anerkenne, von Deiner Großartigkeit als Darlehen in bar aus Deinem Hause für meinen eigenen dringenden Bedarf ... erhalten 
+                zu haben ... /*Translation: D. Hagedorn, P.Köln 2 103*/
+            =>
+         =T>
+        

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Serapion, chief of police, from Orsenouphis son of Harpaesis, notable of the village of Euhemeria in the division of Themistes. In the month Mesore of the past 14th year of Tiberius Caesar Augustus I was engaged in demolishing some old walls upon my land through the agency of Petesouchus son of Petesouchus, builder; and when I had left home on business concerning my livelihood Petesouchus discovered in the work of demolition certain articles deposited in a little box by my mother as far back as in the 16th year of Augustus, namely a pair of gold ear-rings weighing 4 quarters, a gold crescent weighing 3 quarters, a pair of silver bracelets to the weight of 12 drachmae of unstamped metal, a necklace on which were silver ornaments worth 80 drachmae, and 60 silver drachmae. Putting his workmen and my servants off the scent he had these conveyed to his home by his unmarried daughter, and having rifled the contents aforesaid he threw the box empty into my house; moreover he acknowledges (having found) the box but alleges that it was empty. Wherefore I ask, if it seems good to you, that the accused be brought before you for the consequent punishment. Farewell.
+‘Orsenouphis aged 50 years, with a scar on the left forearm.’
+            =>
+         =T>
+      

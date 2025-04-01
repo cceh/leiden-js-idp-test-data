@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/>Ὀνῆς Πετεμενῶφις καὶ <expan>μέτοχ<ex>οι</ex></expan> 
+
+    <lb n="2"/>πράκτωρ <choice><reg>βαλανείου</reg><orig>βαλανήου</orig></choice>  <num value="2">β</num> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="3"/>Σειαν<supplied reason="lost">ῷ</supplied> Ὥρου <expan>χα<ex>ίρειν</ex></expan>.  ἀπέχω τὸ <expan>βαλ<ex>ανικὸν</ex></expan> 
+
+    <lb n="4"/><expan><ex>δραχμὰς</ex></expan> <num value="2">β</num>. <expan><ex>ἔτους</ex></expan> <num value="2">β</num> Γαίου <expan>Καίσαρο<ex>ς</ex></expan> Σεβαστ<supplied reason="lost">ο</supplied>ῦ <expan>Γερμα<ex>νικοῦ</ex></expan> 
+
+    <lb n="5"/>Χυὰκ <num value="5">ε</num>. 
+
+    <lb n="6"/><handShift new="m2"/> Μ<unclear>ο</unclear>νθ<unclear>α</unclear>ρώθης <app type="editorial"><lem resp="A.I. Blasco Torres, ZPE 216 (2020) 230"><expan>Πετεμενωφιο<ex>ς</ex></expan></lem><rdg><expan>Πετειμενώφιο<ex>ς</ex></expan></rdg></app> 
+
+    <lb n="7"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap> 
+</ab></div>

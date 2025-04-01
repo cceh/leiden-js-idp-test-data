@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              To Aurelius Harpocration, strategus of the Oxyrhynchite nome, from Aurelius Pat ... son of Eutych ... and his associates, collectors of money taxes of the metropolis for the middle toparchy in the district of Peënno. The classified list of payments for the month of Pauni of the present 2nd year of Marcus Aurelius Antoninus Caesar the lord is as follows. Receipts of the present 2nd year: for acreage-tax and tax of 1/6 600 drachmae; and paid into the public bank by Septimius Chaeremon for acreage-tax 143 dr. 1/2 obol 2 chalci, for the eight-drachma libation of Dionysus 8 dr. 4 ob. 1 chal., for.the cubit-measure of pigeon-houses 17 dr. 5 ob., by Aurelius Achilleus for acreage-tax 198 dr. 5 1/2 ob., for the eight-drachma libation of Dionysus 8 dr. 4 ob. 1 chal.; by Aurel... and Ta... for acreage-tax 116 dr. ... /*Date.*/
+            =>
+         =T>
+      

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1))Demetrios to Herakleides his father, greetings.
+((2))It was an unfitting act of yours to intercept the fodder for the oxen at Senao and not to dispatch it, although you had long ago been instructed to send twelve baskets of hay thither, with the result that the oxen are in danger of wasting away. Since the oxen are thus in a sorry state, and the land in consequence is not being irrigated, I hasten to write to you now once more and beg you instantly to get the baskets properly laden and send them off; for you seem to be mocking my industry. I pray for your long health.
+            =>
+         =T>
+      

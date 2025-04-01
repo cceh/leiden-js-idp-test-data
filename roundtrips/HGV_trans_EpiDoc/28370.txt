@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Dionysius to Tetheus his mother, greeting. I have received all the letters concerning which you write, and with regard to the wheat which the collectors have demanded from you it is admitted (?), but I had forgotten to make any order for payment; I have however paid in full the naubion and other taxes. Do not be concerned that the matter about which I wrote to Theon has not been carried out and that I have so long been engaged with Pausirion’s business to no purpose ... Please receive from Chaeremon the bearer of this letter 112 drachmae of silver of which you will give to my friend Sarapion son of Apei 100 drachmae and redeem my clothes, with 8 drachmae on account of interest, and keep 4 drachmae for yourself for the expenses of the festival. If I had had more I would have forwarded a further sum; I have borrowed to send even this. So pay him the money and get my clothes back safe, and put them in a secure place. Do not be anxious about us, for there is nothing the matter with us and we are at harmony with each other. Theonas salutes you. Salute the boys Apion and his brother Hermatois, Dionutas, those with Nice and the little Thaisous, all those with..., Heras and his household, Leontas the proud and his household, those with Taamois, and Thermoutharion. Good-bye. The 20th of the month Caesareus. (P.S.) Send me word about this immediately after the festival, whether you received the money and whether you recovered my clothes. Salute Dionutas and Theon. (Addressed) To my mother Tetheus.
+            =>
+         =T>
+      

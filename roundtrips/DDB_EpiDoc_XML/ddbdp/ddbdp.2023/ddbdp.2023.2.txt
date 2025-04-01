@@ -1,0 +1,13 @@
+<S=.grc
+<=
+    1. lost.?lin
+
+    1. vestig.4lin
+
+    5. [.?] [ἔ]γ̣ρ̣αψα ὑπὲρ̣ [αὐτ- ] [.?]
+
+    6. [.?].1[.2].2 *stauros?*.1 <:Aὐρήλιο̣ς̣|subst|Aὐρήλις̣(?):> Φιλ[ό]ξ̣ε̣[νος] [.?] [μαρτυρῶ]
+
+    7. ~|[*stauros* di] ẹṃu Ab\|*stauros*|/bạ  |^*stauros*^|Oṛ esemị[oth]|~grc-Latn 
+=>
+      

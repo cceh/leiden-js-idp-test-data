@@ -1,0 +1,7 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+<lb n="1"/> <abbr><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>εντ</abbr> <expan><ex>ἑκατονταρχ  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἄ</supplied><unclear>ρ</unclear>τ<ex>ων</ex></expan> <expan>ζ<ex>εύγη</ex></expan> <num value="4">δ</num> <expan>σιλιγ<ex>νίων</ex></expan> <expan>ζ<ex>εύγη</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>
+</ab>
+      </div>

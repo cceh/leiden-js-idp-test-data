@@ -1,0 +1,53 @@
+
+         <T=.de<=
+            ((1))An die <laographoi~grc-Latn=laographos> des Dorfes Karanis
+            (((2)))von [Heraïs], Tochter des [S]atabûs, des Sohnes des Phanomge[us, und 
+            Tochter der Tanesn]eus, Tochter der Pnepherôs, aus dem Dorf [Karanis], mit dem Vater 
+            Satab[ûs] als <Vormund=kurios>. ((5))Mir [gehört] im Dorf 
+            Karanis im Hêrakleidês-Bezirk im <Viertel des Dêmêtrios=amphDem> 
+            ein halber Teil eines Hauses mit Hof 
+            und <~|exedra|~la ~la=exedra>, in dem ich <:wohne|BGU:BL I, S. 22|:> und mich und die Meinen <:melde|BGU:BL I, S. 22|:> für die 
+            <Haushaltsmeldung=katoikianapographe> des vergangenen 23. Jahres 
+            des Gottes Aelius Antoninus im genannten Dorf Karanis, in dem ich mich auch bei der 
+            <Haushaltsmeldung=katoikianapographe> des 9. Jahres gemeldet habe. 
+            ((11))Und ich bin die oben genannte Hêraïs, 16 Jahre alt, ohne Kennzeichen, 
+            ((12))und mein Vater Satabûs, Sohn des Phanomgeus, des Sohnes des Phanomgeus, und 
+            der Mutter Hêras, Tochter des Esûris, 44 Jahre alt, ohne Kennzeichen, ((15))und 
+            meine Mutter Tanesneus, Tochter des Pnepherôs, des Sohnes des Petesûchos, und Tochter der 
+            Tasûcharion, 39 Jahre alt, ohne Kennzeichen, ((17))(und) Tasûcharion, meine vom 
+            selben Vater und derselben Mutter stammende Schwester, 9 Jahre alt, ohne Kennzeichen. 
+            ((18))Meiner oben genannten Mutter Tane[sneus] gehört [im selben Dorf] Karanis im 
+            selben [<Viertel=amphodon> ein <:– – – Teil|BGU:BL I, S. 22|:>] zweier Häuser mit Hof [...]. Hiermit reiche ich (die Meldung) 
+            ein. [...]
+            (((23)))(2. Hand) [Ich], <:die [oben genannte]|BGU:BL III, S. 8|:>[ Heraïs mit dem Vater] Satab[ûs als 
+            <Vormund=kurios> – – –].
+            (((25)))(3. Hand) Im 1. Jahr des Imperator [Caesar Marcus Aurelius] Antoninus 
+            Augustus und des [Lucius Aurelius Verus] Augustus, am <:23.|BGU:BL I, S. 22|:> Epeiph.
+        =>=T>
+         <T=.en<=
+            ((1))To the <laographoi~grc-Latn=laographos> of the village Karanis
+            (((2)))from [Herais], daughter of [S]atabous, son of Phanomge[us, mother 
+            Tanesn]eus, daughter of Pnepheros, from the village of [Karanis], with her 
+            <guardian=kurios> her father Satab[ous]. ((5))There belongs 
+            to me in the village of Karanis of the Herakleides division in the 
+            <quarter of Demetrios=amphDem> half a house and courtyard and 
+            <exedra=exedra>, in which <:I live|BGU:BL I 22|:> and <:register|BGU:BL I 22|:> myself and my 
+            family for the <house-by-house registration=katoikianapographe> of 
+            the past 23rd year of the God Aelius Antoninus in the above mentioned village of Karanis, in 
+            which I registered in the <house-by-house 
+                registration=katoikianapographe> of the 9th year as well. 
+            ((11))And I am Herais, the above mentioned, 16 years old, without a distinguishing 
+            mark ((12))and my father Satabous, son of Phanomgeus, the son of Phanomgeus, mother 
+            Heras, daughter of Esouris, 44 years old, without a distinguishing mark, ((15))and 
+            my mother Tanesneus, daughter of Pnepheros, son of Petesouchos, mother Tasoucharion, 39 years 
+            old, without a distinguishing mark, ((17))(and) Tasoucharion, my sister of the same 
+            father and of the same mother, 9 years old, without a distinguishing mark. 
+            ((18))There belongs to my above mentioned mother Tane[sneus] in the same village of 
+            Karanis in the same quarter [a – – – <:part|BGU:BL I 22|:>] of two 
+            houses and courtyards [...] ((22))Therefore I submit (this registration) [...]
+            (((23)))(m. 2) I, Herais, <:the [above mentioned]|BGU:BL III 8|:>[ 
+            with her <guardian=kurios>, her father] Satab[ous – – –]
+            (((25)))(m. 3) Year 1 of  Imperator [Caesar Marcus Aurelius] Antoninus Augustus 
+            and [Lucius Aurelius Verus] Augustus, Epeiph <:23|BGU:BL I 22|:>.
+        =>=T>
+      

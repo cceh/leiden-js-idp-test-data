@@ -1,0 +1,40 @@
+
+         <T=.de<=
+            ((1))An [Asklêpiadês], den 
+            <Königlichen Schreiber=basilikosgrammateus> des Hêrakleidês-Bezirks 
+            [des Arsinoïtês],
+            (((2)))[von Ta]mystha, Tochter des Theôn, des Sohnes des Dêm[êtrios], mit dem 
+            Verwandten [...]ônios, Sohn des Theôn, als <Vormund=kurios>, 
+            <:aus dem|BGU_DDbDP:BL X, S. 12|:> 
+            <:<Andere-Gänsefarmen-Viertel=amphCheHet>|BGU_DDbDP:BL X, S. 12.|:>. ((5))Mir gehört [im] 
+            <Hôriôn-Hierakion-Viertel=amphHoHi> ein 1/8 Teil [eines Hauses], 
+            in dem ich den unten genannten Mieter melde [für die] 
+            <Haushaltsmeldung=katoikianapographe> [des] vergangenen 14. Jahres 
+            des Aurelius Antoni[nus Caesar, des] Herren im 
+            <[Gymna]sion-[Viertel]=amphGum>, in dem ich (ihn) auch bei der 
+            [Meldung] des 23 Jahres [gemeldet] habe. ((11))Und es ist Dêmê[t]rios, [Sohn des N.N., 
+            des Sohnes des Dion]ysios, und der Mutter [N.N., <:<der Standesprüfung unterzogener 
+                (?)=epikekrimenos>|BGU:BL II 2, S. 14.|:> 
+            <kopfsteuerpflichtiger=laographoumenos> 
+            <idi]ôtês~grc-Latn=idiotes> 
+            – – –
+        =>=T>
+         <T=.en<=
+            ((1))[To Asklepiades], <royal scribe=basilikosgrammateus> 
+            [of the Arsinoite nome], Herakleides division,
+            (((2)))[from Ta]mystha, daughter of Theon, son of Dem[etrios] with her 
+            <guardian=kurios> and kinsman [...]onios, son of Theon 
+            <:from the|BGU_DDbDP:BL X 12|:> 
+            <:<Other Goosefarms quarter=amphCheHet>|BGU_DDbDP:BL X 12.|:>. 
+            ((5))There belongs to me [in] the <quarter of the Hawk shrine of 
+                Horion=amphHoHi> an eighth of a house, in which I register the below 
+            mentioned lodger for the <house-by-house 
+                registration=katoikianapographe> of the past 14th year of Aurelius 
+            Antoni[nus Caesar, the] lord, in the <[Gymn]asium quarter=amphGum>, 
+            in which I registered in the [registration] of year 23 as well. ((11))And there is 
+            Deme[t]rios, [son of NN, the son of Dion]ysios, mother [NN, 
+            <:<scrutinized=epikekrimenos>|BGU:|:> 
+            <:<idi]otes~grc-Latn=idiotes>|BGU:BL II.2 14.|:>, [<subject to 
+                        poll-tax=laographoumenos>]– – –
+        =>=T>
+      

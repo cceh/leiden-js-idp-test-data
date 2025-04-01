@@ -1,0 +1,8 @@
+
+         <T=.ge
+            <=
+               Diodoros' (Anteil ?). Schiedsverfahren unter Phidias, dem Sohn des Thallos, und Eudaimon, dem Sohn des Xanthippos, mit der Maßgabe, dass Diodoros mir, dem Hermi[nos ?], im 8. Jahr am 10. Hathyr ein Kapital von 3480 (Drachmen) und 12 Artaben Gerste gibt.
+(BGU)
+            =>
+         =T>
+      

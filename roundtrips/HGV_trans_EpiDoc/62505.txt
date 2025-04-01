@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+((1)) The author of the Cypria writes that having turned himself into the likeness of a goose he (i.e. Zeus) also pursued Nemesis, 
+((5)) and that after they had had intercourse, they produced an egg, from which was hatched Helen. When he became enamored of Leda, he became a swan, 
+((10)) and of Europa, a bull, and of Lamia, a hoopoe, and of Danae, gold. And both in Apollonides 
+((15)) and in Euripides it [this story] is told.
+            =>
+         =T>
+      

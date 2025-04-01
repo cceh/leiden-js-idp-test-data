@@ -1,0 +1,32 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">αἰτοῦμαι</supplied> <unclear>ἐπ</unclear>ιστα<supplied reason="lost">λῆναι ἀπὸ</supplied> <expan><supplied reason="lost">πολιτ</supplied>ικ<ex>οῦ</ex></expan> <supplied reason="omitted">λόγου</supplied>
+
+    <lb n="3"/><unclear>ὑπὲρ</unclear> <expan><supplied reason="lost">ὀψ</supplied><unclear>ω</unclear><ex>νίων</ex></expan> μου οὗ ἐνίκ<supplied reason="lost">ησα</supplied> καὶ ἐστεφανώθ<unclear>η</unclear><supplied reason="lost">ν</supplied>
+
+    <lb n="4"/><hi rend="diaeresis">ἱ</hi><unclear>ε</unclear>ροῦ <expan><supplied reason="lost">ε</supplied>ἰσελαστ<supplied reason="lost">ι</supplied>κ<ex>οῦ</ex></expan> <expan><unclear>οἰ</unclear><supplied reason="lost">κου</supplied><unclear>μ</unclear>ενικ<ex>οῦ</ex></expan> <expan>ἀγῶ<ex>νος</ex></expan> <hi rend="diaeresis">ἰ</hi>σολυ<supplied reason="lost">μπίου</supplied>
+
+    <lb n="5"/>ἐν Γάζῃ τῶν ἀπὸ <unclear>Φ</unclear>αμενὼθ <unclear>τ</unclear>οῦ <expan>διελ<ex>ηλυθότος</ex></expan> <supplied reason="lost"><num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan></supplied>
+
+    <lb n="6"/>ἕως Χοιὰκ καὶ αὐτοῦ τοῦ <expan>ἐνεστ<ex>ῶτος</ex></expan> <num value="15"><unclear>ι</unclear>ε</num> <expan><ex>ἔτους</ex></expan> <supplied reason="lost">μηνῶν</supplied>
+
+    <lb n="7"/><num value="10">ι</num><g type="slanting-stroke"/> ὡς τοῦ <expan>μη<ex>νὸς</ex></expan> <expan><ex>δραχμῶν</ex></expan> <num value="200">σ</num> τὰς <expan>συναγο<ex>μένας</ex></expan> ἀργ<supplied reason="lost">υρίου δρα</supplied>
+
+    <lb n="8" break="no"/><unclear>χ</unclear><supplied reason="lost">μ</supplied>ὰς <num value="2000"><choice><reg>δισχιλίας</reg><orig>δισχειλίας</orig></choice></num>, <expan><ex>γίνoνται</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="2000">Β</num> λόγ<supplied reason="lost">ου <expan>φυλ<ex>ασσομένου</ex></expan></supplied>
+
+    <lb n="9"/>τῇ <expan>πόλ<ex>ει</ex></expan> καὶ τῇ <expan>βουλ<ex>ῇ</ex></expan> περὶ οὗ ἔχουσι παν<supplied reason="lost">τὸς δι</supplied>καί
+
+    <lb n="10" break="no"/>ου· <expan><ex>ἔτους</ex></expan> <num value="15">ιε</num><g type="slanting-stroke"/> Αὐτοκράτορος Καίσαρος Πουπλίου
+
+    <lb n="11"/><supplied reason="lost">Λικ</supplied>ιννίου Γα<supplied reason="lost">λλιηνο</supplied>ῦ Γερμανικοῦ Μεγίστο<supplied reason="lost">υ</supplied>
+
+    <lb n="12"/>Περσικοῦ Μεγίστου Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ
+
+    <lb n="13"/><supplied reason="lost">Με</supplied>χείρ. <handShift new="m2"/>Αὐρήλιος Σερῆνος <choice><reg><hi rend="diaeresis">ἱ</hi>ερονίκη<supplied reason="lost">ς</supplied></reg><orig><hi rend="diaeresis">ἱ</hi>αιρονείκη<supplied reason="lost">ς</supplied></orig></choice>
+
+    <lb n="14"/><supplied reason="lost">α</supplied>ἰτοῦμαι ὡς πρόκ<unclear>ει</unclear>ται.
+</ab></div>

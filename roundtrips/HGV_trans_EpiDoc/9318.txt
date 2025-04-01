@@ -1,0 +1,21 @@
+
+         <T=.de<=
+            ((1))An die <Sitologen=sitologos> von Karanis. 
+            Ich habe erhalten <:unter Abgabe einer eidlichen     
+                Erklärung|BGU_DDbDP:Nach GUNDEL, CE 47, 1972, S. 207 f.|:> 
+            <:vom Saatgut|BGU:BL I, S. 62|:> des 22. Jahres des Antoninus 
+            Caesar, des Herren: ((3))(2. Hand) 48. 
+            (<Kleruchie=cleruchy>). Mysthariôn, Sohn des [I]schyriôn, 
+            für [x] <Aruren=aroura> <:des Pallantianischen 
+                (Landguts)|:|:> bei Karanis.
+        =>=T>
+         <T=.en<=
+            ((1))To the <sitologoi=sitologos> 
+            of Karanis. <:I received under declaration (with a written sworn statement)
+                |BGU_DDbDP:Cf. Gundel, CE 47, 1972, 207f.|:> <:from the seed 
+                    grain|BGU:BL I 62|:> of year 22 of Antoninus Caesar, the lord. 
+            ((3))(m. 2) 48th (<cleruchy=cleruchy>).
+            Mystharion, son of [I]schyrion. At Karanis for x <arouras=aroura>
+            on the <:Pallantian|:|:> (estate).
+        =>=T>
+      

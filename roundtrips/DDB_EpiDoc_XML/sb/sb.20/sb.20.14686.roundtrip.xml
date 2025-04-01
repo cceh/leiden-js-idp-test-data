@@ -1,0 +1,42 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><g type="check"/> μ<gap reason="lost" extent="unknown" unit="character"/> Ἰσὰκ <expan>υἱο<ex>ῦ</ex></expan> Τε<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><supplied reason="lost"><g type="check"/></supplied> <expan>βορρ<ex>ᾶ</ex></expan> <expan>Φοιβ<ex>άμμωνος</ex></expan> Φὶβ ἀμπέλου <num value="3">γ</num><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><g type="check"/> <expan>λιβ<ex>ὸς</ex></expan> <expan>Νειλάμμω<ex>νος</ex></expan> Παρικα ἀμπέλου <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><g type="check"/> <expan>λιβὸ<ex>ς</ex></expan> Μηνᾶ Παθὸλ ἀμπέλ<supplied reason="lost">ου </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><g type="check"/> νότου <expan>ἐκκλ<ex>ησία</ex></expan> <expan>τῆ<ex>ς</ex></expan> Θεοτόκου τ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><g type="check"/> <expan>λιβὸ<ex>ς</ex></expan> Μηνᾶ <expan>γείτο<ex>νος</ex></expan> <del rend="erasure"><num value="30">λ</num></del> <choice><reg>ἀμπέλ<supplied reason="lost">ου</supplied></reg><orig>ἀμπή<unclear>λ</unclear><supplied reason="lost">ου</supplied></orig></choice><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><g type="check"/> <expan>λιβ<ex>ὸς</ex></expan> Κοσμᾶ Μαροῦ ἀμπέλ<supplied reason="lost">ου </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/><g type="check"/> <expan><ex>καὶ</ex></expan> <expan>δ<ex>ιὰ</ex></expan> Μακαρίου Μαροῦ <unclear>ἀμ</unclear><supplied reason="lost">πέλου </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/><g type="check"/> <expan><ex>καὶ</ex></expan> <expan>δ<ex>ιὰ</ex></expan> <expan>Φαντασί<ex>ονος</ex></expan> <expan>ἀναγνώ<ex>στου</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/><g type="check"/> <expan>λ<supplied reason="lost">ι</supplied>β<ex>ὸς</ex></expan> <choice><reg>Ἄννας</reg><orig>Ἀννά</orig></choice> Πέτ<supplied reason="lost">ρο</supplied>υ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/><g type="check"/> <expan>λιβ<ex>ὸς</ex></expan> <unclear>Μ</unclear>αροῦ Φὶβ <supplied reason="lost">ἀ</supplied>μπ<supplied reason="lost">έλο</supplied>υ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/><g type="check"/> <expan>β<supplied reason="lost">ο</supplied>ρρ<ex>ᾶ</ex></expan> Μηνᾶ <expan><unclear>Ἰουλ</unclear><ex>ίου</ex></expan> ἀμπέλ<supplied reason="lost">ου </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="14"/><handShift new="m2"/>ηδεντον <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="15"/><handShift new="m1"/><g type="check"/> <expan><ex>καὶ</ex></expan> <expan>δ<ex>ιὰ</ex></expan> Σαμοῦλ Φὶβ καλάμης <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="16"/><g type="check"/> νότου Ἄπα Ἰωάννου καλ<supplied reason="lost">άμης </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="17"/><g type="check"/> <expan>ἀπηλ<ex>ιώτου</ex></expan> <expan>Φαντ<ex>ασίονος</ex></expan> καλάμης <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="18"/><g type="check"/> <expan>ἀπηλ<ex>ιώτου</ex></expan> <expan>Φοιβ<ex>άμμωνος</ex></expan> Φὶβ καλάμη<supplied reason="omitted">ς</supplied> <expan><ex>ἀρούρας</ex></expan> <expan><ex>ἥμισυ</ex></expan> <num value="1/2"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="19"/><g type="check"/> <expan><ex>καὶ</ex></expan> <expan>δ<ex>ιὰ</ex></expan> Μακαρίου Φὶβ <expan><ex>ἀρούρας</ex></expan> <expan><ex>ἥμισυ</ex></expan> <num value="1/2"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="20"/><g type="check"/> <expan>ἀπηλ<ex>ιώτου</ex></expan> Κιαμοῦλ Φὶβ καλάμη<supplied reason="lost">ς </supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="20"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

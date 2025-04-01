@@ -1,0 +1,15 @@
+
+            <T=.en
+            <=
+               ((1))[Philonides to his father, greeting. ...] for in this way it will be possible to win the king’s grace for the future also. 
+((6))Nothing truly will be dearer to me than to support you for the rest of your life in a manner worthy of you and of myself, 
+and if some fate of mankind befalls you, to see that you enjoy all due honours. ((9))This will be my chief desire, 
+to support you in a decent way both while you live and when you have departed to the gods. If possible, then, 
+make every effort to obtain your permanent release, or if you see this is not possible, at least for the period when the Nile retreats, 
+at which time there is no danger and it will be possible to leave Theodoros behind to do the same, 
+in order that you may reside (with us) at least for that period of time. ((15))Lay this to your heart, that nothing painful shall befall you, 
+but that every care will be taken by me to see that you are without grief. [Farewell].
+               /*Translation with slight modification: B. Van Beek in P.Petr.Kleon, p. 44, © Peeters*/
+            =>
+         =T>
+        

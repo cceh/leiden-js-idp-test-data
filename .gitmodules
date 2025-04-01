@@ -1,0 +1,3 @@
+[submodule "idp.data"]
+	path = idp.data
+	url = https://github.com/papyri/idp.data

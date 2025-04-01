@@ -1,0 +1,16 @@
+
+         <T=.en
+           <D=.1.column 
+            <=
+              /*Translation: from P.Oxy. 8*/
+              From Didyme daughter of Cephalon and Didyme, with her guardian Heliodorus son of Dionysius, of the city of Oxyrhynchus. In accordance with the orders of his excellency the praefect Maecius Laetus I register for the house to house registration of the past roth year the house belonging to me in the mid-eastern parts of the village of Mermertha together with my full brothers Asclas and Cephalon, formerly the property of our mother in respect of one half and of our father the said Cephalon in respect of the remaining half...
+            =>
+           =D>
+           <D=.2.column 
+             <=
+               /*Translation: from P.Oxy. 8*/
+               ... of the village of Mermertha. In accordance with the orders of his excellency the praefect Maecius Laetus, I register for the house to house registration of the 10th year the half share of a walled space belonging to me at the village, formerly the property of my father and formerly of his father Admetus; at which we return ourselves as follows: Admetus son of Heracleus, aged .. years, my mother being Tapontos daughter of ..., whom I declare to have died in the ... year; my son Heracles by ... daughter of ..., whom I declare to have died long ago; my son Admetus by T... daughter of . ., having no trade or distinguishing mark, aged ... years; my brother Mieus...
+             =>
+            =D>
+         =T>
+      

@@ -1,0 +1,18 @@
+<S=.grc
+<D=.r<=
+    1a. *tachygraphic-marks* *stauros*
+
+    2a. *tachygraphic-marks*
+
+    3a. *tachygraphic-marks*
+
+    1. *stauros* μὴ δόξῃ [ὑ]μ̣ῖ̣ν̣ δια[σ]τ̣ρέψαι τὴν γραμματηφόρον
+
+    4a. *tachygraphic-marks* [.?]
+
+    2. [.?].1ε[.?]φε̣[.?]
+=>=D>
+
+<D=.v<=
+    1. *stauros* σὺν (θ(εῷ)) Ἀτίας δοὺξ (δ(ιὰ)) Δαυὶδ vac. (μειζο(τέροις)) (χω̣(ρίου)) (Περκ(ε)θ(αύτ)) *stauros*
+=>=D>

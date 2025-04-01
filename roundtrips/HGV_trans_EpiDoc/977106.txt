@@ -1,0 +1,17 @@
+
+            <T=.de
+            <=
+                ((8)) - Agelaos, Sohn des - - - [im 25. Jahr - - - ];
+                (((9))) - Artabazes, Sohn des Artabazes, [im 25. Jahr - - -];
+                (((10)))- Pasis, Sohn des Pe- , im 2[5. Jahr] - - - 2 1/2- - - ;
+                (((11)))- Pausanias, Sohn des Pausanias, im 2. Jahr: für γραμματικόν 1, für φυλακιτικόν 1/6;
+                (((13)))- Sosikles, Sohn des Zoilos (oder: Sosikleia, Tochter des Zoilos), im 2[5. Jahr]: für φυλακιτικόν 2/3;
+                (((14)))- Ptolemaios, Sohn des Diogenes, und sein Bruder Philokles, im 25. Jahr: für φυλακιτικόν 1/6;
+                (((16)))- Laoites, Sohn des Theodoros, im 2. Jahr: für φυλακιτικόν (Zahl).
+                (((17)))Das ergibt im 2. Jahr: für kleruchisches(?) γραμματικόν 1, für φυλακιτικόν 1/3 1/8; das ergibt unter den (Steuern) für das 25. Jahr: 
+                für γραμματικόν 2 1/2 1/4 1/16, für ἡμιαρτάβιον 11, wovon - - -, für φυλακιτικόν 2 1/6, das ergibt 13 1/6, für γραμματικόν 3 1/2 1/4 [1/16], für φυλακιτικόν 2 1/2 1/8. 
+                Gesamtsumme: 17 [1/4 1/8 1/16(?)].
+                /*Translation: R. Vecchiato, P.KölnSarapion 9*/        
+            =>
+         =T>
+        

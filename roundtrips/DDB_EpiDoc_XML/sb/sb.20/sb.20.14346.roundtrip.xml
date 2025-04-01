@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Ψεντσεν<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><expan>Καμήτιο<ex>ς</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><app type="alternative"><lem><expan>Πετοσορ<unclear>β</unclear><ex>ούχιος</ex></expan></lem><rdg><expan>Πετοσόρ<unclear>κ</unclear><ex>ος</ex></expan></rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><expan>Παώθιο<ex>ς</ex></expan> <space extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>Σαν<gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><unclear>Π</unclear>ε<unclear>τεχ</unclear>ῶ<supplied reason="lost" cert="low">ντος  </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>

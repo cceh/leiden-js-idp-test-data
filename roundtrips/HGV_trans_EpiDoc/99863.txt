@@ -1,0 +1,16 @@
+
+         <T=.fr
+            <=
+               ((1)) ...
+               (((2))) (Extrait / Copie) des missives envoyées par ...
+               ((3)) ...
+               (((4))) Extrait / Copie) ... beneficiarius exempté du paiement de l’impôt
+               sur la couronne, conformément aux memoranda ((5)) qu’il a déposés.
+               (((7))) (Extrait / Copie) des missives envoyées par Hatrès (fils de ... ?), éleveur de volaille.
+               (((9))) (Extrait / Copie) des pétitions introduites par Eudaimôn (fils de ?) Achilleus, bouleute.
+               (((11))) (Extrait / Copie) des pétitions introduites par Anatolios (fils de ?) Diskos, bouleute.
+               (((13))) (Extrait / Copie) des pétitions introduites par Eus
+               ((14))  ...
+            =>
+         =T>
+      

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              Aurelius Stephanus to Aurelius Chaeremon, his brother, greeting. As I was setting forth for Alexandria I paid to the rope-weaver Petobastis in the presence of Heracleus as the price of yokes 60 drachmae, and as the price of manure at Chusis in the presence of Kopreus 40 drachmae, and to Kale for Kopreus the 48 drachmae which I had with me. Do not fail therefore to throw the manure on the land. I agreed to pay 100 drachmae for 25 artabae, in the presence of Kopreus; you will therefore give him the remaining 12 drachmae. Do not fail to go there, both to help my wife until I return, and for the sake of the irrigation. I found Aethiopas and it is well with him. Salute all our friends, I pray for your health. (Addressed) ‘To Aurelius Chaeremon from Aurelius Stephanus.
+            =>
+         =T>
+      

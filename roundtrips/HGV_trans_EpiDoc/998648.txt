@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) Account of arrears. Paulos, lawyer, …
+myriads of denarii. Melas, sausage-maker, …
+myriads of denarii. To Nemesinos … myriads
+of denarii. (((5))) To Ioannes, dyer, … myriads of
+denarii. To Eulogios, …, … myriads of denarii.
+To Phoibammon, … myriads of denarii. …  /*Translation: N. Gonis, P.Harr. 3 319*/
+            =>
+         =T>
+      

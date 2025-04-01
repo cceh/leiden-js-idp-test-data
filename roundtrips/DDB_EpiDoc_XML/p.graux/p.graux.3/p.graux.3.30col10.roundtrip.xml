@@ -1,0 +1,44 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/><handShift new="m2"/><expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="354">τνδ</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>
+
+    <lb n="2"/><handShift new="m1"/>Δείωι καὶ Σαβείνωι δημοσίων <choice><reg>τραπεζίταις</reg><orig>τραπεζιτων</orig></choice> οἱ <expan>ὑπογεγρα<ex>μμένοι</ex></expan> δημόσι
+
+    <lb n="3" break="no"/>οι κτηνοτρόφοι κώμης Ὀξυρύγχων διὰ Πτολεμαίου ἀποσυσταθέν
+
+    <lb n="4" break="no"/>τος· ἀπέχομεν παρʼ <subst><add place="inline">ὑμῶν</add><del rend="corrected"><subst><add place="inline">αμων</add><del rend="corrected"><unclear>υ</unclear>μων</del></subst></del></subst> τὰς ἐπισταλείσας <choice><reg>ἡμῖν</reg><orig>ἡμεῖν</orig></choice> ὑπὸ <surplus>τε</surplus> Πτολε
+
+    <lb n="5" break="no"/>μαίου <expan>βασιλ<ex>ικοῦ</ex></expan> <expan>γρα<ex>μματέως</ex></expan> Πολέμωνος μερίδος <expan>δια<supplied reason="omitted">δε</supplied>χομ<ex>ένου</ex></expan> καὶ <supplied reason="omitted">τὰ</supplied> κατὰ τὴν <expan>στρα<ex>τηγίαν</ex></expan> τῆς
+
+    <lb n="6"/>Θεμίστου καὶ <expan>Πολ<ex>έμωνος</ex></expan> μερίδων ὑπὲρ φορέτρων κριθῆς ἧς <choice><reg>ἐδηλώθη
+
+    <lb n="7" break="no"/>μεν</reg><orig>ἐδηλώθη<lb n="7" break="no"/>σαν</orig></choice> καταγειοχέναι ἀπὸ θησαυρῶν Πολέμωνος μερίδος εἰς τοὺ<supplied reason="lost">ς</supplied>
+
+    <lb n="8"/>ὅρμους ἀπεργασίας ἐπʼ <choice><reg>αὐτῷ</reg><orig>ἐμοι</orig></choice> γενομένης γενήματος <num value="17">ιζ</num> <expan><ex>ἔτους</ex></expan> κριθῆς
+
+    <lb n="9"/><expan><ex>ἀρτάβας</ex></expan> <num value="73">ογ</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/8" rend="tick">η</num>, ὡς τῶν <num value="100">ρ</num> <expan><ex>ἀρταβῶν</ex></expan> <expan><ex>δραχμῶν</ex></expan> <num value="480">υπ</num>, τὰς συναγομένας ἀργυρίου δραχμ<supplied reason="lost">ὰ</supplied>ς τρια
+
+    <lb n="10" break="no"/>κοσίας πεντήκοντα <choice><reg>τέσσαρας ὀβολὸν</reg><orig>τεσσαρες  οβολος</orig></choice> <expan>γ<ex>ίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="354">τνδ</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>, ἀκολούθως <choice><reg>τῷ</reg><orig><subst><add place="inline">τ<unclear>ου</unclear></add><del rend="corrected">τ<unclear>ων</unclear> <certainty match=".." locus="value"/></del></subst></orig></choice>
+
+    <lb n="11"/><choice><reg>ἐπιστάλματι</reg><orig>ἐπισταλματος</orig></choice>. εἰσὶ δέ· Θέων Πτολλίωνος κριθῆς <expan><ex>ἀρτάβας</ex></expan> <num value="9">θ</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <num value="1/24" rend="tick">κδ</num>, Ὀννῶ
+
+    <lb n="12" break="no"/>φρις Μένδητος <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num>, Ἥρων Μένδητος καὶ Θέων ἀδελφὸς <expan><ex>ἀρτάβας</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num>, Θέων
+
+    <lb n="13"/>Ἀγχώφεως <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <num value="1/6" rend="tick"><unclear>ϛ</unclear></num>, <unclear>Λά</unclear>ρος Πετερμούθεως <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/24" rend="tick">κδ</num>, Ὧρος Πενεου
+
+    <lb n="14" break="no"/>ήρεως <expan><ex>ἀρτάβας</ex></expan> <num value="2">β</num> <num value="1/6" rend="tick">ϛ</num>, Σαραπίων Πάτρωνος <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <num value="1/3" rend="tick">γ</num> <num value="1/24" rend="tick">κδ</num>, Πτολεμαῖ<supplied reason="omitted">ο</supplied>ς Μένδητος <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/24" rend="tick">κδ</num>,
+
+    <lb n="15"/>Θῶνις Ἥρωνος <expan><ex>ἀρτάβας</ex></expan> <num value="3"><unclear>γ</unclear></num> <num value="1/6" rend="tick">ϛ</num> <num value="1/8" rend="tick">η</num>, Πετσῖρις Πεκύσεως <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num>, <choice><reg>Μένδης</reg><orig>Μένδητος</orig></choice> ἀδελ
+
+    <lb n="16" break="no"/>φὸς <expan><ex>ἀρτάβας</ex></expan> <num value="5">ε</num> <num value="1/12" rend="tick">ιβ</num>, Πετσῖρις Ἥρωνος <expan><ex>ἀρτάβης</ex></expan> <num value="1/3" rend="tick">γ</num> Παποντῶς Πετεμούνεως <expan><ex>ἀρτάβας</ex></expan> <num value="16">ιϛ</num> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num>,
+
+    <lb n="17"/>Πεεβαῦς Ἀμμωνίου <expan><ex>ἀρτάβας</ex></expan> <num value="5">ε</num> <num value="1/6" rend="tick">ϛ</num> <num value="1/24" rend="tick">κδ</num>, Παλβαῦις Σαταβοῦτις <expan><ex>ἀρτάβης</ex></expan> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num>, Θέων Θέωνος
+
+    <lb n="18"/><expan><ex>ἀρτάβης</ex></expan> <num value="1/4" rend="tick">δ</num>. <expan>γ<ex>ίνονται</ex></expan> αἱ <expan>π<ex>ροκείμεναι</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="18">ιη</num> Αὐτ<supplied reason="lost">ο</supplied>κράτορος Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνείνου
+
+    <lb n="19"/>Σεβαστοῦ Εὐσεβοῦς Μ<supplied reason="lost">ε</supplied>χεὶρ <num value="25">κε</num>. <handShift new="m2"/>Πτολεμαῖος ἀποσυσταθεὶς ὑπὸ τῶν
+
+    <lb n="20"/><expan>προγεγρα<ex>μμένων</ex></expan> <choice><reg>δημοσίων κτηνοτρόφων ἀπέχω</reg><orig>δημοσιοι  κτηνο τ απεχομ</orig></choice> παρὰ τῶν <expan>δημ<ex>οσίων</ex></expan> <expan>τραπ<ex>εζιτῶν</ex></expan> τὰ<unclear>ς</unclear> τοῦ ἀργυρίου
+
+    <lb n="21"/>δραχμὰς <choice><reg>τριακοσίας</reg><orig>τριακοσείας</orig></choice> πεντήκοντα <choice><reg>τέσσαρας</reg><orig>τέσ<lb n="28" break="no"/>σαρες</orig></choice> <num value="1"><expan><ex>ὀβολὸν</ex></expan></num>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="354">τνδ</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>, καθὼς <expan>πρόκ<ex>ειται</ex></expan>.
+</ab></div>

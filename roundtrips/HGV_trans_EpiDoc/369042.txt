@@ -1,0 +1,14 @@
+
+         <T=.fr
+            <=
+               ((1)) Aelius Sarapiôn à Psentouansis, son frère, un grand salut. Je fais des
+                      prières à ton intention devant notre dame Techôsis. ((4)) Reçois une botte de
+                      chou du cavalier retransmetteur qui sera monté aujourd’hui. Je t’en ai
+                      envoyé une autre et j’ai demandé l’argent au cavalier. ((8)) Quand je trouverai
+                      quelqu’un qui monte, je t’en enverrai encore. Je salue [--]ris, Herminos et
+                      Petosiris. Quand tu trouveras une occasion, descends nous voir. Je te
+                      souhaite bonne santé.
+                      /*Translation: H. Cuvigny, CRAI (2013) 430*/
+            =>
+         =T>
+      

@@ -1,0 +1,30 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>λος τ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> γὰρ <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><gap reason="illegible" quantity="1" unit="character"/>τιν<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>καὶ δήλωσόν μοι 
+
+    <lb n="6"/>διὰ τοῦ κομίζοντ<unclear>ό</unclear>ς 
+
+    <lb n="7"/>σοι αὐτὴν ὅστις 
+
+    <lb n="8"/>ἐκομίσθη.  <handShift new="m2"/> ἐρρῶσθαί 
+
+    <lb n="9"/>σε εὔχομαι 
+
+    <lb n="10"/><expan>φίλ<ex>τατε</ex></expan>. 
+
+    <lb n="9"/><handShift new="m1"/> <num value="7">ζ</num> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="10"/>Ἁθὺρ <num value="15">ιε</num> 
+</ab></div><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><note xml:lang="en">PFlor 2,255,r reprinted in <ref n="p.flor;1;5" type="reprint-in">PFlor 1,5</ref></note></ab></div></div>

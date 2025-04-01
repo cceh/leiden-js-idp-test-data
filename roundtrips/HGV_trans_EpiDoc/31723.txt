@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              To my sister, mistress Dionysia, from Pathermouthis, greeting. As you sent me word on account of the registration about registering yourselves, since I cannot come, see whether you can register us. Do not then neglect to register us, me and Patas; but if you learn that you cannot register us, reply to me and I will come. Find out also about the collection of the poll-tax, and if they are [hurrying on with] the collection of the poll-tax, pay it and I will send you the money; and if you pay the poll-tax, get the receipt. Do not neglect this, my sister, and write to me about the registration, whether you have done it or not, and reply to me and I will come and register myself. I pray for your lasting health, (Addressed) Deliver to Dionysia from Pathermouthis.
+            =>
+         =T>
+      

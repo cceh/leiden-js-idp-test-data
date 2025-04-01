@@ -1,0 +1,32 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>Ὧρος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>Ὧρος        Σα<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="4"/><expan>Ἐπ<ex>εὶφ</ex></expan> <num value="15">ιε</num> Ψ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>Τασήμιος <expan>Ψεναμού<supplied reason="lost">νιο<ex>ς</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>Φ<unclear>αράθη</unclear>ς Πετεχ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>Ὀννῶφρις <add place="above"><expan>Ὥρο<ex>υ</ex></expan></add> Ἀμμω<supplied reason="lost">νίου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/>Λολοῦς <g type="unintelligible"/> <expan>Πετοσί<supplied reason="lost">ριο<ex>ς</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/>Φαράθης Πετεχών<unclear>σιος</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><subst><add place="inline">Αμ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>φ<gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></add><del rend="corrected">ποριευθης</del></subst> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="11"/><expan>Σενφίβιο<ex>ς</ex></expan> 
+
+    <lb n="12"/>Ποριεύθης <expan>πρ<ex>εσβύτερος</ex></expan> Φ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="13"/>Τιούτιος <expan>Πασή<unclear>μ</unclear><supplied reason="lost">ιο<ex>ς</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="14"/><expan>Σενκαμή<unclear>τ</unclear><supplied reason="lost">ιο<ex>ς</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

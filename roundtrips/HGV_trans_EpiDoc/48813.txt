@@ -1,0 +1,8 @@
+
+            <T=.en
+            <=
+               ((1))Senkolanthas, a daughter of Orseus
+/*Translation: M. Thieme, P.Batav. 37*/
+            =>
+         =T>
+        

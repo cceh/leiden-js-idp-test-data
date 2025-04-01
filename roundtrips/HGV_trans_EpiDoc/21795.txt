@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              On the nomination of Epimachus to the office of decaprotus in the western toparchy of the Oxyrhynchite nome, as he was past his prime, Thonius the stepfather of Epimachus administered the business of the office. After the time for the delivery of corn had passed Theon also called Plutarchus, ex-hypomnematographus and now strategus of the Tanite nome, directed Demetrius his agent to measure out 500 artabae to the account of public dues in the first year of this most happy reign to Thonius and his assistant Dionysius, who was also present. On delivery by Demetrius of this amount the assistant followed the natural course and added it by way of supplement to the accounts of the office, that is, to the ledger of the amounts received and to the individual list lodged in the archives through the monthly summary presented by the decaprotus for Epeiph in the first year. But when his excellency Ammonius, collector of public corn-dues, was [present] in the city of Oxyrhynchus in Phaophi of the present fifth year, the aforesaid decaprotus Epimachus producing myself, Maximus, and representing that Theon owed the 500 artabae asked that the further amounts in his hands should be added through the memoranda drawn up by the strategus of the nome in the presence of his excellency Ammonius, because they had been measured out to him to the account of his office of decaprotus.
+            =>
+         =T>
+      

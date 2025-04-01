@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              Flavius ..., Strategus of the Oxyrhynchite nome, to his brothers Flavius P ... and Aurelius Theon, praepositi of the fifth pagus, greeting. His highness my lord the most honourable dux Flavius ...timus has ordered the recruits to be dispatched to Babylon. Take care therefore, my brothers, that the officials of the ... produce the recruits for which they are severally responsible as hereinafter declared and assemble them at the city and prepare for their dispatch, in order that there may be no hindrance, I pray for your health, brother. /*Date.*/
+            =>
+         =T>
+      

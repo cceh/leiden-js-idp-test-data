@@ -1,0 +1,36 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 5. Jahr des Caius Caesar Imperator Augustus, am 26. des Monats Sotêr. 
+            <milestone unit="line" n="2"/>Ich, Hêraklas (?), Sohn des [...]phros, habe zugemessen bekommen von den 
+            Erträgen des 4. Jahres <app type="BGU"><lem><term target="monartabou">für die 
+                Ein-Artaben-Abgabe</term></lem></app> 
+            <app type="BGU"><lem resp="BL II 2, S. 20">[...]</lem></app> von Karanis: <milestone unit="line" n="3"/>Chairêmôn, 
+            Sohn des Sôkratês, an <term target="artaba">Artaben</term> Weizen <term target="metrodemosioxesto">mit 
+                dem gestrichenen staatlichen Maß</term> 
+            <term target="epaiton">epaiton</term> neunundzwanzig 
+            <term target="artaba">Artaben</term>, <app type="BGU"><lem resp="BL II 2, S. 20">für 
+                die</lem></app> 
+            <app type="BGU"><lem resp="BL II 2, S. 20."><term target="eikoste">Zwanzigstel-Abgabe</term></lem></app> 
+            eineinhalb. <milestone unit="line" n="7"/><app type="BGU"><lem resp="BL II 2, S. 20">Derselbe</lem></app> für die 
+            (Abgabe auf) <term target="idioktetos" xml:lang="grc-Latn">idioktêtos</term> sechs 1/4, 
+            <app type="BGU"><lem resp="BL II 2, S. 20">für die</lem></app> 
+            <app type="BGU"><lem><term target="eikoste">Zwanzigstel-Abgabe</term></lem></app> 
+            <app type="BGU"><lem resp="BL II 2, S. 20">1/4</lem></app>, das sind zusammen 37 
+            <term target="artaba">Artaben</term> Weizen.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 5 of Gaius Caesar Imperator Augustus, 26th of the month of Soter. 
+            <milestone unit="line" n="2"/>I, Heraklas, son of [...]phros, have had measured to me from the produce of 
+            year 4 for the <app type="BGU"><lem resp="BL II.2 20."><term target="monartabou">dues on (land) at one 
+                artaba</term></lem></app> 
+            <app type="BGU"><lem resp="BL II.2 20">[...]</lem></app> of Karanis: Chairemon, son of Sokrates by 
+            <term target="metrodemosioxesto">levelled public measure</term> 
+            <app><lem><term target="epaiton" xml:lang="grc-Latn">epaiton</term></lem></app> 
+            twenty nine <term target="artaba">artabas</term> of wheat, for the 
+            <app type="BGU"><lem resp="BL II.2 20."><term target="eikoste">tax of a twentieth</term></lem></app> one and 
+            a half; <app type="BGU"><lem resp="BL II.2 20">the same person</lem></app> for the 
+            dues on <term target="idioktetos" xml:lang="grc-Latn">idioktetos</term> (land) six 1/4, for the 
+            <app type="BGU"><lem resp="BL II.2 20."><term target="eikoste">tax of a twentieth</term></lem></app> 1/4 = 
+            for the receipt 37 <term target="artaba">artabas</term> of wheat.
+        </p></div>
+      </body>

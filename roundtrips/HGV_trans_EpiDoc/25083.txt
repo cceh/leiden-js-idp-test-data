@@ -1,0 +1,19 @@
+
+         <T=.en
+            <D=.r,ctr 
+               <=
+                  Apion and Epimas declare to their dearest Epaphroditos: if you allow us to bugger you, it will go well for you and we'll no longer thrash you -- if you allow us to bugger you.  Farewell!  Farewell!
+               =>
+            =D>
+            <D=.r,md 
+               <=
+                  Cockhead (drawing) and Asshole
+               =>
+            =D>
+            <D=.v 
+               <=
+                  Deliver to dearest Epaphroditos
+               =>
+            =D>
+         =T>
+      

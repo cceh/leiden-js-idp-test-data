@@ -1,0 +1,19 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+ 
+<div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ⲁ</supplied><unclear>ⲓ</unclear>ϣⲱⲛⲉ <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ⲥⲟⲛ ⲕ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ⲁ ⲟⲩϫ<unclear>ⲁ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ⲙⲏ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+<div n="v" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><app type="alternative"><lem>ⲧⲁⲁ<supplied reason="lost">ⲥ</supplied><gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲧ</unclear></lem><rdg>ⲧⲁⲁ<supplied reason="lost">ⲥ ⲙⲡⲁⲙⲉⲣⲓ</supplied>ⲧ</rdg></app> ⲛⲉⲓⲱ<supplied reason="lost">ⲧ</supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ⲫⲣⲁ<supplied reason="lost">ⲛⲅⲁⲥ</supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg xml:lang="grc">ἐλάχιστος</reg><orig>ⲉⲗⲁⲭ<supplied reason="lost">ⲓⲥⲧⲟⲥ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+
+      </div>

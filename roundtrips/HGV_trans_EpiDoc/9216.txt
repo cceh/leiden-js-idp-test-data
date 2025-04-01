@@ -1,0 +1,48 @@
+
+         <T=.de<=
+            ((1))An [Hi]er[a]x, den <Strategen=strategos> des 
+            Hêrakleidês-Bezirks des Arsinoïtês, und Timagenês, den <Königlichen 
+                Schreiber=basilikosgrammateus> des desselben Bezirks, und Arphaesis, 
+            den <Dorfschreiber=komogrammateus> von Karanis, und Didymos und die 
+            übrigen <laographoi~grc-Latn=laographos> des Dorfes Karanis
+            (((5)))[von S]is[oï]s, Sohn des Petheus, des Sohnes des Akû[silao]s, und der 
+            Mutter Thermûthis, Tochter des [...]is, aus dem Dorf Karanis. ((7))Ich melde mich 
+            und die Meinen für die <Haushaltsmeldung=katoikianapographe> des 
+            vergangenen 23. Jahres des Gottes Antoni[nus] für das mir im Dorf gehörende Haus mit Hof. 
+            ((12))[<:Ich bin|:|:>] der oben genannte Sisoïs, 29 Jahre alt, und (ich 
+            melde auch) meine <:Ehefrau Thermuthis|BGU_DDbDP:BL X, S. 15|:>,Tochter des 
+            [P]asok[nopa]ios, <:24 (?)|BGU_DDbDP:BL X, S. 15|:> Jahre alt, ohne 
+            Kennzeichen, ((15))und die gemeinsame Tochter <:Thermuthi[s]|BGU_DDbDP:BL X, S. 15|:>[, x Jahre alt, ohne Kennzeichen], ((17))und [meinen] vom 
+            gleichen Vater und [der gleichen Mutter] stammenden Bruder <:Bês[a]s, 2[.] Jahre alt, 
+                [ohne Kennezeichen,]|BGU_DDbDP:BL X, S. 15|:>[ 
+            ((19))<:und] die Schwester Tênchônsis, 14 Jahre alt, ohne 
+                Kennzeichen|BGU_DDbDP:BL X, S. 15|:>, ((20))[und] den Sohn meines 
+            Onkels väterlicherseits, [Si]soïs, Sohn des Onnôphris und der [...]this, Tochter des 
+            Apollôni[os, x Jahre alt, ((23))und] meine Mutter [The]rmûthis, 54 Jahre alt. 
+            Hiermit reiche ich (die Meldung) ein.
+            (((20)))(2. Hand) <:[Ich, N.N.], habe abgezeichnet. [...]|BGU:BL I, S. 49|:>.
+        =>=T>
+         <T=.en<=
+            ((1))To [Hi]er[a]x, <strategos~grc-Latn=strategos> of 
+            the Arsinoite nome, Herakleides division, and Timagenes, <[royal 
+                scribe]=basilikosgrammateus> of the same division and to Harphaesis, 
+            <village scribe=komogrammateus> of Karanis, and to Didymos and the 
+            other <laographoi~grc-Latn=laographos> of the village of Karanis
+            (((5)))[from S]is[oi]s, son of Petheus, the son of Akousilaos, mother 
+            Thermouthis, daughter of [..]is from the same (village of) Karanis. ((7))I register 
+            myself and my family for the <house-by-house 
+                registration=katoikianapographe> of the past year 23 of the God 
+            Antoninus for the house and courtyard belonging to me in the village. ((12))I am 
+            Sisois, the above mentioned, 29 years old and (I register) my <:wife 
+                Themouthis|BGU_DDbDP:BL X 15|:>, daughter of [P]asok[nopa]ios, 
+            <:24|BGU_DDbDP:BL X 15|:> years old, without a distinguishing mark, 
+            ((15))and the daughter of both of us, <:Thermouthi[s]|BGU_DDbDP:BL X 15|:>[, x years old, without a distinguishing mark], ((17))and my 
+            brother of the same father and [of the same mother], <:Bes[a]s, 2[. years old, 
+                without a distinguishing mark]|BGU_DDbDP:BL X 15|:>[ ((19))<:and] 
+                    (my) sister Teonchonsis, 14 years old, without a distinguishing mark|BGU_DDbDP:BL X 15|:> ((20))[and] the son of my uncle on my father’s side, 
+            [Si]sois, son of Onnophris, mother [...]this, daughter of Apolloni[os, x years old] 
+            ((23))and my mother [The]rmouthis, 54 years old. ((24))Therefore I submit 
+            (this registration).
+            (((25)))(m. 2) I, <:[NN], have signed [...]|BGU:BL I 49|:>
+        =>=T>
+      

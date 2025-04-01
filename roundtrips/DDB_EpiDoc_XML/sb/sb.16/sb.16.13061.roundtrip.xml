@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><handShift new="m2"/> Τα<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><handShift new="m1"/> Αἰ<unclear>μιλίῳ</unclear> Θέ<supplied reason="lost">ωνι <expan>στρ<ex>ατηγῷ</ex></expan> <expan>Ἑρμ<ex>οπολίτου</ex></expan></supplied>. 
+
+    <lb n="3"/>παρὰ Ἀχιλλα<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>ἐν κλήρῳ <unclear>π</unclear><supplied reason="lost">ράκτορος</supplied> 
+
+    <lb n="5"/>ἀργυρικῶν <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>λόγος ἀργυρι<unclear>κ</unclear><supplied reason="lost">ῶν ἐν κε</supplied>
+
+    <lb n="7" break="no"/>φαλαίῳ τῶ<unclear>ν</unclear> <supplied reason="lost">διαγε</supplied>
+
+    <lb n="8" break="no"/>γραμμένων <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/>σιν μηνὸς <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><subst><add place="inline">ενεσστου</add><del rend="corrected">ενεσστο<gap reason="illegible" quantity="1" unit="character"/></del></subst> <supplied reason="lost">Λουκίου</supplied> 
+
+    <lb n="11"/><choice><reg>Σεπτιμίου</reg><orig>Σεπτιμείου</orig></choice> Σ<supplied reason="lost">εουήρου Εὐσεβοῦς Περτίνακος</supplied> 
+
+    <lb n="12"/>Σεβα<unclear>στοῦ</unclear> <unclear>Ἀραβικοῦ</unclear> <supplied reason="lost">Ἀδιαβηνικοῦ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="13"/><gap reason="illegible" quantity="11" unit="line"/> </ab></div>

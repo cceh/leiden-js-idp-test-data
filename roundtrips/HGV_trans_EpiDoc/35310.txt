@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              As you were urged in person by me and by my lord the most distinguished Cyrus, advocate, on account of the hundred artabae of corn from the old produce, vouchsafe to perform this favour and write to your sailors what they ought to do. If you order them to make the bread here and send it to the village of Ibion, write to them; or if you order them to send the corn to Ibion, again write to them. For Anoup has already taken his fifty, and the other man his fifty. Vouchsafe then to write to them by the letter-carrier what they ought to do, sir. (Addressed) Deliver to my lord and brother Askalas, captain, from Pambechis ...
+            =>
+         =T>
+      

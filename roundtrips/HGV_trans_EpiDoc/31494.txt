@@ -1,0 +1,17 @@
+
+            <T=.de
+            <D=.r 
+               <=
+                  ((1))Philonikos ... grüßt Kyrilla. Vor allem grüße ich dich und meinen Herrn Zoilos und Plutiaina,
+Pantarchis, ((9)) Thermuthis, Soteris, Eutychia, Kalomallos, Herakleon, Hareus, Euthenia, Sarapodora, die große Kyrilla 
+und alle unsere Hausgenossen. Plution grüßt Herakleon. Ich wünsche dir Wohlergehen.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((17))An Kyrilla von Philonikos.
+                  /*Translation: D. Hagedorn, P.Köln 2 108*/
+               =>
+            =D>
+         =T>
+        

@@ -1,0 +1,19 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><g type="stauros"/> 
+
+    <lb n="2"/><g type="rho-cross"/> ἐκ μὲν τοῦ <num value="1">ἑνὸς</num> μέρους Πέτρος υἱὸς Μηνᾶ, ἐκ δὲ θατέρου μέρους Παπνούθιος
+
+    <lb n="3"/>υἱὸς Ζαχαρίου <expan>ἀμφότ<ex>εροι</ex></expan> ἀφʼ <expan>Ἡρακλ<ex>έους</ex></expan> <expan>π<ex>όλεως</ex></expan>. <unclear>ἡ</unclear>ρήσαντο κοινῇ γνώμῃ <expan>Συγκρί<ex>τιον</ex></expan> <subst><add place="inline"><expan>πρε<ex>σβύτερον</ex></expan></add><del rend="corrected"><expan>τιρε<ex>σβύτερον</ex></expan></del></subst>
+
+    <lb n="4"/>υἱὸν Ἀπαιουλίου καὶ <expan>Συγκρί<ex>τιον</ex></expan> υἱὸν Ζαχαρίου ἀπὸ <expan>τ<ex>ῆς</ex></expan> <expan>αὐτ<ex>ῆς</ex></expan> <expan>πόλε<ex>ως</ex></expan> καὶ ὁ μὴ στέργων
+
+    <lb n="5"/>τῇ τούτων κρίσει <choice><reg>παρεχέτω</reg><orig>παρεχείτω</orig></choice> ἐν <expan>τ<ex>ῷ</ex></expan> πραιτωρίῳ λόγῳ προστίμου
+
+    <lb n="6"/>χρυσοῦ νομίσματα <num value="2">δ<hi rend="supraline">ύο</hi></num> <expan>ὄβρυ<ex>ζα</ex></expan>, <expan>χρ<ex>υσοῦ</ex></expan> <expan><unclear>ν</unclear>ο<ex>μίσματα</ex></expan> <num value="2">β</num> <expan><unclear>ὄ</unclear>βρυ<ex>ζα</ex></expan>. <expan>ἐγρ<ex>άφη</ex></expan> <expan>μ<ex>ηνὶ</ex></expan> <expan>Φ<ex>α</ex>ῶ<ex>φι</ex></expan> <num value="9">θ</num>, <expan>ἰνδ<ex>ικτίωνος</ex></expan> <num value="3"><unclear>γ</unclear></num>, <expan>ἔτου<ex>ς</ex></expan> <expan>Διοκλ<ex>ητιανοῦ</ex></expan> <num value="436">υλϛ</num>  <g type="stauros"/> 
+
+    <lb n="7" rend="indent"/><handShift new="m2"/> <supplied reason="lost"><g type="rho-cross"/> <expan>δ<ex>ιʼ</ex></expan> ἐμοῦ Παύλου συμβ</supplied><unclear>ο</unclear>λαιογράφου <figure><figDesc>sign</figDesc></figure> <g type="stauros"/>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+</ab></div></div>

@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              ... I had to come down to Panga in order that, if God so wills, there may perhaps be something to sell. It will be most necessary for you too to pray on my behalf, in order that God may thus hear your prayers, and a straight way be made for us. I salute my sweetest brethren, Dionysodora and her slave Achillis. I salute my sister Macaria and Romana and all our friends by name, and, if you like, I will buy some old jars of olives at 3 talents the jar. If I am to receive ..., write to me. I pray for your health, (Addressed) To ... from Boëthus son of Achillion. Thoth 28.
+            =>
+         =T>
+      

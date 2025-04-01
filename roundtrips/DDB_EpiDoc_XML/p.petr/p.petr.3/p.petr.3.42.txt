@@ -1,0 +1,191 @@
+<S=.grc<D=.A<=
+
+    1. /*PPetr 3,42,A reprinted in PZenPestm B */
+=>=D><D=.B,1<=
+
+    1. /*PPetr 3,42,B,1 reprinted in PPetr 2,13,Fr8 */
+=>=D><D=.B,2<=
+
+    1. /*PPetr 3,42,B,2 reprinted in PZenPestm C */
+=>=D><D=.B,3<=
+
+    1. /*PPetr 3,42,B,3 reprinted in PPetr 2,13,Fr9 */
+=>=D><D=.B,4<=
+
+    1. /*PPetr 3,42,B,4 reprinted in PPetr 2,13,Fr10 */
+=>=D><D=.B,5<=
+
+    1. /*PPetr 3,42,B,5 reprinted in PPetr 2,5,FrA */
+=>=D><D=.C,1<=
+
+    1. /*PPetr 3,42,C,1 reprinted in PPetr 2,4,Fr8 */
+=>=D><D=.C,2<=
+
+    1. /*PPetr 3,42,C,2 reprinted in SB 18,13881 */
+=>=D><D=.C,3<=
+
+    1. /*PPetr 3,42,C,3 reprinted in SB 18,13881 */
+=>=D><D=.C,4<=
+
+    1. /*PPetr 3,42,C,4 reprinted in PPetr 2,4,Fr2 */
+=>=D><D=.C,5<=
+
+    1. /*PPetr 3,42,C,5 reprinted in PPetr 2,4,Fr3 */
+=>=D><D=.C,6<=
+
+    1. /*PPetr 3,42,C,6 reprinted in PPetr 2,4,Fr4 */
+=>=D><D=.C,7<=
+
+    1. /*PPetr 3,42,C,7 reprinted in PPetr 2,6 */
+=>=D><D=.C,8<=
+
+    1. /*PPetr 3,42,C,8 reprinted in MChr 12 */
+=>=D><D=.C,9<=
+
+    1. /*PPetr 3,42,C,9 reprinted in PPetr 2,13,Fr3 */
+=>=D><D=.C,10<=
+
+    1. /*PPetr 3,42,C,10 reprinted in PPetr 2,13,Fr2 */
+=>=D><D=.C,11<=
+
+    1. /*PPetr 3,42,C,11 reprinted in PPetr 2,4,Fr2 */
+=>=D><D=.C,12,ctr<=
+
+    1. /*PPetr 3,42,C,12,ctr reprinted in PPetr 2,13,Fr1 */
+=>=D><D=.C,12,Fr<=
+
+    1. /*PPetr 3,42,C,12,Fr reprinted in P.Petr.Kleon 64 */ 
+=>=D><D=.C,13<=
+
+    1. [.?] οὖν ἐπιμελέστερον. εἰ δέ τι 
+
+    2. [.?].1ναι ου μὲν εἴληφας ἀπ̣[ό]δ̣ος 
+
+    3. [.?][ χορη]γηθήσεται σοι. 
+
+    4. ἔρρωσο. ((ἔτους)) <#λ=30#> Μεχεὶρ <#ιε=15#>
+=>=D><D=.D,1<=
+
+    1. /*PPetr 3,42,D,1 reprinted in PPetr 2,4,Fr13 */
+=>=D><D=.D,2<=
+
+    1. /*PPetr 3,42,D,2,r reprinted in PPetr 2,4,Fr11 */
+=>=D><D=.D,3<=
+
+    1. /*PPetr 3,42,D,3 reprinted in PPetr 2,13,Fr17 */
+=>=D><D=.E,1<=
+
+    1. /*PPetr 3,42,E,1 reprinted in PPetr 2,12,Fr4 */
+=>=D><D=.E,2<=
+
+    1. /*PPetr 3,42,E,2 reprinted in PPetr 2,13,Fr15 */
+=>=D><D=.E,3<=
+
+    1. /*PPetr 3,42,E,3 reprinted in PPetr 2,13,Fr14 */
+=>=D><D=.G,Fr1<=
+
+    1. /*PPetr 3,42,G,Fr1 reprinted in PPetr 2,4,Fr5 */
+=>=D><D=.G,Fr2<=
+
+    1. /*PPetr 3,42,G,Fr2 reprinted in PPetr 2,4,Fr7 */
+=>=D><D=.G,Fr3<=
+
+    1. /*PPetr 3,42,G,Fr3 reprinted in PPetr 2,4,Fr12 */
+=>=D><D=.G,Fr4<=
+
+    1. /*PPetr 3,42,G,Fr4 reprinted in PPetr 2,13,Fr6 */
+=>=D><D=.G,Fr5<=
+
+    1. /*PPetr 3,42,G,Fr5 reprinted in PPetr 2,13,Fr12 */
+=>=D><D=.G,Fr6<=
+
+    1. /*PPetr 3,42,G,Fr6 reprinted in PPetr 2,13,Fr13 */
+=>=D><D=.G,Fr7<=
+
+    1. /*PPetr 3,42,G,Fr7 reprinted in PPetr 2,13,Fr18,a-b */
+=>=D><D=.G,Fr8<=
+
+    1. /*PPetr 3,42,G,Fr8 reprinted in PPetr 2,13,Fr20 */
+=>=D><D=.G,Fr9<=
+
+    1. [Φί]λ̣ων Κλέωνι 
+
+    2. [χαί]ρειν. καθάπερ 
+
+    3. [ἔγρα]ψας ἀπέσταλκά σοι 
+
+    4. [.4].4.3ν γεγραμ
+
+    5.- [.3].4 ὥσπερ σὺ ἠβού
+
+    6.- [λου]. καὶ εἰς τὸ λοιπὸν 
+
+    7. [ἐ]ά̣ν̣ τινος χρείαν ἔχηις 
+
+    8. [.3].1ας ἡ̣μᾶς̣ ἐπίσ
+
+    9.- [τ]ελλε· ποιήσομεν γὰρ 
+
+    10. [π]άντα. οὐδὲ γὰρ 
+
+    11. τοῖς .2[.?] 
+=>=D><D=.H,1<=
+
+    1. /*PPetr 3,42,H,1 reprinted in PPetr 2,11,1 */
+=>=D><D=.H,2<=
+
+    1. /*PPetr 3,42,H,2 reprinted in WChr 223 */
+=>=D><D=.H,3<=
+
+    1. /*PPetr 3,42,H,3 reprinted in PPetr 2,16 */
+=>=D><D=.H,4<=
+
+    1. /*PPetr 3,42,H,4 reprinted in PPetr 1,30,Fr1 */
+=>=D><D=.H,5<=
+
+    1. /*PPetr 3,42,H,5 reprinted in PPetr 2,13,Fr19 */
+=>=D><D=.H,6<=
+
+    1. /*PPetr 3,42,H,6 reprinted in PPetr 2,42,c */
+=>=D><D=.H,7,fr<=
+
+    1. Φιλωνίδης τῶι πατρὶ χαί[ρειν ][.?] 
+
+    2. lost.?lin 
+=>=D><D=.H,8,FrA<=
+
+    1. Μητροδώρα Κλέωνι χαίρειν. [.?] 
+
+    2. ἐρρώμεθ[α δὲ κ]αὶ ἡμεῖς. ἐγρα̣ψ̣[.?] 
+
+    3. [π]αραγε[νέσθα]ι πρὸς σὲ γραψα[.?] 
+
+    4. lost.?lin 
+=>=D><D=.H,8,FrD<=
+
+    1. lost.?lin 
+
+    1. [.?]α̣ι̣.2λ 
+
+    2. [.?].1ν καὶ 
+
+    3. [.?]ηι απες 
+
+    4. [.?]ωπον καὶ 
+
+    5. [.?]αφορ.2 
+
+    6. lost.?lin 
+=>=D><D=.Irp<=
+
+    1. Κλέων Παίονι χαίρειν. ἀπ[όστει]
+
+    2.- λον μοι τὴν ὄνον. <:χρείαν|reg|χρέαν:> γὰρ 
+
+    3. ἔχομεν <:αὐτῆς|ed|:> <:\εὐθέως/|subst|<:πρὸς τ[ὸ]|ed|.2ρ.3:>:> τὸν χόρτον 
+
+    4. <:\διακομίσαι/|subst|〚τ[ὴν] ταχίστην <:εἰσκομίσαι|ed|κομισθῆναι:>〛:> 
+
+    5. εἰμι γὰρ πρὸς τῶι ἀποδημεῖν .4.1 
+
+    6. δω. ἔρρωσο =>=D>

@@ -1,0 +1,10 @@
+
+         <T=.en
+ <=
+ ((1)) Demetrous and Menandros to … and Philokles, both of them, greetings. First of all we make obeisance for you
+        to the Lady Athena. We wish you to know that there are no vegetables as yet. … purge-plants from them … .
+        Gallonia sends you many greetings and Didyme and Tiberia very many …
+        /*Translation: A. Bülow-Jacobsen, O.Krok. 2 181*/
+ =>
+ =T>
+      

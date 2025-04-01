@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Χοίαχ <num value="11">ια</num> 
+
+    <lb n="2"/>ὧν <expan>ἔδω<ex>κα</ex></expan> <expan>ἐγγυ<ex>ῶν</ex></expan> 
+
+    <lb n="3"/>Τικῶτι <expan>χα<ex>λκοῦ</ex></expan> <num value="1200">Ασ</num> 
+
+    <lb n="4"/>ὧν <app type="editorial"><lem><expan>δώ<ex>σω</ex></expan></lem><rdg><expan>δώ<ex>σει</ex></expan></rdg></app> Τικῶτι 
+
+    <lb n="5"/><app type="editorial"><lem><expan>μετα<unclear>ύ</unclear><ex>ριον</ex></expan></lem><rdg><abbr><unclear>π</unclear>ετα<unclear>χ</unclear></abbr></rdg></app> <num value="310">τι</num>. ὧν <expan>ἔδω<ex>κα</ex></expan> 
+
+    <lb n="6"/><choice><reg>Ἔρωτι</reg><orig>Ἐρως</orig></choice> <expan>χα<ex>λκοῦ</ex></expan> <num value="1400">Αυ</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>Τῦβι <num value="1">α</num> οἴνου <expan>κ<supplied reason="lost">ε<ex>ράμιον</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="8"/><gap reason="illegible" quantity="1" unit="character"/> <expan>χα<ex>λκοῦ</ex></expan> <num value="700">ψ</num> Μεχε<supplied reason="lost">ὶρ </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>

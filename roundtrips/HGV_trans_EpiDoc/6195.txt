@@ -1,0 +1,12 @@
+
+         <T=.de
+            <=
+               An Dikaios, Archiphylakites von Moithymis, von Petosiris, Sohn von Thotis, königlicher ((5)) Bauer in Moithymis.
+ Am 25. des Monats Pachon sind um die zweite Stunde abends, als ich mich im ((10)) Tempel befand, Menschen in mein Haus eingedrungen und haben meiner
+ ((15)) Frau Thanous ihren Mantel im Wert von 200 Drachmen geraubt, ihrer Mutter Aynchis einen Mantel im Wert von 400 Drachmen ((20)) und meiner Tochter
+ Thermoutarion ein Stoffgewand im Wert von 100 Drachmen, zusammen 700 Drachmen. Und sie haben sie mit ihren Messern verletzt, ((25)) so dass …
+
+/*translated by Jörg Engelbrecht as part of the Papyrology course at Würzburg taught by Birgit Breuer in WS 2022/23*/           
+ =>
+         =T>
+      

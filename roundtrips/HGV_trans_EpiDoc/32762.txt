@@ -1,0 +1,15 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘To our lord and master, our father Theophanes, Hephaistion and Horigenes exceeding many greetings.
+‘It is not, sir, that we consider the labours of our journey merit any recompense in (? this) season [since] we elected [voluntarily] to incure them, rather do we return thanks for them as indeed we have already done for being thought worthy of such honour which also enabled us to gain exact knowledge…affairs….we were enabled to see with our own eyes [so that] we were not greatly disappointed in our wishes. We stayed on after you had left us in the City making eager inquiries after your well-being …………….your affairs. For this we consider to be a duty that comes first and excels all others, since we are taught by nature’s law to watch over and care for no one so much as a good father. For it is to him that we owe the exceptionally high reputation that we enjoy in the City, from him that we learn to think little of those that think differently, for nothing is easier than this, for you well know how with all our strength and souls we are so disposed…………..willing to travel with you……no custom would stand in our way, no fear of elders, no pleasures of home, nor any other such consideration……for we would guard especially against…………..we all greet you, sir,……for the rest of your life……….’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Address.
+               =>
+            =D>
+         =T>
+      

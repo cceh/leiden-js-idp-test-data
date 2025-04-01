@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((8)) ‘Paid at the custom-house of Socnopaei Nesus the dues for the tax for the protection of the desert route by Melas, exporting pulse on one donkey. The 0th year, Epeiph 25.’
+            =>
+         =T>
+      

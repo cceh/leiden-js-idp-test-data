@@ -1,0 +1,38 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>σίτου <choice><reg>ἱερουργῶν</reg><orig>ἱερουρκῶν</orig></choice> 
+
+    <lb n="2"/>Μέλα<unclear>ς</unclear> <expan>πρεσβ<ex>ύτερος</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="102">ρβ</num> 
+
+    <lb n="3"/>Τύρα<supplied reason="lost">ν</supplied><unclear>ν</unclear>ος Μέλ      <expan><ex>ἀρτάβαι</ex></expan> <num value="30">λ</num> 
+
+    <lb n="4"/>Θαῖβις Ἑρμοῦ       <expan><ex>ἀρτάβαι</ex></expan> <num value="30">λ</num> 
+
+    <lb n="4a"/><handShift new="m2"/> <expan>δι<ex>ὰ</ex></expan> Φίβιος <subst><add place="inline">ἀναγνώστου</add><del rend="corrected"><gap reason="illegible" quantity="3" unit="character"/>γνωστου</del></subst> 
+
+    <lb n="5"/><handShift new="m1"/> Βὲς διάκων καὶ 
+
+    <lb n="6"/><unclear>υι</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>κμ</unclear>ιος           <expan><ex>ἀρτάβαι</ex></expan> <num value="26">κϛ</num> 
+
+    <lb n="6a"/><handShift new="m2"/> <expan>δι<ex>ὰ</ex></expan> Βε<unclear>λ</unclear><gap reason="illegible" quantity="1" unit="character"/> <choice><reg><expan>διάκο<ex>νος</ex></expan></reg><orig><expan>διακω<ex>νος</ex></expan></orig></choice> 
+
+    <lb n="7"/><handShift new="m1"/> Φίβ <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>  <expan><ex>ἀρτάβαι</ex></expan> <num value="15">ιε</num> 
+
+    <lb n="8"/>λ<unclear>οι</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>        <expan><ex>ἀρτάβαι</ex></expan> <num value="10">ι</num> 
+
+    <lb n="9"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> Σαρᾶτος       <expan><ex>ἀρτάβαι</ex></expan> <num value="12">ιβ</num> 
+
+    <lb n="10"/><space extent="unknown" unit="character"/> 
+
+    <lb n="10"/><expan>φυλ<ex>ακῆς</ex></expan> Κολλούθου  <abbr>νομ</abbr> <num value="2">β</num> <num value="1/2">𐅵</num> 
+
+    <lb n="11"/><expan>φυλ<ex>ακῆς</ex></expan> <choice><reg>Πακίου</reg><orig>Πακείου</orig></choice> <abbr>νομ</abbr> <num value="1">α</num> <num value="1/2">𐅵</num> 
+
+    <lb n="12"/><expan>φυλ<ex>ακῆς</ex></expan> Παμούνιος <abbr>νομ</abbr> <num value="1">α</num> <num value="3/4">𐅸</num> 
+
+    <lb n="13"/><expan>φυλ<ex>ακῆς</ex></expan> Ἑρ<unclear>μ</unclear>οῦ    <abbr>νομ</abbr> <num value="2">β</num> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="14"/><expan>φυλ<ex>ακῆς</ex></expan> Φιβίων    <abbr>νομ</abbr> <num value="2">β</num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num> 
+
+    <lb n="15"/><expan>φυλ<ex>ακῆς</ex></expan> Πετεεῦτος <abbr>νομ</abbr> <num value="2">β</num> <num value="1/4" rend="tick">δ</num> 
+
+    <lb n="16"/><expan><ex>γίνονται</ex></expan> <num value="12">ιβ</num> <num value="1/2">𐅵</num> </ab></div>

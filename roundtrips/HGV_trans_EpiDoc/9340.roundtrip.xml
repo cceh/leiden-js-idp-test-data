@@ -1,0 +1,26 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 7. Jahr des [Antoninus und] des Verus, der Herren [Augusti] 
+            <app type="BGU_DDbDP"><lem resp="P. Bas., S. 57">Armenia[ci]</lem></app>[ M]edici 
+            <app type="BGU_DDbDP"><lem resp="P. Bas., S. 57">Pa[r]thici</lem></app> Maximi, am [5.] Schalttag des 
+            Mesorê, <app type="BGU"><lem resp="BL I, S. 440">zur Verrechnung</lem></app> für Pa[chô]n (und) Payni. 
+            <milestone unit="line" n="3"/>[Eingezahlt hat Mys]thês, Sohn des Stotoêtis, <app><lem>an</lem></app> 
+            <app><lem><term target="telesmakamelon">Kamelsteuer</term></lem></app> für Soknopaiû 
+            N[êsos für das 7. Jahr] zwanzig Drachmen, das sind 20 Drachmen, <app><lem>an</lem></app> 
+            <term target="prosdiagraphomena">Zusatzzahlungen</term> 1 (Drachme), 1 1/2 Obolen, 
+            <app><lem>an</lem></app> 
+            <app><lem><term target="sumbolikon">Quittungsgebühr</term></lem></app> 
+            [<app type="BGU"><lem resp="BL I, S. 440">1 1/2 Obolen</lem></app>].
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 7 of [Antoninus and] Verus, the lords [Augusti] 
+            <app type="BGU_DDbDP"><lem resp="P.Bas., p. 57">Armenia[ci]</lem></app>[ M]edici 
+            <app type="BGU_DDbDP"><lem resp="P.Bas., p. 57">Pa[r]thici</lem></app> Maximi, Mesore, intercalary day 
+            [5]. <app type="BGU"><lem resp="BL I 440">For the reckoning</lem></app> of Pa[cho]n (and) Payni. 
+            <milestone unit="line" n="3"/>[Mys]thes, son of Stotoetis, [paid] for the <term target="telesmakamelon">tax on 
+                camels</term> of Soknopaiou N[esos of year 7] twenty 
+            drachmas, = 20 drachmas, for <term target="prosdiagraphomena">extra charges</term> 1 
+            (drachma) 1 1/2 obols, for the <term target="sumbolikon">receipt charge</term> 
+            <app type="BGU"><lem resp="BL I 440">1 1/2 obols</lem></app>.
+        </p></div>
+      </body>

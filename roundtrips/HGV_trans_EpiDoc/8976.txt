@@ -1,0 +1,21 @@
+
+         <T=.de<=
+            ((1))Im fünfzehnten Jahr des Imperator Caesar Nerva Traianus Augustus [G]ermanicus 
+            Dacicus, am 2. Payni. ((3))Eingezahlt hat an Mysthariôn, den 
+            <Steuerpächter=misthotes_2>, an 
+            <Esel-Lizenz=diplomaonon> für Karanis <:Aplônûs|:|:>, 
+            Sohn des Serapiôn, <:<Techniker=mechanarios>|BGU:BL I, S. 26.|:>, für eine Lizenz für das 15. Jahr für einen Esel acht 
+            <Silberdrachmen=touargurioudrachmai>, das sind 8 Drachmen; 
+            ((7))und im 16. Jahr des Traianus Caesar, des Herren, am 2. Phamenôth für einen Esel 
+            acht <Silberdrachmen=touargurioudrachmai>, das sind 8 Drachmen.
+        =>=T>
+         <T=.en<=
+            ((1))Year fifteen of Imperator Caesar Nerva Traianus Augustus [G]ermanicus Dacicus, 
+            Payni 2. ((3))Paid to Mystharion, <tax farmer=misthotes_2> 
+            of the <licence on donkeys=diplomaonon> of Karanis, (by) Aplonous, 
+            son of Serapion, <:<mechanarios~grc-Latn=mechanarios>|BGU:BL I 26.|:>, for the licence of year 15 for one donkey eight 
+            <silver drachmas=touargurioudrachmai>, = 8 drachmas; 
+            ((7))and in year 16 of Traianus Caesar, the lord, Phamenoth 2 for one donkey eight 
+            <silver drachmas=touargurioudrachmai>, = 8 drachmas.
+        =>=T>
+      

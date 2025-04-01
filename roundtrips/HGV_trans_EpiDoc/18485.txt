@@ -1,0 +1,10 @@
+
+            <T=.en
+               <=
+               ((1))To my lord and brother Alexander the monthly president and his associates of the guild of canvas and 
+carpet workers from Heraclius the systates greetings. (((6)))I have cancelled the name of Antinous, son of Heraclides, on account of the anabolikon tax of 
+the thirteenth indiction, because I have no claim whatsoever on him on account of the said tax of his. (((13)))I Heraclius the systates have signed.
+/*Translation: P.Leid.Inst. 1 62*/
+              =>
+           =T>
+        

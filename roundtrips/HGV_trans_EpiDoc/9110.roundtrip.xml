@@ -1,0 +1,22 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im 3. Jahr des Marcus Aurelius Antoninus Pius Felix Augustus, am 6. Mecheir.
+            <milestone unit="line" n="4" rend="break"/><app><lem>Es wurde eingezahlt. Ôriôn und (seine) Genossen,</lem></app> 
+            <app><lem><term target="praktorargurikon">Einnehmer</term></lem></app> <term target="praktorargurikon">der 
+                [Geldsteuern]</term> von Bakchias<app><lem>:</lem></app> 
+            <app type="BGU"><lem resp="BL I, S. 14">Longo[s]</lem></app> an Steuern für das 2. Jahr im zweiten 
+            Jahr acht Drachmen, das sind 8 Drachmen.
+            <milestone unit="line" n="8" rend="break"/>Am 4. Phamenôth acht Drachmen, das sind 8 Drachmen. <milestone unit="line" n="9"/>Ebenso 
+            weitere acht Drachmen, das sind 8 Drachmen. <milestone unit="line" n="10"/>Und er hat keine weitere Quittung 
+            benutzt.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year 3 of Marcus Aurelius Antoninus Pius Felix Augustus, Mecheir 6.
+            <milestone unit="line" n="4" rend="break"/><app><lem>Paid: Horion and his associates,</lem></app> 
+            <app><lem><term target="praktorargurikon">collectors of [money taxes]</term></lem></app> of 
+            Bakchias, (on account of) <app type="BGU"><lem resp="BL I 14">Longos</lem></app> for the taxes of year 
+            2 in the second year eight drachmas, = 8 drachmas.
+            <milestone unit="line" n="8" rend="break"/>Phamenoth 4 eight drachmas, = 8 drachmas. <milestone unit="line" n="9"/>Likewise a further 
+            eight drachmas, = 8 drachmas. <milestone unit="line" n="10"/>And he did not avail himself another receipt.
+        </p></div>
+      </body>

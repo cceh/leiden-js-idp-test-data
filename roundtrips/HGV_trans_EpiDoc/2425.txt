@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Zenon greeting from Patumis, son of Harapaktis, steward of Isis. You know that I have given to you as a deposit the cows of Isis and Osiris. Be good enough therefore, if you too agree, to take whichever one of them you please and give me back the rest in order that I may gain my living from them. You protected us in the beginning, and now again no one but you will protect us, for the sake of Isis. For I would not have put trust in anyone but you to protect us. May you prosper.’
+            =>
+         =T>
+      

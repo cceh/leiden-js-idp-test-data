@@ -1,0 +1,17 @@
+
+            <T=.en
+            <D=.a.fragment 
+               <=
+                  ((1)) [...]. If you are in good health, then so are we and [...] to Kallikrates, having called me [... Sat]yros calling you ungrateful and 
+                   [...] that he will not stay away from you and [...]. ((5)) [...] Furthermore, I/ they have reported to Histieios [...] 
+                   You I asked to [...] the things for the king [...].
+                   /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 54, © Peeters*/
+               =>
+            =D>
+            <D=.b.fragment 
+               <=
+                  ((8))/*No translation provided by the edition*/
+               =>
+            =D>
+         =T>
+        

@@ -1,0 +1,10 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <foreign xml:lang="grc"><expan>ἐγρ<ex>άφη</ex></expan> <expan>Φαμ<ex>ενω</ex>θ</expan></foreign> <gap reason="lost" extent="unknown" unit="character"/>    
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <handShift new="m2"/><choice><reg xml:lang="grc">στοιχεῖν</reg><orig><expan><supplied reason="lost">ⲥⲧⲟⲓ</supplied>ⲭ<ex>ⲉⲓ</ex></expan></orig></choice> ⲉⲧⲓ<choice><reg xml:lang="grc">ἐγγύη</reg><orig>ⲉⲛⲅ<unclear>ⲩⲏ</unclear></orig></choice> <unclear>ⲡ</unclear>ⲁⲣⲁ<gap reason="lost" extent="unknown" unit="character"/>   
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <handShift new="m3"/>ⲉⲧⲓ<choice><reg xml:lang="grc">ἐγγύη</reg><orig>ⲉⲛⲅⲏⲩ</orig></choice> <hi rend="supraline">ⲙ</hi><gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <handShift new="m4" cert="low"/>ⲣ<hi rend="supraline">ϥ</hi> <hi rend="supraline">ⲛ</hi>ⲧⲁϭⲓϫ <g type="stauros"/> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

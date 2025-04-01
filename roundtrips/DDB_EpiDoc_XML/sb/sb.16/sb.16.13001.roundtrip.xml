@@ -1,0 +1,51 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="ctr" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><unclear>Πυ</unclear><supplied reason="lost">ρρείας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><subst><add place="inline">Σεντρεπάει</add><del rend="corrected">συντρεπαει</del></subst> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>καὶ ἀπὸ λόγο<unclear>υ</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>Πτολεμαίδος <expan>Δρυ<ex>μοῦ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>Ἀργιάδος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>Ἀλεξάνδρου <unclear>Ν</unclear><supplied reason="lost">ήσου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>Ἀρχελαίδος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="8"/><expan>Εὐδαίμονο<ex>ς</ex></expan> Ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="ms" type="textpart"><ab>
+
+    <lb n="9"/><expan>ἐπι<ex>κειμένης</ex></expan> <expan>Εὐη<ex>μερείας</ex></expan> 
+
+    <lb n="10"/><expan>ἐπι<ex>κειμένης</ex></expan> <expan>Διο<ex>νυσιάδος</ex></expan> 
+
+    <lb n="11"/><supplied reason="omitted"><expan>ἐπι<ex>κειμένης</ex></expan></supplied> <expan>Θε<ex>αδελφίας</ex></expan> 
+</ab></div><div n="ctr" type="textpart"><ab>
+
+    <lb n="9"/>Πτολεμαίδος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><expan>Πτο<ex>λεμαίδος</ex></expan> <expan>Δρυ<ex>μοῦ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/><expan>Ἀλεξ<ex>άνδρου</ex></expan> <expan>Νή<ex>σου</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="12"/>Ψεντύμεως <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="13"/><expan>κρι<ex>θῆς</ex></expan> αὐτο<unclear>ῦ</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="14"/><expan>Κανοπι<ex>άδος</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="15"/>Ψεντ<supplied reason="lost">ύμεως </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="16"/>Εὐημ<supplied reason="lost">ερείας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="17"/><subst><add place="inline">Σεντρ<supplied reason="lost">επάει</supplied></add><del rend="corrected">συντρ<supplied reason="lost">επαει</supplied></del></subst> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="18"/>Θεαδελ<unclear>φ</unclear><supplied reason="lost">είας </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="19"/><g type="parens-punctuation-opening"/>καὶ ἀπ<unclear>ὸ</unclear> <unclear>λ</unclear><supplied reason="lost">όγου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="20"/>Ζωίλ<supplied reason="lost">ου </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

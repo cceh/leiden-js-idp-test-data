@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) [First year of Imperator] Caesar Nerva [Traianus Augustus Germanicus], 18th of the month Loios, 18th of Pauni, [in Karanis of the Herakleides division of the Arsinoite nome]. 
+((3)) Petosiris [… about X years old], scar on the forehead … [and NN … ], about thirty… years old […] Persians of the epigone, mutual [sureties for full repayment], acknowledge [to Mikkalos], 
+son of Ptolemaios, about forty-eight years old, [scar] on the middle [of the forehead] under the hair, that they have received [from him … ] drachmas … the repayment 
+of which the acknowledging parties [will necessarily make to Mikkalos in the month of … of the] forthcoming second year [of Imperator Caesar Nerva Traianus] Augustus Germanicus … 
+((14)) their father Petosiris … with the right of execution belonging to Mikkalos [from the acknowledging parties and from whomever] of them he so chooses and 
+from [all their property, as if] resulting from a verdict … with there being the power to … ((21)) [Subscriber for the acknowledging parties: Heron], son of Satyros, 
+about 28 years old, scar on the middle of the forehead. [Petosiris ... ], the two men ...
+/*Translation: W.G. Claytor, BASP 57 (2020) 27-28 (with very minor changes)*/
+            =>
+         =T>
+      

@@ -1,0 +1,55 @@
+<S=.la
+<D=.16a.tablet<=
+    1. restituti de <:olive|reg|olibe:> de post <:centenario|reg|centẹnariu:> 
+=>=D>
+<D=.16b.tablet<=
+    2. <:anno|reg|annu:> <:nono|reg|nonu:> (d(omi)ni) regis <:Gunthamundus|reg|guntamundus:> die <:tertio|reg|tertiu:> <:decimo|reg|decimu:> <:kalendas|reg|calendas:> <:decembres|reg|decenbres:> <:vendentibus|reg|bendentibus:> Iulius 
+
+    3. Quoduuldeus et Restitutus filius eius et Donata iugalis eius necnon etiam eius et <:subscripturis|reg|subiscripturis:> cora
+ 
+    4.- m <:subscribentibus|reg|subiscribentibus:> particellam agri in locus qui est post <:centenario|reg|centenariu:> <:cum|reg|cun:> <:vocabulis|reg|bocabulis:> suis sub Do
+
+    5.- minio  (Fl(avi)) Gemini Catullini flaminis perpetui et infantes id est locus qui supradictum est 
+
+    6. post <:centenario|reg|centenariu:> gemionem unum ubi abentur <:olive|reg|olibe:> (aṛb(ores)) <:decem|reg|dece:> ẹṭ <:septem|reg|ṣẹp̣ṭẹ:> inter adf[ines ]<:[e]iusdem|reg|[e]iusḍẹ:> 
+
+    7. [agri ][.?] 
+
+    8. [.?][ sive quibus adfinibus cum quibus eos]  <:sol9.- visse|reg|[sol9.- vensisse]:> <:monstraverunt|reg|[monstrarunt]:> [venditores ex hereditate parentum cum transitis suis haec omnia superius] 
+
+    10. [comprehensa hac die emerunt Geminius Cresconius et Cresconia iugalis eius a (s(upra)s(cri)ptis) venditoribus] 
+
+    11. [folles pecuniae numero ][.?][ quos folles ][.?][ cuius rei] 
+=>=D>
+<D=.17a.tablet<=
+    12. <:suprascriptae|reg|(ss(u)p(ra)iscripte):> acceperunt memorati <:venditores|reg|benditores:> et secum sustulerunt [coramque] [signat] 
+
+    13.- oribus <:nihil|reg|nichil:> <:quaesiverunt|reg|quesibi:> <:ex|reg|hex:> <:eodem|reg|eode:> pretio rei <:suprascriptae|reg|sspiscripte:> quiquam <:amplius|reg|anplius:> deberi s[ibi res]
+
+    14.- pondiderunt  \a [pridi ]ẹ ạntequạṃ venderẹṇṭ (h(abuerunt)) (t(enuerunt)) (p(ossederunt)) iuris eorum omnia fuerunt/ ẹṭ <:ex|reg|ḥex:> <:hac|reg|ac:> die in nomine <:emptorum|reg|emtoru:> <:suorum|reg|suoru:> transtulerunt ut abeant ten
+
+    15.- eant poṣṣiḍẹạṇṭ utantur fruantur ipsi <:heredesve|reg|eredesbe:> <:eorum|reg|eoru:> in <:perpetuum|reg|perpetu:> et si quis de memo
+
+    16.- ratam rem [cum omni] iure ad se pertinenti de quo agitur mentione <:quaestione|reg|questione:> facere 
+
+    17. <:voluerit|reg|boluerit:> suique iuri <:probaverit|reg|probaberit:> <:tunc|reg|dunc:> vinci <:coeperit|reg|queperit:> <:tunc|reg|thunc:> dabit tantum pretium et 
+
+    18. alterum tantum <:vel|reg|bel:> quanti ea res eo <:tempore|reg|tenpore:> <:valuerit|reg|baluerit:> pro ea <:victe|reg|bicte:> rei recte dari sine 
+
+    19. dolo malo dolus malus abest aberit afuturumque erit <:stipulatus|reg|istipulatus:> Cresconius et Cres
+
+    20.- conia iugalis eius <:emptores|reg|emtores:> <:spopondiderunt|reg|ispopondiderunt:> Quoduuldeus et Restitutus filius eius 
+
+    21. et Donata iugalis eius <:venditores|reg|benditores:> <:actum|reg|hactum:> Tuḷẹṭianos anno et die <:suprascriptis|reg|(ss(u)p(rascriptis)):> ego <:Quoduul22.- tdeus|reg|q̣ụọḍuul22.- ḍ[eu]ṣ:> [Re]stitutus ac <:suprascripta|reg|(issup(r)ass(cripta)):> uxor eius <:vendimus|reg|ḅẹṇḍịmus:> ẹṭ omnem pretium accepi
+
+    23.- [mus] [et] <:subscripsimus|reg|subiscripsimus:> sigṇụm [X] <:Quoduultdeus|reg|q̣ụodbuldeu[s]:> eg̣o <:Innulus|reg|ịṇụḷus:> ad hunc 
+
+    24. [instrumentum in]terfui eg̣ọ P̣a[ulinianus petitus a] Q̣ụịṇṭịano qui litteras nescit 
+
+    25. sigṇụm facien[te] ṣịg̣num X Quinṭịạṇus ẹgo Luc̣ịạnus hoc ịnsṭṛụṃe[ntum scripsi] 
+
+    26. et <:subscripsi|reg|subiscripsi:>. 
+=>=D>
+<D=.palimpsest<=
+    27. tunc dabit 
+=>=D>

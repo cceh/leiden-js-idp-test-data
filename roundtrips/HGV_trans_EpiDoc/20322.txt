@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              Publius Petronius Celer, discharged soldier, now for the first time residing, declared to have been placed on the list by Quintus Rammius Martialis in the first year of Hadrianus the lord.
+            =>
+         =T>
+      

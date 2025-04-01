@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘The 8th year of Antoninus and Verus the lords Augusti Armenici Medici Parthici Maximi, the 20th
+of the month Tubi, at Theadelphia in the division of Themistes of the Arsinoïte nome. Melanas son
+of Acusilaus son of Sotas, of the quarter of Lysanias' District, aged about 50, having a scar on his right shin, and his son Pasion, aged about 25, with no distinguishing mark, both acknowledge to Sarapion son of Epiodorus, ex-agoranomus and exegetes-elect, that they, the acknowledging parties, have received from him a loan of 48 drachmae of silver, bearing interest, which they will repay in the month Pauni of the present year without delay, apart from other sums which they owe.’
+
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((24))
+               =>
+            =D>
+         =T>
+      

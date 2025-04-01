@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              ((2))I hereby register in accordance with the decree the half-share belonging to me at the present date at the metropolis in the quarter of the Square of Sarapis ... of a house and yard and other fixtures and entrances and exits, which share has devolved upon me from my father Heras son of Heras and Tnepheros, of the same city, who died before the registration of the 9th year of Domitian, leaving me his only son and heir. 
+              /*Date and signature of Heras written for him by Amoitas.*/
+            =>
+         =T>
+      

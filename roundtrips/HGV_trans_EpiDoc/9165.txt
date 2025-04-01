@@ -1,0 +1,20 @@
+
+         <T=.de<=
+            ((1))An Ammonios, den <Strategen=strategos> des 
+            Hêrakleidês-Bezirks des Arsinoïtês, und Harpokratiôn alias Hierax, den 
+            <Königlichen Schreiber=basilikosgrammateus> desselben Bezirks, und 
+            Ptolemaios, den <Dorfschreiber=komogrammateus> des Dorfes Karanis, 
+            und die <laographoi~grc-Latn=laographos> [desselben] 
+            <:Dorfes|BGU_DDbDP:BL X, S. 14|:> 
+            ((6))<:von|BGU_DDbDP:BL X, S. 14|:> – – –
+        =>=T>
+         <T=.en<=
+            ((1))To Ammonios, <strategos~grc-Latn=strategos> of the 
+            Arsinoite nome, Herakleides division and Harpokration alias Hierax, 
+            <royal scribe=basilikosgrammateus> of the same division and 
+            Ptolemaios, <village scribe=komogrammateus> of the village of 
+            Karanis and to the <laographoi~grc-Latn=laographos> of [the same] 
+            <:village|BGU_DDbDP:BL X 14|:>
+            (((6)))<:from|BGU_DDbDP:BL X 14|:> ...
+        =>=T>
+      

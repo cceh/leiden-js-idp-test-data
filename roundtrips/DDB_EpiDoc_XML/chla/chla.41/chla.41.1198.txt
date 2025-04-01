@@ -1,0 +1,50 @@
+<S=.la<=
+    1. ~|[.?]ν[.?] 
+
+    2. [.?] πρὸ τε̣[σσάρων Νονῶν Μαρτίων] 
+
+    3. [.?].1ιμος <:γεωμέτ[ρης]|reg|γεομέτ̣[ρης]:>[ τοῦ] 
+
+    4. (|[λαμπρ]|)[ ἡγεμόνος Α]ἰγύπτου Τίτ[ῳ (Φλα(υίῳ))] 
+
+    5. [Οὐαλεριάνῳ εὐθη]νιά[ρ]χ̣[ῃ τ]ῆ[ς Ὀξυ]
+
+    6.- ρ[υγχ]ιτῶν̣ πόλεως χαί[ρειν] 
+
+    7. ὑπείληφα παρά σου ἄρτους 
+
+    8. ἐξοδιασμὸν κομιτάτου τοῦ [λαμ]
+
+    9.- προτάτου ἡγεμόνος ἡμῶν ἄρ
+
+    10.- τους <:δισχιλίους|reg|δισχειλείους:> ὀκτακοσίους 
+
+    11. τεσσεράκονταένα <#=2841#> ὧν καὶ <:τι
+
+    12.- μὴν|reg|τει12.- μὴν:> ἀπέδωκα εἰς ἕνα <#=1#> ἄρτον 
+
+    13. ὀβολὸν ἕνα <#=1#> <:πλήρη|reg|πλήρης:> 
+
+    14. καὶ ὁμ[ο]ίως ἄλλους ἄρτους
+
+    15. τριακοσίους <#=300#>, ὧν καὶ <:τι
+
+    16.- μὴν|reg|τει12.- μὴν:> ἔδωκα ὡρισμένην.|~grc 
+
+    17. $m2 (Imp(eratore)) (d(omino)) (n(ostro)) Antonino III et Comaszone II <:consulibus|reg|cos:> 
+
+    18. IIII Nonas Martias Valerius Valentinus agri
+
+    19.- mensor <:praefecti Aegypti|reg|prefecti egypti:> susc̣[epi] vinum 
+
+    20. sextaria <:castrensia sescenta|reg|kastresia sexcenta:> qu[ad]ragin
+
+    21.- ta Tito Flavio <:eutheniarcha|reg|eutẹṇịarca:> 
+
+    22. [O]xsoricito poleis qui.1i.1 et pretium 
+
+    23. [dedi] in <:sextarium castrense unum|reg|sextario kastrense uno:> o
+
+    24.- [b]oḷọṣ quaternos plenos. actum 
+
+    25. [.3] et <:consulibus|reg|cos:> (s(upra)s(criptis)) =>

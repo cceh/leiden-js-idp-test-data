@@ -1,0 +1,39 @@
+
+         <T=.en
+            <D=.1 
+               <=
+                  ((30)) ‘… in order that there may be nominated and approved suitable persons to draw up these contracts according to the native law. The nomination is to be made by the epistatae of the temples
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((34))  and by the high-priests and the laocritae. In order that men may not be required to pay more than the proper sum, you should fix a reasonable fee for each contract. You will do well, therefore, to consult with the epistates, the chief of police, the oeconomus and royal scribe, and to send for the temple epistatae, the high priests and laocritae of the northern area, and to get from them a list of men suitable to draw up contracts, and to…. Pay particular attention to taking from them a declaration on oath by the king that they will not exact higher fees on any pretext whatever nor will they authorize any other to make extortions consequent on this tariff whether for benefit of the treasury or in any other way. If you learn of any who have acted so, you are to inform us at once. Write to us also of the steps you take, and subjoin immediately the names of those nominated according to the law. 
+               =>
+            =D>
+            <D=.2,ms 
+               <=
+                  ((65))
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((65)) In order that private individuals shall not be required to pay more than the fixed fee ….’
+               =>
+            =D>
+            <D=.3 
+               <=
+                  ((66))
+               =>
+            =D>
+            <D=.Fr1 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.Fr2 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

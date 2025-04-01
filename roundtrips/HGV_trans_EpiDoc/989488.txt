@@ -1,0 +1,18 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) Harmiysis grüßt seinen werten Paapis und wünscht ihm stete Gesundheit. (((4))) Wisse, dass ich eine so große Menge Gemüse erzielt habe. 
+Wegen des Hemikadion Öl: Du hast es mir nicht gegeben. Bitte biete Gewährleistung, dass du es lieferst. 
+(((12))) Was das Öl betrifft: Im Moment habe ich keine Kamele gefunden, damit ich sie dir nach Nesmeimis schicke, 
+sondern sie laufen fort nach Oxyrhyncha. Wenn du eine Möglichkeit findest, dann schick’ es mir! Leb’ wohl. 
+(((20))) Im 2. Jahr von Tiberius Caesar, am 6. Pharmouthi.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((22)) Abzugeben an Paapis.    /*Translation: B. Breuer, P.Würzb. 2 39*/
+               =>
+            =D>
+         =T>
+      

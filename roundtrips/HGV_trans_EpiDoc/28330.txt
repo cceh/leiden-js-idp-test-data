@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              Account of 400 drachmae. To the priests 60 dr., to Nilus 20 dr., for a chair 20 dr., grooms .. dr., a herald .. dr., the master of the games .. dr., Horion .. dr., Severus .. dr., Bellarinus .. dr., umpires .. dr., a pair of pancratiasts .. dr., boxers armed with the ball .. dr., another pair of pancratiasts .. dr., to Cophus the boxer .. dr., guards of the theatre .. dr, sprinklers .. dr., ... conjurer .. dr., flute-player .. dr., temple-slaves .. dr, ... an actor ... dr., a Homeric reciter ... dr.
+            =>
+         =T>
+      

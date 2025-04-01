@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              To Eutychides and Theon, topogrammateis and komogrammateis, from Horion, son of Petosiris, priest of Isis, the most great goddess, of the temple called that of the Two Brothers situated by the Serapeum at Oxyrhynchus in Myrobalanus quarter. The inhabitants of the house, which belongs to me and my wife Tasis and to Taurius, son of Harbichis, and to Papontôs, son of Nechthosiris, and to Thaëchmere (?), in the aforesaid (temple) of the Two Brothers, are as follows: ...
+            =>
+         =T>
+      

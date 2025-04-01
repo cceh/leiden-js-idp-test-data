@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              In the consulship of Flavius Eucherius and Syagrius the most illustrious, Pauni 15. Aurelius Plutarchus, son of Psenamounis and Ted[.]me, of the village of Phoboou in the 5th pagus of the Oxyrhynchite nome, to Aurelius ... us son of Heraclas, of the said city, dyer, greeting. Whereas owing to my persuasion you have drawn up an agreement with Philonicus son of Besammon, of the said city, for the repayment of four thousand two hundred myriads of denarii of silver which have been lent to him by you on account of extra payments in accordance with the contracts of ... made by me, in order that you may have security from me until the repayment of this sum I acknowledge that I owe and myself have the said four thousand two hundred myriads of denarii of silver, total 42,000,000 denarii, on the condition that I restore them to you on the day specified in the agreement made by you with the said Philonicus, that is the first day of the month Mesore of the present 14th = the 6th = the 2nd year and the current 9th indiction, and that I shall recover from him the agreement for this sum made by you with him and shall hand it over to you for annulment; and you shall have the right of execution upon me and all my property. This agreement, of which one copy has been made, is valid, and in answer to the question I have given my consent. /*Signature of Aurelius Plutarchus.*/
+            =>
+         =T>
+      

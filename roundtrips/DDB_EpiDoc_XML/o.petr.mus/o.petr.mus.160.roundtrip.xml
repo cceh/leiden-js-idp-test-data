@@ -1,0 +1,16 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><app type="editorial"><lem><expan><unclear>Π</unclear>ετε<unclear>ν</unclear>εφ<unclear>ώι</unclear>σιο<ex>ς</ex></expan> Πετεν<gap reason="lost" quantity="5" unit="character" precision="low"/></lem><rdg><expan><gap reason="lost" quantity="2" unit="character"/>πε<gap reason="illegible" quantity="2" unit="character"/>ε<unclear>ψ</unclear><gap reason="illegible" quantity="2" unit="character"/>ισι<unclear>ο</unclear><ex>  </ex></expan> <unclear>π</unclear>ρ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="5" unit="character"/></rdg></app>
+
+    <lb n="2"/><app type="editorial"><lem><choice><reg>Παᾶτι</reg><orig>Παᾶς</orig></choice></lem><rdg><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>ας</rdg></app> <choice><reg>Πακοῖβις</reg><orig>Πακοῖβις</orig></choice> χαίρει<unclear>ν</unclear> 
+
+    <lb n="3"/><choice><reg>ἔ<unclear>χ</unclear>ω</reg><orig><supplied reason="lost">ἔ</supplied><unclear>χ</unclear>ωι</orig></choice> παρὰ σοῦ ἐπὶ Βερενίκ<supplied reason="lost">ης</supplied> 
+
+    <lb n="4"/><supplied reason="lost">εἰ</supplied>ς τὸν <expan>λόγ<ex>ον</ex></expan> Ψε<unclear>ν</unclear>π<unclear>ν</unclear>οῦθις <expan><abbr>Φα<unclear>μ</unclear><supplied reason="lost">ί</supplied>
+
+    <lb n="5" break="no"/><supplied reason="lost">ν</supplied><unclear>ε</unclear>ω</abbr><ex>ς</ex></expan> Παρθενίου πυροῦ ἀρτάβα<supplied reason="lost">ς</supplied> 
+
+    <lb n="6"/>δεκαὲξ <choice><reg>ἥμισυ</reg><orig>ἥμισους</orig></choice> <expan><ex>γίνονται</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="16">ιϛ</num> <num value="1/2">𐅵</num> <expan><ex>ἥμισυ</ex></expan>
+ 
+    <lb n="7"/>καὶ κύθρας ἓξ <num value="6"/> <app type="editorial"><lem><expan><ex>γίνονται</ex></expan> <expan>γό<ex>μοι</ex></expan> γ <expan><ex>ἔτους</ex></expan> <num value="17">ι<unclear>ζ</unclear></num></lem><rdg> <gap reason="illegible" quantity="4" unit="character"/>χ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost"><expan><ex>ἔτους</ex></expan></supplied> <gap reason="lost" quantity="2" unit="character"/></rdg></app> <app type="editorial"><lem>Τ<unclear>ι</unclear><supplied reason="lost">βε-</supplied>
+
+    <lb n="8"/><supplied reason="lost">ρί</supplied>ου</lem><rdg><lb n="8"/><unclear>Τιβερίου</unclear></rdg></app> Καί<unclear>σα</unclear>ρος Σε<unclear>βα</unclear><supplied reason="lost">στοῦ</supplied> </ab></div>

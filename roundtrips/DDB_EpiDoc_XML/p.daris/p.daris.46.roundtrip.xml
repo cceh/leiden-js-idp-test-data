@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><handShift new="m1"/><gap reason="ellipsis" quantity="7" unit="line"><desc>non transcribed</desc></gap>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><handShift new="m2"/><g type="check"/><hi rend="diaeresis">υ</hi>ἱὸς Θεόδωρος <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><g type="check"/><hi rend="diaeresis">υ</hi>ἱὸς Νεφερῶς <expan>Θωνίο<ex>υ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><g type="check"/><hi rend="diaeresis">υ</hi>ἱὸς Σερῆνος Εὐγενίο<supplied reason="lost">υ</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><g type="check"/><hi rend="diaeresis">υ</hi>ἱὸς Πάπησις Α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><g type="check"/><hi rend="diaeresis">υ</hi>ἱὸς <gap reason="illegible" quantity="3" unit="character"/>ρ<unclear>ι</unclear>ος Δου<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><g type="check"/><hi rend="diaeresis">υ</hi>ἱὸς Παῦλος Λε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+      </div>

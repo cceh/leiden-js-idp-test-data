@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘5th year of Caesar, Pharmouthi 2. At Karanis, Siseris (?) son of Para …, loan of 8 drachmas of silver, total 8 dr.
+‘Through Aphrodisios, also called Pnepheros, son of Chaleas: I … son of Acousileos, Persian of the epigone, have received the loan of 8 drachmas of coined silver at interest of … and I will repay in the month of Pachon of the present 5th year as is previously set down. I, Dorotheus son of Menander have written for him at his request, since he states that he is illiterate.
+‘5th year of Caesar, Isocrates’ note of loan.’
+            =>
+         =T>
+      

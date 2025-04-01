@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) To Theon alias -on, royal scribe of the Arsinoite (nome), division of Themistos, from Apollos son of E-, one of those from the village of Dionysias.
+               ((6)) The husband of my sister ..., Protas son of Heron grandson of Protas, mother ..., who, being over-age (and?) removed (?) from the poll-tax in the village of Philoteris of the same division,
+             ((15)) died in the month of Choiak of the present 2nd year of Imperator Caesar Traianus Hadrianus Augustus. Therefore I request that he may be listed in the list of the deceased.'
+             ((21)) To the village scribe: if it is really so, do what is appropriate.
+             ((24)) Year 2 of Hadrianus the lord, Choiak 15. ...
+                      /*Translation: N. Gonis, ZPE 208 (2018) 179*/
+            =>
+         =T>
+      

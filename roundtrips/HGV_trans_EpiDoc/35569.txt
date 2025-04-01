@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              Since the nurse of the lord Sophronius is owed rent by Pstheious son of Phutos who cultivated her land, allow no one to touch what is left at his threshing-floor or the green crops until she has received her rent in full, I have to direct this letter to you, and if I learn that any one has taken any thing of his, I shall demand from you personally all that is owed her by him. (Addressed) Deliver to John, assistant, from Eudaemon.
+            =>
+         =T>
+      

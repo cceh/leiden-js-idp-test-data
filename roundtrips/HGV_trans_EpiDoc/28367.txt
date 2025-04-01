@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Hatres to Heras his brother, greeting. In accordance with your instructions concerning Serenus the fuller who is working with Phileas, if you have need of him send a servant for him to-day, the 19th. Do not neglect this, as I am keeping him. I pray for your health and prosperity. (Addressed) Deliver to Heras.
+            =>
+         =T>
+      

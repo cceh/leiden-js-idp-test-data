@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) Im 25. Regierungsjahr des Marcus Aurelius
+((2)) Commodus Antoninus
+((3)) Augustus Pius. Es hat gearbeitet an den Deichen für das 25. Jahr
+((4)) (hand 2) vom 7.-11. Payni am Pholemis-Kanal von Narmuthis,
+((5)) Orseus, apator, Sohn der Tamiysis.
+            =>
+         =T>
+      

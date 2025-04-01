@@ -1,0 +1,7 @@
+
+            <T=.en
+                <=
+                    Of the dekania of … Pisais son of Ps- … Nemoni- … in the century of Bassus … of the legion of … ptolemaica … .
+                =>
+            =T>
+        

@@ -1,0 +1,34 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              Account of money received by me:
+              In payment for purchases 15 talents and 6 artabae.
+              In payment similarly to the bakeries 8 tal. and 3 art.
+              In payment for the donkeys 6 tal. and 10 art.
+              In payment for a sea-vessel, for charges 9 tal.
+              In payment for tow 2 tal.
+              Paid to Palladias for service 1 tal.
+              Price of two bundles when you were here 2 tal.
+              Expended by me for annona
+              The nurse of Palladias had for expenses 1 tal. of silver
+              I opened the wine-store and took out 51 jars of wine.
+              To Morus for expenses of the river-workmen 4 tal.
+              For alum 20 tal. 2,200 dr.
+              Price of a bundle to Anchisas 1 talent.
+              Price of Nonna’s shoes (?) 1,200 dr.
+              To you the owner I sent to Alexandria 8 tal.
+              For pledges 180 tal.
+              For interest of two months ..., for adaeratio 10 tal.
+              Phamenoth 2, to Morus the servant for expenses through Apia daughter of Tapilous 250 tal.
+              Price of uncoined silver on account of Apia 60 tal.
+              For the bakers for six months 49 tal.
+              For a short cloak and tunic 17 tal.
+              Phamenoth 2, Morus had 64 tal.
+              Necessity arising, I sent Morus to the village and he received from the sitologi 46 tal. of silver.
+              Since you went away I have bought 5 pounds of tow at the price for each pound of 1 tal. 2,000 dr. of silver.
+              In payment for ... I gave the current cash (?) and the ... on security amounting to 150 tal. of silver.
+              (Added at the top) And when you went to Alexandria you supplied me with 34 pounds of unspun tow. There was sold 1 jar of wine of the supplies at 2tal. 2,000dr., and 1 1/2 lb. of tow were bought.
+            =>
+         =T>
+      

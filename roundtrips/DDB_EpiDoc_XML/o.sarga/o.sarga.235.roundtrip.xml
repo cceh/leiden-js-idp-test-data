@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="rho-cross"/> Ἁθὼρ <num value="27"><hi rend="supraline">κζ</hi></num> <foreign xml:lang="cop"><app type="alternative"><lem><unclear>ⲟ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ⲧⲁⲧ</unclear>ⲏ</lem><rdg><unclear>ⲉ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ⲧⲁⲧ</unclear>ⲏ</rdg></app></foreign>
+
+    <lb n="2"/><expan>οἴ<ex>νου</ex></expan> <expan>μικ<ex>ρὰ</ex></expan> <g type="middot"/>  <num value="60"><hi rend="supraline">ξ</hi></num> 
+
+    <lb n="3"/><milestone rend="horizontal-rule" unit="undefined"/> 
+
+    <lb n="3"/><foreign xml:lang="cop">ⲡⲓⲟⲙ</foreign> <g type="dipunct"/>  <expan>μεγ<ex>άλα</ex></expan> <num value="66"><hi rend="supraline">ξϛ</hi></num> 
+
+    <lb n="4"/><expan>μικ<ex>ρὰ</ex></expan> <space extent="unknown" unit="character"/> 
+
+    <lb n="5"/>  <foreign xml:lang="cop"><hi rend="diaeresis">ⲓ</hi>ⲱϩⲁⲛⲏⲥ</foreign> <choice><reg><expan>καμη<ex>λίτης</ex></expan></reg><orig><expan>καμα<ex>λίτης</ex></expan></orig></choice> </ab></div>

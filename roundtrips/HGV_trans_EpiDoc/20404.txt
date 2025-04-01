@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              ((54))The Emperor Caesar Lucius Septimius Severus Pius Pertinax Augustus Arabicus Adiabenicus Parthicus Maximus and the Emperor Caesar Marcus Aurelius Antoninus Pius Augustus to Aurelius Horion, greeting. We approve of this benefaction also which you request leave to confer upon the villages of the Oxyrhynchite nome, giving (to different persons) a succession in the enjoyment of it(?). The same rule shall be observed in this case also, and, as you wish, no change shall be introduced which would divert the gift to any other purpose.
+              The request is as follows :—
+              To the most gracious Emperors, Severus and Antoninus, the saviours and benefactors of the world, Aurelius Horion, formerly strategus and archidicastes of the most illustrious city of Alexandria, greeting. Certain villages in the Oxyrhynchite nome, most humane Emperors, in which both I and my sons own estates, are utterly exhausted by the burdensome demands of the annual liturgies required both for the Treasury and the protection of the districts, and there is a danger of their being ruined as far as the Treasury is concerned and leaving our(?) land uncultivated. Accordingly having before me a both humane and useful object I wish, in order that they may recover, to make a trifling benefaction to each one for the purchase of hay, the revenue of which shall be devoted to the maintenance and support of those who are annually subject to the liturgies on condition that....
+            =>
+         =T>
+      

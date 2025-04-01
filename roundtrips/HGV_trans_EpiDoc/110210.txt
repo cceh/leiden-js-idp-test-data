@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) Im 2. Regierungsjahr des Imperator Caesar
+((2)) Marcus Aurelius Severus Alexander
+((3)) Pius Felix Augustus. Es hat gearbeitet an den Deichen für das 2. Jahr
+((4)) (hand 2) (im Monat) Mecheir (am) Kanal von Magdola, für Narmuthis,
+((5)) Apollon, Sohn des Ammonas.
+            =>
+         =T>
+      

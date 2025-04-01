@@ -1,0 +1,7 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><app type="alternative"><lem><unclear>ε</unclear><gap reason="illegible" quantity="5" unit="character"/></lem><rdg>ἐρίου <certainty match=".." locus="value"/></rdg></app>
+<lb n="2"/><num value="1">α</num> <num value="158">ρνη</num>
+<lb n="3"/><num value="2">β</num> <expan>λί<ex>τραι</ex></expan> <num value="23">κγ</num>
+</ab>
+      </div>

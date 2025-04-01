@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><supplied reason="lost">ἔτους </supplied><num value="1"><supplied reason="lost">πρ</supplied><unclear>ώ</unclear>του</num> Αὐτοκράτορος 
+
+    <lb n="2"/><supplied reason="lost">Καίσαρο</supplied>ς Δομιτιανοῦ Σεβα<unclear>σ</unclear>
+
+    <lb n="3" break="no"/><supplied reason="lost">τοῦ</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/> <expan><unclear>με</unclear><ex>τὰ λόγον</ex></expan> <num value="3"><hi rend="supraline">γ</hi></num> <expan>διαγ<unclear>έ</unclear>γ<ex>ραφεν</ex></expan> δ<supplied reason="lost">ιὰ</supplied> <app type="alternative"><lem><abbr><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ω</unclear></abbr></lem><rdg><expan><supplied reason="lost">Ἥ</supplied><unclear>ρω</unclear><ex>νος</ex></expan></rdg></app>
+
+    <lb n="4"/><gap reason="lost" quantity="7" unit="character" precision="low"/> <choice><reg><abbr>χειριστ</abbr></reg><orig><abbr>χιριστ</abbr></orig></choice> <unclear>Ν</unclear>εωκῆς <abbr><unclear>Η</unclear><gap reason="lost" quantity="3" unit="character" precision="low"/><unclear>μ</unclear></abbr> 
+
+    <lb n="5"/><supplied reason="lost">τοῦ</supplied> <abbr><gap reason="lost" quantity="3" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/>μ</abbr> <expan><unclear>μητ</unclear><ex>ρὸς</ex></expan> <choice><reg>Τανούριος</reg><orig>Τανοῦρις</orig></choice> <expan>συν<unclear>τ</unclear><ex>αξίμου</ex></expan>
+
+    <lb n="6"/><supplied reason="lost">τοῦ αὐτο</supplied>ῦ <num value="1">α</num> <expan><ex>ἔτους</ex></expan> <expan>Βερνικ<ex>ίδος</ex></expan> <expan>Θε<unclear>σμο</unclear>φ<supplied reason="lost">ό<ex>ρου</ex></supplied></expan> 
+
+    <lb n="7"/><supplied reason="lost">δραχμὰς</supplied> <num value="6">ἓξ</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num> <expan><ex>γίνονται</ex></expan> δραχμαὶ <num value="6">ϛ</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num> </ab></div>

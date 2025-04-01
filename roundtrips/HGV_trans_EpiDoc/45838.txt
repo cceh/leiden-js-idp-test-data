@@ -1,0 +1,38 @@
+
+            <T=.en
+                <D=.1 
+                   <=
+                       ((1)) I, Stotoétis son of Panephrumis and Tanephrumis, acknowledge that I have sold to 
+Apunchis son of Panephrumis and Tanephrumis two shares belonging to me out of five shares 
+of a two-storied house and court and two shares out of four shares of a fallen house, 
+all common and undivided, and of all appurtenances, in Socnopaei Nesus in the division of Heraclides 
+... and a twelfth share of a mill.., Adjacent to the whole first house are on the south 
+...a vacant space , . .,on the north a public street, on the west its common entrance and exit, 
+on the east the house of Satabous, while to the second house are adjacent on the south the house of Apunchis, 
+on the north the house of Apunchis and his brothers, on the west the house of Stotoétis son of Horus, 
+on the east a public street ; and I will guarantee the sale with every guarantee as aforesaid. Herieus
+son of Herieus wrote on his behalf, as he was illiterate.
+(((8))) Date, demotic signature of Apunchis and docket of the record-office.
+                   => 
+                =D>
+                <D=.2 
+                    <=
+                        ((1)) The 2nd year of Tiberius Claudius Caesar Augustus Germanicus Imperator, 
+16th of the month Epeiph, at Socnopaei Nesus in the division of Heraclides of the Arsinoitenome. 
+Apunchis son of Panephrummis, aged about 25 years, with a scar on the right forearm, 
+has lent to Stotoétis son of Panephrummis, a Persian of the Epigone, aged about 35 years, 
+with a scar on the middle of the forehead, ((9)) (who acknowledges) that he has in loan from 
+him the capital sum of 34 drachmae in coined silver currency and that he has received it 
+from him forthwith from hand to hand out of the house at the interest of one drachma 
+per mina per month, which sum the borrower shall repay to Apunchis in the month Epeiph 
+of the coming third year of Tiberius Claudius Caesar Augustus Germanicus Imperator. 
+(((17))) If he fails to repay the loan and the interest as aforesaid, Apunchis shall have the right of execution 
+upon the borrower and upon all his property, as if in accordance with a legal decision. 
+The subscriber of the borrower is Herieus son of Herieus, aged about 35 years, 
+with a scar on the left eyebrow. (The other) subscriber is the aforesaid Apunchis.
+(((25)))Subscriptions of Stotoétis and Apunchis, date and docket of the record-office.
+/*Translation: A.S. Hunt, P.Ryl. 2 160 C*/
+                    =>
+                =D>
+            =T>
+        

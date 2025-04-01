@@ -1,0 +1,17 @@
+<S=.la<=
+    1. Mevio Honoratiano (praef(ecto)) [(Aeg(ypti)) ab Aurelia Diodora rogo domine des mihi]
+
+    2. tutorem auctorem e lege Ị[ulia et Titia et ex (s(enatus)) (c(onsulto)) Aurelium Theonem (dat(um))]
+
+    3. xii (Kal(endas)) *middot* (Decemb(ris)) *middot* (dom(ino)) *middot* (n(ostro)) *middot* V[ero Maximino (Aug(usto)) et Pupienio Africano (co(n)s(ulibus))]
+
+    4. ~|$m2 Διοδώρα <:ἐπιδέδωκα|reg|ἐπιδόδωκα:> τὰ βιβλ[ίδια ταῦτα αἰτουμένη ὅπως ἐπιγραφῆ κύριος]
+
+    5. μου Αὐρήλιος Θέων ὁ καὶ Ἀσκληπιὸ[ς] [.5]
+
+    6. Ἰ[σιδώρ]ου ἔγραψα ὑπὲρ αὐτῆ[ς μὴ εἰδυίης γράμματα. Αὐρήλιος Θέων ὁ καὶ Ἀσκλη]
+
+    7.- [πιὸς εὐδοκ]ῶ τῇ αἰτηση ((ἔτους)) <#γ=3#> Αὐ[τοκράτορος Καίσαρος Μαξιμίνου Σεβαστοῦ Ἁθὺρ <#κδ=24#>.]|~grc 
+
+    8. $m1 [Aurelium Theo]nem ut [desi]deras [e lege Iulia et Titia et ex (S(enatus)) (C(onsulto)) tutorem do. Legi (?)]
+=>

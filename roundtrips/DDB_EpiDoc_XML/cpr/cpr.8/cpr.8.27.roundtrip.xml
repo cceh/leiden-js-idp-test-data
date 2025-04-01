@@ -1,0 +1,55 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ὑπ</supplied>ὲρ 
+
+    <lb n="2"/>γενήματος <num value="12">ιβ</num> <supplied reason="lost">ἰ</supplied>νδικτίωνος 
+
+    <lb n="3"/><expan>Ἑρμοδώρ<ex>ῳ</ex></expan> <expan>ἀποδέκ<ex>τῃ</ex></expan> χρυσ<unclear>ο</unclear>ῦ 
+
+    <lb n="4"/><expan>κερ<ex>ατίων</ex></expan> <num value="89">πθ</num> ἐκ <expan><ex>δηναρίων</ex></expan> <num value="146">ρμϛ</num> <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="8">η</num> <expan><ex>δηνάρια</ex></expan> <num value="994">ϡϙδ</num> 
+
+    <lb n="5"/><subst><add place="inline">ἐξ</add><del rend="corrected">αξ</del></subst> ὧν <expan>ὑπολογ<ex>εῖται</ex></expan> <expan>ὑ<ex>πὲρ</ex></expan> <expan><ex>ἑκατοστῶν</ex></expan> <num value="1/100"/> <num value="6">ϛ</num> <num value="1/2">𐅵</num> <expan><ex>δηνάρια</ex></expan> <num value="845">ωμε</num> 
+
+    <lb n="6"/>τὰ <expan>λοιπ<ex>ὰ</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="8">η</num> <expan><ex>δηνάρια</ex></expan> <num value="149">ρμθ</num> 
+
+    <lb n="7"/>ἐκ <expan>πλ<ex>ήρους</ex></expan>. τὴν δὲ <expan>ἀποχ<ex>ὴν</ex></expan> ταύτην <expan>δέξ<ex>αι</ex></expan> 
+
+    <lb n="8"/>σοι μὲν <expan><ex>δισσήν</ex></expan>, τῷ δὲ <expan>ἀποδέκ<ex>τῃ</ex></expan> τὴν <expan>λοιπ<ex>ὴν</ex></expan> 
+
+    <lb n="9"/><expan><ex>δισσὴν</ex></expan> καὶ <expan>ἐπ<ex>ερωτηθεὶς</ex></expan> <expan>ὡμολ<ex>όγησα</ex></expan>.  ὑπατείας 
+
+    <lb n="10"/>τῆς <expan>προκ<ex>ειμένης</ex></expan> Παῦνι <num value="29">κθ</num>. 
+
+    <lb n="11"/><handShift new="m2"/>ἠρίθμημαι ὡς <choice><reg>πρόκειται</reg><orig>πρόκιται</orig></choice> 
+</ab></div><div n="2" type="textpart"><ab>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="12"/><handShift new="m1"/> <gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="13"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἀπ</supplied>οδεκ<ex>τ  </ex></expan> <expan>τιμ<ex>ῆς</ex></expan> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>
+<div n="2,ms" type="textpart"><ab>
+    <lb n="14"/><gap reason="illegible" quantity="2" unit="character"/> 
+</ab></div>
+<div n="2" type="textpart"><ab>
+    <lb n="14"/>ὑπὲρ γενήματος <num value="12">ιβ</num> <expan>ἰνδικ<ex>τίωνος</ex></expan> 
+
+    <lb n="15"/>Ἑρμοδώρῳ <expan>ἀποδέκ<ex>τῃ</ex></expan> χρυσοῦ 
+
+    <lb n="16"/><expan>κερ<ex>ατίων</ex></expan> <num value="89">πθ</num> ἐκ <expan><ex>δηναρίων</ex></expan> <num value="146">ρμϛ</num> ἀργυρίο<unclear>υ</unclear> 
+
+    <lb n="17"/><expan><ex>τάλαντα</ex></expan> <num value="8">η</num> <expan><ex>δηνάρια</ex></expan> <num value="900">ϡ</num><add place="above"><num value="94">ϙδ</num></add> ἐξ ὧν <expan>ὑ<ex>πὲρ</ex></expan> <expan><ex>ἑκατοστῶν</ex></expan> <num value="1/100"/> <num value="6">ϛ</num> <num value="1/2">𐅵</num> 
+
+    <lb n="18"/><expan><ex>δηνάρια</ex></expan> <num value="845">ωμε</num> τὰ <expan>λοιπ<ex>ὰ</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="8">η</num> <expan><ex>δηνάρια</ex></expan> <num value="149">ρμθ</num> 
+
+    <lb n="19"/>ἐκ <expan>πλ<ex>ήρους</ex></expan>. τὴν δὲ <expan>ἀπο<ex>χὴν</ex></expan> ταύτην 
+
+    <lb n="20"/><expan>δέξ<ex>αι</ex></expan> σοι μὲν <expan><ex>δισσήν</ex></expan>, τῷ δὲ <expan>ἀποδέκ<ex>τῃ</ex></expan> 
+
+    <lb n="21"/>τὴν <expan>λοιπ<ex>ὴν</ex></expan> <expan><ex>δισσὴν</ex></expan> καὶ <expan>ἐπ<ex>ερωτηθεὶς</ex></expan> <expan>ὡμολόγ<ex>ησα</ex></expan>. 
+
+    <lb n="22"/>ὑπατείας τῆς <expan>προκ<ex>ειμένης</ex></expan> Παῦνι <num value="29">κθ</num>. 
+</ab></div></div>

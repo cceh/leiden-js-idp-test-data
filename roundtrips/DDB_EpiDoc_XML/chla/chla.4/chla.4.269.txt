@@ -1,0 +1,30 @@
+<S=.la<=
+    1. (C(aio)) Ualerio Firm[o (praef(ecto)) (Aeg(ypti))] 
+
+    2. ab <:Aurelia|reg|aureliae:> Ammo[nario]. 
+
+    3. rogo, domine, des mi[hi] 
+
+    4. auctorem (Aurel(ium)) P̣[lutammonem] 
+
+    5. ẹ ḷege Iulia Titia eṭ ẹ (ṣ(enatus?)) (c̣(onsulto?)). 
+
+    6. (dat(um)) (d(ominis)) (n(ostris)) Philippo (Aug(usto)) ii [et] 
+
+    7. Philippo Caesari[s] (c̣[o(n)s(ulibus)]).
+
+    8. ~|$m2 [Α]ὐρηλία Ἀμμωνάρι̣ον [ἐπιδέδωκα.]
+
+    9. $m3 <:<:([Α]ὐρήλι(ο))ς|alt|([Α]ὐρήλιο(ς)):>=Ch.L.A. 48,p.41|ed|<:Αὐρήλιος|reg|[Α]ὐρηλια:>:> (Πλουτάμμ̣[ω(ν)])[ εὐδοκῶ τῇ] 
+
+    10. <:αἰτήσει|reg|[αἰτ]ήσι:>.
+
+    11. $m1(?)  ((ἔτους)) <#δ=4#> Τῦβι <#ι=10#>|~grc .
+
+    12. $m4 quo ne ab [iusto tutore tutela] 
+
+    13. abeat Pl[utammonem] 
+
+    14. e (leg(e)) (Iul(ia)) et [Titia et ex (s(enatus)) (c(onsulto)) tutorem] 
+
+    15. do. $m5 leg̣i. =>

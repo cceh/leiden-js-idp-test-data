@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/>κρέως <choice><reg><app type="alternative"><lem>δαρτοῦ</lem><rdg>δερτοῦ</rdg></app></reg><orig>ταρτοῦ</orig></choice>
+
+    <lb n="2"/>Ἡρακλείδης <expan>λί<ex>τραι</ex></expan> <num value="4">δ</num>
+
+    <lb n="3"/>Διογένης <expan>λί<ex>τραι</ex></expan> <num value="6">ϛ</num>
+
+    <lb n="4"/>Πανπρέπις <space extent="unknown" unit="character"/>
+
+    <lb n="5"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><unclear>δ</unclear>ης <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/>Ταυρῖνος
+
+    <lb n="2"/>Σιλβανός
+
+    <lb n="3"/>Παῦλος
+
+    <lb n="4"/>Σιλβανὸς <expan>ὀπτί<ex>ων</ex></expan>
+
+    <lb n="5"/>Μακάριος
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/> <note xml:lang="en">?</note></ab></div></div>

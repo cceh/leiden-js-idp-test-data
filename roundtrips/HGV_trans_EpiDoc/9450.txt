@@ -1,0 +1,47 @@
+
+         <T=.de<=
+            ((1))An Isidô[ros, den 
+            <Königlichen] Schreiber=basilikosgrammateus> des 
+            Hêrakleidês-Bezirks des Arsinoïtês,
+            (((3)))von Sôtelês, Sohn des Iôsêpos, des Sohnes des Theomnas, 
+            und der Mutter Erôtion, aus dem Dorf [A]pollônias.
+            (((6)))Mein Sohn I[ôs]êpos, Sohn der Sarra, minderjährig, noch nicht 
+            ausgeschieden (aus der Gruppe der Minderjährigen und überführt) zur 
+            <Kopfsteuer=laographia>, ist 
+            gestorben im Monat Tybi des gegenwärtigen vierten Jahres des Traianus Caesar, des 
+            Herren. ((11))Hiermit bitte ich darum, daß er 
+            <unter die Verstorbenen=taxistonteteleutekoton> 
+            aufgenommen wird.
+            (((13)))(2. Hand) An den 
+            <Dorfschreiber=komogrammateus>. Wenn er gestorben ist, dann 
+            <:registriere|BGU:BL VIII, S. 40|:> (ihn) und 
+            <:gib|BGU:BL IX, S. 25|:> (darüber) eine eidliche handschriftliche 
+            Erklärung ab, wie üblich.
+            (((14)))Im 4. Jahr des Imperator Caesar Nerva Traian[us] Augustus Germanicus 
+            am <:16.|BGU_DDbDP:BGU IV 1068; Chrest. Wilck. 62; CPJ II 427|:> 
+            Mecheir.
+            (((18)))(3. Hand) Ich, der oben genannte Sôtelês, 
+            Sohn des Iôsêpos, schwöre beim Imperator Caesa[r <:Nerva] Traian[us Optimus] 
+                Augustus [Germanicus]|BGU_DDbDP:PACKMANN, ZPE 89, 1991, S. 101 f.|:> 
+            ...
+        =>=T>
+         <T=.en<=
+            ((1))To Isido[ros], <royal scribe=basilikosgrammateus> 
+            of the Arsinoite nome, Themistos division,
+            (((3)))from Soteles, son of Josepos, the son of Theomnas, mother Erotion, 
+            from the village of Apollonias.
+            (((6)))My son J[os]epos, mother Sarra, a minor, who had not yet ceased (to 
+            be a minor) with respect to the <poll-tax=laographia>, died in the month of Tybi of the present 
+            fourth year of Traianus Caesar, the lord. ((11))Therefore I request that he is 
+            included amongst <those, who have died=taxistonteteleutekoton>.
+            (((13)))(m. 2) To the 
+            <village scribe=komogrammateus>. If he died, 
+            <:register|BGU:BL VIII 40|:> him and <:make a report with a 
+                written sworn statement|BGU:BL IX 25|:>, as usual.
+            (((15)))Year 4 of Imperator Caesar Nerva Traianus Augustus Germanicus, 
+            Mecheir <:16|BGU_DDbDP:BGU IV 1068; Chrest. Wilck. 62; CPJ II 427|:>.
+            (((18)))(m. 3) I, Soteles, son of Josepos, the above 
+            mentioned, swear by Imperator Caesa[r <:Nerva] Traian[us Optimus] Augustus 
+                [Germanicus]|BGU_DDbDP:Packmann, ZPE 89, 1991, 101-102|:> ...
+        =>=T>
+      

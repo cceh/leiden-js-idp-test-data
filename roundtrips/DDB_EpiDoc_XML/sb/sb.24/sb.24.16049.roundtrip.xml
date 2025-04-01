@@ -1,0 +1,42 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="00"/><num value="24">κδ</num>
+</ab></div><div n="2" type="textpart"><ab>
+
+    <lb n="1"/><supplied reason="lost" cert="low"><num value="5">ε</num> </supplied> <expan><ex cert="low">ἔτους</ex></expan> τῶν <unclear>κυ</unclear>ρί<unclear>ω</unclear><supplied reason="lost">ν Οὐαλεριανοῦ</supplied>
+
+    <lb n="2"/>καὶ Γαλλ<unclear>ιη</unclear>νοῦ <supplied reason="lost">καὶ Οὐαλεριανοῦ</supplied>
+
+    <lb n="3"/>Ἁθὺρ <num value="13">ιγ</num>. <choice><reg>λημμάτων</reg><orig><unclear>λ</unclear>ηματ</orig></choice> <num value="4"><unclear>δ</unclear></num> <expan><ex cert="low">ἔτους</ex></expan> <supplied reason="lost"><expan><ex>ὀκταδραχμίας</ex></expan> <expan>Α<ex>ὐρήλιος</ex></expan></supplied>
+
+    <lb n="4"/>Εὖτος Διδύμου <unclear>δι</unclear>ʼ <supplied reason="lost"><expan>Α<ex>ὐρηλίου</ex></expan> Διο</supplied>
+
+    <lb n="5" break="no"/>γένους <note xml:lang="en">?</note> <expan>δραχ<ex>μὰς</ex></expan> ὀκτώ, <supplied reason="lost"><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num>,</supplied>
+
+    <lb n="6"/><del rend="erasure"><expan>Φαρ<ex>μοῦθι</ex></expan> <num value="10">ι</num> <expan><unclear>λη</unclear><ex>μμάτων</ex></expan> <num value="5"><unclear>ε</unclear></num> <expan><ex cert="low">ἔτους</ex></expan> <expan><ex>ὀκταδραχμίας</ex></expan> <expan>δραχ<ex>μὰς</ex></expan> δώδεκα, <supplied reason="lost"><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num>. <expan>Α<ex>ὐρήλιος</ex></expan> <expan>Διονύ<ex>σιος</ex></expan> <expan>βουλ<ex>ευτὴς</ex></expan></supplied></del>
+
+    <lb n="7"/><del rend="erasure"><expan>δεκάπ<ex>ρωτος</ex></expan> <expan>σεσ<ex>ημείωμαι</ex></expan>.</del>
+
+    <lb n="8"/><num value="5">ε</num> <expan><ex>ἔτους</ex></expan> τῶν κυρίων Οὐαλ<supplied reason="lost">εριανοῦ</supplied>
+
+    <lb n="9"/>καὶ Γαλλιηνοῦ <unclear>κ</unclear><supplied reason="lost">αὶ Οὐαλεριανοῦ</supplied>
+
+    <lb n="10"/>Ἁθὺρ <num value="13">ιγ</num>. <expan><unclear>λη</unclear><ex>μμάτων</ex></expan> <num value="4">δ</num> <supplied reason="lost"><expan><ex>ἔτους</ex></expan> <expan>Α<ex>ὐρήλιος</ex></expan> Εὖτος</supplied>
+
+    <lb n="11"/>Δι<unclear>δύμου</unclear> <unclear>δι</unclear>ʼ <expan>Α<ex>ὐρηλίου</ex></expan> <unclear>Σιλ</unclear><supplied reason="lost">βανοῦ</supplied>
+
+    <lb n="12"/><expan>δραχ<ex>μὰς</ex></expan> δώδεκα, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <supplied reason="lost"><num value="12">ιβ</num>,</supplied>
+
+    <lb n="13"/>Τῦβι <num value="10">ι</num> ὁ αὐτὸς <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>δραχ<ex>μὰς</ex></expan></supplied>
+
+    <lb n="14"/>ὀκτώ, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> διʼ <expan>Α<ex>ὐρηλίου</ex></expan> Σι<unclear>λ</unclear><supplied reason="lost">βανοῦ,</supplied>
+
+    <lb n="15"/>Φαμενὼθ <num value="12">ιβ</num> ὁ αὐτὸς <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="16"/><expan>δραχ<ex>μὰς</ex></expan> <supplied reason="lost">δ</supplied>ώδεκα, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num>.
+
+    <lb n="17"/><handShift new="m2"/><expan>Φαρ<ex>μοῦθι</ex></expan> <num value="10">ι</num> <expan>λη<ex>μμάτων</ex></expan> <num value="5">ε</num> <expan><ex>ἔτους</ex></expan> <expan><ex>ὀκταδραχμίας</ex></expan> <expan><ex>δραχμὰς</ex></expan> δ<unclear>ώδ</unclear><supplied reason="lost">εκα, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num>.</supplied>
+
+    <lb n="18"/><expan>Α<ex>ὐρήλιος</ex></expan> <expan>Δι<unclear>ονύ</unclear><ex>σιος</ex></expan> <expan>βουλ<ex>ευτὴς</ex></expan> <expan>δεκάπ<ex>ρωτος</ex></expan> <expan>σεσ<ex>ημείωμαι</ex></expan>.</ab></div></div>

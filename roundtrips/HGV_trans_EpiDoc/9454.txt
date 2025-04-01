@@ -1,0 +1,17 @@
+
+         <T=.de<=
+            ((1))Im 3. Jahr des Imperator Caesar Marcus Aurelius Antoninus Augustus und 
+            des Imperator Caesar Lucius Aurelius Verus Augustus.
+            (((5)))Gearbeitet hat für Dammarbeiten desselben 3. Jahres vom 12.-16. 
+            Epheiph im (Kanal) <:Psinaleitis|:|:> <:für Polydeukia|BGU:BL I, S. 95|:> Sarapammôn, Sohn des Peteokyôs, des Sohnes des Petesûchos, 
+            und der Mutter Thermûth .
+        =>=T>
+         <T=.en<=
+            ((1))Year 3 of Imperator Caesar Marcus Aurelius Antoninus Augustus and 
+            Imperator Caesar Lucius Aurelius Verus Augustus.
+            (((5)))Work has been done on the dike works of the same year 3, Epeiph 
+            12 (to) 16 in the <:Psinaleitis|:|:> canal <:for Polydeukia
+                |BGU:BL I 95|:> by Sarapammon, son of Peteokuos, the son of 
+            Petesouchos, mother Thermouth . 
+        =>=T>
+      

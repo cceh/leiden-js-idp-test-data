@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              To Aurelius Ammonius, nomarch of Antinoöpolis, through Aurelius Apollo also called Serenus, his deputy, from Aurelia Claudia daughter of Sarapion, of Oxyrhynchus, with her guardian, who is her husband, Marcus Aurelius Ammonius son of Dionysius son of Amerimnus, of the Sosicosmian tribe and Althaean deme. As I wish to buy from Aurelia Artemeis daughter of Amoïs and Taphamoïs, from Choinothis in the Heracleopolite nome, acting without a guardian by the ius liberorum, a female slave called Tyrannis, of Asiatic descent, white-skinned, aged about 24 years, or by whatever other name she is called, I request that her examination may be held in accordance with the orders on the subject. Farewell. /*Date, signatures of Aurelia Claudia and her guardian, the latter written by Serenus, and of Aurelia Artemeis, written by the brother of her husband, and part of a letter from the nomarch, through his deputy.*/
+            =>
+         =T>
+      

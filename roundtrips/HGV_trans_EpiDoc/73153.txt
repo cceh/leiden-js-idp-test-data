@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) Thirteenth day before the Kalends of June. Number: [...]
+               ((2)) among them, 1 corporal; 6 cavalrymen; 1 adjutant; 10-plus training officers; [...] assigned to the baths; [...] assigned to the camels; [...] assigned to the commander; 1 builder;
+               ((10)) 1 sick, Caecilius Rogatus; [...] available for redeployment; 8-plus, bath-duty; 5-plus, kitchen-duty [...]
+            =>
+         =T>
+      

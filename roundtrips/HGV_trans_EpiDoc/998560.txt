@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) To Tiberius Claudius Heraklei-, strategus, and Nikandros, royal scribe,  and Diogenes and Apollophanes, secretaries of the city of Oxyrhynchi, and Sarapion, laographos …
+      /*Translation: N. Gonis, ZPE 229 (2024) 164*/  
+            =>
+         =T>
+      

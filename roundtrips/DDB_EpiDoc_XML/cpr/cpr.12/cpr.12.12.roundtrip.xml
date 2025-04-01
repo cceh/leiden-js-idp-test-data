@@ -1,0 +1,27 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/><g type="stauros"/> ⲛⲉϩⲁⲟⲩⲧ <foreign xml:lang="grc"><expan><unclear>κ</unclear>ν<ex>ί</ex>δ<ex>ια</ex></expan> <num value="1">α</num> <num value="1/6"><expan>ἕκτ<ex>ον</ex></expan></num></foreign>
+<lb n="2"/>ⲡⲉⲥⲕⲩⲛⲱⲛ <foreign xml:lang="grc"><expan>κν<ex>ί</ex>δ<ex>ια</ex></expan> <num value="200">σ</num></foreign> 
+<lb n="3"/>ⲛⲉⲥⲃⲟⲩ<hi rend="diaeresis">ⲓ</hi> ⲛⲥⲁⲛⲕⲓⲛϩⲏⲣ <foreign xml:lang="grc"><expan>κν<ex>ί</ex>δ<ex>ια</ex></expan> <num value="10"><hi rend="diaeresis">ι</hi></num></foreign>
+<lb n="4"/>ⲛⲉⲥⲁⲛⲉⲫⲟⲩⲥⲕⲁ <foreign xml:lang="grc"><expan>κν<ex>ί</ex>δ<ex>ια</ex></expan> <num value="6">ϛ</num></foreign>
+<lb n="5"/>ⲛⲉⲥⲁⲛⲟⲕⲉ <foreign xml:lang="grc"><supplied reason="lost"><expan>κν<ex>ί</ex>δ<ex>ια</ex></expan></supplied> <num value="6">ϛ</num></foreign>
+<lb n="6"/>ⲛⲉⲕⲟⲩ<hi rend="diaeresis">ⲓ</hi> ⲛⲡⲉⲣ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <num value="100">ⲣ</num> 
+<lb n="7"/>ⲛⲉⲥⲁⲛϩⲁⲗ<unclear>ⲁ</unclear>ⲥⲓ<unclear>ⲛ</unclear> <num value="6">ϛ</num>
+<lb n="8"/>ⲛⲉⲧ<unclear>ⲁ</unclear>ⲙⲥ<unclear>ⲁ</unclear>ϩⲧ <num value="10"><hi rend="diaeresis">ⲓ</hi></num> 
+<lb n="9"/>ⲛⲉⲕⲁⲥⲉ <num value="6">ϛ</num> 
+<lb n="10"/>ⲛⲉⲥⲁⲛϭⲟⲟⲩⲛ <num value="20">ⲕ</num> 
+<lb n="11"/>ⲛⲉϩⲁ<hi rend="supraline">ⲙ</hi>ⲕⲗⲗⲉ <num value="6">ϛ</num>
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="12"/>ⲛⲉⲧⲣⲁⲡ<unclear>ⲉ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="13"/>ⲛⲉ<choice><reg xml:lang="grc">πράτης</reg><orig>ⲡⲗ<hi rend="supraline">ⲁⲧ</hi>ⲏⲥ</orig></choice> <num value="4"><unclear>ⲇ</unclear></num><num value="1/2">𐅵</num><num value="1/3"><hi rend="supraline">ⲅ</hi></num> 
+<lb n="14"/>ⲕⲩⲇⲓⲱ<hi rend="supraline">ⲁ</hi> ⲡ<add place="above">ⲗ</add>ⲩⲥⲓⲛ <num value="20">ⲕ</num> 
+<lb n="15"/>ⲛⲉϣⲟⲧ<supplied reason="lost">ⲓ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="16"/>ⲛⲉ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="17"/><choice><reg xml:lang="grc" cert="low">ἀχθοφόρος</reg><orig><abbr><unclear>ⲁ</unclear>ⲭⲑ</abbr></orig></choice><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="18"/>ⲛⲉⲕⲟⲩ<hi rend="diaeresis">ⲓ</hi> <gap reason="lost" extent="unknown" unit="character"/>   
+<lb n="19"/><choice><reg xml:lang="grc">σκυτεύς</reg><orig><abbr>ⲥⲕⲩ<unclear>ⲧ</unclear>ⲉ</abbr></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="20"/>ⲛⲉ<gap reason="lost" extent="unknown" unit="character"/>   
+<lb n="21"/>ⲛⲉ<gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+      </div>

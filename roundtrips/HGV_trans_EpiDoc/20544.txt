@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              The 14th year of the Emperor Caesar Domitianus Augustus Germanicus, the 3oth of the month Payni, at Oxyrhynchus in the Thebaid. Julia Heracla, acting with the guardian assigned to her by the (instructions) issued by Gaius Septimius Vegetus, the late praefect, in accordance with the letter which he wrote, namely Lucius Ofilius, son of Lucius..., son of Antistius, agrees with Theon, son of Nicippus, son of Nicippus, of the Phylaxithalassean or Althean deme (the contract being executed in the street), that she has ceded to her daughter Gaia also called Sarapias, daughter of Pausanias also called Dionysius, son of Astyanax, of the Phylaxithalassean or Heraclean deme, being under age, from the present time henceforth for ever by an unalterable deed of gift, out of the fifteen arourae owned by her near Seryphis in the western toparchy in the lot of Nicandrus, five arourae of catoecic land to be selected at will from the whole amount, which land Gaia also called Sarapias shall from the date of this contract be permitted to transfer by herself to another through the official assignments, without requiring the consent of her mother Julia Heracla to the transfer. Gaia also called Sarapias shall therefore possess and own the land with her children and heirs...
+            =>
+         =T>
+      

@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Received on Mecheir 14. No. 87.
+              ... Demetrius, strategus of the Gynaecopolite nome, to his dearest Agathodaemon, strategus of the Oxyrhynchite nome, greeting. ... Achilleus, who, as you stated, was accused of harbouring a slave ..., has been stated by both the village scribes of the nome and the scribes of the metropolis to be missing. I pray for your health ... The 12th year of the Emperor Caesar Trajanus Hadrianus Augustus, Tubi 20.
+              Tubi 24 (?).
+            =>
+         =T>
+      

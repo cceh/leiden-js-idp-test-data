@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              To Didymus, strategus of the Oxyrhynchite nome, from Posidonius also called Triadelphus, master of 8 boats carrying 40,000 artabae in the administration of Neapolis. I have received and had measured out to me by Dioscorus son of Onnophris and Didymus son of Pausiris, sitologi of the Psobthis district in the lower toparchy, the amount ordered me by you and Horion also called Apion, basilicogrammateus of the said nome, in accordance with the message of his excellency the procurator of Neapolis from the public granaries of the said village at the river Tomis of wheat from the produce of the past 19th year of our lords the Emperors Antoninus and Geta Pii Augusti, unadulterated, with no admixture of earth or barley, untrodden and sifted, including a percentage of 1 1/2 artabae, ... thousand eight hundred and forty artabae, total [.]840 art., by the public measure ... and according to the prescribed measurement ..., which I will carry to Alexandria and deliver to the officials of the administration safely, free of all risk and damage by ship ... This receipt is valid, there being three copies of it, of which I have issued two to you, the strategus, and one to the sitologi. /*Date.*/
+            =>
+         =T>
+      

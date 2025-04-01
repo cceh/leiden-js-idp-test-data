@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) Jacob furnished […] bricks;
+                     likewise, 450 bricks;
+                     likewise, 1800 bricks;
+                     likewise, 2800 bricks;
+                     likewise, 600 bricks;
+                     likewise, 600 bricks;
+                     likewise, 1200 bricks.
+                     /*Translation: R.S. Bagnall – G. Tallet, ZPE 196 (2015) 188*/
+            =>
+         =T>
+      

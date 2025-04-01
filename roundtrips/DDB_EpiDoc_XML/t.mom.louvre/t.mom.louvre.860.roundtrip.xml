@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="A" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Demotic</desc></gap> 
+
+    <lb n="1"/>Ἀπολλώνιος <choice><reg>Ἕρμωνος</reg><orig>Ἕρμονος</orig></choice> <expan>μητ<ex>ρὸς</ex></expan> <unclear>Ἀπ</unclear>αυτοῦ
+
+    <lb n="2" break="no"/>τος <gap reason="illegible" quantity="4" unit="character"/>ου<unclear>μελισμ</unclear><gap reason="illegible" quantity="2" unit="character"/> <del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del> ναβυτου 
+</ab></div><div n="B" type="textpart"><ab>
+
+    <lb n="1"/><note xml:lang="en">demotic ? lin</note> </ab></div></div>

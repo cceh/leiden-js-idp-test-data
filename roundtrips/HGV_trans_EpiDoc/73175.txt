@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ... number: 44  from them: secretary 1; [adjutant] 1; scout 1; assigned to the baths 3; soldiers on exercise 13; assigned to guardposts 4; sick 2: (((9)))Paccius Maximus, Julius Secundarius 2; available 
+for redeployment total 19; baths receive 12, the ovens 7.
+            =>
+         =T>
+      

@@ -1,0 +1,35 @@
+
+         <T=.en
+            <D=.2 
+               <=
+                  ((1)) The prefect will hear cases
+                         of homicide,
+                         brigandage,
+                         poisoning,
+                  ((5)) kidnapping,
+                         rustling of livestock,
+                         armed
+                         assault,
+                         counterfeit and forgery
+                ((10)) and fraud,
+                         the destruction
+                         of testaments,
+               =>
+            =D>
+            <D=.3 
+               <=
+                  ((13)) grave personal injury,
+                           and all accusations that
+                           patrons bring against
+                           their freedmen or parents against their children.
+                  ((17)) To all others
+                           I will not grant a hearing
+                           unless they have lodged appeals
+                           and have made a deposit
+                           of one-fourth of the estimated
+                           value of the case.
+                           /*Translation: A. Dolganov, Tyche 34 (2019) 40*/
+               =>
+            =D>
+         =T>
+      

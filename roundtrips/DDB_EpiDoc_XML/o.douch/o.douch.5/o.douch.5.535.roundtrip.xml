@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><expan>φόρ<ex>ου</ex></expan> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>τῆς <expan>ὥρ<ex>ας</ex></expan> <num value="1">α</num> <expan><supplied reason="lost">σ</supplied><unclear>ί</unclear>τ<ex>ου</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>Ψάις Παέως <expan>ὧρ<ex>αι</ex></expan> <num value="2">β</num> <expan><ex>ἀρταβ  </ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><expan>τι<ex>φάγια</ex></expan> <num value="30">λ</num>
+
+    <lb n="5"/><expan>υἱ<ex>ὸς</ex></expan> Παμοῦν <expan>ὧρ<ex>α</ex></expan> <num value="1">α</num> <expan>σίτ<ex>ου</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> <expan>μ<ex>ατ  </ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>ὑ<ex>πὲρ</ex></expan> <num value="12">ιβ</num> <expan>ἰνδικ<ex>τίωνος</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> <expan>μ<ex>άτια</ex></expan> <num value="5">ε</num>
+
+    <lb n="7"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">τ</supplied>ι<ex>φάγια</ex></expan> <num value="30">λ</num>
+
+    <lb n="8"/><gap reason="lost" atLeast="4" atMost="5" unit="character"/>τουρου <expan>ὥρ<ex>ας</ex></expan> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <expan>σίτ<ex>ου</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> <expan>μ<ex>άτιον</ex></expan> <num value="1">α</num> <num value="1/4" rend="tick">δ</num>
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <expan>τι<ex>φάγια</ex></expan> <subst><add place="inline"><num value="11">ια</num></add><del rend="corrected"><unclear>λ</unclear>α</del></subst> <num value="1/4" rend="tick">δ</num>
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></ab></div>

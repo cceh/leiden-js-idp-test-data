@@ -1,0 +1,22 @@
+
+         <T=.de
+<= ((1)) Durch Haronnophris und seine Kollegen,
+ die Steuereinnehmer der Schneidersteuer, (haben gezahlt) Pasemios, 
+der Sohn des Horos, und Thusotmios. Wir erhalten von Euch die Steuer für Choiak, 
+vier Dr., im 21. (?) Jahr des Tiberius Caesar Augustus, am 19. Choiak. 
+=> 
+=T>
+         <T=.en 
+<= ((1)) Through Haronnophris and his associates,
+ tax-collectors of the menders, Pasemios, son of Horos, and Thusotmios (have paid). 
+We receive from you the tax for the month Choiak
+4 drachmas, in the year 21 (?) of Tiberius Caesar Augustus, on the day 19 of Choiak. 
+=> 
+=T>
+         <T=.el
+<= ((1)) Δια του Αροννώ(φρεως) και των συνεργατών του,
+τελωνιακών των επιδιορθωτών (υφασμάτων), Πασήμιος, υιός του Ώρου και Θουώτμιος
+ (πλήρωσαν). Λαμβάνουμε από εσάς τον φόρο για τον μήνα Χοιάκ, δραχμές 4, το 21ο(;) (έτος) του
+ (αυτοκράτορα) Τιβερίου Καίσαρος Σεβαστού, την 19 ημέρα του μήνα Χοιάκ.
+ => =T>
+      

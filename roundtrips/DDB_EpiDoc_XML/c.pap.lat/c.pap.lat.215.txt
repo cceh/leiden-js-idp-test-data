@@ -1,0 +1,86 @@
+<S=.la
+<D=.side.exterior
+<D=.above<=
+    (1, perpendicular) <:(G(ai))|reg|(C(ai)):> Lucci Gemiṇịạṇị
+
+    (2, perpendicular) (T(iti)) Flavi Iuliani
+
+    (3, perpendicular) (L(uci)) Ignati Numeriani
+
+    (4, perpendicular) <:(G(ai))|reg|(C(ai)):> Iuli Antoni
+
+    (5, perpendicular) <:(G(ai))|reg|(C(ai)):> Rufi Ptolemai
+
+    (6, perpendicular) <:(G(ai))|reg|(C(ai)):> Iuli Hermini
+
+    (7, perpendicular) (L(uci)) (Val(eri)) Lucretiani
+=>=D>
+<D=.below<=
+    1. Valeria Sarapias Antinois virgo
+
+    2. per (procurat(orem)) (L(ucium)) (Val(erium)) <:Lucretianum|reg|Lucretiano:>
+
+    3. <:Matidium|reg|Matidio:> (q(ui)) (e(t)) Plotinius <:Antinoensium|reg|Antinoensio:>
+
+    4. \(frat(rem)) eius/ testata est se hereditatem Lucretiae
+
+    5. Diodorae aviae de patre adisse cre
+
+    6.- visseque seque heredem esse (secund(um))
+
+    7. tabulas testamenti eius.
+
+    8. actum (Aeg(ypto)) nomo Arsinoite (metropol(i))
+
+    9. <#III=3#> (Kal(endas)) (Octobr(es)) (M(arco)) Cornelio Cethego
+
+    10. (Sex(to)) Erucio Claro (co(n)s(ulibus)) anno <#XI=11#> (Imp(eratoris))
+
+    11. Caesaris (M(arci)) Aureli Antonini (Aug(usti)) (Armen(iaci))
+
+    12. Medici Parthici Maximi mense
+
+    13. Phaophi die <#II=2#>.
+
+    14. ~|Οὐαλερία Σεραπειὰς προσῆλθον τῇ κληρονομίᾳ
+
+    15. τῆς μάμμης μου κατὰ πατέρα <:ἀκολούθως|reg|ἀκολούθος:>
+
+    16. τῇ διαθήκῃ αὐτῆς. Λούκιος Οὐαλέριος Λουκρητια
+
+    17.- νὸς <:ἐπίτροπος|reg|ἐπείτροπος:> ὢν αὐτῆς ἔγραψα ὑπὲρ αὐτῆς ἀ
+
+    18.- φήλικος οὔσης.|~grc 
+=>=D>
+=D>
+<D=.side.interior<=
+    1. Valeria Sarapias Antino
+
+    2.- is virgo per <:procura3.- torem|reg|procura
+
+    3.- tore:> 〚.1〛 (L(ucium)) (Val(erium)) <:Lucreti
+
+    4.- anum|reg|Lucreti4.- ano:> <:Mat[id]ium|reg|Mat[id]io:> (q(ui)) (e(t)) <:Plotinium|reg|Plotinio:>
+
+    5. <:Antinoensium|reg|Antinoensio:> fratris eius
+
+    6. testata est se hereditatem
+
+    7. Lucretiae Diodorae avi
+
+    8.- ae de patre adiisse <:(cre
+
+    9.- visseq(ue))|reg|(cre9.- vissaeq(ue)):> seque heredem
+
+    10. esse secundum tabulas
+
+    11. (t(estamenti)) eius.
+
+    12. actum (Aeg(ypto)) nomo Arsinoite
+
+    13. metropoli <#III=3#> (Kal(endas)) (Oct(obres)).
+
+    14. (M(arco)) Cornelio Cethego (Sex(to))
+
+    15. Erucio Clar[o] (co(n)s(ulibus)).
+=>=D>

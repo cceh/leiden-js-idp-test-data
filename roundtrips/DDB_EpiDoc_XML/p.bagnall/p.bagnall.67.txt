@@ -1,0 +1,14 @@
+<S=.grc
+<=
+1. vestig.2lin
+3. μεμισθω vestig  μ ((ἔτους))
+4. Καίσαρος vestig  
+5. vestig.3lin 
+7. ἑκάστης ἀρούρης vestig  ἀρ
+8.- τάβας τρεῖς vestig  
+9. κριθ vestig  
+10. vestig  
+11. vestig  δημοσιων
+12. vestig  
+=>
+      

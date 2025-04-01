@@ -1,0 +1,34 @@
+
+            <T=.de<=
+            ((1))Im sechzehnten Jahr des Lucius Septimius Severus Pius Pertinax und des Marcus 
+            Aurelius Antoninus Pius, der Augusti, und des Publius Septimius Geta Caesar Augustus, am 9. 
+            Mesorê, zur Verrechnung für Epeiph.
+            (((5)))Eingezahlt hat Abûs, Sohn des Satabûs, für das Anthianische Landgut an 
+            <Schafabgabe=phorosprobaton> für das 16. Jahr für Soknopaiû Nêsos 
+            vierhundert Drachmen, das sind 400 Drachmen.
+            (((7)))Und am 10. hat derselbe eingezahlt für das Anthianische Landgut an 
+            <Schafabgabe=phorosprobaton> für das 16. Jahr für Soknopaiû Nêsos 
+            hundert Drachmen, das sind 100 Drachmen, <:an|BGU:BL VIII, S. 34|:> 
+            <:<Quittungsgebühr=sumbolikon>|BGU:BL VIII, S. 34.|:> 
+            <:1 Obolen|BGU:BL VIII, S. 34|:>.
+            (((9)))Und am 11. hat derselbe eingezahlt für dasselbe Landgut für das Dorf 
+            [...] an <Schafabgabe=phorosprobaton> für das 16. Jahr für 
+            Soknopaiû Nêsos hundert Drachmen, das sind 100 Drachmen.
+        =>=T>
+            <T=.en<=
+            ((1))Year sixteen of Lucius Septimius Severus Pius Pertinax and Marcus Aurelius 
+            Antoninus Pius, Augusti, and Publius Septimius Geta Caesar Augustus, Mesore 9, for the 
+            account of Epeiph.
+            (((5)))Abous, son of Satabous, paid for the Anthian estate for <dues on 
+                sheep=phorosprobaton> for year 16 for Soknopaiou Nesos four hundred 
+            drachmas, = 400 drachmas.
+            (((7)))And on the 10th the same person paid for the Anthian estate for <dues 
+                on sheep=phorosprobaton> for year 16 for Soknopaiou Nesos one hundred 
+            drachmas, = 100 drachmas, <:for the|BGU:BL VIII 34|:> 
+            <:<receipt charge=sumbolikon>|BGU:BL VIII 34.|:> 
+            <:1 obol|BGU:BL VIII 34|:>.
+            (((9)))And on the 11th the same person paid for the same estate for the village 
+            of [...] for <dues on sheep=phorosprobaton> for year 16 for 
+            Soknopaiou Nesos one hundred drachmas, = 100 drachmas.
+        =>=T>
+        

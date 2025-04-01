@@ -1,0 +1,25 @@
+
+         <T=.fr
+            <=
+               ((1)) [Au très puissant] Conseil d'Hermoupolis la Grande, ancienne, brillante et très vénérable, par l‘intermédiaire [d'Aurélios] Alexandros
+[appelé aussi Korellios], qui a accompli ses milices, et de quelque manière qu'on le nomme, prytane en charge, (((4))) [de la part d'Aurélios Horig]énès, fils d'Horion, 
+[bouleute] de ladite cité, (((5))) choisi par le très puissant [Conseil] pour la curatelle e l'achat en gros de gypse et de mortier pour [les Bains] d'Hadrien dans le gymnase
+de ladite cité et pour le gymnase lui-même: ((8)) je demande de mandater sur la Caisse municipale, pour les dépenses de ladite curatelle que j'ai faites,
+((10)) […] talents d'argent […, dont] je déposerai le [compte au bureau municipal de comptabilité et devant ceux qui sont compétents, le droit de réclamation étant 
+conservé à la cité et au Conseil pour tout] ce qui leur revient. (((14)))) [An 14] de l'Empereur César [Publius] Licinius Gallienus, Ger[manicus Maximus], Persicus Maximus, 
+Pius [Felix Augustus]. (((17))) (2e main) Aurélios Horigénès, fils d'Horion, [bouleute], je fais ma demande comme il est écrit ci-dessus. /*Translation: from CPR 35 with the addition of line numbers*/
+            =>
+         =T>
+         <T=.en
+            <=
+               ((1)) To the excellent senate of the great, ancient, illustrious and most august city of Hermopolis 
+through Aurelius Alexander —— Corellius, former cavalryman in the army, and however else he is 
+styled, prytanis in ofﬁce, (((4))) from Aurelius Origenes Horion, senator in the same city. 
+(((5))) Being chosen by the excellent senate for the oversight and purchase of plaster and rubble for the hot baths of 
+Hadrian in the gymnasium of the same city, ((8)) I request an appropriation of a talent of silver —— 
+from the civic treasury on account of my expenses in this same ofice. I shall give an account of
+this to the city treasury, the rights of the city and senate which my possess being protected 
+/*Translation: Johnson, Roman Egypt, no. 434 with the addition of line numbers*/
+            =>
+         =T>
+      

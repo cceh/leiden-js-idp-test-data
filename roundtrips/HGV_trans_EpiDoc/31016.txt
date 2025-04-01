@@ -1,0 +1,27 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) Herakleides an Heras, seinen Sohn, Grüße. Vor allen Dingen grüße ich Dich in Mitfreude über
+                         Deinen guten, frommen und glücklichen Ehestand, der Dir zuteil geworden ist nach unseren
+                         gemeinsamen Wünschen und Gebeten, denen die Götter ganz und gar Gehör und Erfüllung
+                         gewährten. ((6)) Obwohl in der Ferne, haben wir uns über die Nachricht genauso von Herzen gefreut,
+                         als wären wir dabei gewesen; und wir wünschen (das Beste) für die Zukunft und auch daß
+                         wir, zu Euch gekommen, ein zweifach „üppiges Festmahl“ veranstalten. Wie nun Dein Bruder
+                         Ammonas mir von Euch und Eurem Ergehen erzählte, wird es geschehen, wie es geschehen
+                         soll. Und diesbezüglich sei getrost und ohne Sorge. ((14)) Eile nun auch Du, uns mit einem ebensolchen
+                         Brief zu beehren. Und schreib mir über Deine Wünsche, denn ich stehe gerne bereit. Und
+                         wenn es Dir keine Umstände bereitet und möglich ist, so sende mir zugleich zehn Pfund weichen
+                         Werg, macht 10 Pfund, gut bearbeitetes, zu dem bei Dir gängigen Marktpreis, ohne daß
+                         Du einen Nachteil dabei hast. ((22)) Grüße von mir vielmals Deine geliebteste Gattin, womit ich Dir
+                         Gesundheit und blühendes Gedeihen wünsche, mein Herr Sohn.
+                         /*Translation: A. Papathomas, ZPE 219 (2021) 131*/
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((26)) Spitzbart /*vac.*/ Heras, seinem Sohn.
+               =>
+            =D>
+         =T>
+      

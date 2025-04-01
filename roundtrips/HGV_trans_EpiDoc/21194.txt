@@ -1,0 +1,23 @@
+
+         <T=.de
+            <=
+               ((1)) An den Strategen Antamon und den Basilikos Grammateus Achilleus
+                      und wen sonst es angeht, von Diogenes, dem Sohn des Pak... und Enkel
+                      des Senth..., derer aus Tholthis in der Unteren Toparchie. 
+               ((6)) Im vergangenen Jahr habe ich in demselben Dorfe siebenunddreißig
+                      Schafe, eine Ziege und sechs Lämmer angemeldet, in Ziffern 43 Schafe
+                      und 1 Ziege, von denen fünfzehn erwachsene Schafe und zwei Lämmer,
+                      in Ziffern 17 Schafe, umgekommen sind, verbleiben 26 Schafe und 1 Ziege,
+                      die ich auch für das gegenwärtige 2. Jahr des Nerva Traianus Augustus
+                      Germanicus anmelde. ((15)) Sie werden weiden im Umkreis desselben Dorfes
+                      und durch den ganzen Gau unter dem Hirten Hatreus, kopfsteuerpflichtig
+                      (in demselben Dorfe?), und ich schwöre beim Imperator Caesar
+                      Nerva Traianus Augustus Germanicus, daß das obene Stehende wahr ist.
+             ((22)) (2. Hand) Ich, Antamon, Stratege, vertreten durch den Schreiber
+                      Ischyr( ), habe gezeichnet: 26 Schafe, 1 Ziege.
+                      (3. Hand) Ich, Achilleus, Basilikos Grammateus, vertreten durch den
+                      Gehilfen Achill( ), habe gezeichnet: 26 Schafe, 1 Ziege.
+                      /*Translation: D. Hagedorn, P.Köln 2 86*/
+            =>
+         =T>
+      

@@ -1,0 +1,15 @@
+
+            <T=.en
+               <=
+                   ((1))To Damarion, strategus of the Hermopolite nome, from Antonius Justinus, duplicarius, dispatched 
+by Valerius Frontinus, praefect of the ala Heracliana stationed at Coptos. (((5)))I have had measured to me by the 
+elders of the village of Magdola Petechontos in the upper Koussite district for the past 25th year of Aurelius 
+Commodus Antoninus Caesar the lord the proportion imposed upon them from the twenty thousand artabae of 
+barley which his highness the praefect Longaeus Rufus ordered to be bought up from the produce of the 
+twenty-third year for the requirements of the aforesaid ala, of barley, measured by the official standard at the 
+appointed time for measuring ... . artabae in accordance with the division made by the officials of the nome; 
+and I have issued four copies of this receipt. ((15))Date.
+/*Translation: P.Ryl. 2 85*/
+               =>
+            =T>
+        

@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="rho-cross"/> Φαῶφι <g type="dipunct"/>  <num value="15"><hi rend="supraline">ιε</hi></num> <g type="dipunct"/> 
+
+    <lb n="2"/><foreign xml:lang="cop">ⲧⲥⲩⲛϩⲱⲣ</foreign><g type="dipunct"/> 
+
+    <lb n="3"/><expan>οἴ<ex>νου</ex></expan> <expan>μικ<ex>ρὰ</ex></expan> <g type="dipunct"/>  <subst><add place="inline"><num value="77"><hi rend="supraline">οζ</hi></num></add><del rend="corrected"><num value="76">οϛ</num></del></subst> 
+
+    <lb n="4"/><foreign xml:lang="cop">ϩⲱⲣ</foreign> <choice><reg><expan>καμηλ<ex>ίτης</ex></expan></reg><orig><expan>καμαλ<ex>ιτης</ex></expan></orig></choice> </ab></div>

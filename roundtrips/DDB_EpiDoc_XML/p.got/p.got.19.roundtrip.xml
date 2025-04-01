@@ -1,0 +1,20 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="illegible" quantity="1" unit="line"/> 
+
+    <lb n="1"/>ἀπὸ <gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>ἀπὸ Μηνᾶ ὡς <choice><reg>ὅτι</reg><orig>ὅθι</orig></choice> <expan>κ<ex>εράτια</ex></expan> <num value="2">β</num><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <expan>δ<ex>ιὰ</ex></expan> <expan>το<ex>ῦ</ex></expan> <expan><ex>αὐτοῦ</ex></expan> <expan>κ<ex>εράτια</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> 
+
+    <lb n="3"/>ἀπὸ τοῦ αὐτοῦ <expan>νομ<ex cert="low">ίσματα</ex></expan> <expan>μ<ex>ύρια</ex></expan> <num value="50">ν</num> <num value="10050"/>, <expan>κ<ex>εράτια</ex></expan> <num value="980">ϡπ<certainty match="../@value" locus="value"/></num> 
+
+    <lb n="4"/>ἀπὸ Πολέμωνος <expan>ξηροπώ<ex>λου</ex></expan> <expan>δ<ex>ιὰ</ex></expan> Ἀναστασίου μο<supplied reason="lost">το</supplied>ποιοῦ <expan>κ<ex>εράτια</ex></expan> <num value="6"><unclear>ϛ</unclear></num> 
+
+    <lb n="5"/>ἀπὸ Ἀναστασίου <choice><reg><supplied reason="lost">μοτο</supplied>ποιοῦ</reg><orig><supplied reason="lost">μοτο</supplied><unclear>π</unclear>οιος</orig></choice> <expan>δ<ex>ιὰ</ex></expan> Πολέμωνος <expan>ξηροπώ<ex>λου</ex></expan> <expan>κ<ex>εράτια</ex></expan> <num value="6">ϛ</num> 
+
+    <lb n="6"/>ἀπὸ <unclear>τοῦ</unclear> αὐτοῦ <choice><reg>τεταρτηρ<gap reason="lost" quantity="1" unit="character"/></reg><orig>τεταρτιλ<gap reason="lost" quantity="1" unit="character"/></orig></choice> <expan><ex>καὶ</ex></expan> <expan>μάτ<ex>ιον</ex></expan> <num value="1">α</num>, <choice><reg><expan>ἡμιμάτ<ex>ιον</ex></expan></reg><orig><expan>ἑμημάτ<ex>ιον</ex></expan></orig></choice> <num value="1"><unclear>α</unclear></num> 
+
+    <lb n="7"/><unclear>ἀ</unclear>πὸ <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> Πετρωνίου <expan>δ<ex>ιὰ</ex></expan> Ἀναστασίου τοῦτο κέρμα 
+
+    <lb n="8"/><expan><ex>ὑπὲρ</ex></expan> <expan>τιμ<ex>ῆς</ex></expan> καρακ<unclear>α</unclear>λλίου <expan>κ<ex>εράτια</ex></expan> <num value="20">κ</num> 
+
+    <lb n="9"/><gap reason="illegible" quantity="2" unit="line"/> </ab></div>

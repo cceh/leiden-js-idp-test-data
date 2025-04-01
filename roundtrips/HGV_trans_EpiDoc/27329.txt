@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) Herammon to Asraktis, greetings. 
+Please, pay to Ammysis the tax collector of the gate the rest of the tax, 16 drachmas.
+
+            =>
+         =T>
+      

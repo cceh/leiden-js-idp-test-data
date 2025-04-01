@@ -1,0 +1,9 @@
+
+            <T=.en
+            <=
+               ((1))Drimakos to Theodoros, greetings. [... of the] free stone-cutters [...] works and [...] have measured out [...] 
+               ((5))I have written to those in charge of these matters [...]
+               /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 126, © Peeters*/
+            =>
+         =T>
+        

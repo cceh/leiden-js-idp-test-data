@@ -1,0 +1,23 @@
+<S=.la
+<D=.surface.exterior<=
+    1. [((centenarius))] [.?] [((summa))] <# XV[.?]=15-19#> [.?]
+    
+    2. [((centenarius))] [.?] ((summa)) <#III=3#> (p(ondo)) (l(ibras)) <#XC[.?]=90-99#>
+    
+    3. [((centenarius))] [.?][u]s ((summa)) <#XVIII=18#> (p(ondo)) (l(ibras)) <#V=5#>
+    
+    4. [((centenarius))] [.?]vus ((summa)) <#XIII=13#> (p(ondo)) (l(ibras)) <#XXV=25#>
+    
+    5. ((summa)) CCXXII (p(ondo)) (l(ibras)) VII
+    
+    6. (inpletu(r)) (|Vol|) (as(copae)) a (B(yzacena?))
+    
+    7. (n(umero)) CXXXVIII ((centenaria)) CCXXIIII
+    
+    8. fieri in cond[(it(orio)) (Z(eugitano?)) (a(mphorae?)) (g(emellariae?)) (n(umero))] <#CLXVII=167#>
+    
+    9. vestig.1lin
+    
+    10. ((summa)) <#DC[.?]=600-999#> (p(ondo)) (l(ibras)) <#XXXX[.?]=40-49#>
+=>=D>
+      

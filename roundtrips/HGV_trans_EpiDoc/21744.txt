@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              ... the rent being free of all risk. If any demand be made upon the lessee for the government or for any other purpose on account of Dionysius or the land, the amount shall be deducted from the rent; and Dionysius and his agents shall retain the ownership of the crops until he recover the rent. The lease being guaranteed, the lessee shall pay to Dionysius the rent in the month Pauni of the said year at the threshing-floors of Isieum Tryphonis in wheat that is new, pure, unadulterated, and unmixed with barley, by the 4-choenix measure of Ammonius son of Ptolemaeus, or shall forfeit as the value of every artaba which he does not pay ... drachmae of silver and double the rent of the land sown with green produce, while the penalty for abandoning the cultivation, in addition to the amounts aforesaid, shall be 100 drachmae of silver and to the treasury an equal sum; and Dionysius shall have the right of execution upon the lessee or anyone he chooses and upon all his property as if in accordance with a legal decision. This lease is valid. /*Date and signature of Dionysius.*/
+            =>
+         =T>
+      

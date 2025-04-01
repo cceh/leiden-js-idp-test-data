@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              No. 44.
+              Aquilius Polion, strategus of the Heracleopolite nome, to his dearest Apollonius, strategus of the Oxyrhynchite nome, greeting. Kindly receive two letters which I have written, one to you and one to Sabinus, strategus of the Cynopolite nome, about a list of property which belonged to the Jews, with the list itself, and keep the letter coming to you and forward the other to the Cynopolite nome ... (Addressed) To Apollonius, strategus of the Oxyrhynchite nome.
+            =>
+         =T>
+      

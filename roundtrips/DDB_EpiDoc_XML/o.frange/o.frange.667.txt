@@ -1,0 +1,30 @@
+<S=.cop
+<=
+    1. [.?]ⲁϫⲟⲟⲩ ⲟⲛ 
+
+    2. [.?]ⲉⲕϯ ⲥⲟⲩⲛⲧϥ̄ 
+
+    3. [.?].1ⲱ̣ⲡϥ ⲛⲧⲥ 
+
+    4.- [.?] [ⲧ]ⲉⲛⲟⲩ ⲉϣⲱ 
+
+    5.- [ⲡⲉ] [.2]ⲙ̣ⲏ ⲓ(¨) ϯⲥⲟⲩⲛⲧϥ 
+
+    6. [.4]ⲉ ⲁⲣⲟ ⲓ(¨) ⲡⲉ ϫⲉ 
+
+    7. <:ⲁⲓϣⲁⲙⲉⲕ|alt|ⲁⲓϩⲁⲙⲉⲕ:>*word-sep-apostrophe* ⲛⲁⲙⲉ 
+
+    8. ⲁⲩⲱ*word-sep-apostrophe* ⲟⲛ*word-sep-apostrophe* ⲟⲩ<:ἀνομία=grc|reg|ⲁⲛⲟ 
+
+    9.- ⲙⲓⲁ:>*word-sep-apostrophe* ⲧⲉ ⲛⲧⲁ ⲓ(¨)ⲁⲁⲥ 
+
+    10. <:ⲕⲕⲭⲣⲓⲁ|alt|ⲕⲣ <:χρεία=grc|reg|ⲭⲣⲓⲁ:>:>*word-sep-apostrophe* ⲛ̄ⲥⲟⲩⲛ ⲡⲉⲕ 
+
+    11.- ϫⲱⲙⲉ*word-sep-apostrophe* <:παρά=grc|reg|ⲡⲁⲣⲁ:>ⲧ<:ἐκκλησία=grc|reg|ⲉⲕ 
+
+    12.- ⲕⲗⲏⲥⲓⲁ:>*word-sep-apostrophe* <:πλήν=grc|reg|ⲡⲗ̣ⲏ̣ⲛ̣:>.1[.?]
+
+    12. lost.?lin
+
+=>
+      

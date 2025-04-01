@@ -1,0 +1,37 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/>ἔτους τρίτου Αὐτοκράτορος Καίσαρος 
+
+    <lb n="2"/>Οὐεσπασιανοῦ Σεβαστοῦ <choice><reg>ἐκ</reg><orig>ἐγ</orig></choice> <expan>δη<ex cert="low">μοσίων</ex></expan> νομοῦ. 
+
+    <lb n="3"/>πέπτωκεν ἐπὶ τὴν ἐν Πτολεμαΐδι <expan>Εὐερ<unclear>γ</unclear><ex>έτιδι</ex></expan> 
+
+    <lb n="4"/>τοῦ <expan>Ἀρσι<ex>νοΐτου</ex></expan> τῆς νομαρχ<supplied reason="omitted">ί</supplied>ας τράπεζαν <unclear>τ</unclear>οῖς τὸ 
+
+    <lb n="5"/><choice><reg>ἐγκύκλιον</reg><orig>ἐνκύκλιον</orig></choice> <expan>πραγμα<ex>τευμένοις</ex></expan> <num value="2">δυσὶ</num> Τιβ<unclear>ε</unclear>ρίοις Κλαυδίοις 
+
+    <lb n="6"/>Ἀντωνίνωι καὶ Ἀμμωνίωι καὶ Χαιρήμονι
+
+    <lb n="7"/>Ἀπολλωνίου Καισαρείωι τῷ κα<unclear>ὶ</unclear> Ἀλθαιεῖ 
+
+    <lb n="8"/>παρὰ Ταπνεβτύ<unclear>ν</unclear>ιος <unclear>τ</unclear>ῆς <unclear>Λ</unclear>αβήσ<unclear>ε</unclear>ως 
+
+    <lb n="9"/>τέλος ἡμίσους μέρους οἰκίας <subst><add place="inline">ἐν</add><del rend="corrected">ε<gap reason="illegible" quantity="1" unit="character"/></del></subst> <expan>Τεβτύν<ex>ει</ex></expan> 
+
+    <lb n="10"/>παρὰ Ὤπεως τοῦ Ὤπεως καὶ Ἀλεξᾶτος 
+
+    <lb n="11"/>καὶ Τ<gap reason="illegible" quantity="1" unit="character"/>φ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/><unclear>ς</unclear> καὶ Θαήσεως τῶν <num value="3">τριῶν</num> 
+
+    <lb n="12"/>Ἑριέως.
+
+    <lb n="13" rend="outdent"/><handShift new="m2"/>Χαιρήμων <expan>σεση<ex>μείωμαι</ex></expan>.
+
+    <lb n="14" rend="outdent"/><handShift new="m3"/>Τ<unclear>ι</unclear>βέριος Κλαύδιος <expan>Ἀντωνῖ<ex>νος</ex></expan> δι<add place="above">ὰ</add> <abbr>Διοσκ</abbr> <expan>σεση<ex>μείωμαι</ex></expan>.
+.
+    <lb n="15"/><handShift new="m1" cert="low"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ων</unclear> <expan>χ<ex>ε</ex>ι<ex>ριστὴς</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="1"/><figure><figDesc>stamp</figDesc></figure> <note xml:lang="en">outer circle</note> <unclear>ἔτους</unclear> <unclear>Αὐτοκράτορος</unclear> <unclear>Κ</unclear>αίσα<unclear>ρο</unclear>ς 
+
+    <lb n="2"/><note xml:lang="en">inner circle</note> <unclear>Οὐε</unclear>σπα<unclear>σ</unclear>ιαν<unclear>οῦ</unclear> <unclear>Σεβαστ</unclear>οῦ
+</ab></div></div>

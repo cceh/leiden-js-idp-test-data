@@ -1,0 +1,26 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><expan>διαλογ<ex>ισμὸς</ex></expan> Ἁρ</supplied><unclear>π</unclear>οκρᾶ Βησαρίωνος
+
+    <lb n="2"/> <supplied reason="lost"><expan>καταλεγ<ex>όμενος</ex></expan> <expan>ἐξ<ex>εταστὴς</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/> ἀντὶ Φιδίου τοῦ καὶ
+
+    <lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><expan><ex>τάλαντον</ex></expan> <num value="1">α</num>,</supplied> <expan><supplied reason="lost">τό</supplied>κ<ex>ου</ex></expan> ἀπὸ Παχὼν <num value="2">β</num>  <num value="1">α</num> <expan><ex>ἔτους</ex></expan>
+
+    <lb n="4"/><supplied reason="lost">ἕως Ἁθὺρ <num value="10">ι</num>, <num value="2">β</num> <expan><ex>ἔτους</ex></expan> <expan>μη<ex>νῶν</ex></expan></supplied> <num value="6"><unclear>ϛ</unclear></num> <expan>ἡμερ<ex>ῶν</ex></expan> <num value="20"><supplied reason="omitted">κ</supplied></num><num value="3">γ</num> <expan><ex>δραχμαὶ</ex></expan> <num value="203"><unclear>σ</unclear>γ</num>·
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>μος <num value="2">β</num> <expan><ex>ἔτους</ex></expan> Χοιὰκ <num value="23">κγ</num>
+
+    <lb n="6"/><supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan>λο<ex>ιποῦ</ex></expan> <expan>κεφαλ<ex>αίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num><supplied reason="lost">, <expan>τόκ<ex>ου</ex></expan> ἀπὸ Χοιὰ</supplied><unclear>κ</unclear> <num value="23"><unclear>κ</unclear>γ</num> ἕως <del rend="erasure"><expan>Φαμε<ex>νὼθ</ex></expan></del>
+
+    <lb n="7"/> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan>μη<ex>νῶν</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan>ἡμερ<ex>ῶν</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num><supplied reason="lost">· </supplied><expan><supplied reason="lost">δι</supplied>αλογ<ex>ισμὸς</ex></expan> Νείλου Ἀπολ
+
+    <lb n="8" break="no"/><supplied reason="lost">λ</supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">. <expan><ex>ἔτους</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan>λο<ex>ιποῦ</ex></expan></supplied> <expan>κεφαλ<ex>αίου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="2100">Βρ</num>, <expan>τόκ<ex>ου</ex></expan>
+
+    <lb n="9"/><supplied reason="lost">ἀπὸ</supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">. <expan><ex>ἔτους</ex></expan> ἕως</supplied> <unclear>Πα</unclear><supplied reason="lost">χ</supplied>ὼν <num value="3">γ</num> <expan>μη<ex>νὸς</ex></expan> <num value="1">α</num>
+
+    <lb n="10"/><supplied reason="lost"><expan>ἡμερ<ex>ῶν</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num><supplied reason="lost">·</supplied> τοῦ <expan><ex>αὐτοῦ</ex></expan> Παχὼν <num value="4">δ</num>
+
+    <lb n="11"/> <supplied reason="lost"><expan><ex>γίνονται</ex></expan> <expan>τόκ<ex>ου</ex></expan> <expan><ex>δραχμαὶ</ex></expan></supplied> <num><gap reason="lost" extent="unknown" unit="character"/></num><supplied reason="lost">· </supplied><expan><supplied reason="lost">δι</supplied>αλογ<ex>ισμὸς</ex></expan> Εὐδαίμονος
+
+    <lb n="12"/><supplied reason="lost">τοῦ καὶ Ἑρμείνου</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Π</supplied>αχὼν <num value="4">δ</num>
+</ab></div>

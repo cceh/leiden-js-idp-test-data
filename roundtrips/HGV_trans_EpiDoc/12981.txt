@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘From Alypius. Take care to supply all that is necessary to the huntsmen whom I have sent to hunt
+wild boars for various needs— all, that is, that they are accustomed to receive, both themselves and their animals, so that they may hunt with all zeal. Give them one spirited donkey from those in your charge, since I have kept for my own use the mule which they had. I pray for your health, honoured friend. To Heroninus, steward of Thraso. The 9th year, Pachon 25.’
+
+            =>
+         =T>
+      

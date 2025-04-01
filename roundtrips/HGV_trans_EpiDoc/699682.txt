@@ -1,0 +1,12 @@
+
+            <T=.en
+               <=
+                  ((1)) To  those  who  have  been  selected  to  oversee  the  sacrifices,  from  Aurelius  Sarapammon, 
+servant of Appianus, former exegetes of the most-illustrious city of the Alexandrians,  and  however  he  is  styled,  
+residing  in  the  village  of  Theadelphia.  ((10))Always  sacrificing  to  the  gods,  now  too,  in  your  presence,  in  accordance  with  the  orders, 
+I sacrificed and poured the libations and tasted the offerings, and I ask that you sign below. Farewell. 
+(((20)))(2nd hand) We, the Aurelii Serenus and Hermas, saw you sacrificing (?) ...
+/*Translation with slight modifications: W.G. Claytor, Tyche 30 (2015) 17*/
+              =>
+           =T>
+        

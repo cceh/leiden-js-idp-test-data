@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">διε</supplied>πέμφθησαν</reg><orig><supplied reason="lost">διε</supplied>πένφθησαν</orig></choice> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ἀπὸ Πέρσου τῇ αὐτῇ <supplied reason="lost">ἡμέρᾳ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ὥραν</supplied> <num value="4"><hi rend="supraline">δ</hi></num> τῆς ἡμέρας.  <space extent="unknown" unit="character"/>
+</ab></div>

@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) In the term of Pausanias (the priest),
+                      in the month of Dalios.
+                      /*Translation: S.D.A. Aish, BACPS 33 (2016) 38*/
+            =>
+         =T>
+      

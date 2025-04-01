@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><foreign xml:lang="cop">ⲧⲉ<hi rend="diaeresis">ⲓ</hi>ϣⲙⲟⲩⲛⲉ ⲛⲟϭ ⲛ<unclear>ⲧ</unclear><gap reason="lost" extent="unknown" unit="character"/> </foreign>
+
+    <lb n="2"/><handShift new="m2"/> <g type="rho-cross"/> Παο͂πε <g type="dipunct"/>  <num value="7"><hi rend="supraline">ζ</hi></num> <g type="dipunct"/> 
+
+    <lb n="3"/><foreign xml:lang="cop">ⲧⲥⲩⲙⲟⲩⲗⲟⲧ</foreign><g type="dipunct"/> 
+
+    <lb n="4"/><expan>οἴ<ex>νου</ex></expan> <expan>μεγ<ex>άλα</ex></expan> <g type="dipunct"/>  <num value="48"><hi rend="supraline">μη</hi></num> <g type="dipunct"/> 
+
+    <lb n="5"/><foreign xml:lang="cop">ⲡⲁⲏⲥⲉ</foreign><choice><reg><expan>καμηλ<ex>ίτης</ex></expan></reg><orig><expan>καμαλ<ex>ίτης</ex></expan></orig></choice> </ab></div>

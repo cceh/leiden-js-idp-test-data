@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              To my lord Macarius from Gennadius, speculator. Deign to gladden the birthday festival of my son Gennadius by dining with us on the 16th at 7 o'clock.
+            =>
+         =T>
+      

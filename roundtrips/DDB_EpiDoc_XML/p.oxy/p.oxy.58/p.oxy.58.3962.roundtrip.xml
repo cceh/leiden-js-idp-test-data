@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><handShift new="m1"/><gap reason="lost" extent="unknown" unit="character"/> ἀπὸ ὑπάτων γεουχοῦντι καὶ ἐνταῦθα τῇ <expan><unclear>λα</unclear><ex>μπρᾷ</ex></expan>
+<lb n="2"/><handShift new="m2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ἀπ</unclear>ὸ ὑπάτων γεουχοῦντι καὶ ἐνταῦθα τῇ <abbr>μ</abbr>
+<lb n="2"/><space extent="unknown" unit="character"/>
+<lb n="3"/><handShift new="m1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">εὐ</supplied><unclear>λ</unclear>αβοῦς μνήμης Σερήνου ἀπὸ ταύτη<unclear>ς</unclear>
+<lb n="4"/><handShift new="m2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ε</supplied><unclear>ὐ</unclear>λαβοῦς μνήμης Σερήνο<unclear>υ</unclear> <unclear>ἀπὸ</unclear> ταύτης
+<lb n="4"/><space extent="unknown" unit="character"/>
+<gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

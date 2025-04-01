@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.1 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((30)) ‘We present and announce those inscribed below, being men of means and suitable, to undertake the services of the year, at our own risk. They are:—For Cynopolis; for the cleaning of canals Gikon son of Diodorus, aged about 46 years, having property worth 600 dr.; for the guard on crops those previously presented for flood-duties, irrigation, sowing, and all other public works, Patron, who has no father, his mother being Protous, aged about 30 years, having property worth 1,000 dr., Aphrodas son of Nepheros, aged about 45 years, having property in building-sites to the value of 1,000 dr.; and for the guard of the games Hekusis son of Sanpas, aged about 25 years, having property worth 600 drachmae, Latron son of Anoubas, having similarly 600 dr.; and to ensure clean grain and honest weight at the measuring of the public corn Anoubas son of Nepheros, aged about 40 years, having property in building-sites to the value of 600 dr., Petenouphis son of Maximus, having similarly 600 dr.; and to exercise surveillance over the public granaries and to co-operate with the sitologi in the sealing Petenouphis son of Sarapion, aged about 35 years, having property worth 1,000 dr., Heron son of Heron, aged about 35 years, having similarly 1,000 dr.; and for the guard of the strategus Horion son of Arius, aged about 35 years, having similarly 600 dr. Similarly for the village of Lysimachis:— For the throwing up of dykes Ischyras son of Pakemis surnamed Ages, having property in building-sites to the value of 600 dr.; for the cleaning of canals Stotoetis son of Sokmenis ; and for the guarding of crops the persons previously presented for flood-duties, irrigation, sowing, and all other public works, Herieus son of Zoïlus, Hermes son of Apunchis; and for the guard of the games Polion son of Ptolemaeus, Euporion son of Dioscorus; and to ensure clean grain and honest weight at the measuring of the public corn ...’
+               =>
+            =D>
+         =T>
+      

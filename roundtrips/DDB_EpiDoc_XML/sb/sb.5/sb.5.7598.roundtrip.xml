@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Φαῶφι <num value="5">ε</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>ἐπὶ τῶι κο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/><expan><ex>δραχμὰς</ex></expan> <num value="2">β</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num>· ἄλλην <expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>τὸ πᾶν <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="3">γ</num> <num value="1/2">𐅵</num> 
+
+    <lb n="5"/>τόκος ἕως τοῦ <del rend="erasure">Παῦνι</del> <add place="above">Ἐπεὶφ</add> 
+
+    <lb n="6"/>μηνῶν <num value="10">ι</num> <expan><ex>δραχμαὶ</ex></expan> <num value="1">α</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <expan><ex>χαλκοῖ 2</ex></expan><num value="2"/> 
+
+    <lb n="7"/>τὸ πᾶν <expan><ex>δραχμαὶ</ex></expan> <num value="5">ε</num> <expan><ex>χαλκοῖ 2</ex></expan><num value="2"/> </ab></div>

@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><handShift new="m2"/> <gap reason="illegible" quantity="5" unit="line"/> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><handShift new="m1"/> Θώνι ὀρνειθᾷ. 
+
+    <lb n="2"/>δὸς εἰς παράστασιν 
+
+    <lb n="3"/>στρατηγοῦ <choice><reg><expan>ὄρνιθ<ex>ας</ex></expan></reg><orig><expan>ὄρνειθ<ex>ας</ex></expan></orig></choice> <num value="4">δ</num> 
+
+    <lb n="4"/>δραχμῶν δέκα <num value="10"/>. <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><expan><ex>ἔτους</ex></expan> <num value="4">δ</num>, Φαμεν<supplied reason="lost">ὼθ </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">, </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><expan>π<ex>αρὰ</ex></expan> Σπαρτ<supplied reason="lost" cert="low">ιάτου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>

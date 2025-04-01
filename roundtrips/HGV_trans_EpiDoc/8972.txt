@@ -1,0 +1,16 @@
+
+         <T=.de<=
+            ((1))Vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren: 83. 
+            <Kleruchie=cleruchy>. Horiôn, Sohn des Limnaios, für 
+            7 <Aruren=aroura> <Königsland=basilikege>
+            <:bei Patsôntis|BGU_DDbDP:BL X, S. 13|:>.
+            (((5)))Ich, Longeinos, habe für ihn als Analphabeten geschrieben.
+        =>=T>
+         <T=.en<=
+            ((1))From the seed reserves of year 22 of Antoninus Caesar, the lord. 83rd 
+            <cleruchy=cleruchy>. At 
+            <:Patsontis|BGU_DDbDP:BL X 13|:> 7 <arouras=aroura> of 
+            <royal (land)=basilikege> Horion, son of Limnaios.
+            (((5)))I, Longinos, wrote this on his behalf, because he is illiterate.
+        =>=T>
+      

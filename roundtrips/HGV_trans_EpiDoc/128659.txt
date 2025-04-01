@@ -1,0 +1,8 @@
+
+         <T=.de
+            <=
+((1))Sarmates grüßt Epagathos, seinen Vertrauten. 
+((2)) (Betreffend) meinen Bruder Athanasios, der zu dir kam: Mache, daß das Vieh im Stall ist, und ihr Heu verschaffe von Markos, der bei dir in Diensten steht,  oder es soll herbeigeschafft werden [...]
+            =>
+         =T>
+      

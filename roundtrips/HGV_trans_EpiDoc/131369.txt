@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+“Loui son of (?) Senamounis, 30 keramia. Give 21 (?) keramia to him out of...”            =>
+            <=
+               ((1))
+            =>
+         =T>
+      

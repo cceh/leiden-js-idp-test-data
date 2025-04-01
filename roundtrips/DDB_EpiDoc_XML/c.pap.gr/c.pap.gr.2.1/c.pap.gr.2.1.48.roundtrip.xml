@@ -1,0 +1,46 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><handShift new="m2" cert="low"/>         <num value="83">πγ</num> 
+
+    <lb n="2"/><handShift new="m1"/> <gap reason="illegible" quantity="1" unit="character"/><num value="21">κα</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> <expan><supplied reason="lost">κ</supplied>ολ<ex>λημ  </ex></expan> <num value="71">οα</num> τάξεω<unclear>ς</unclear> <gap reason="lost" quantity="4" unit="character"/> 
+
+    <lb n="3"/><gap reason="illegible" quantity="1" unit="character"/><num value="68">ξη</num> <abbr>Ἰσίω</abbr> <abbr>συνγρ</abbr>      <gap reason="lost" quantity="4" unit="character"/> 
+
+    <lb n="4"/><choice><reg>Τιμαγένει</reg><orig>Τιμαγένι</orig></choice> <expan>βασιλ<ex>ικῷ</ex></expan> <expan>γρ<ex>αμματεῖ</ex></expan> Ἀρσ<supplied reason="lost">ινοίτου</supplied> 
+
+    <lb n="5"/>παρὰ Διονυσοδώρου <supplied reason="lost">ἀφήλικος</supplied> 
+
+    <lb n="6"/>διʼ ἐπιτρόπου Ἰσιδώρου <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="7"/>κατοίκου τῶν <num value="6475">Ϛυοε</num> ἀνδρ<supplied reason="lost">ῶν</supplied> 
+
+    <lb n="8"/>Ἑλλήνων <expan>ἀναγρ<ex>αφομένου</ex></expan> ἐπʼ ἀμφόδ<supplied reason="lost">ου</supplied> 
+
+    <lb n="9"/>Μοήρεως·  ὁ πατήρ μου <unclear>Ἰ</unclear><gap reason="lost" quantity="3" unit="character"/> 
+
+    <lb n="10"/>ρίων Διονυσοδώρου τοῦ Ἡ<supplied reason="lost">ρα</supplied>
+
+    <lb n="11" break="no"/>κλείδου <expan>μη<ex>τρὸς</ex></expan> Ἡραίδος <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/> 
+
+    <lb n="12"/>νος ὑπερετὴς κάτοικος ἐτε
+
+    <lb n="13" break="no"/>λε<supplied reason="lost">ύτ</supplied>ησεν ἔτι πάλα<supplied reason="lost">ι</supplied>·  διὸ ἐπ<supplied reason="lost">ιδί</supplied>
+
+    <lb n="14" break="no"/>δωμι ὅπως ταγ<supplied reason="lost">ῇ ἐν τῇ</supplied> 
+
+    <lb n="15"/><expan>τετελευτηκότω<ex>ν</ex></expan> τάξει ὡ<supplied reason="lost">ς ἐπὶ</supplied> 
+
+    <lb n="16"/>τῶν ὁμοίων·  Διονυσόδωρ<supplied reason="lost">ος</supplied> 
+
+    <lb n="17"/>ἀφῆλ<supplied reason="lost">ι</supplied>ξ διʼ ἐπιτρόπου Ἰσ<supplied reason="lost">ιδώρου</supplied> 
+
+    <lb n="18"/>ἐπιδέδωκα καθὼς π<supplied reason="lost">ρόκειται</supplied> 
+
+    <lb n="19"/><expan><ex>ἔτους</ex></expan> <num value="23">κγ</num> Ἀντωνίν<supplied reason="lost">ου</supplied> 
+
+    <lb n="20"/>Καίσαρος τοῦ κυρίου Τῦ<supplied reason="lost">βι </supplied><gap reason="lost" quantity="1" unit="character"/> 
+
+    <lb n="21"/><expan><supplied reason="lost">γ</supplied><unclear>ρα</unclear><ex>μματεῦσι</ex></expan> <expan>μη<unclear>τρ</unclear>ο<ex>πόλεως</ex></expan> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="22"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="23"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

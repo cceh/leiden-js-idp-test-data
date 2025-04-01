@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+ <div n="r" type="textpart"><ab> 
+    <lb n="1"/><gap reason="ellipsis" quantity="9" unit="line"><desc>Demotic</desc></gap> 
+    </ab></div> 
+    <div n="v" type="textpart"><ab> 
+    <lb n="1"/><gap reason="ellipsis" quantity="6" unit="line"><desc>Demotic</desc></gap> 
+    <lb n="7"/><foreign xml:lang="egy-Egyd">n-dr.t</foreign>  Ἥρω
+    <lb n="8" break="no"/>ν 
+    </ab></div> </div>

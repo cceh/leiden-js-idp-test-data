@@ -1,0 +1,602 @@
+<S=.la<D=.1,FrA<=
+
+    1. Ạṇ[toniu]s Maximus 
+
+    2. <:Anullino|reg|anulino:> ii (co(n)s(ule)) 
+
+    3. (Aụṛẹl(ius)) Fausṭụs 
+
+    4. Ạgrip̣pas Themarsa 
+
+    5. Muciano (co(n)s(ule)) 
+
+    6. Iadibelụṣ Zebida 
+
+    7. (Iul(ius)) Malchus 
+
+    8. Theobọlus Gadde 
+
+    9. Zebidas Zebida 
+
+    10. Geta Seniore ii <:consule|subst|co.1:> 
+
+    11. Mocimus Bolani 
+
+    12. (Iul(ius)) Antoninus 
+
+    13. Magnus Vabalathi 
+
+    14. (Cl(audius)) Zebida 
+
+    15. Cilone ii (co(n)s(ule)) 
+
+    16. Monimus Aufei 
+
+    17. Abidsemias Pupli 
+
+    18. Maximus Ermogeṇị 
+
+    19. Monimus Monimi 
+
+    20. Abbedas Nicaei 
+
+    21. Monimus Salluma 
+
+    22. Charifas Iuli 
+
+    23. Apro (co(n)s(ule)) 
+
+    24. Zebidas Barnaei 
+
+    25. Severus Antonini 
+
+    26. Pompeiano (co(n)s(ule)) 
+
+    27. (Ael(ius)) Heliodorus 
+
+    28. Faustino (co(n)s(ule)) 
+
+    29. (Ael(ius)) Theodorus 
+
+    30. [B]ạṣṣus Tiberini 
+
+    31. [.?].1aeus Ṃạḷchi 
+
+    32. <:Messalla|reg|messala:> (co(n)s(ule)) 
+
+    33. Mocimus Zebida 
+
+    34. Ịạdibelus Ammaei 
+
+    35. [B]ạṛneus Iaraḅ[ol ][.?] 
+
+    36. (Aurel(ius)) Roṃ[.?] 
+
+    37. Ṃocị[mus ][.?] 
+=>=D><D=.2,FrA<=
+
+    1. Ṭḥemarṣạṣ [Iaraei ][.?] 
+
+    2. Zabdiboluṣ [Th]ẹ[me ][.?] 
+
+    3. (Aurel(ius)) Apọḷ[lon]ịus 
+
+    4. Laetọ ịị (c̣o(n)s(ule)) 
+
+    5. (Iul(ius)) Bạṣsus 
+
+    6. (Aurel(ius)) Marinus 
+
+    7. (Aurel(ius)) Bargas 
+
+    8. (Aurel(ius)) Demetrius 
+
+    9. Sabino ii (co(n)s(ule)) 
+
+    10. (Aurel(ius)) Malchus 
+
+    11. (Aurel(ius)) Longinus 
+
+    12. (Aurel(ius)) Calpurnius 
+
+    13. (Aurel(ius)) Magnus 
+
+    14. (Aurel(ius)) Malchụs 
+
+    15. (Aurel(ius)) Apollinarius 
+
+    16. (Aurel(ius)) Aprianus 
+
+    17. Bassus Gora 
+
+    18. (Aurel(ius)) Romanus 
+
+    19. (Aurel(ius)) Bassus 
+
+    20. (Aurel(ius)) Marinus 
+
+    21. lv 
+
+    22. ((centuria)) Marci Muciano (cọ(n)[s(ule)]) 
+
+    23. (ord(inatus)) (Iul(ius)) Marcus 
+
+    24. Eruciọ C̣ḷ[aro ]([co(n)]ṣ(ule)) 
+
+    25. Malc̣hus Ẹ[.?] 
+
+    26. Ṭerṭ[ullo (co(n)s(ule))] 
+
+    27. Barṣemịạs Bụḅ[.?] 
+
+    28. Dextro i[i (co(n)s(ule))] 
+
+    29. Abbas l.2[.?] 
+
+    30. [.?] Sạṭụṛṇ[ino (co(n)s(ul ))] 
+
+    31. [.?]ḅas Baraḅ[.?] 
+
+    32. [.?]omo[.?] 
+=>=D><D=.3,FrA<=
+
+    1. <:Domitius|reg|ḍomittiụṣ:> Salman 
+
+    2. Abgarus Iaraei 
+
+    3. Marinus Seḷẹuci 
+
+    4. Nisamsus Adḍẹị 
+
+    5. (Ạụrel(ius)) Barchalbas 
+
+    6. Iaraeus Zebida 
+
+    7. (Iul(ius)) Salman 
+
+    8. Heliodorus Zebidạ 
+
+    9. Severo iii (co(n)s(ule)) 
+
+    10. (Iul(ius)) <:Domitius|reg|domittius:> 
+
+    11. Iaraboles Themaṛṣa 
+
+    12. Geta senịọṛe ii (co(n)s(ule)) 
+
+    13. Marinus Barathe 
+
+    14. Salmanes Iamlichi 
+
+    15. Maris Iarhaei 
+
+    16. (Valer(ius)) Malchi 
+
+    17. Cilone ii (co(n)s(ule)) 
+
+    18. (Iul(ius)) Soemus 
+
+    19. Mauelas Abidadadi 
+
+    20. Antonino ii (co(n)s(ule)) 
+
+    21. Zabdes Malchi 
+
+    22. Zabdibolus Hammạẹ[.?] 
+
+    23. Apro et Max[imo ]([co(n)]ṣ(ulibus)) 
+
+    24. Zenodorus Artẹṃịḍọṛị 
+
+    25. Faustino (cọ(n)s(ule)) 
+
+    26. Quintus Iuliạṇ[u]s 
+
+    27. (Ịul(ius)) Ṃenandrụṣ 
+
+    28. duobus Asprịṣ (co(n)s(ulibus)) 
+
+    29. (Cl(audius)) Tiberinus 
+
+    30. Iarhaboles Ụdạṭḥ[i] 
+
+    31. 〚i〛Ulpius Aṇṭọ[ninus] 
+
+    32. Amạẹ[us Zebida] 
+=>=D><D=.4,FrA<=
+
+    1. (Aurel(ius)) [.?] 
+
+    2. Calpụ[rn]ịụṣ G̣aulianus 
+
+    3. Mamṃ[e]us Bobe.1[.?] 
+
+    4. (Aurel(ius)) Ma.1h[.2]s 
+
+    5. Sabino i[i] (co(n)s(ule)) 
+
+    6. <:Domitius|reg|domittius:> Nicolaus 
+
+    7. (Auṛel(ius)) Demetrius 
+
+    8. (Aurel(ius)) Maximus 
+
+    9. (Aurel(ius)) <:Domitius|reg|domittius:> 
+
+    10. (Aurel(ius)) Barlahas 
+
+    11. (Aurel(ius)) Zabdas 
+
+    12. (Aurel(ius)) Apollonius 
+
+    13. (Aurel(ius)) Bassus 
+
+    14. (Aurel(ius)) Flavius 
+
+    15. lii 
+
+    6. ((centuria)) Antonini Victorino (co(n)s(ule)) 
+
+    17. (ord(inatus)) <:Domitius|reg|domittius:> <:Antoninus|subst|antoniuus:> 
+
+    18. Erucio C̣laro (co(n)s(ule)) 
+
+    19. Malchus Anani 
+
+    20. Tertuḷḷo (co(n)s(ule))  
+
+    21. (Iul(ius)) Baṛ[h]ạḍadus 
+
+    22. Dextro ị[i] (c̣ọ(n)s(ule))  
+
+    23. Malchus Diog̣eṇị 
+
+    24. Zabdaathes Ṃọcimi 
+
+    25. <:Anullino|reg|anulino:> ii (co(n)s(ule)) 
+
+    26. Demetrius Bannaei 
+
+    27. Iulius Ạpollonius 
+
+    28. Victorino (co(n)s(ule)) 
+
+    29. .4ụṃ.1[.?]ṣ oga 
+
+    30. Muc̣ịạno (co(n)s(ule)) 
+
+    31. Mamṃẹus B[e]ḷạcabi 
+
+    32. Mabog̣[e]uṣ [.?][ Za]ọra 
+
+    33. [.?]s 
+=>=D><D=.5,FrA<=
+
+    1. lost.5lin 
+
+    6. Bạ[.?] 
+
+    7. lost.1lin 
+
+    8. Aṇṭọ[.?] 
+
+    9. lost.3lin 
+
+    12. .1[.?] 
+
+    13. Ạ[.?] 
+
+    14. (Iul(ius)) Ḅ[.?] 
+
+    15. (Aurẹl(ius)) Gerṃ[anus] 
+
+    16. Cocceiụṣ S.1[.?] 
+
+    17. (Iuḷ(ius)) Haḍ.1[.?] 
+
+    18. (Aurel(ius)) Hadṛịạ[nus] 
+
+    19. Sabino i[i (co(n)s(ule))] 
+
+    20.  <:Aurelius|subst|iul:> Antọṇ[.?] 
+
+    21. (Aurel(ius)) Cyrillụṣ 
+
+    22. (Aurel(ius)) Mạ[.3]ị[.?] 
+
+    23. (Aurel(ius)) .1[.1]ḷ[.?] 
+
+    24. (Aurel(ius)) Bạ[.?] 
+
+    25. (Aurel(ius)) Sạ[.?] 
+
+    26. Ạ([ure]ḷ(ius)) G̣[.1].1ḷ[.?] 
+
+    27. (Aurel(ius)) G̣[.?] 
+
+    28. Ẹxṭrị[cato ii (co(n)s(ul ))] 
+
+    29. Abg̣aruṣ [Themarsa] 
+
+    30. G̣ạḍdẹ[s Bore] 
+=>=D><D=.6,FrC<=
+1. lost.?lin 
+
+    1. [M]ạlc̣hụs [.?].2[.?] 
+
+    2. Faụṣṭịṇ[o] (c̣ọ(n)[s(ul )]) 
+
+    3. [Mo]cimus Ṣ.3[.?] 
+
+    4. [duobu]ṣ Ạspṛịṣ ([co(n)]ṣ(ulibus)) 
+
+    5. [.?]ṣ Ẓẹbịḍa 
+
+    6. [.?]ḍi 
+
+    7. [.?]us 
+
+    8. [.?]ọ.1[.1].1[.1]ṣ 
+
+    9. [.?] Messạḷ[a] (c̣ọ(n)s(ul )) 
+
+    10. [.?]ạ[.1].2ạ.1n 
+
+    11. [.?].1ṛ[.1]s 
+
+    12. [.?] Ṭḥẹ[m]ạṛsa 
+
+    13. [.?]ṣ 
+=>=D><D=.7,FrC<=
+1. lost.?lin
+
+    1. [.?]h[.?] 
+
+    2. [.?] 
+
+    3. Ṭḥemarṣạ[s ][.?] 
+
+    4. [.?][ co]s 
+
+    5. (Ạụṛ[el(ius)]) [.?]  
+
+    6. [.?] 
+
+    7. Zaḅḍịḅ[olus ][.?] 
+
+    8. [.?]ị[.?] 
+=>=D><D=.8,FrE<=
+
+    1. lost.1lin 
+
+    2. [.?]ẹi 
+
+    3. [.?].2[.?] 
+
+    4. [.?].2[.2].1
+
+    5. [.?]i 
+
+    6. [.?]ḅẹi 
+
+    7.  [.?] ([.?].1co(n)s(ul )) 
+7. lost.?lin
+=>=D><D=.8,FrD<=
+8. lost.?lin
+
+    8. [.?]ạ 
+
+    9. [.?].1
+
+    10. [.?]x̣l.1
+
+    11. [((centuria)) M]ạlchiaṇạ <:[A]nullino|reg|[a]nulino:> iị [(co(n)s(ule))] 
+
+    12. [.?] Ṛubaṭhus S.2[.?] 
+
+    13. Tertullo (c̣ọ(n)[s(ul )]) 
+
+    14. [.?].3eus Nisaṃs[.?] 
+
+    15. [.?][ Sal]ṃanes Tḥ[e]ṃe 
+
+    16. Dexṭṛọ ii (co(n)s(ule)) 
+
+    17. Maṛị[nus] Themarsa[.?] 
+
+    18. Ṣạ[tu]ṛnino (co(n)s(ul )) 
+
+    19. Thẹṃạ[rs]a .1[.?].2[.?] 
+=>=D><D=.9,FrB<=
+
+    1. lost.1lin 
+
+    2. [.?] (c̣ọ(n)ṣ(ul )) 
+
+    3. Ṣạlmẹ[s ][.?].2[.?] 
+
+    4. (Aụ[rel(ius)])[ Co]ḍdeus 
+
+    5. Ạḅgạṛ[us T]ḥẹ[me]s 
+
+    6. Ọcbanẹṣ Ạbiḍḷa[h]a 
+
+    7. Sẹ[l]eus Ṃalc̣hi 
+
+    8. [.?]ạṣ 
+
+    9. lost.1lin 
+
+    10. [Geta seni]ọre ii ([co(n)]s(ul )) 
+
+    11. [.?][ Ma]ḷcḥi 
+
+    12. [.?] Nịṣạmsi 
+
+    13. [.?][ T]ḥẹmaṛṣa 
+
+    14. [(Aurel(ius)) A]ntiochus 
+
+    15. [.?].1Zebiḍa 
+
+    16. [Cilo]ne ii (co(n)s(ule)) 
+
+    17. [.?]narieus 
+
+    18. [.?].1us 
+
+    19. [Marinu]ṣ Maximi 
+
+    20. [Cassiu]ṣ Ṣạcona 
+
+    21. [Marinu]ṣ Luci 
+
+    22. [Anton]ino ii (co(n)s(ule)) 
+
+    23. [Hammaeus O]gelị[.?] 
+
+    24. [Po]ṃp̣ẹịano (co(n)s(ul )) 
+
+    25. [.?][ B]ạraṭḥẹ 
+
+    26. [.?].2[.?] 
+
+    27. [.?].1
+=>=D><D=.10,FrB<=
+
+    1. (Aurel(ius)) Marinụs 
+
+    2. (Aurel(ius)) Flavius 
+
+    3. (Cl(audius)) Hairạn 
+
+    4. (Aurel(ius)) Monimus 
+
+    5. Iaraeus Abgari 
+
+    6. (Aurel(ius)) Marinus 
+
+    7. Iaraeus Theoboli 
+
+    8. Laeto ii (co(n)s(ule)) 
+
+    9. (Aurel(ius)) Apollonịụs Mesenus 
+
+    10. (Aurel(ius)) Bassus 
+
+    11. Sabino ii (co(n)s(ule)) 
+
+    12. (Aurel(ius)) Muc̣iạ[n]us 
+
+    13. (Aurel(ius)) Pauluṣ 
+
+    14. (Aurel(ius)) Alexa[nd]ṛus 
+
+    15. (Aurel(ius)) Baṣịlẹus 
+
+    16. (Aurel(ius)) Zinnẹ[.2]ṣ 
+
+    17. (Aurel(ius)) Helioḍorus 
+
+    18. (Aurel(ius)) Antoninus 
+
+    19. (Aurel(ius)) Livianus 
+
+    20. (Aurel(ius)) Addeụs 
+
+    21. (Aurel(ius)) Mariṇụs 
+
+    22. alter Marinụs 
+
+    23. (Aurel(ius)) Barsemias 
+
+    24. Extric̣ạṭọ ịị (c̣ọ(n)s(ule)) 
+
+    25. (Aurel(ius)) Zabdas 
+
+    26. lviiii 
+
+    27. ((centuria)) Seleuciaṇa Teṛtụḷlo (co(n)s(ule)) 〚Ḍẹxṭr[o ii] (c̣ọ(n)s(ule))〛 
+
+    28. [Za]bdibolus Malac̣heli 
+
+    29. [Zabdi]bolus Sạḍ[.2].1i 
+
+    30. [.?].1[.?].5s 
+
+    31. [.?].2[.?] 
+=>=D><D=.11,FrB<=
+
+    1. Ulpịụṣ Severus 
+
+    2. I[ul]ịus [Sa]lṃạn 
+
+    3. C̣ịlone ii (co(n)s(ule)) 
+
+    4. Abiḍmalchụs Marosạ[.?] 
+
+    5. Max̣ịṃụṣ [Ho]ṭarei 
+
+    6. (Iul(ius)) Hẹḷ[iodor]ụs 
+
+    7. (Iul(ius)) Ạb[.5]s 
+
+    8. Barịcḅeḷus Ḅạṣṣị 
+
+    9. Iade[u]s Theṃ[a]ṛsa 
+
+    10. dịṿo Antonino ii (co(n)s(ule)) 
+
+    11. (Iul(ius)) Bassus 
+
+    12. (Ạurel(ius)) Mucianus 
+
+    13. Basṣụs Barsimsi 
+
+    14. Albino (co(n)s(ule)) 
+
+    15. Septimius Heliodoṛ[us ][.?] 
+
+    16. Apro ẹṭ Ṃaxiṃ[o (co(n)s(ulibus))]
+
+    17. (Iul(ius)) Romanus 
+
+    18. Abbis Marona 
+
+    19. Iaraeus Barnaei 
+
+    20. Faustino (co(n)s(ule)) 
+
+    21. Ịạraeus Zebida 
+
+    22. duobuṣ Ạspriṣ [(co(n)s(ulibus))] 
+
+    23. Themarsas Nisamsi[.?] 
+
+    24. Macriniụs Maximi 
+
+    25. Mocimus Ạṇtonini 
+
+    26. <:Messalla|reg|messạḷạ:> (c̣ọ(n)s(ule)) 
+
+    27. Iaraboles Ọbeạn 
+
+    28. (Aurel(ius)) Gai 
+
+    29. Mocịmus Anto[ni ][.?] 
+
+    30. (Ạụṛẹḷ(ius)) Seleuc̣[.?] 
+
+    31. Abdeus Zabḅ[.?] 
+
+    32. (Aurel(ius)) Barsimṣ[us ][.?] 
+
+    33. Iaraeus <:Nisams|subst|nisraei(?):> [.?] 
+
+    34. (Fl(avius)) Deṃẹṭṛịus [.?] 
+
+    35. (Aurel(ius)) Ḅ.3[.?] 
+
+    36. (Aụṛẹ[l(ius)]) [.?]  
+
+    37. Ạ[.?] =>=D>

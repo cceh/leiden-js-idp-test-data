@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              From Julius Diogenes to Thonius, wine-keeper, greeting. Give to Copreus, agent at Seruphis, on account of the cutting of the growth of reeds in the past first year and the other pressing work at the farm-stead of Gaianus, 10 jars of wine of the produce of the past first year and similarly 10 jars of vinegar. /*Signature of Julius Diogenes.*/
+            =>
+         =T>
+      

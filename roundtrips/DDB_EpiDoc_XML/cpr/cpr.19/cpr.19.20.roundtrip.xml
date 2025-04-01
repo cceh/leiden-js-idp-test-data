@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Ψινθεὼ
+<lb n="2"/><choice><reg>μελισσουργοῖς</reg><orig>μελιστουργοῖ<unclear>ς</unclear></orig></choice>
+<lb n="3"/><expan>ν<unclear>ό</unclear><ex>μισμα</ex></expan> <num value="1">α</num>
+<lb n="4"/>Καμίνο<unclear>ι</unclear>ς
+<lb n="5"/>Ἠλίᾳ Παλέου
+<lb n="6"/><expan>ν<unclear>ο</unclear><ex>μίσματα</ex></expan> <subst><add place="inline"><num value="4">δ</num></add><del rend="corrected"><num><gap reason="illegible" quantity="1" unit="character"/></num></del></subst>
+</ab>
+      </div>

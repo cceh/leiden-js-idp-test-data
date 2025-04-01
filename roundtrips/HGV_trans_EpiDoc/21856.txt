@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              To Aurelius ..., strategus of the Oxyrhynchite nome, from Aurelius Theodorus son of Horion son of Thonis, his mother being ..., of the illustrious and most illustrious city of Oxyrhynchus, seller of fine oil. I swear by the fortune of our lord Aurelianus Augustus that I will provide daily in the factory which I possess in the market-place fine oil for sale and service of the city, so that no fraud may ensue, under penalty of being liable to the consequences of the oath; and I have provided as my surety Aurelius Sarapammon son of Saprion and Thaësis, of the said city, who is present and gives his consent. The 7th year of the Emperor Caesar Lucius Domitius Aurelianus Germanicus Maximus Persicus Maximus Gothicus Maximus Carpicus Maximus Pius Felix Augustus, Phaophi 21. /*Signatures of Theodorus and his surety, written by Aurelius Silvanus, and of another Aurelius.*/
+            =>
+         =T>
+      

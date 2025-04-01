@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="illegible" quantity="3" unit="character"/>ος <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>Πέτρος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>Ἀπολλώνιος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/>Εὐλόγιος <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>Πτολεμαῖος    <expan>λί<ex>τραι</ex></expan> <num value="20">κ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/>Ὡρί<unclear>ω</unclear>ν <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

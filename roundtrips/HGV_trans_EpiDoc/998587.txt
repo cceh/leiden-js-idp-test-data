@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) Year 6 of Imperatores Caesares Marci Aurelii Iulii Philippi Carpici Maximi
+                      Germanici Maximi Pii Felices Augusti, Mesore. Transcribed and collated from a
+                      file of conjoined petitions submitted to the most splendid prefect and posted in
+                      the treasury building … enclosed … with the subscription under it, as follows:
+               ((6)) To Aurelius Appius Sabinus, prefect of Egypt, from … a petition to the office
+                      of the prefect …; it is (as follows) … /*Translation: N. Gonis, P.Harr. 3 258*/
+            =>
+         =T>
+      

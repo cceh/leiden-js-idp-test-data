@@ -1,0 +1,78 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="FrA" type="textpart"><ab>
+
+    <lb n="1"/>μέγας <supplied reason="lost" cert="low">ποταμὸς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="FrB" type="textpart"><ab>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Ἀφρ</supplied>οδίτη<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="FrC,msup" type="textpart"><ab>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> πόλιν <expan>ἀναγρα<ex>φ  </ex></expan> 
+</ab></div><div n="FrC,1" type="textpart"><ab>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>μ</unclear>ούνιος <g type="long-vertical-bar"/> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Π</supplied>αθώτου <g type="long-vertical-bar"/> 
+
+    <lb n="6"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap>  <g type="long-vertical-bar"/> 
+</ab></div><div n="FrC,2" type="textpart"><ab>
+
+    <lb n="4"/>Πόρτιτος 
+
+    <lb n="5"/>τοῦ Παύ
+
+    <lb n="6" break="no"/>ριος 
+</ab></div><div n="FrC,3" type="textpart"><ab>
+
+    <lb n="4"/><g type="long-vertical-bar"/> ο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><g type="long-vertical-bar"/> τα<gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><g type="long-vertical-bar"/> <gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap> 
+
+    <lb n="7"/><milestone rend="horizontal-rule" unit="undefined"/> 
+</ab></div><div n="FrD" type="textpart"><ab>
+
+    <lb n="7"/>Ἑριεῦτος <g type="long-vertical-bar"/> τοῦ Πόρτ<supplied reason="lost">ιτος</supplied> 
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <choice><reg>ἀδελφοὶ</reg><orig>ἀδε<g type="long-vertical-bar"/>λφοὶ</orig></choice> ἔδα<supplied reason="lost">φος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><hi rend="supraline">ως</hi> <unclear>κ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="FrE+`G,1" type="textpart"><ab>
+
+    <lb n="10"/><g type="long-vertical-bar"/> ἔδαφος <choice><reg>ἀμ
+
+    <lb n="11" break="no"/>πελῶνος</reg><orig>ἀ<supplied reason="lost">μ</supplied><lb n="11" break="no"/><g type="long-vertical-bar"/>πελῶνος</orig></choice> 
+
+    <lb n="12"/><g type="long-vertical-bar"/> Ἀφροδίτ<unclear>η</unclear>ς 
+</ab></div><div n="FrF" type="textpart"><ab>
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>ωνυμ<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="FrG,mm" type="textpart"><ab>
+
+    <lb n="14"/><g type="long-vertical-bar"/> 
+</ab></div><div n="FrG,2" type="textpart"><ab>
+
+    <lb n="14"/><unclear>ἔ</unclear>δ<supplied reason="lost">αφος</supplied> 
+
+    <lb n="15"/>ἀμπελ<supplied reason="lost">ῶ</supplied>
+
+    <lb n="16" break="no"/>νος Νε
+
+    <lb n="17" break="no"/>χθμίν<supplied reason="lost">ι</supplied>
+
+    <lb n="18" break="no"/>ος <unclear>τ</unclear><supplied reason="lost">έκτο</supplied>
+
+    <lb n="19" break="no"/><unclear>νος</unclear> κα<supplied reason="lost">ὶ</supplied> 
+
+    <lb n="20"/>Παθώ
+
+    <lb n="21" break="no"/>του Πο<supplied reason="lost">ρ</supplied><gap reason="lost" quantity="1" unit="character"/> 
+
+    <lb n="22"/>του<supplied reason="lost">ου</supplied> 
+</ab></div><div n="FrH" type="textpart"><ab>
+
+    <lb n="23"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="24"/><gap reason="lost" extent="unknown" unit="character"/>του τ<unclear>ῆ</unclear>ς <unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="25"/><gap reason="lost" extent="unknown" unit="character"/>τ<unclear>ου</unclear>ς απολ<gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>

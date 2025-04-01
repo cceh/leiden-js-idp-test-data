@@ -1,0 +1,22 @@
+
+         <T=.de
+            <=
+               ((1)) Unter der Regierung der Kleopatra, der Thea Euergetis, die auch Philometor, Dikaiosyne und Nikephoros
+heißt, und des Ptolemaios, der auch Alexander heißt, im 13. Jahre, das auch als das 10. Jahr gezählt wird,
+in welchem die Königin Kleopatra, die Thea Euergetis, die auch Philometor, Dikaiosyne und Nikephoros heißt,
+Priesterin des Kultes des Alexander ist und des Kultes der Theoi Soteres, der Theoi Adelphoi,
+der Theoi Euergetai, der Theoi Philopatores, der Theoi Epiphaneis, des Theos Eupator, des
+Theos Philometor, des Theos Neos Philopator, des Theos Euergetes und der Theoi Philometores,
+((11)) in dem Jahr, in welchem der . . . und Exeget Theodoros, Sohn des Seleukos, auf Lebenszeit innehat das Priesteramt des Kultes der Königin
+Kleopatra, der Thea Euergetis, die auch Philometor, Dikaiosyne und Nikephoros heißt, 
+((12)) in dem Jahr, in welchem Mnemosyne, Tochter des Nikanor, Priesterin
+ist des Kultes der Königin Kleopatra, der Thea Euergetis, die auch Philometor, Dikaiosyne und Nikephoros heißt,
+((14)) in dem Jahr, in welchem Demetrios, Sohn des Theodoros, Hieros Polos der großen Göttermutter Isis ist,
+Olympias, die Tochter des Seleukos, Priesterin der Arsinoe Philopator ist, und NN., die Tochter des NN., Kranzträgerin der Königin Kleopatra,
+der Thea Euergetis . . .
+
+/*Translation: D. Hagedorn, P.Koeln 2 81*/
+
+            =>
+         =T>
+      

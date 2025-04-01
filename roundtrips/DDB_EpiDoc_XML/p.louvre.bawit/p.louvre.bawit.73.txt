@@ -1,0 +1,13 @@
+<S=.cop
+<=
+    1. lost.?lin
+
+    1. [.?][*slanting-stroke**slanting-stroke*] [ⲉⲃ]ⲟⲗ ϫⲉ ⲉⲩⲡⲉ[.?]
+
+    2. [.?] [ⲛ]ⲉ̣ⲕⲧⲛϩ *slanting-stroke**slanting-stroke* ⲉⲃⲟⲗ ϫⲉ ⲁⲓ̣.1[.?]
+
+    3. [.?] [*slanting-stroke**slanting-stroke*] ⲉ̣ⲃⲟⲗ ϫⲉ ⲁⲩⲕ̣.1ⲛ̣.1[.?]
+
+    3. lost.?lin
+=>
+      

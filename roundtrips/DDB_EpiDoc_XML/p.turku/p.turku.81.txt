@@ -1,0 +1,13 @@
+<S=.grc
+<D=.r<=
+1. vestig 
+=>=D>
+<D=.v
+<D=.i.column<=
+1. vestig 
+=>=D>
+<D=.ii.column<=
+1. vestig 
+=>=D>
+=D>
+      

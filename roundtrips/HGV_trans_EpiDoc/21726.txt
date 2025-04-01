@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              Copy of an edict. Proclamation of Flavius Eutolmius Tatianus, most illustrious praefect of Egypt. [My orders are] not based on information gained by ... and from a few first comers, but on instruction in a way derived from what occurs in every city and district. I learn from petitions that some persons of civil status, without [excuse?], whether from malice or from perversity of judgement, in their desire thoroughly to worst their adversaries at law, have recourse to the local praepositi, presenting petitions to them and procuring exactions by their means from persons, as I said, of civil status. That this is forbidden by the law is clear. For a praepositus has authority over soldiers, but not over civilians; it is enjoined on the praesides to [govern] them and to receive their applications. This, therefore, is for the future made clear by this proclamation. If any civilian has a difference with a soldier and relies on the vengeance of the praepositus and is confident of receiving assistance from him, let him apply; for he cannot obtain requisite assistance on the spot from any one else. If, however, it is with a person of civil status, let him not attempt to do this. For should any one ever be discovered leaving his proper court and having recourse to unauthorized persons, if he is a man of common rank, I order him to be deported, and if he is a senator, I subject him to confiscation of property. I therefore command the local riparii, if they catch any civilian who has left his proper court and had recourse to praepositi...
+            =>
+         =T>
+      

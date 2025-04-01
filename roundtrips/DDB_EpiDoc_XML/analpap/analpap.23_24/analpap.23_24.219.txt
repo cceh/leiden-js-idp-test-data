@@ -1,0 +1,163 @@
+<S=.grc
+<D=.i.column<= 
+    1. [.?].8[.?]
+
+    2. vestig  
+ 
+    3. vestig  
+
+    4. <:[a]ccepi|reg|[a]c̣ẹp̣ị:> .1[.?] (ḅ(ilibres)) .3x̣ị
+
+    5. a.5e.1[.?] (ḅ(ilibres)) .3
+
+    6. ạ.3[.?] (ḅ(ilibres)) .3 
+
+    7. a.6[.?]ụ.1ṣ[.1].1
+ 
+    8. [.?].1s.2ạ
+ 
+    9. vestig  
+
+    10. ụ.4p̣.1 vestig  
+
+    11. ạ.3 vestig  .4 vestig  
+
+    12. .3 vestig  
+
+    13. [.?].2
+
+    14. [.?]ạ
+
+    15. [.?].1ṭ.2 vestig  
+
+    16. [.?].5 (ḅ(ilibres)) <#x̣xi=21#>
+
+    17. [.?].1ịn.1ạ.2 vestig  
+    
+    18. [.?].3 in die
+
+    19. [.?].5 diebus (ḅ(ilibres)) <#ṿịịị=8#>
+
+    20. [.?].4 <:accepit|reg|acipit:> a.2
+
+    21. [pro] ziạ.6
+
+    22. .7 diebus <#ṣẹx=6#> (b(ilibres)) [.?]
+
+    23. .7 <:nostri|reg|nosri:>
+
+    25. vestig  (b(ilibres)) <#xvi=16#>
+
+    26. vestig   
+
+    27. vestig   
+
+    28. .3s.4tasin
+
+    29. vestig   
+
+    30. (b(ilibres)) <#x̣=10#>
+
+    31. diebus (b(ilibres)) <#x=10#> 
+
+=>=D> 
+<D=.ii.column<= 
+    1. vestig.12.lin  
+
+    13. Ṣịbilụt et 
+
+    14. .4lu q̣.2 (b(ilibres)) <#xxx=30#>
+
+    15. vestig  
+
+    16. vestig  
+
+    17. vestig   (b(ilibres)) vestig  
+
+    18. <:accepi|reg|acepi:> r.1
+
+    19. sisị.4 (b(ilibres)) <#lx̣xxviiịi=89#>
+=>=D> 
+<D=.iii.column<= 
+    1. vestig  q.2 (b(ilibris)) <#l=50#>
+
+    2. [ex quibus se]ṃen <:positum|reg|positu:> q.2 (b(ilibres)) <#xxv=25#>
+
+    3. vestig 
+
+    4. vestig   (b(ilibres))
+
+    5. vestig   (b(ilibres))
+
+    6. vestig 
+
+    7. vestig 
+
+    8. vestig 
+
+    9. vestig 
+
+    10. diebu[s] [.2]ẹs <#<:quattuor|reg|quatọṛ:>=4#>
+
+    11. [.6].3 in diebus
+
+    12. .3[.2].3 (b(ilibres)) <#lvi=56#>
+
+    13. [.2].4nus
+
+    14. [.4].1 cacabụ (|bilib|)
+
+    15. ạ.7
+
+    16. diebus .2ḍeci (b(ilibres)) <#xxxvi=36#>
+
+    17. a.4ac̣iat
+
+    18. Cabalus in die
+
+    19. bilibres <#<:quattuor|reg|quạtoṛ:>=4#>
+
+    20. in (l(ibras?)) <#x̣x=20#> diebus <:septem|reg|septe:> (b(ilibres)) <#xṿiii=18#> 
+=>=D> 
+<D=.iv.column<= 
+    1. <:accepi|reg|acepi:> a <:villa|reg|bila:>
+
+    2. farina (b(ilibres)) <#lvii=57#>
+
+    3. a <:(civi(t)ate)|reg|(cibi(t)ate):> (b(ilibres)) <#xṿ[3]=16-19#>
+
+    4. <p>er <:Urbanum|reg|Urbanu:> (b(ilibres)) <#lx[.?]=61-89#>
+
+    5. per <:Bernaclum|reg|Bernaclu:> (b(ilibres)) [.?] 
+
+    6. a (l(ibris?)) <#xviii=18#> <:accipiun[t]|reg|acipiun[t]:> [.?]
+
+    7. <:nostri|reg|nosri:> farina [.?]
+
+    8. in (k(alendis?)) (b(ilibres)) <#l=50#> ạ.3[.?]
+
+    9. <#<:quattuordeci[m]|reg|quatord[eci]:>=14#> [.?]
+
+    10. ego 〚.1〛 (b(ilibres)) [.?]
+
+    11. Zemoz <#x̣.1[.?]=11-39#>
+
+    12. Tafsur (b(ilibres)) <#x[.?]=11-39#>
+
+    13. Bernaclus (b(ilibres)) <#xliii=43#> [.?]
+
+    14. Calendio (b(ilibres)) <#xx[.?]=20-39#>
+
+    15. Sibilut <#xx[.?]=20-39#>
+
+    16. ịṇ cacabu <(b(ilibres))> <#xii[.?]=12-14#>
+
+    17. Uṛḅạnus (b(ilibres)) .1[.?]
+
+    18. redidi <:ipse|reg|ifse:> (ḅ(ilibres)) [.?]
+
+    19. vestig(?)  
+
+    20. vestig(?)   
+=>=D> 
+      

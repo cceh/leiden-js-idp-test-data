@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) † To my most honored lord brother Anoubion, Alexander the presbyter. (((5))) I have obtained and received from you two (2) solidi minus eight (8) carats for the (outstanding) account 
+of Abba Isak's debt of four solidi. (((13))) And for your security I have made this receipt of mine, as described above. (((17))) I, Alexander the presbyter: the receipt, as described above, is satisfactory to me. 
+† (((21))) I Johannes the scribe, wrote on his behalf, at his request, since he does not know how to write. (((25))) 13 Choiak, 4th indiction. 
+/*Translation with minor modifications: C.M. Sampson, BASP 50 (2013) 169*/
+            =>
+         =T>
+      

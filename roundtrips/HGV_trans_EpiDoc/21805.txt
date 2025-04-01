@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 10*/
+              To my incomparable master, the consolation of his friends, Gonatas from Ammon, greeting. Before all else I pray to the Lord God for the prosperity of yourself and those dearest to you. I have been keeping myself quite alone beyond the point of safety, and all the vain talk of the world besets me. For I have only you to witness how Gunthus laid hands on me when Castor son of Damostratus, superintendent of wine—Gunthus sent me a receipt for 66 spathia of wine; for Troilus 36, for me 22, for Dius 8, and when I came to the Oxyrhynchite nome he charged me for each spathium 7 talents, which you being the intermediary in this... (Addressed)To my lord and brother Gonatas from Ammon.
+            =>
+         =T>
+      

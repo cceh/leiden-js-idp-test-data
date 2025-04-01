@@ -1,0 +1,31 @@
+
+         <T=.en
+      <D=.A,int 
+               <=  (From J.E. Grubbs, Women and the Law in the Roman Empire, 2002, p. 37.) 
+
+/*Translation of the two interior pages; the outer leaves of the diptych have the same text as the inner leaves, and the names of seven witnesses.*/
+                 
+(((1))) /*in Latin*/ Q. Aemilius Saturninus, prefect of Egypt, with C. Terentius Sarapammon bringing the request, gave as tutor to Mevia Dionysarion, according to the Julian and Titian law and the decree of the Senate, M. Julius Alexander, ((5)) provided that tutela does not pass from a legitimate tutor. D. E. R. E. E. B. T. S. S. 
+Transacted at Alexandria in Egypt on the ninth day before the Kalends of October in the consulship of Saturninus and Gellus, in the seventh year of the Emperors Caesars L. Septimius Severus Pius Pertinax Arabicus Adiabenicus 
+
+               =>
+            =D>
+            <D=.B,int 
+               <=
+                  ((10)) Parthicus Maximus and M. Aurelius Antoninus the Augusti, in the month Thot on day 26.
+/*in another hand, in Greek*/ I, Mevia Dionysarion, have requested as registered (guardian) ((15)) Julius Alexander, as above. I, Gaius Julius Heraklas, have written on her behalf as she does not know letters.
+
+               =>
+            =D>
+            <D=.B,ext 
+               <=
+                  ((18))
+               =>
+            =D>
+            <D=.A,ext 
+               <=
+                  ((32))
+               =>
+            =D>
+         =T>
+      

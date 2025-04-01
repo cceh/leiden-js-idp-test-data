@@ -1,0 +1,19 @@
+
+            <T=.fr
+            <=
+               ((1)) Le 30. Douzième année de l’empereur César Domitien Auguste Germanicus, mois de Néos Sébastos 30, à Ptolémaïs Évergétis du
+nome Arsinoïte. ((4)) Taeuhèméros, fille de Marcus, âgée d’environ cinquante-cinq ans, portant une cicatrice près du pouce droit, 
+avec pour tuteur son fils Sarapiôn, fils de Sarapiôn, âgé d’environ vingt-cinq ans et porteur d’une cicatrice au milieu du front sous les cheveux, 
+conclut un accord avec Marcus Anthestius Gémellus, soldat de la troisième cohorte des Ituréens, de la centurie de Titius, 
+âgé d’environ trente-cinq ans et porteur d’une cicatrice au menton du côté gauche, accord selon lequel elle, Taeuhèméros, la partie contractante, 
+devra rendre audit Marcus Anthestius Gémellus, dans les cinq jours à partir du jour susdit, (délai) qu’elle lui a demandé à titre d’indulgence pour le remboursement, 
+les mille drachmes d’argent dues par Hérakleidès, fils de Hôriôn, à Thaèsis, fille de Sisoïs, mère dudit Anthestius, aujourd’hui décédée, 
+((13)) conformément au contrat enregistré par le bureau notarial du village de Karanis, 
+au mois de Pharmouthi de la sixième année du divin Vespasien [- - -] Taeuhèméros a [- - -] d’Hérakleidès à proximité de Karanis 
+[- - -] de trois aroures et demi d’une oliveraie [- - -] comme l’allègue le même Hérakleidès 
+[- - -] quatre cent quarante drachmes d’argent [- - -] Taeuhèméros a [- - -] ((19)) à Marcus, des mille drachmes d’argent susmentionnées et des quarante(?) 
+[- - -] autres drachmes d’argent que le même Hérakleidès doit, [conformément à un autre] contrat, [- - -] quarante [- - -] la présente année [- - -].
+/*Translation: P. Heilporn, CdE 85 (2010) 258*/
+            =>
+         =T>
+        

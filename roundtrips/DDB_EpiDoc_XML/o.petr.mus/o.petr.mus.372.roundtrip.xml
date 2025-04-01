@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><expan>Μεσο<ex>ρὴ</ex></expan> <num value="6"><hi rend="supraline">ϛ</hi></num> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>Χ<ex>άρακος</ex></expan> <expan>ὀνό<ex>ματος</ex></expan> Ὥρου 
+
+    <lb n="3"/>Ἁπολ<gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" quantity="2" unit="character"/> Πα<unclear>υ</unclear>ηοῦς
+
+    <lb n="4"/><expan><ex>πυροῦ</ex></expan> <num value="2">δύο</num> <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="2">β</num> <abbr>Πεπ</abbr> <expan><unclear>σεση</unclear><ex>μείωμαι</ex></expan> </ab></div>

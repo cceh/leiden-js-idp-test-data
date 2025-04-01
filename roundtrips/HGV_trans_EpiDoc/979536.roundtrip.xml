@@ -1,0 +1,49 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="i" subtype="column" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> […] of Hiera Nesos
+                         […] Traiana […]
+                         (son) of Athenais
+                         […] drachmae 1525
+                  <milestone unit="line" n="5"/> […] … Marcus Aurelius
+                         […] … for rent …
+                         […] 230, drachmae 40
+                         […]enais son of Theon, Aurelios
+                         […], dressing room attendants, for rent
+                <milestone unit="line" n="10"/> […] … drachmae 1.5
+                         […] (h2?) …
+                         (h1) […] ..25, 1 tetrobol and 1 half-obol
+                         […] … of …
+                         […] credited […]
+                <milestone unit="line" n="15"/> […] …
+                         […] 23 …
+                         […] … drachmae 23 … […] …
+                         […] drachmae …
+               </p>
+            </div>
+            <div n="ii" subtype="column" type="textpart">
+               <p>
+                  <milestone unit="line" n="20"/> Hiera, revenue lands […]
+                           Marcus Aurelius
+                           on account of the […]
+                           4, drachmae 380 […]
+                           Marcus Aurelius […]
+                  <milestone unit="line" n="25"/> bouleutes (ex?) gymnasiarch […]
+                           the 5th of the month Kaisareios […]
+                           Marcus Aurelius […]
+                           from the first to the 23rd of the month […]
+                           Marcus Aurelius Theophilos, brother […]
+                  <milestone unit="line" n="30"/> of Marcus Aurelius […]
+                           kosmetes […]
+                           also now 12, drachmae 7.. […]
+                           total […]
+                           Hiera, revenue lands […]
+                  <milestone unit="line" n="35"/> for rent of lands […]
+                           great […] total of […]
+                  <milestone unit="line" n="40"/> money […]
+                           <note>Translation: Y. Amory, APF 68 (2022) 141</note>
+               </p>
+            </div>
+         </div>
+      </body>

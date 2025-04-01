@@ -1,0 +1,11 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve">
+            <p>
+               <milestone unit="line" n="1"/> An Aurelius Artemidoros, den Strategen des Herakleides-Bezirks des
+Arsinoites, von Aurelius Ptolemaios, dem Sohn des Serenos und Enkel des Heroneinos, 
+<milestone unit="line" n="5" rend="break"/>aus dem Dorf Ptolemais Drymu des Themistes-Bezirks. 
+<milestone unit="line" n="7" rend="break"/>Ich bin bereit, ... zu pachten ... 
+<note>Translation: D. Hagedorn, P.Köln 2 89 [Übersetzung im Rahmen der Einführung in die Papyrologie WiSe 2023/24]</note>
+            </p>
+         </div>
+      </body>

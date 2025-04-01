@@ -1,0 +1,37 @@
+<S=.la
+<D=.r<= 
+    1. $m1 [.26].1ḅc̣[.1].1ṃ.8c̣o [filiam suam]
+
+    2. [.10] [virginem e leg]e Ịulia quae de mariṭạṇḍis or[dinibus lata]
+
+    3. [est in matrimonio eam] <:collocavit|reg|c̣ọlocavit:>, (Ti(berius)) Claudius <:Puro [Heraclianus]|alt|Puro[n Heraclianus]:>
+
+    4. [uxorem duxit] [.11].2ẹ subricopallium <#I=1#> .2ụm[.10]
+
+    5. [.16] [denarios] <#sexaginta=60#> qui fiunṭ [((denarii)) <#LX=60#>] [.10]
+
+    6. [.19] [Her]aclianus accep̣isṣẹ <:.1[.15]||alt||ẹ[t habere dixit] [.3]|ḍ[ixit] [.9]:>
+
+    7. [.22] ạerẹos uti <:co.1[.1]ṣ|alt|coḷ[o]ṣ:>.1[.18] 
+
+    8. <:[.22]ụe||alt||[.21][q]ụe|[.22]ṿe:><:f̣.2e|alt|f̣ịḍe:>ḷ.1ẹ.1[.1].2[.22]
+
+    9. [.22]ẹ Heraclianọ [.3]ḷị.1[.16]
+
+    10. <:[.22]ṣe|alt|[.19] [pos]ṣe:> ḍari prae ta[.2].1ẹ[.17]
+
+    11. [Petronio Mamertino et Tine]io Rufo (co(n)s(ulibus)) ạ[n]ṇọ <:<#X̣̄X̄Ị̄Ị̄=22#> (Ị[mp(eratoris)])|alt|<#X̣̄X̄Ị̄Ị̄Ị̄=23#> [(Imp(eratoris))]:> [(Caes(aris)) (M(arci)) Aureli]
+
+    12. [Commodi Antonini (Aug(usti)) Sar]matici G̣erm[a]ṇ[i]c̣ị ṃạ[ximi mense] [.?] [die] [.?]
+
+    13. $m2 ~|[.?]των μ[.2].1[.2].1[.4].2[.?]|~grc 
+
+    14. ~|<:[.?]ε̣τ̣αρκα[.2]|alt|[.?]ε̣ γὰρ κα[ί] [.1]:>.1[.?]|~grc 
+
+    14. lost.?lin
+=>=D>
+<D=.v<= 
+    1. $m3 ~|[.?].6ε.1ωνο̣υ̣|~grc 
+
+    2. ~|[.?].2[.1].4ν̣ο̣|~grc 
+=>=D>

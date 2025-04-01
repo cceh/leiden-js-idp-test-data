@@ -1,0 +1,21 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Hêrôn, Sohn des Chairis, grüßt Tûrbôn, Sohn des Tepisôs.
+            <milestone unit="line" n="3" rend="break"/>Ich habe von Dir erhalten für den Pachtzins des 29. Jahres fünfzig, das 
+            sind 50, <term target="artaba">Artaben</term>, und für <term target="chlorophoros">das mit Grünfutter 
+                bebaute (Land)</term> 64 Drachmen, 20 Obolen,
+            <milestone unit="line" n="5" rend="break"/>und für den Pachtzins des 30. Jahres ebenso fünfzig, das sind 50, 
+            <term target="artaba">Artaben</term>, und für <term target="chlorophoros">das mit Grünfutter bebaute 
+                (Land)</term> 6[4] Drachmen, [20 Obolen].
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Heron, son of Chairis, to Tourbon, son of Tepisos, greetings.
+            <milestone unit="line" n="3" rend="break"/>I have received from you for year 29 for rent in kind fifty 
+            <term target="artaba">artabas</term>, = 50 and for <term target="chlorophoros">(land) bearing green fodder 
+                crops</term> 64 drachmas 20 obols 
+            <milestone unit="line" n="5" rend="break"/>and for 
+            year 30 likewise for rent in kind fifty <term target="artaba">artabas</term>, = 50 
+            and for <term target="chlorophoros">(land) bearing green fodder crops</term> 6[4] 
+            drachmas [20 obols].
+        </p></div>
+      </body>

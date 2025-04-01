@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>υτο καὶ <gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="15" unit="character" precision="low"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>τ</unclear>ούτο<unclear>υ</unclear> τὰ ἀκόλουθα πράξῃς καὶ <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="5" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>υ
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> πέπρακεν Γα<hi rend="diaeresis">ΐ</hi>ωνι <unclear>καὶ</unclear> ἐγὼ ἀδικ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><choice><reg><supplied reason="lost">ὑ</supplied>πατείας</reg><orig><supplied reason="lost">ὑ</supplied>πατίας</orig></choice> <expan>Φλ<ex>αουΐων</ex></expan> Αὐσονίου καὶ Ὀλυβρίου τῶν λαμπροτάτων
+<lb n="6"/><space extent="unknown" unit="character"/> ἐπάρχων, Μεσορὴ <num value="9">θ</num>.
+<lb n="7"/><handShift new="m2"/><unclear>Αὐ</unclear>ρηλί<unclear>α</unclear> Μαρία ἐπιδέδωκα.
+</ab></div>

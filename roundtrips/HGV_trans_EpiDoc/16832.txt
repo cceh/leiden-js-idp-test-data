@@ -1,0 +1,19 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1))In the year after the consulate of our lord Theodosius, eternal Augustus, 
+for the ninth time and of Flavius Constantius the most illustrious patricius for the third time on the 24th of Pharmouthi. 
+(((3)))To the Flavii Joseph and Theodoulos, riparii of the Oxyrhynchite nome from Flavius Theodoros, son of Theon, nauarchus of the same town. 
+I do not understand how it has been possible, while in the present situation peace reigns everywhere – for fear of the power of our most eminent chief magistrate – 
+that some evil-doers have invaded my land and stolen the hay - - -
+              =>
+           =D>
+           <D=.v 
+               <=
+                   ((10))From Flavius Theodoros, son of Theon, arouras ...
+                   /*Translation: P.Select 8*/
+               =>
+           =D>
+           =T>
+        

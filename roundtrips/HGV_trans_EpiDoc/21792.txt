@@ -1,0 +1,18 @@
+
+         <T=.en
+            <=
+              /*Translation: Adapted from P.Oxy. 10*/
+(((1))) (hand 1) From Aurelius Hierax also called Didymos, strategos of the Kynopolite nome. 
+A copy of the memorandum handed to me by the komarchs of the village of Terythis, (((4))) presenting the person named below 
+for the conveyance of samples of the wheat belonging to the State which is being conveyed to the most illustrious Alexandria, is publicly exhibited, 
+in order that everyone may know and the person nominated may enter on his duties. 
+(((11)))The 1st year of our lords Macrianus and Quietus Pii Felices Augusti, Choiak 1.
+(((14))) (hand 2) To Aurelius Hierax also called Didymos, strategos of the Kynopolite nome, from Aurelius Silvanus son of Panetbauis and Aurelius Menches son of Theon, 
+both komarchs of the village of Terythis for the present 1st year. 
+((20))For the conveyance of samples of the wheat belonging to the State which is being conveyed to the most illustrious Alexandria we present the undermentioned person, being a man of means and suitable, at our own 
+((25))risk: Aurelius Petrus, whose mother is Tauris, aged about 30, having property worth 500 drachmae.
+(((28)))Year 1 of the Imperatores Caesares Titus Fluvius Iunius Macrianus and Titus Fulvius Iunius Quietus, Pii Felices Augusti, Choiak 1.
+(((31)))(hand 3) We, Aurelioi Silvanus and Menches submitted. But I Silvanus wrote on behalf of Menches, as he does not know letters.
+            =>
+         =T>
+      

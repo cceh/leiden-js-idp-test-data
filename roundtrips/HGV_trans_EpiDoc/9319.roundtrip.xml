@@ -1,0 +1,22 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Vom Saatgut des 22. Jahres des Antoninus Caes[ar, des] Herren, für 4 1/2 
+            <term target="aroura">Aruren</term> 
+            <term target="basilikege">Königsland</term> bei Psenarpsenêsis, 1 1/4 
+            <term target="aroura">Aruren</term> ...: 38. 
+            <term target="cleruchy">Kleruchie</term>. <app><lem>Pr[ôtas]</lem></app>, 
+            Sohn des Orsenûphis, <app type="BGU"><lem resp="BL I, S. 62">2</lem></app> 
+            <app type="BGU"><lem><term target="aroura">Aruren</term></lem></app> 
+            <app type="BGU"><lem resp="BL I, S. 62">...</lem></app>.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>From the seed reserves of year 22 of Antoninus Caes[ar, the] lord. At 
+            Psenarpsenesis 4 1/2 ... an <term target="aroura">aroura</term> of 
+            <term target="basilikege">royal (land)</term>. 1 1/4 of an 
+            <term target="aroura">aroura</term>. 38th 
+            <term target="cleruchy">cleruchy</term>. <app><lem>Pr[otas]</lem></app>, son of
+            Orsenouphis, <app type="BGU"><lem resp="BL I 62">2</lem></app> 
+            <app type="BGU"><lem><term target="aroura">arouras</term></lem></app> 
+            <app type="BGU"><lem resp="BL I 62">of ...</lem></app>.
+        </p></div>
+      </body>

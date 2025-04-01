@@ -1,0 +1,15 @@
+
+            <T=.en
+            <=
+               ((1))To Aurelia Fabia, who has no father her mother being Tryphas, 
+of Bonaphion from Aurelius Papirius son of Arus and Tarsenuphis of the epoikion Abrochon and Aurelius Polion son of Hesperus of the village [.]sebastus and Aurelius Dionysus, 
+son of Syrus and Didyme, of the epoikion Pisae, the three. We wish to lease from you on mutual surety the six arurae of catoetic land you own 
+near the village Heracleia and one other arura of catoetic land for the period of two years beginning with the sowing of the current fifth year. 
+((9)) The annual rent of the whole will be four artabae of wheat for each arura, and we shall perform all the yearly necessary work at our own expense 
+at the proper time without any damage and we shall pay the yearly rent in the month Payni with the tetrachoinic measure of the dromoi. All the public taxes are to be paid by you the owner, 
+while the cost of carriage falls on us the lessees and after the time we shall give it back after the harvest, if you are willing to lease it. 
+Aurelia Fabia old 26 years with a scar in her neck. (((19))) The fifth year of the emperor Caesar Marcus Aurelius Severus Alexander Pius Felix Augustus the 16th Hathyr.
+/*Translation: E.P. Wegener, Mnemosyne 3 (1936) 230*/
+            =>
+         =T>
+        

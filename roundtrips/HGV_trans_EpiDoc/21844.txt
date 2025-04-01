@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              The [.]th year of Lucius Septimius Severus Pius Pertinax and Marcus Aurelius Antoninus Caesars the lords. The heirs of Dionysius son of Asclepiades have paid to Plution and partners, collectors of the crown-dues, upon 3 5/8 arurae of private land twenty-nine drachmae, total 29 dr.; likewise upon State land on account eighteen drachmae, total 18 dr. Signed by me, Sarapion.
+            =>
+         =T>
+      

@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Whereas the death has occurred of Aurelius Hermias son of Ptolemaeus, a Roman citizen of Hermopolis registered in the East-end quarter, father of the two minors aforesaid, and whereas he declared us his two sons his heirs in accordance with the will opened according to custom in the Caesareum, you being represented by an assistant, on the 38th of the present month Mesore at the commencement of the fourth hour, we swear by the fortune of our lord the Emperor Caesar Gaius Julius Verus Maximinus Pius Felix Augustus that the property left by our aforesaid father is worth in all about 10 Imperial talents. The 1st year, Mesore 30. (Signed) I, Aurelius Hermodorus also called Apollonius, guardian of the minors, registered in the quarter of the Western Guard-house, have taken the oath on their behalf as aforesaid.’
+            =>
+         =T>
+      

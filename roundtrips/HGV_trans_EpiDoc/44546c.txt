@@ -1,0 +1,19 @@
+
+         <T=.de
+            <D=.III 
+               <D=.v 
+                  <D=.i.column 
+                     <=
+                        ((1)) Im 21. Jahr des divus Hadrianus, am 6. Tybi, wobei auftraten: Zenas, Sohn des Apollonios; Sotas, Sohn des Theon; Alexandros,
+Sohn des Alexandros. ((3)) Nachdem ein Schreiben bezüglich dieser Leute von Gellius Bassus, dem ehemaligen Epistrategen der Sieben Gaue, verlesen worden war,
+beriet sich Petronius Mamertinus mit den Mitgliedern des consilium und befahl, dass Zenas und Sotas und Alexandros mit Stöcken geprügelt
+                               …
+                               dass sie rechtskonforme Zuschläge der Pachtung
+                               …
+/*Translation: A. Jördens, P.Louvre 3 175*/
+                     =>
+                  =D>
+               =D>
+            =D>
+         =T>
+      

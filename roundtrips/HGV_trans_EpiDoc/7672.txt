@@ -1,0 +1,8 @@
+
+            <T=.en
+            <=
+               ((1))[Philonides to his] father, greetings. If you are in good health, that would be fine. I am in good health too myself. [...]
+               /*Translation with slight modification: B. Van Beek in P.Petr.Kleon, p. 42, © Peeters*/
+            =>
+         =T>
+        

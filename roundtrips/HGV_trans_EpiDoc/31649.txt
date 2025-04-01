@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              Didymus to his father Chaeremon, very many greetings. Do not neglect the things to be done for the land-holder, as you desired, for I know your goodness and reasonableness. There is nothing unpleasant at your house. My mother Thaësis went, I think, to Antinodpolis for a funeral. Tell me freely about anything which you want and I will do it gladly. Give many salutations to my dearest Phullon and his children, whom the evil eye shall not harm, and his wife and those whom we love severally. All your relatives and your children salute you. I pray for your health.
+            =>
+         =T>
+      

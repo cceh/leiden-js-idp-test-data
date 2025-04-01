@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              The 27th, Chares’ emporium. Report of the emporium ... of Chares, to Ammonion, Hephaestas and Lycarion, overseers, in the 6th year of Antoninus Caesar the lord, Epeiph .. Nicus, 2 double jars of pickled fish 2 drachmae; Didymus, 6 ropes ...; Ptolemaeus 1 double jar of pickled fish 1 drachma /*(marginal note ‘2 obols too little’)*/; Ammonas son of Gaius, of Kerken...; Iulas 3 mattresses...; Seras 2 double jars of pickled fish 2 drachmae; Sarapion 2 artabae of meal...; another Sarapion 3 loads of ...; ditto 2 minae of wrought iron .. drachmae; Parodus 2 minae of wrought iron .. drachmae; Arius 24 mats...; Isidorus 6 couch-legs...; ditto 4 staters of purple ...; Hartosis 12 ropes..drachmae; Morus 8 plaited fishbaskets 1 drachma 1 obol; Isipoutas 2 double jars of pickled fish 2 drachmae; Herodes 50 wicks 1 drachma 3 obols; total 34 drachmae 1 obol /*(marginal note ‘making 34 drachmae 3 obols’)*/, which sum was paid over to Ammonion, Hephaestas and Lycarion, overseers. (Signed) Certified by me, Claudius Dionysius.
+            =>
+         =T>
+      

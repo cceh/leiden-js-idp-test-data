@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><choice><reg>διαγεγράφηκε</reg><orig>διακεγράφηκε</orig></choice>
+
+    <lb n="2"/>Παχoμπαζμῆθι<supplied reason="omitted">ς</supplied> <app type="alternative"><lem><expan>Ζμην<supplied reason="omitted">π</supplied><ex>ῶτος</ex></expan></lem><rdg><expan>Ζμην<supplied reason="lost">π<ex>ῶτος</ex></supplied></expan><certainty match=".." locus="value"/></rdg><rdg>Ζμενπῶτος<certainty match=".." locus="value"/></rdg></app>
+
+    <lb n="3"/>ὑπὲρ <expan>λα<supplied reason="omitted">ο</supplied>γρα<ex>φίας</ex></expan> τοῦ <num value="17">ιζ</num> <expan><ex>ἔτους</ex></expan>
+
+    <lb n="4"/><choice><reg>Τιβερίου</reg><orig>Τειβερίου</orig></choice> Καίσαρος
+
+    <lb n="5"/><choice><reg>Σεβαστοῦ</reg><orig>Σεβαστὸς</orig></choice> <expan>Χ<ex>οιὰκ</ex></expan> <num value="3"><hi rend="supraline">γ</hi></num> <expan><ex>δραχμὰς</ex></expan> <num value="12"><choice><reg>δεκα<lb n="6" break="no"/>δύο</reg><orig>δεκα
+
+    <lb n="6" break="no"/>δίου</orig></choice></num>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="12">ιβ</num>.
+</ab></div>

@@ -1,0 +1,15 @@
+<S=.grc<D=.r,1<=
+
+    1. vestig.?lin 
+
+    2. $m2  vestig  
+=>=D><D=.r,2<=
+
+    1. $m1  vestig.?lin 
+
+    2. $m2  vestig  
+=>=D><D=.v<=
+
+    1. $m1  .5lin 
+
+    2. $m2  vestig  =>=D>

@@ -1,0 +1,29 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"> 
+<div n="a" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><handShift new="m1"/>Θέστωρ Θεομνήστωι
+<lb n="2"/>χαίρειν. γραφήτω τοῖς
+<lb n="3"/>παρὰ σοῦ φυλακίταις
+<lb n="4"/>συνυπογράφοντος καὶ
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div> 
+<div n="b" subtype="fragment" type="textpart"><ab>
+<lb n="5"/><handShift new="m2"/><unclear>Θέστ</unclear>ω<unclear>ρ</unclear> <supplied reason="lost">Θεομνήστωι</supplied>.
+<lb n="6"/><supplied reason="lost">π</supplied><unclear>ρ</unclear>οοῦ<unclear> </unclear>ἀράκο<unclear>υ</unclear> <supplied reason="lost"><num value="5">ε</num> κα</supplied>
+<lb n="7" break="no"/><unclear>θότ</unclear>ι προγέγραπται.
+<lb n="8"/><handShift new="m3"/>Σεμθεὺς Θεομνήσ
+<lb n="9" break="no"/>τωι χαίρ<supplied reason="lost">ει</supplied><unclear>ν</unclear>. <supplied reason="lost">π</supplied><unclear>ρ</unclear>οοῦ
+<lb n="10"/>vestig
+<lb n="11"/><expan>ἀρ<ex>άκου</ex></expan> <num value="5">ε</num>. <gap reason="ellipsis" extent="unknown" unit="character"><desc>Demotic</desc></gap>.
+</ab></div>
+</div> 
+<div n="v" type="textpart"> 
+<div n="a" subtype="fragment" type="textpart"><ab>
+<lb n="12"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>χ<gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ε<gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+<div n="b" subtype="fragment" type="textpart"><ab>
+<lb n="14"/><gap reason="illegible" quantity="2" unit="line"><desc>vestiges</desc></gap>
+</ab></div>
+</div></div>

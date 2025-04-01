@@ -1,0 +1,38 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r,int" type="textpart"><ab>
+
+    <lb n="1"/>βασιλεύοντος Πτολεμαίου 
+
+    <lb n="2"/>τοῦ Πτολεμαίου Σωτῆρος 
+
+    <lb n="3"/><expan><ex>ἔτους</ex></expan> <num value="29">κθ</num> μηνὸς Μεσορὴ <num value="12">ιβ</num>. <choice><reg>ὁμολογοῦσι</reg><orig>ὁμολογει</orig></choice> 
+
+    <lb n="4"/>Πετεῦρις Κολλούθου καὶ 
+<choice><reg>Ὀννῶ<lb n="5" break="no"/>φρις</reg><orig>Ὀννώ<lb n="5" break="no"/>φρει</orig></choice> <choice><reg>Ἑθφεῦτος</reg><orig>Ἑφθεῦτος</orig></choice> καὶ <choice><reg>Θεόφιλος</reg><orig>Θεοφίλωι</orig></choice> 
+
+    <lb n="6"/><choice><reg>κηπουροὶ</reg><orig>κηπουροις</orig></choice> <choice><reg>ὄντες</reg><orig>οὐσι</orig></choice> <num value="3">γ</num> <supplied reason="omitted">ἔχειν ὀψώνιον</supplied> τῆς <expan><ex>εἰκοσ</ex>ημ<ex>ερίας</ex></expan> 
+
+    <lb n="7"/>τοῦ Μεσορὴ <expan><ex>δραχμὰς</ex></expan> <num value="5">ε</num>. 
+</ab></div><div n="r,ext" type="textpart"><ab>
+
+    <lb n="8"/>βασιλεύοντος Πτολεμαί<supplied reason="lost">ου</supplied> 
+
+    <lb n="9"/>τοῦ Πτολεμαίου Σωτῆ<supplied reason="lost">ρος</supplied> 
+
+    <lb n="10"/><expan><ex>ἔτους</ex></expan> <num value="29">κθ</num> μηνὸς Μεσορὴ <num value="12">ιβ</num>. 
+
+    <lb n="11"/><choice><reg>ὁμολογοῦσι</reg><orig>ὁμολογει</orig></choice> Πετεῦρις Κολλού<supplied reason="lost">θου</supplied> 
+
+    <lb n="12"/>καὶ Ὀννῶφρις Ἑ<add place="above">θ</add>φεῦτος κα<supplied reason="lost">ὶ</supplied> 
+
+    <lb n="13"/>Θεόφιλος <choice><reg>κηπουροὶ</reg><orig>κηπουροις</orig></choice> ὄντε<supplied reason="lost">ς <num value="3">γ</num> <supplied reason="omitted">ἔχειν</supplied></supplied> 
+
+    <lb n="14"/><add place="above">ὀψώνιον</add> τῆς <expan><ex>εἰκοσ</ex>ημ<ex>ερίας</ex></expan> τοῦ Μεσορ<supplied reason="lost">ὴ</supplied> 
+
+    <lb n="15"/>δραχμὰς πέντε <num value="5"/>. 
+
+    <lb n="16"/><gap reason="ellipsis" quantity="6" unit="line"><desc>Demotic</desc></gap> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="22"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap> 
+
+    <lb n="23"/>Ἀμπελουργῶν. <expan><ex>δραχμαὶ</ex></expan> <num value="5">ε</num>. </ab></div></div>

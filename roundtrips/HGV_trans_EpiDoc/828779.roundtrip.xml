@@ -1,0 +1,28 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="en" type="translation" xml:space="preserve">
+            <div n="A" subtype="Sheet" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> … six artabas [of wheat], which comes to 6 art. of wheat … Antoninus … Phaophi 20 … by the four-choinix [… measure] …
+                  <milestone unit="line" n="6"/> (2nd hand) superintendent (?) …
+               </p>
+            </div>
+            <div n="B" subtype="Sheet" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> Sarapion, former agoranomos, superintendent of the revenues due to the gods, through Chairemon, his assistant, to Isidoros, son of Aphrodisios, greetings.
+                  <milestone unit="line" n="4"/> I have had measured out by you from the rent that you owe for the plot of the gods that you farm around the village of Theadelphia … 50<note>+</note> artabas of wheat.
+                  <milestone unit="line" n="9"/> Year [x] of Aurelius Antoninus [Caesar, the] lord [<note>month, day</note>].
+               </p>
+            </div>
+            <div n="C" subtype="Sheet" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> Sarapion, former agoranomos, superintendent of the revenues due to the gods, through Chairemon, his assistant, to Isidoros, son of Aphrodisios, greetings.
+                  <milestone unit="line" n="6"/> I have had measured out by you for the rent of the plot of the gods that you farm [around] the village …
+               </p>
+            </div>
+            <div n="D" subtype="Sheet" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> ... superintendent (?) of the ... <note>Translation: W.G. Claytor, Tyche 33 (2018) 51-53</note>
+               </p>
+            </div>
+         </div>
+      </body>

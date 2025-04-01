@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><supplied reason="lost"><expan>διέγρ<ex>αψεν</ex></expan> </supplied><gap reason="lost" quantity="10" unit="character"/>
+
+    <lb n="2"/><supplied reason="lost"><expan>ὑπ<ex>ὲρ</ex></expan> <expan>λαογρ<ex>αφίας</ex></expan> </supplied><gap reason="lost" atLeast="1" atMost="2" unit="character"/> ἔτους
+
+    <lb n="3"/><supplied reason="lost">Οὐεσπασιανοῦ τ</supplied>οῦ κυρίου
+
+    <lb n="4"/><gap reason="lost" quantity="6" unit="character"/> <expan>ἀργυ<ex>ρίου</ex></expan> <expan>δραχ<ex>μὰς</ex></expan> δεκαὲξ
+
+    <lb n="5"/><supplied reason="lost"><expan><ex>γίνεται</ex></expan></supplied> <expan><ex>δραχμαὶ</ex></expan> <num value="16">ιϛ</num>. <expan>Μελάνθι<ex>ς</ex></expan> <expan>ἔγρ<ex>αψα</ex></expan>.</ab></div>

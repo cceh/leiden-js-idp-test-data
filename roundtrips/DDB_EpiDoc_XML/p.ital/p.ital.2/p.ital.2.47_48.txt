@@ -1,0 +1,93 @@
+<S=.la<D=.1<=
+
+    1. c̣autio <:Hippolyti|reg|yppọliti:> de (sol(idis)) VI ad nomen Nonnitis. 
+
+    2. cautio Macedoni f̣ạ[cta ad (n(omen))] P̣ẹṭri de <:s[oli]dis(?)|reg|s[oli]ḍos:> mille <#=1000#> [.20]. 
+
+    3. (br(evis)) inter Stefanum et Petrum et Iacobum de colligatione Liguriae. 
+
+    4. cautio Macedoni facta ad (n(omen)) Petri de (sol(idis)) <#MCCL=#> (p(ost)) (c(onsulatum)) Paulini (v(iri)) (c(larissimi)). 
+
+    5. cautio Macedon[i a]lia <:graeca|reg|greca:> facta ad (n(omen)) Petri (sol(idorum)) mille cento <#=1100#>. 
+
+    6. cautio Veriss[i]mi, (adi(utoris)) (n(umerariorum)), (facṭ(a)) ad (n(omen)) Petri (sol(idorum)) 6IỊỊỊ (p(ost)) (c(onsulatum)) Paulini. 
+
+    7. cautio alia Verissimi facta ad (n(omen)) Andreae (sol(idorum)) sex <#=6#> Cethego (v(iro)) (c(larissimo)) consule. 
+
+
+    8. cautio tertia Verissimi de aliis (sol(idis)) sex <#=6#> ad (n(omen)) Petri (cons(ulatu)) Cethei (v(iri)) (c(larissimi)). 
+
+    9. cautio Felicis (vir(i)) (st(renui)), (adi(utoris)) (n(umerariorum)), et Stefani (v(iri)) <:spectabilis|subst|r:> ad (n(omen)) Petri (sol(idorum)) ducentorum sept[.7] <#=207#> /*?*/. 
+
+    10. Pittacium Stefani (v(iri)) (s(pectabilis)) ad (n(omen)) Petri de (sol(idis)) <#IIII=#> et trimissis duo <#=2#>. 
+
+    11. epistula <:precatoria|reg|praecaturia:> facta a Nonno, <:Asclepio|reg|asc̣c̣lepio:> et Aelia (sol(idorum)) quattuor milia <#=4500#> quiṇ[.8]. 
+
+    12. item <:allatum|reg|adlatum:> 〚.3ẹ〛 chartarium aluṭacium, quod [.2] alligato inibi inventum est. 
+
+    13. cautio Laurenti (vir(i)) (st(re)n(ui)), stratoris, ad (n(omen)) Petri (sol(idorum)) <#VI=#> Boethio (consul(e)). 
+
+    14. cautio Proiectici, cursoris <:illustris|reg|inl:> (p(otestatis)), ad (n(omen)) Petri (sol(idorum)) (n(umero)) <#VIII=#> Boethio (Iun(iore)) (consul(e)). 
+
+    15. cautio <:Simeonis|reg|symeonis:> et Herculani ad (n(omen)) Petri (sol(idorum)) (ṇ(umero)) <#CC=#> Boethio (Iun(iore)) (consul(e)). 
+
+    16. cautio Pascalis, (ag(entis)) in rebus, ad (nom(en)) Petri (sol(idorum)) (n(umero)) <#CXXX=#> Boethio (Iun(iore)) (consul(e)). 
+
+    17. cautio Eusebi ad (n(omen)) Petri (sol(idorum)) (n(umero)) <#CL=#> Boethio (Iun(iore)) cọ(nsụl(e)). 
+
+    18. p̣ịttacium [.6]ḍis ad (n(omen)) [(s(upra)s(cripti)) Petri ar]carịị de (soliḍ(is)) (ṇ(umero)) <#CCII=#> [.5]6. 
+
+    19. pittacium (c(uius)) (s(upra)) ad (nom(en)) Macedoni de vini <:amphora|reg|amfora:> (sol(idorum)) (n(umero)) 6XXXXVS in mense (Aug(usto)) (ind(ictionis)) tertiae. 
+
+    20. cautio Feliciani (vir(i)) (st(re)n(ui)), stratoris <:illustris|reg|inl:> (p(otestatis)), ad (n(omen)) Petri (sol(idorum)) (n(umero)) <#X=#> Boethio (Iun(iore)) (consul(e)). 
+
+    21. cautio Augusti ad (n(omen)) Petri (sol(idorum)) (n(umero)) <#XXX=#> Messala consule. 
+
+    22. cautio Valeri \fideiussoriṣ/, (schol(aris)) <:illustris|reg|inl:> (p(otestatis)), ad nomen Petri, per quem suscepit Venantio <:correctore|reg|conrictore:> Lucaniae et 
+
+    22. <:Bruttiorum|reg|brittiorum:> (sol(idos)) (ṇ(umero)) 6X̣X̣. 
+
+    23. cautio <:graeca|reg|\greca/:> Iohannis et Iohannis ad (n(omen)) Petri (sol(idorum)) 6Ṃ Boethio (Iun(iore)) (v(iro)) (c(larissimo)) (consul(e)). 
+
+    24. cautio Aequiti (v(iri)) (c(larissimi)) facta ad (nom(en)) Petri (sol(idorum)) (n(umero)) <#XLIIII=#> Venantio (Iun(iore)) (consul(e)). 
+
+    25. cautio Proiectici cursoris ad (nom(en)) Petri (sol(idorum)) (n(umero)) XCIIII Boethio (Iun(iore)) (consul(e)). 
+
+    26. pittacium Verecundi ad (nom(en)) Rustici (v(iri)) (c(larissimi)) de titulis terṭiaṛum (sol(idorum)) (n(umero)) 6CCLVIIS Volusiano consule. 
+
+    27. c̣[au]tio <:graeca|reg|greca:> Pauli facta ad (nom(en)) Petri (sol(idorum)) (n(umero)) C[.4] Ṿeṇenati[o] c̣[onsu]le. 
+=>=D><D=.2<=
+
+    1. de suscepto ipsius Pienti de tritico (sol(idorum)) (n(umero)) 6M. 
+
+    2. cạ[u]ṭ[i]o Caesili, ubi <:cavet|reg|cabuet:> de reliqua (ind(ictionis)) <#X=#> (sol(idorum)) (n(umero)) 6XLIIIṢ. 
+
+    3. (b[r](evis)) Gaudenti, (consul(aris)) Flaminiae, (sol(idorum)) (n(umero)) 6CCCLXXV. 
+
+    4. [noti]tia, de quibus solidis facienda securitas ab ipso Pientio. 
+
+    5. (br(evis)) de diversis <:comitivis|reg|comitibis:>. 
+
+    6. ratoc[i]nia legaturaẹ provinciẹ Piceni et Urbicarii habita a Gaudentio (ind(ictione)) <#XI=#> 
+
+    7. facta pittacia ab Abundantio, Exuperio et Benedicto de <:illatis|reg|inlatis:> <:panibus|reg|panis:> 6L. 
+
+    8. de suscepto ipsius Pienti de <:specie|reg|speciae:> tritici et casei (sol(idorum)) (n(umero)) 6MDCCCXXXII. 
+
+    9. <:securitates|reg|securitatis:> Pauli arcari     (fac(tae)) a Laurentio (v(iro)) (c(larissimo)) de perceptis (sol(idis)) (n(umero)) 6CCCX. 
+
+    10. pittacia de susceptiṣ (fac(ta)) a Paulo arcario, quas facta ratione recollegit. 
+
+    11. [.6] c̣ịsta, in qua invente sunt chartae diversae ([so]l(idorum)) (n(umero)) 6CLII. 
+
+    12. Fasciciulus, in quo sunt pittacia de suscepto diversorum de emolumenta c[.2]a vicạṛiọṛ[.6]. 
+
+    13. (br(evis)) de <:paraveredis|reg|paraverid[i]s:>, quem dedit Sabinus singularis (p(er)) (ind(ictionem)) 6XV. 
+
+    14. <:securitates|reg|securitatis:> patrici Agapiti de suffragio praefecturae in uno <:ligatae|reg|legataẹ:>, ẹt listulae duodec\i/m. 
+
+    15. epistula Fadini facta ad nomen Petri, et pittacium rationis. 
+
+    16. ẹ[p]istula <:graeca|reg|greca:> facta ad nomen Petri. 
+
+    17. [.30]c̣ạḷ[.1]ṣ. =>=D>

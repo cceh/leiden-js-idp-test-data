@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><del rend="erasure">Σερῆνος</del>
+<lb n="2"/><del rend="erasure">δρ</del>
+<lb n="2"/><space extent="unknown" unit="character"/> 
+<lb n="3" rend="inverse"/> Σερῆνος
+<lb n="4" rend="inverse"/> <choice><reg>δρομίτης</reg><orig><app type="alternative"><lem>δρο<unclear>μ</unclear>οτα</lem><rdg>δρο<unclear>ν</unclear>οτα</rdg></app></orig></choice>
+</ab>
+      </div>

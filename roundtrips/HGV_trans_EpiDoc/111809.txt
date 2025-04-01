@@ -1,0 +1,14 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1))Par la présente lettre... ((2))recevoir... votre... ((3))vous... 
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((4))(adresse) Pour mon... 
+               =>
+            =D>
+         =T>
+      

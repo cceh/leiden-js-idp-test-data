@@ -1,0 +1,246 @@
+<S=.la
+<D=.r
+<D=.a.fragment<=
+1. d.2[.?]
+2. dd[.?]
+3. d.2[.?]
+4. su.1[.?]
+5. [.2].2[.?]
+5. lost.?lin
+=>=D>
+<D=.b.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?].1x hor.1[.?]
+3. [.?]ma dies [.?]
+4. [.?]o.1[.2].1[.?]
+4. lost.?lin
+=>=D>
+<D=.c.fragment<=
+1. lost.?lin
+1. [.?]ol.1[.?]
+2. [.?]miṇ[.?]
+3. <:[.?].1nost.1[.?]|ed|[.?] [co]ṣ nostẹ[r] [.?]=P.Dura 62:>
+3. lost.?lin
+=>=D>
+<D=.d.fragment<=
+1. lost.?lin
+1. [.?]s
+2. [.?].1in
+3. [.?].4
+3. lost.?lin
+=>=D>
+<D=.1.fragment<=
+1. lost.?lin
+1. [.?]sus.2[.?]
+2. [.?]sub.1as[.?]
+3. [.?].1[.1].1[.?]
+3. lost.?lin
+=>=D>
+<D=.2.fragment<=
+1. [.?]a.2[.?]
+1. lost.?lin
+=>=D>
+<D=.3.fragment<=
+1. lost.?lin
+1. [.?].1d.4[.?]
+2. [.?][Ge]rmanus H.4[.?]
+3. [.?].1[.2].2as[.?]
+3. lost.?lin
+=>=D>
+<D=.4.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?]nis Anton[i- ][.?]
+3. [.?]ep Marinu[s] [.?]
+4. [.?].1[.?]
+4. lost.?lin
+=>=D>
+<D=.5.fragment<=
+1.  lost.?lin
+1. [.?].1us.1[.?]
+2. [.?].1[.?]
+2. lost.?lin
+=>=D>
+<D=.6.fragment<=
+1.  lost.?lin
+1. [.?].1ṣus.1[.?]
+2. lost.?lin
+=>=D>
+<D=.7.fragment<=
+1. lost.?lin
+1. [.?]l[.?]
+2. [.?].1h.3[.?]
+3. [.?].1[.?]
+3. lost.?lin
+=>=D>
+<D=.8.fragment<=
+1. lost.?lin
+1. [.?].1us
+2. .1[.?]
+3. [.?]
+4. [.?].2os.1i.1[.?]
+4. lost.?lin
+=>=D>
+<D=.9.fragment<=
+1. vestig 
+=>=D>
+<D=.10.fragment<=
+1. lost.?lin
+1. [.?].1[.1]s[.?]
+2. [.?]t.2[.?]
+2. lost.?lin
+=>=D>
+<D=.11.fragment
+<D=.i.column<=
+4. lost.?lin
+5. [.?].1us
+6. [.?]us
+6. lost.?lin
+=>=D>
+
+<D=.ii.column<=
+
+1. [.?].2[.?]
+2. [.?].1us[.?]
+3. [.?]ilo[.?]
+4. Cạṣṣianus [.?]
+5. .1[.4].3[.?] 
+=>=D>
+=D>
+<D=.13.fragment<=
+1. vestig 
+=>=D>
+<D=.15.fragment<=
+1. vestig  
+=>=D>
+<D=.16.fragment<=
+1. vestig  
+=>=D>
+<D=.17.fragment<=
+1. vestig  
+=>=D>
+<D=.18.fragment<=
+1. vestig 
+=>=D>
+<D=.19.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?].3dar[.?]
+2. lost.?lin
+=>=D>
+<D=.21.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. lost.?lin
+=>=D>
+<D=.22.fragment<=
+1. lost.?lin
+1. [.?]em[.?]
+2. lost.?lin
+=>=D>
+<D=.23.fragment<=
+1. lost.?lin
+1. [.?]te[.?]
+2. lost.?lin
+=>=D>
+<D=.24.fragment<=
+1. vestig 
+=>=D>
+<D=.25.fragment<=
+1. lost.?lin
+1. [.?]co[.?]
+2. [.?]cl.1[.?]
+2. lost.?lin
+=>=D>
+<D=.26.fragment<=
+1. vestig 
+=>=D>
+=D>
+<D=.v
+<D=.2.fragment<=
+1. lost.?lin
+1. [.?].2[.?]
+2. [.?]rusa.1[.?]
+3. [.?] vac.? [.?]
+4. [.?] [G]ordiani.2[.?]
+5. [.?] [Au](rel(ius)) Mocimus [.?]
+6. [.?].1[.6].1[.?]
+6. lost.?lin
+=>=D>
+<D=.3.fragment<=
+1. lost.?lin
+1. [.?].4us[.?]
+2. [.?]rius Nil[.?]
+3. [.?]um.4[.?]
+4. [.?]ap.1[.?]
+4. lost.?lin
+=>=D>
+<D=.4.fragment<=
+1. vestig 
+=>=D>
+<D=.5.fragment<=
+1. vestig 
+=>=D>
+<D=.6.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?]re[.?]
+2. lost.?lin
+=>=D>
+<D=.8.fragment<=
+1. lost.?lin
+1. [.?].2ad.1[.?]
+2. [.?].1r[.?]
+=>=D>
+<D=.12.fragment<=
+1. lost.?lin
+1. [.?]uag.1[.?]
+2. [.?] [A]urelius [.?]
+3. [.?].3[.?]
+4. lost.?lin
+=>=D>
+<D=.13.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?].5as.1[.?]
+3. [.?].3[.?]
+3. lost.?lin
+=>=D>
+<D=.14.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?].1[.?]
+3. [.?] [A]ụrel.2[.?]
+4. [.?].3[.?]
+4. lost.?lin
+=>=D>
+<D=.16.fragment<=
+1. vestig 
+=>=D>
+<D=.17.fragment<=
+1. vestig 
+=>=D>
+<D=.18.fragment<=
+1. vestig  
+=>=D>
+<D=.20.fragment<=
+1. lost.?lin
+1. [.?].1[.1]l[.?]
+2. [.?] Iuliu[s] [.?]
+2. lost.?lin
+=>=D>
+<D=.21.fragment<=
+1. lost.?lin
+1. [.?].1[.?]
+2. [.?]risci[.?]
+2. lost.?lin
+=>=D>
+<D=.22.fragment<=
+1. lost.?lin
+1. [.?]s[.1]iu.1[.?]
+=>=D>
+<D=.24.fragment<=
+1. vestig 
+=>=D>
+=D>

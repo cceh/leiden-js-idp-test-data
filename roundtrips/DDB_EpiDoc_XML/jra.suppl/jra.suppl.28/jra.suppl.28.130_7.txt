@@ -1,0 +1,51 @@
+<S=.grc
+<D=.r<=
+    1. (|Vol|) (Cal(assini)) <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):>  <#X=10#> 
+
+    2. [C]aprorenses <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):>  <#DCVII=607#> 
+
+    3. fieri <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):>  <#CCCXIIII=314#> (|r|) <#CCLIIII=254#>
+
+    4. et erunt in (condit(orio))
+
+    5. in (ḍ(ie)) <#XIIII=14#> K[(al(endas)) (Mar(tias))]
+
+    6. [(c(e)nt(enaria))] <#[DCCCC]XXXI=931#> 
+
+    7. fieri in (condit(orio))
+
+    8. ((centenaria)) <#((mille)) CLXXXV=1185#>
+=>=D>
+<D=.v<=
+    1. <#XIII=13#> (Kal(endas)) (Mar(tias)) ad (Octob(rem))
+
+    2. ((centenarius)) Maurus (p(ondo)) (l(ibras)) <#XXXV=35#>
+
+    3. ((centenarius)) Ianuarius (p(ondo)) (l(ibras)) <#LV=55#>
+
+    4. ((centenarius)) Felix (p(ondo)) (l(ibras)) <#VIIICCXXVI=8226#>
+
+    5. ((centenarius)) Vindemialis (p(ondo)) (l(ibras)) <#CCC=300#> 
+
+    6. ((centenarius)) Victor (Mercur(ialis)) (p(ondo)) (l(ibras)) <#((duo milia)) XCVII=2097#>
+
+    7. ((centenarius)) Augustalis (p(ondo)) (l(ibras)) <#((mille)) CCXCVIII=1298#>
+
+    8. ((centenarius)) Maioricus (p(ondo)) (l(ibras)) <#((duo milia)) XCVII=2097#>
+
+    9. ((centenarius)) Marianus (p(ondo)) (l(ibras)) <#IIIIDCLXXVII=4677#>
+
+    10. ((centenarius)) Primus (p(ondo)) (l(ibras)) <#IIIIDCLX=4660#>
+
+    11. ((centenarius)) (|Murc̣|) (p(ondo)) (l(ibras)) <#IIICCCCXXV=3425#>
+
+    12. ((centenarius)) Evasius (p(ondo)) (l(ibras)) <#((mille)) DCCCLXXII=1872#>
+
+    13. ((centenarius)) Restutus (p(ondo)) (l(ibras)) <#IIIIXXII=4022#>
+
+    14. ((centenarius)) Victorinus (p(ondo)) (l(ibras)) <#((mille)) DCCXCIIII=1794#>
+
+    15. fieri (n(umero)) <#CCCL=350#> (p(ondo)) (l(ibras)) <#LXXVIII=78#> 
+
+    16. (|Vol|) Calassini <:(c(entenaria))|reg|(ḳ(entenaria)):>  <#LXXVI=76#>
+=>=D>

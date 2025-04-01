@@ -1,0 +1,21 @@
+
+         <T=.de<=
+            ((1))Im siebten Jahr des Lucius [S]eptimius Severus Pius Pertinax und des Marcus 
+            Aurelius Antoninus, der Augusti, am 15. Phamenôth. ((5))<:Eingezahlt 
+                wurden|BGU:BL I, S. 64|:> an [...]ôn, den 
+            <Nomarchen=nomarches> des Arsinoïtês, durch 
+            <:Hêraklas|BGU:BL I, S. 64|:>, den 
+            <Helfer=boethos>, (an 
+            <Lizenz)=diplomahalieonapopodos> 
+            <:<für die Fischer zu Fuß=diplomahalieonapopodos>|BGU_DDbDP:Vgl. BL III, S. 9; BL XI, S. 16.|:> für Soknopaiû Nêsos durch Sôtas für das 7. 
+            Jahr achtzig Drachmen, [das sind] 80 Drachmen.
+        =>=T>
+         <T=.en<=
+            ((1))Year seven of Lucius [S]eptimius Severus Pius Pertinax and of Marcus Aurelius 
+            Antoninus, Augusti, Phamenoth 15. ((5))<:Paid to Apion|BGU:BL I 64, cf. Reiter, Nomarch, p. 25, note 37|:>, 
+            <nomarch=nomarches> of the Arsinoite nome, through 
+            <:Heraklas|BGU:BL I 64|:>, <assistant=boethos>, 
+            for the <:fishermen-on-foot|BGU_DDbDP:Cf. BL III 9; XI 16.|:> of Soknopaiou Nesos through Sotas for year 7 eighty 
+            drachmas = 80 drachmas.
+        =>=T>
+      

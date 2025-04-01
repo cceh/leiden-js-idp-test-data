@@ -1,0 +1,17 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/>ⲛⲧⲁⲙⲓⲁⲛⲉ ⲉⲡ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>ⲡ<choice><reg xml:lang="grc">κόμης</reg><orig>ⲕⲟⲙⲓⲥ</orig></choice> ⲡⲁⲟⲩ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>ⲧⲉⲛ<choice><reg xml:lang="grc">ὁμολογεῖν</reg><orig>ⲟⲙⲟⲗⲟⲕ<gap reason="lost" extent="unknown" unit="character"/></orig></choice> <supplied reason="lost">.,</supplied>
+<lb n="4"/>ⲉⲗⲉ ⲟⲩⲉϣ <add place="above">ⲧ</add>ⲟⲗ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+<div n="2" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ⲉ</unclear><gap reason="illegible" quantity="2" unit="character"/> ϣⲁ <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>ⲡⲁϣⲁⲥ ⲥⲟⲩ <num value="15"> <hi rend="supraline">ⲓⲉ</hi></num> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><g type="stauros"/> <foreign xml:lang="grc">Σερῆνος σὺν <expan>Θ<ex>εῷ</ex></expan> <expan>γραμ<ex>ματεὺς</ex></expan> <gap reason="illegible" quantity="3" unit="character"/> πόλεως <gap reason="lost" extent="unknown" unit="character"/></foreign> 
+</ab></div>
+
+
+      </div>

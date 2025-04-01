@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘The 16th year of the Emperor Caesar Trajanus Hadrianus Augustus. Work has been done for the
+embankment works of the said 16th year from Phaophi 4 to 8 on the desert canal of Patsontis at Bacchias by Zoïlus son of Petesouchos son of Eleites, his mother being Taorsenouphis. Signed by me, Dioscorus.’
+
+            =>
+         =T>
+      

@@ -1,0 +1,135 @@
+<S=.la<D=.r,1<=
+1. lost.?lin
+
+    1. [.?].2tin .2 
+
+    2. [.?].2 
+
+    3. [.?].1 
+
+    4. [.?].1 
+
+    5. [.?].1 
+
+    6. [.?].1 
+
+    7. [.?].1 
+
+    8. lost.10lin
+
+    18. [.?]sa.1[.?] 
+
+    19. [.?]cu[.?] 
+
+    20. [.?]no.3s[.?] 
+
+    21. [.?] (Sạturni(nus)) 
+
+    22. [.?][ M]ạximus 
+
+    23. [.?].6 
+
+    24. [.?].2vianus 
+
+    25. [.?].1cinus 
+
+    26. [.?][ Ma]ximus 
+
+    27. [.?]ạnus 
+
+    28. [.?] Cacianus 
+
+    29. [.?].2 Maximus 
+
+    30. [.?] (Domitia(nus)) 
+
+    31. [.?][ Fe]lix (|Lam|) 
+
+    32. [.?] Victor *middot* (|k|) 
+
+    33. [.?].1s Marinus 
+
+    34. [.?].9  
+
+    35. [.?][ Messio Ext]ricato (co(n)ṣ(ule)) 
+
+    36. [.?][ Ale]x̣andẹr 
+
+    37. .16 
+37. lost.?lin
+=>=D><D=.r,2<=
+1. lost.?lin
+
+    1. [.?][ Oc]ḷaṭ[inio Advento (co(n)s(ule)) ][.?] 
+
+    2. *filled-circle* (C(aius)) Ạ[.?] 
+
+    3. *filled-circle* (M(arcus)) A[.?].3 
+
+    4. *filled-circle* (C(aius)) Iulị[us] C̣elsus 
+
+    5. *filled-circle* (M(arcus)) Aurẹ[l]ịus Malchụṣ 
+
+    6. *filled-circle* (C(aius)) Pontịus *filled-circle* Crescens *filled-circle* 
+
+    7. *filled-circle* (P(ublius)) Aelius (Saturnin(us)) 
+
+    8. *filled-circle* (C(aius)) Iulius Ṃaximus (t(esserarius?)) 
+
+    9. *filled-circle* (Cn(aeus)) F̣ạḅius Felix 
+
+    10. Tinneio Ṣacerdote (co(n)s(ule)) 
+
+    11. *filled-circle* (M(arcus)) Fabius (Fortuna(tus))
+
+    12. Valerio (Coma(zonte)) (co(n)s(ule)) 
+
+    13. *filled-circle* (M(arcus)) Aurelius Dionysiụṣ 
+
+    14. *filled-circle* (M(arcus)) Aurelius (Alexand(er)) 
+=>=D><D=.r,ms<=
+
+    15. $m2 cum (Secun(do)) ((centurione))
+=>=D><D=.r,2<=
+
+    15. $m1 (C(aius)) Iulius (Constantin(us))
+
+    16. $m2 summa cxvi 
+
+    17. (fac(tus)) *filled-circle* (dec(urio)) *filled-circle* i 
+
+    18. (n(umerus)) (p(urus)) cxv 
+
+    19. (abs(entes)) x (|z|) 
+
+    20. (exp(editi)) cv 
+
+    21. (ṣ(unt)) (q(uo)q(ue)) (b(ene)f(iciarii)) ii 
+21. lost.?lin
+=>=D><D=.r,3<=
+1. lost.?lin 
+
+    1. lost.11lin
+
+    12. .1[.?] 
+
+    13. .1[.?] 
+
+    14. (imp(eratore)) [Severo et (imp(eratore)) Antonino (co(n)s(ulibus))] 
+
+    15. [.?].2 
+
+    16. $m2 P̣resenṭ *filled-circle* ((centurio )) C[.?]
+
+    17. Fạ[bio Cilone et Annio Libone (co(n)s(ulibus)) ][.?] 
+
+    18. lost.4lin
+
+    22. C̣[laudio Pompeiano et ][.4][ Avito (co(n)s(ulibus)) ][.?] 
+22. lost.?lin
+=>=D><D=.r,mm<=
+
+    1. [.?].1 (ab(sentes)) (eq(ues)) i (mil(ites)) [.?][ ix ][.?] 
+=>=D><D=.v<=
+
+    1. lost.?lin=>=D>

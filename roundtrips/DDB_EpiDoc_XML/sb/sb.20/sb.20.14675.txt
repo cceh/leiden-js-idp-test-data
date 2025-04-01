@@ -1,0 +1,12 @@
+<S=.la<=
+    1. Est vino mil((itum)) (leg(ionis)) (Maced(onicae)) sub c((ura)) Gaioli trib((uni)) (d(iurnarum)) (an(nonarum)) octingentas triginta cinque, ex d((ie)) quintum decimo Kal((endas)) (April(es)) [i]n d((iem)) qu[art]um decimo Kal((endas)) (easd(em)), duo <:cenae|reg|cene:>. Post cons((ulatum)) ([dom][(ini)])[ (n(ostri))] H[on]orii p((erpetui)) (Aug(usti)) qua[ter]
+
+    2. et Eytychiani v((iri)) (c(larissimi)), (p(er)) Sergio actuario, ind. XII.
+
+    3. [.?] ~|(γ(ίνεται)) (ὁ̣(μοῦ)) (ξ(έσται)) <#ωλε=835#>.|~grc 
+
+    4. Est carne mil((itum)) (leg(ionis)) (Maced(onicae)) sub c((ura)) Gaioli trib((uni)) (d(iurnarum)) (an(nonarum)) octingentas trigint[a] ci[nqu]e, ex d((ie)) qu[int]um decimo (K[al](endas)) ([Apri]l(es)) in d((iem)) quart[u]m decimo Kal((endas)) (easd(em)), [d]uo <:cenae|reg|cene:>. Pos[t] c[ons][((ulatum))] (d[o]m(ini)) (n(ostri)) Honorii [p][((erpetui)) (Aug(usti)) ][quater et]
+
+    5. E[yt]ychiani v((iri)) (c(larissima)), (p(er)) Sergio a[ctuario, ind. XII].
+
+    6. [.?] ~|(γ(ίνεται)) (ὁ(μοῦ)) (λ(ίτραι)) <#ωλ̣ε̣=835#>.|~grc =>

@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              Tryphon, son of Dionysius, a Persian of the Epigone, to Saraeus, daughter of Apion, under the wardship of Onnophris, son of Antipater, greeting. I acknowledge the receipt from you at the Serapeum at Oxyrhynchus through the bank of Sarapion, son of Kleandrus, of 40 silver drachmae of the Imperial and Ptolemaic coinage, and for the value of one pair of gold earrings, 20 drachmae of silver, and for a milk-white robe, 12 drachmae of silver, making a total sum of 72 drachmae of silver, to which nothing at all has been added, in consideration of which I have consented (to our marriage). And I will repay to you the
+              72 drachmae of silver on the 30th of Phaophi in the coming second year of Gaius Caesar Germanicus Novus Augustus Imperator without any delay. If I do not repay in accordance with the above terms I will forfeit to you the said sum with the addition of half its amount, for which you are to have the right of execution upon me and upon all my property, as in accordance with a legal decision. If we separate from each other, you shall be empowered to have the pair of earrings at their present value. And since we are living together without a marriage contract, I further agree if as aforesaid owing to a quarrel we separate from each other while you are in a state of pregnancy, to ... so long as you ... This receipt is valid wherever and by whomsoever it is produced.
+              /*There follow (1) the signature of Tryphon, written for him by Leon, (2) the signature of Onnophris, the guardian of Saraeus, written on his behalf by Theon, son of Paaeis, (3) the docket of the bank through which the payment was made, (4) the signature of Saraeus, written for her, in astonishingly badly spelled Greek, by Didymus, son of Boëthus, acknowledging that she had received back the sum mentioned in the agreement. This acknowledgement of Saraeus is dated Payni 15 in the 3rd year of Claudius.*/
+            =>
+         =T>
+      

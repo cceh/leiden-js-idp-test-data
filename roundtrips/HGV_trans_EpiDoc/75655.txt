@@ -1,0 +1,28 @@
+
+         <T=.fr
+            <=
+               ((1)) A payé à la banque publique 
+               ((2)) à Diospolis Magna
+               ((3)) Maieuris fils de Horos fils de Seianos
+               ((4)) pour l'impôt sur les digues de l'an 1
+               ((5)) six drachmes en argent et quatre oboles, 
+               ((6)) c'est à dire six drachmes, quatre oboles et deux oboles et demie 
+               ((7)) adjonctives, ça fait deux oboles et demie.
+               ((8)) An 2 de Tibère César Auguste,
+               ((9)) le 13 du mois de Neos Sebastos, moi Kephalos (...)
+            =>
+         =T>
+         <T=.it
+            <=
+               ((1)) Ha pagato al banco pubblico 
+               ((2)) a Diospolis Magna
+               ((3)) Maieuris figlio di Horos figlio di Seianos
+               ((4)) per l'imposta sulle dighe dell'anno 1
+               ((5)) sei dracme d'argento e quattro oboli, 
+               ((6)) ovvero sei dracme, quattro oboli e due oboli e mezzo 
+               ((7)) aggiuntivi, fanno due oboli e mezzo.
+               ((8)) Anno 2 di Tiberio Cesare Augusto,
+               ((9)) il 13 del mese di Neos Sebastos, io Kephalos (...)
+            =>
+         =T>
+      

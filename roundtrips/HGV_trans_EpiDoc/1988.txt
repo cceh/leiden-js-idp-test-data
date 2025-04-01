@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) Note
+                      to Zenon from
+                      Labois. Please
+                      let me know
+                      what I should do.
+               ((6)) Farewell.
+                      /*Translation: L. Ferretti – P. Schubart – M. Tomcik, ZPE 201 (2017) 215*/
+            =>
+         =T>
+      

@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) ⳨ From the clerics of the holy church of Demetrios to reverendissimus Phoibammon, son of Triadelphos. 
+((2)) I have and was paid in full … for arourae called of the plain of Terbis, plain of the village of Aphrodite, for the assessment of the eleventh indiction; 
+((4)) and for your security I have made this receipt as above.
+Written on the 27th of Pauni of the eleventh indiction.
+(((5))) Komasios, son of Thomas, deacon of the holy church of Demetrios. I am satisfied with the receipt as above.
+/*Translation: Law in Social Networks Project (Warsaw)*/
+            =>
+         =T>
+      

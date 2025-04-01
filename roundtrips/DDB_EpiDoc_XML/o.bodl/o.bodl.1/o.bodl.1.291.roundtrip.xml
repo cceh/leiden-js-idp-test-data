@@ -1,0 +1,37 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
+
+    <lb n="3"/><supplied reason="lost">Ἡρα</supplied><unclear>κ</unclear>λείδης. 
+
+    <lb n="4"/><supplied reason="lost">Ἀπ</supplied><unclear>ολ</unclear>λών<unclear>ιο</unclear>ς. 
+
+    <lb n="5"/><unclear>Ἑ</unclear>ρμοκλῆς. 
+
+    <lb n="6"/>Ἀμμώνιος. 
+
+    <lb n="7"/>Ἀπολλωνίδης. 
+</ab></div><div n="2" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><unclear>Ἐ</unclear>ρωτι<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><choice><reg>Ἡρακ<supplied reason="omitted">λ</supplied>είδου</reg><orig>Ἡρακείδου</orig></choice> τ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="3"/>Ἀμμωνίου. 
+
+    <lb n="4"/><app type="editorial"><lem>Πεματόεις<certainty match=".." locus="value"/></lem><rdg>Μεμασόης</rdg></app>. 
+
+    <lb n="5"/>Ἡρακλ<unclear>ῆ</unclear>ς. 
+
+    <lb n="6"/><app type="editorial"><lem>Ὀρεστάρχου</lem><rdg><unclear>Οὐε</unclear>στάρχου</rdg></app> 
+
+    <lb n="7"/>Ταυρω<gap reason="illegible" quantity="2" unit="character"/> 
+</ab></div><div n="minf" type="textpart"><ab>
+
+    <lb n="9"/><expan><ex>ἔτους</ex></expan> <num value="2">β</num> Μ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> </ab></div></div>

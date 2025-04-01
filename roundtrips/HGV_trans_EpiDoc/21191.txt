@@ -1,0 +1,9 @@
+
+         <T=.de
+            <=
+               ((1))Von Gaius Longinus Celer, Epimachos, dem Sohn des Aperos, Ptolemaios, dem Sohn des Theon, und Horion, dem Sohn des Sarapas, den Vieren, die zusammen mit Abaskantos alias Salikuttas, dem Freigelassenen des Gaius lulius Heliodoros, und Gaius lulius Longus dem Jüngeren, dem Sohn der Hierakiaina, Einnehmer der Verkaufssteuer, des Heroldsgeldes für aus dem Staatsbesitz übereignete Objekte und anderer Steuern sind.
+(((15))) Wir tun kund, daß in dem Zeitraum von fünf Tagen vom sechzehnten bis zum zwanzigsten des laufenden Monats Phaophi des gegenwärtigen 8. Jahres für Einnahmen des gegenwärtigen 8. Jahres nichts eingetrieben worden ist.
+(((23))) Im 8. Jahr des Imperator Caesar Marcus Aurelius Antoninus Augustus Armeniacus Medicus Parthicus maximus und des Imperator Caesar Ludus Aurelius Verus Augustus Armeniacus Medicus Parthicus maximus, am 21. Phaophi. (((33))) (2. Hand) Ich, Gaius, Steuereinnehmer, habe eingereicht. (Übersetzung von D. Hagedorn)
+           =>
+         =T>
+      

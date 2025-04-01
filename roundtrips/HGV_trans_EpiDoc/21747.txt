@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              The year after the consulship of Flavius Zeno and Flavius Postumianus the most illustrious, Tubi 24. To Aurelia Mikis daughter of Theodorus, of the illustrious and most illustrious cityof Oxyrhynchus, from Aurelius Phoebammon son of Artemidorus, of the said city. I undertake of my free will to lease from the first day. of the next month Mecheir of the current 125th which = the 94th year and of the present second indiction two rooms or dining-rooms belonging to you in a house situated in the said city in the quarter of Small Teumenouthis with all appurtenances, and I will pay in rent annually 1,200 myriads of silver, which I will deliver annually in half yearly instalments of one-half, and whenever you wish I will surrender the said rooms without delay. The lease is valid, and in answer to the question I have given my consent. /*Signature of Aurelius Phoebammon written for him by another person in Greek, and of the scribe in Latin.*/
+            =>
+         =T>
+      

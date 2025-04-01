@@ -1,0 +1,44 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="2"/>πρὸς χαλκὸν ὑπὸ Χαιρήμονος 
+
+    <lb n="3"/><subst><add place="inline">τῶν</add><del rend="corrected">του</del></subst> διαδόχων καὶ <choice><reg>ἐπιμελητοῦ</reg><orig>ἐπιμελητηι</orig></choice> 
+
+    <lb n="4"/><expan>ἄρ<ex>ο</ex>υ<ex>ραι</ex></expan> <num value="390">τϙ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num>, 
+
+    <lb n="5"/>ἀφʼ ὧν εἰσιν τῶν πρὸς σῖτον 
+
+    <lb n="6"/><expan>ἄρ<ex>ο</ex>υ<ex>ραι</ex></expan> <num value="30">λ</num> ἀνὰ <num value="1">α</num> <expan>ἀρ<ex>τάβαι</ex></expan> <num value="30">λ</num>. 
+
+    <lb n="7"/>τῶν λοιπῶν <expan>ἄρ<ex>ο</ex>υ<ex>ραι</ex></expan> <del rend="erasure"><num value="360">τξ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num></del>  <num value="360">τξ</num> <num value="1/16" rend="tick">ιϛ</num> <num value="1/32" rend="tick">λβ</num>, 
+
+    <lb n="8"/>ὧν μίσθωσις ἕως τοῦ <num value="28">κη</num> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="9"/>Διονυσίω<supplied reason="lost">ι</supplied> ἐπὶ τὸ αὐτὸ τοῦ νομοῦ 
+
+    <lb n="10"/>χαλκοῦ <expan>τά<ex>λαντον</ex></expan> <num value="1">α</num>  <num value="4500">Δφ</num>. 
+
+    <lb n="11"/>ουδε 
+
+    <lb n="12"/>Λύσις ἱπποτρόφος καὶ ἀντιγραφεὺς Πετοσίρ<supplied reason="lost">ει </supplied><gap reason="lost" quantity="6" unit="character"/> 
+
+    <lb n="13"/>χαίρειν. παρείληφα παρὰ σοῦ ὥστε τοῖς διʼ ἐμ<supplied reason="lost">οῦ τρεφομένοις</supplied> 
+
+    <lb n="14"/>ἐν <expan>Κροκοδί<ex>λων</ex></expan> <expan>πό<ex>λει</ex></expan> τοῦ Ἀρσινοΐτου νομοῦ βασιλικοῖς ἵππ<supplied reason="lost">οις ἐν τῶι</supplied> 
+
+    <lb n="15"/>Τῦβι μηνὶ τοῦ <num value="29">κθ</num> <expan><ex>ἔτους</ex></expan> χόρτου διμναίους <expan>δέσ<ex>μας</ex></expan> <num value="2000">Β</num>. <gap reason="lost" extent="unknown" unit="character"/> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="16"/>ἄλλο 
+
+    <lb n="16"/>Λύσις ἱπποτρόφος καὶ ἀντιγραφεὺς Σεμθεῖ Φθαῦ<supplied reason="lost">τος χαίρειν.</supplied> 
+
+    <lb n="17"/>παρείληφα παρὰ σοῦ ὥστε τοῖς διʼ ἐμοῦ τρεφομέ<supplied reason="lost">νοις</supplied> 
+
+    <lb n="18"/>ἐν <expan>Κροκοδί<ex>λων</ex></expan> <expan>πό<ex>λει</ex></expan> τοῦ Ἀρσινοΐτου νομοῦ βασιλικοῖς ἵπποις ἐ<supplied reason="lost">ν τῶι</supplied> 
+
+    <lb n="19"/>Τῦβι μηνὶ τοῦ <num value="29">κθ</num> <expan><ex>ἔτους</ex></expan> χόρτου διμναίους <expan>δέσ<ex>μας</ex></expan> χιλίας πεντ<supplied reason="lost">α</supplied>
+
+    <lb n="20" break="no"/>κοσίας, <expan><ex>γίνονται</ex></expan> <num value="1500">Αφ</num>. 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="21"/></ab></div>

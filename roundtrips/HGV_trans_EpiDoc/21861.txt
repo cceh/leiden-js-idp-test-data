@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              To Aurelius Harpocration, strategus of the Oxyrhynchite nome, from Flavia Marcella, acting without a guardian in accordance with Roman custom by the ius liberorum. Since the collection of corn-dues was being based upon old lists of names, most of which were fictitious, and collections were being made which involved injustice to many, orders were given that the dues should be revised ..., and should be entered on the lists annually and registered upon the following plan, namely with a statement how much is owned by each individual at each village and to what class it belongs, how much is private land and how much public, and what kind of crops are grown in each case on the particular arurae, together with the classes (of produce) due...
+            =>
+         =T>
+      

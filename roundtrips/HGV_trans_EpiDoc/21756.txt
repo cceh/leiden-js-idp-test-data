@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              From the logistes to the monthly presidents of the vegetable-sellers. Give Arcadius, exceptor, one ration of vegetables. Signed by me.
+            =>
+         =T>
+      

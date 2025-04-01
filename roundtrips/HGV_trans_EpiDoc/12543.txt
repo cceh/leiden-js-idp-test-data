@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) Aurelii Ptollas and Atisis, sitologoi likewise apaitetai of the villagers of the village of
+                      Karanis, to Aurelius Antiouris son of Ptollas, greeting. I have received from you for
+                      (your obligation of) the tenth (10th) indiction for sea freight, fifty-six talents (tal. 56),
+                      total.
+               ((6)) (2nd hand) I, Aurelius Melas, wrote for him because he is illiterate.
+                      /*Translation: N. Lewis, P.NYU 1 3*/
+           =>
+         =T>
+      

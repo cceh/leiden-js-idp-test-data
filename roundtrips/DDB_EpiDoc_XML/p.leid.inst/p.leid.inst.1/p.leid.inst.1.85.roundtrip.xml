@@ -1,0 +1,28 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" quantity="1" unit="line"/> 
+
+    <lb n="2"/>ἕως <num value="12">ιβ</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="00"/><num value="3830">Γωλ</num> 
+
+    <lb n="00"/><num value="25">κε</num> 
+
+    <lb n="6"/><num value="30">λ</num> <expan><ex>ἔτους</ex></expan> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="6"/><handShift new="m2"/> <expan>ἄρου<ex>ρα</ex></expan> <num value="1">α</num> 
+
+    <lb n="7"/><space extent="unknown" unit="character"/> 
+
+    <lb n="8"/><milestone rend="box" unit="undefined"/>  <num value="22">κβ</num> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="9"/><milestone rend="box" unit="undefined"/> <expan>λοι<ex>πά</ex></expan> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>

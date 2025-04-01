@@ -1,0 +1,20 @@
+<S=.grc
+<D=.r
+<D=.i.column<=
+1. lost.?lin
+1. vestig.7lin
+7. lost.?lin
+=>=D>
+<D=.ii.column<=
+1. lost.?lin
+1. vestig.5lin
+5. lost.?lin
+=>=D>
+=D>
+<D=.v<=
+1. lost.?lin
+1. vestig.1lin
+2. [.?] ἐπιβολή
+3. vestig.9lin
+11. lost.?lin
+=>=D>

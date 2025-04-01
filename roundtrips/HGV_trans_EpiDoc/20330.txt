@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 7*/
+              Gaius Veturius Gemellus son of Gaius Veturius Gemellus, veteran, has let to Epagathus, freedman of Ptolemaeus son of Ptolemaeus, of the city of Oxyrhynchus, a Persian of the Epigone, for a period of five years from the first day of the next month Phamenoth of the present sixth year of Antoninus Caesar the lord, the combing-instrument belonging to him, made of iron, in perfect condition, new and with an even edge, at a monthly rent from the said month Phamenoth ...
+            =>
+         =T>
+      

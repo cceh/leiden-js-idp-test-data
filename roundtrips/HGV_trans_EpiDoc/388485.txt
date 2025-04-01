@@ -1,0 +1,10 @@
+
+            <T=.en
+            <=
+               ((1)) [...] works for payment of 40 dr. ((4)) Please pay him [...] the 40 dr., 
+                in order that he may gather as many workmen as possible and buy extra iron for you [so that] the works may be finished quickly. 
+                ((12)) Farewell. Year 34, Choiak 19.
+ /*Translation: B. Van Beek in P.Petr.Kleon, p. 133, © Peeters*/
+            =>
+         =T>
+        

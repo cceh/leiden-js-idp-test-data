@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) 10-plus days before the Kalends of July. Number: 73 [...]; of these, 1 clerk, Aurelius [...]; 50 cavalry, Julius [...]; 3 new arrivals, Julius [...]; [...]
+               ((8)) 1-4 assigned to the camels [...]
+            =>
+         =T>
+      

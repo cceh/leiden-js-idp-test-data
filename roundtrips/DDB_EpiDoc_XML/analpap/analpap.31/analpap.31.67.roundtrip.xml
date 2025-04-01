@@ -1,0 +1,27 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/>Εὐφημίας <expan><ex>καὶ</ex></expan> Γε<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>Ἀρκαδίας <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><expan>Παντών<ex>ας</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>Κόμιτος <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/><choice><reg><expan>Ἀνατολία<ex>ς</ex></expan></reg><orig><expan>Ἀνατωλία<ex>ς</ex></expan></orig></choice> <expan><ex>καὶ</ex></expan> Κερκ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/>Θε<supplied reason="lost">ο</supplied><unclear>δ</unclear>ωρακία<unclear>ς</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+<milestone rend="horizontal-rule" unit="undefined"/>
+    <lb n="8"/>διʼ Ἀράβων <expan><ex>ὑπὲρ</ex></expan> βαλα<unclear>ν</unclear><supplied reason="lost">είου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/><del rend="erasure"><choice><reg>δεξαμένου</reg><orig><expan>τεξαμ<supplied reason="lost"><ex>ένου</ex></supplied></expan></orig></choice> <supplied reason="lost">Γε</supplied><unclear>ω</unclear>ργίου υἱοῦ <gap reason="lost" extent="unknown" unit="character"/></del>
+
+    <lb n="10"/>Εὐφη<unclear>μ</unclear><supplied reason="lost">ίας</supplied> <expan><ex>καὶ</ex></expan> θε<unclear>ο</unclear>δ<supplied reason="lost" cert="low">ώρ- </supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/>Μα<unclear>ν</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

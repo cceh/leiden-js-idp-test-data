@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) ‘... of the public threshing-floor of the aforesaid village Tisichis, having gathered the greater part of the produce of the fields. I beg you therefore, if you think fit, to give orders to the chief men of the village, the elders and nomophylax, to compel his father Psenemgeus to take the remaining (grain at the) threshing-floor and to restore to me all that is due, enabling me thus to fulfil my duties Towards the Treasury, that so I may obtain succour. The 11th year of the Emperor Caesar Trajan Hadrian Augustus, Epeiph 21. I, Hermione daughter of Dionysius, have presented this petition through Menodorus my agent.
+‘Cornelius to the nomophylax: On receipt of this document, act in accordance with it.
+‘I, Petrepsois son of Tapnoubis, nomophylax of the village of Tisichis, have verified the aforesaid threshing-floor, and there came out only 25/12 artabae of wheat as stated above. I, Tyrannus son of Hephestion, have written for him, as he is illiterate.’
+            =>
+         =T>
+      

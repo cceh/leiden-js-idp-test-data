@@ -1,0 +1,16 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Im elften Jahr des des Imperator Caesar Titus A[elius] Hadr[ian]us 
+            A[nton]inus Augustus Pius. <milestone unit="line" n="3"/>Gearbeitet hat für Dammarbeiten desselben 11. 
+            Jahres vom 12.-16. Epeiph im Kanal <app><lem>Psinaleitis</lem></app> für Theadelphia 
+            Panesneus, Sohn des Hôros, des Sohnes des Panesneus, und der Mutter Hêrôs.
+            <milestone unit="line" n="8" rend="break"/>(2. Hand) Ich, Sempronius, habe abgezeichnet.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>Year eleven of Imperator Caesar Titus A[elius] Hadr[ian]us A[nton]inus 
+            Augustus Pius. <milestone unit="line" n="3"/>Work has been done on the dike works of the same year 11, 
+            Epeiph 12 (to) 16 in the <app><lem>Psinaleitis</lem></app> canal for Theadelphia by 
+            Panesneus, son of Horos, the son of Panesneus, mother Heros.
+            <milestone unit="line" n="8" rend="break"/><app type="BGU_DDbDP"><lem>(m. 2)</lem></app> I, Sempronius, have signed.
+        </p></div>
+      </body>

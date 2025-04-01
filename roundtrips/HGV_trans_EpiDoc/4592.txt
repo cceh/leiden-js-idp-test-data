@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) Year 2, Hathyr 24.
+               ((2)) Year 2, Hathyr 24. There has been paid
+               ((3)) into the tax office at Phebichis
+               ((4)) of the Koites, to Pason the banker
+               ((5)) and Stotoetis the controller from
+               ((6)) Harendotes the amount due from Taembes from
+               ((7)) Talae for the beer tax on the account of Hathyr eight drachmae of bronze at 24 1/4 obols (for a stater),
+               ((8)) total 8 drachmae. In the presence of Dorion.
+            =>
+         =T>
+      

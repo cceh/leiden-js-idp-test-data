@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) [...] the dyke at the outlet near Psenaryo [...] so that he may release the water. The workmen
+                      [...] the temple of Polemis. We have given the [...] the temple of Polemis. Farewell. Year 32,
+                      Payni 26.
+                      /*Translation: B. van Beek, P.Petr. Kleon 26*/
+            =>
+         =T>
+      

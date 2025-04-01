@@ -1,0 +1,17 @@
+
+         <T=.en
+            <=
+               ((1)) The heirs of Besas, son of Alopex,
+                      for the cost of papyrus rolls
+                      for the 1st tribe in the 11th
+                      indiction, and
+                      I have issued the
+                      preceding receipt to you.
+               ((7)) In the consulship of Ursus and
+                      Polemius, viri clarissimi,
+                      Payni 17.
+                      Hierax. Total 19 talents.
+                      /*Translation: T.M. Hickey, APF 63 (2017) 109*/
+            =>
+         =T>
+      

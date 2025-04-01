@@ -1,0 +1,17 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1))  
+                  /*No translation provided by the edition*/
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((11)) [NN ...] to the oikonomoi [...] and to royal scribes and [... and] to the policemen and to the [...] 
+                  ((15))[...], greetings. We have appointed [...] mentioned below [...] should follow (his orders) [...].
+                  /*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 144, © Peeters*/
+               =>
+            =D>
+         =T>
+        

@@ -1,0 +1,62 @@
+
+         <T=.en
+            <D=.1,Fr1,1 
+               <=
+                  ((1)) (lines 1–3) 19th: in Neilopolis and on behalf of it, where the thêsaurophylakes are Dionysios, son of Dionysios, 
+also known as .[.]tes, son of Phanesis, kômogrammateus; and Ama.es, son of Onnophris, kômarchês; and …chuthes, 
+son of Petemiusis, grammateus geôrgôn; and Menches, son of Soknopis.
+(J. Bauschatz, Law and Enforcement, p. 310)
+               =>
+            =D>
+            <D=.2,Fr1,2 
+               <=
+                  ((8))
+               =>
+            =D>
+            <D=.3,Fr2 
+               <=
+                  ((17))
+               =>
+            =D>
+            <D=.4,Fr3,r,1 
+               <=
+                  ((26))
+               =>
+            =D>
+            <D=.5,Fr3,r,2 
+               <=
+                  ((30))
+               =>
+            =D>
+            <D=.6,Fr3,r,3 
+               <=
+                  ((41,ms))
+               =>
+            =D>
+            <D=.7,Fr3,r,4 
+               <=
+                  ((64))
+               =>
+            =D>
+            <D=.8,Fr3,v 
+               <=
+                  ((87))
+               =>
+            =D>
+            <D=.9,Fr4 
+               <=
+                  ((107))
+               =>
+            =D>
+            <D=.10,Fr5,1 
+               <=
+                  ((123))
+               =>
+            =D>
+            <D=.11,Fr5,2 
+               <=
+                  ((129ms))
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,51 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><supplied reason="lost">γλαυκείου</supplied> <expan><ex>δραχμὰς</ex></expan> <num value="2">β</num> <expan><unclear>σα</unclear>ρ<unclear>κ</unclear><supplied reason="lost">ο</supplied>κ<unclear>ό</unclear><supplied reason="lost">λ<ex>λης</ex></supplied></expan> <expan><ex>δραχμὰς</ex></expan> <num value="2"><unclear>β</unclear></num>
+
+    <lb n="3"/><supplied reason="lost">κρόκου <expan><ex>δραχμ  </ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> ὀπίου <num value="3"><expan><ex>τριώβολον</ex></expan></num>
+
+    <lb n="4"/><supplied reason="lost">τραγακάν</supplied><unclear>θ</unclear>ης <expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> ὕδωρ
+<supplied reason="lost"><milestone rend="paragraphos" unit="undefined"/></supplied>
+
+    <lb n="5"/><gap reason="lost" quantity="9" unit="character"/> διὰ γλαυκείου
+
+    <lb n="6"/><supplied reason="lost">γλαυκείου</supplied> <expan><ex>δραχμὰς</ex></expan> <num value="8">η</num> <expan>σαρκ<unclear>οκ</unclear>όλ<ex>λης</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num>
+
+    <lb n="7"/><supplied reason="lost">κρόκου <expan><ex>δραχμὰς</ex></expan> <num value="2">β<certainty match="../@value" locus="value"/></num>  </supplied><expan><supplied reason="lost">τ</supplied>ραγακάνθη<ex>ς</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="2">β</num>
+
+    <lb n="8"/><gap reason="lost" quantity="9" unit="character"/>αν<gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear>ν πρ<gap reason="illegible" quantity="2" unit="character"/>η
+
+    <lb n="9"/><gap reason="lost" quantity="13" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>λ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>α
+
+    <lb n="10"/><gap reason="lost" quantity="8" unit="character"/> <unclear>ἐπιμ</unclear>ελῶς τὴν
+
+    <lb n="11"/><supplied reason="lost">τραγάκαν</supplied><unclear>θ</unclear>αν αἶρε <expan>αὐθημερό<ex>ν</ex></expan>
+<supplied reason="lost"><milestone rend="paragraphos" unit="undefined"/></supplied>
+</ab></div><div n="2" type="textpart"><ab>
+<lb n="12"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="12"/><unclear>κ</unclear>ηρ<unclear>ο</unclear>ῦ <expan><ex>δραχμὰς</ex></expan> <num value="80">π</num> <g type="unintelligible"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><choice><reg>ἰοῦ</reg><orig><unclear>εἰ</unclear>οῦ</orig></choice> <expan><ex>δραχμὰς</ex></expan> <num value="8">η</num> χαλ<unclear>β</unclear><supplied reason="lost">άνης<expan><ex>δραχμὰς</ex></expan><num value="8">η</num></supplied>
+
+    <lb n="14"/><expan><unclear>ἐ</unclear>λαίο<ex>υ</ex></expan> <expan>κο<ex>τύλην</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> ἕ<supplied reason="lost">ψε </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="15"/><unclear>μ</unclear>ετὰ τοῦ ἐλαίο<supplied reason="lost">υ </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="16"/><unclear>εἶ</unclear>τα ἄρας <unclear>ἀ</unclear>πὸ <unclear>το</unclear><supplied reason="lost">ῦ πυρὸς</supplied>
+
+    <lb n="17"/><unclear>ἔ</unclear>μβαλε τὰ λ<unclear>ο</unclear><supplied reason="lost">ιπά, </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="18"/>τὴν ζμύρναν.
+<milestone rend="paragraphos" unit="undefined"/>
+
+    <lb n="19"/>μέλαιν<unclear>α</unclear> <unclear>Ἀ</unclear>φροδᾶ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="20"/>ψιμιθίου <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="21"/>ὀξυγγίου <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num> <unclear>ἐ</unclear><supplied reason="lost">λαίου</supplied>
+
+    <lb n="22"/><expan>κοτύλη<ex>ν</ex></expan> <num value="1">α</num>.</ab></div></div>

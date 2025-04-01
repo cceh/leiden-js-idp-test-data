@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><foreign xml:lang="la"><unclear>I</unclear>anu<unclear>a</unclear></foreign><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><app type="alternative"><lem><foreign xml:lang="la">Ia<unclear>f</unclear>ra<unclear>a</unclear></foreign><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <foreign xml:lang="la">I</foreign></supplied></lem><rdg><app type="alternative"><lem><foreign xml:lang="la">Ia<unclear>f</unclear>ra<unclear>m</unclear></foreign><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <foreign xml:lang="la">I</foreign></supplied></lem><rdg><app type="alternative"><lem><foreign xml:lang="la">Ia<unclear>f</unclear>ra<unclear>n</unclear></foreign><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <foreign xml:lang="la">I</foreign></supplied></lem><rdg><app type="alternative"><lem><foreign xml:lang="la">Ia<unclear>f</unclear>ra<unclear>r</unclear></foreign><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <foreign xml:lang="la">I</foreign></supplied></lem><rdg><foreign xml:lang="la">Ia<unclear>f</unclear>ra<unclear>x</unclear></foreign><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <foreign xml:lang="la">I</foreign></supplied></rdg></app></rdg></app></rdg></app></rdg></app>
+
+    <lb n="3"/><foreign xml:lang="la">Sadalas II</foreign>
+
+    <lb n="4"/><foreign xml:lang="la">Aelius III</foreign>
+
+    <lb n="5"/><foreign xml:lang="la">Di<unclear>o</unclear>scorus IIII</foreign>
+
+    <lb n="6"/><g type="unintelligible"/></ab></div>

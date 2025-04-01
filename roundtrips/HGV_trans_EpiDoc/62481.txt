@@ -1,0 +1,24 @@
+
+            <T=.es
+            <D=.1.fragment 
+               <=
+                  /*Sobre la utilidad de la poesía*/ [...] ((3))sabias [...] ((4))en ella [...] ((5))sabias e inteligentes [...] 
+               =>
+            =D>
+            <D=.2.fragment 
+               <=
+                  [...] ((1))de ningún [...] ((4))serias [...] ((6))de las cosas que han dicho [...] ((7))verdaderos enemigos [...] 
+               =>
+            =D>
+            <D=.3.fragment 
+               <=
+                  [...] ((3))se discute [...] ((5))se dedican [...] ((7))de los importantes [...] 
+               =>
+            =D>
+            <D=.4.fragment 
+               <=
+                  [...] ((5))como [...] ((7))de poetas [...]  
+               =>
+            =D>
+         =T>
+        

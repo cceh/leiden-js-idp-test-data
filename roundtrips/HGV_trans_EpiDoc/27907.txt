@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1))Demarion and Irene to their dearest Syrus, very many greetings. We know that you are distressed about the deficiency of water; this has happened not to us only but to many, and we know that nothing has occurred through any fault of yours. We now know your zeal and attentiveness to the work of the holding, and we hope that with God’s help the field will be sown. Put down to our account everything you expend on the cultivation of the holding. Receive from Ninnarus for Irene’s account the share belonging to her, and similarly from Hatres for Demarion’s account the share belonging to her. We pray for your health.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((16)) To Syrus from Irene and Demarion
+               =>
+            =D>
+         =T>
+      

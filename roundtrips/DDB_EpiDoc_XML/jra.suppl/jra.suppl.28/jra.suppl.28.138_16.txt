@@ -1,0 +1,31 @@
+<S=.grc
+<D=.surface.exterior<=
+    1. <#VII=7#> (Kal(endas)) (Mai(as)) ad (Oct(obrem))
+
+    2. ((centenarius)) Quintus ((centenaria)) <#V=5#> (p(ondo)) (l(ibras)) <#LX=60#>
+
+    3. ((centenarius)) Victorianus ((centenaria)) <#XX=20#> (p(ondo)) (l(ibras)) <#LXVII=67#>
+
+    4. ((centenarius)) Bilossus ab Occhi ((centenaria)) <#II=2#>
+
+    5. ((centenarius)) Tzelica ((centenaria)) <#X=10#> (p(ondo)) (l(ibras)) <#XX=20#>
+
+    6. ((summa)) <#XXXVIII=38#> (p(ondo)) (l(ibras)) <#XLVII=47#>
+
+    7. (inpletu(r)) (|Vol|) (as(copae)) a (B(yzacena?)) (n(umero)) <#XXII=22#> ((centenaria)) <#XXXVIII=38#> (p(ondo)) (l(ibras)) <#LXXV=75#>
+
+    8. fieri in (condit(orio)) (Z(eugitano?)) (a(mphorae?)) (g(emellariae?)) (n(umero)) <#CLXVII=167#> et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#LXII=62#> fisci
+
+    9. et Tebelbucitan qz (as(copae)) a (B(yzacena?)) (n(umero)) <#CCCCXLVI=446#>
+
+    10. <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#LXV=65#> et Macrinenses
+
+    11. (as(copae)) a (B(yzacena?)) (n(umero)) <#LV=55#> et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#CCLXXXV=285#>
+
+    12. et (|Vol|) (as(copae)) a (B(yzacena?)) (n(umero)) <#((duo milia)) CLVI=2156#>
+
+    13. (o(lei?)) (R(omae?)) (c(anon?)) (as(copae)) (n(umero)) <#DCCLVII=757#> <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#((mille)) CCXXXII=1232#>
+
+    14. ((summa)) <#VIIDCCCḶII=7852#> (p(ondo)) (l(ibras)) <#LXXV=75#>
+=>=D>
+      

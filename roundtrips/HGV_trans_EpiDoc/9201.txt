@@ -1,0 +1,15 @@
+
+         <T=.de<=
+            ... <:[Wir zeigen an, daß sich im vorher genannten]|:|:> 
+            ((1))Aufsichtsbereich [vom x. bis zum <:.]1.|:1., 11. oder 21.|:> 
+            Hathyr des gegenwärtigen 17. Jahres des Antoninus Caesar, des Herren 
+            <:[nichts ergeben hat]|:|:>, weil es kein 
+            <:Vieh|BGU:BL I, S. 48|:> im Dorf gab.
+        =>=T>
+         <T=.en<=
+            ... <:[We depose that nothing has accrued from the above mentioned]|:|:> 
+            ((1))office from [the xth to the]<:1st|:1st, 11th or 21st|:> 
+            of [the month] of Hathyr of the present year 17 of Antoninus Caesar, the lord, because there 
+            were no <:beasts|BGU:BL I 48|:> in the village.
+        =>=T>
+      

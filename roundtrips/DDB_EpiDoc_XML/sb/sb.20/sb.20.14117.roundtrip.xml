@@ -1,0 +1,43 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+    <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>
+
+    <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>την<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>λ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>ἐκεῖσέ τινα τὸν ταύτα<add place="above">ς</add> <unclear>ευ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>ταύτας οὔσας ἐν <choice><reg>συμπτ<supplied reason="lost">ώσει</supplied></reg><orig>συν<unclear>πτ</unclear><supplied reason="lost">ώσει</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>τῶν <choice><reg>στεγανομίων</reg><orig>στεγανομείων</orig></choice> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><handShift new="m2"/><expan><ex>ὧν</ex></expan> παρὰ Πεκυσίου <expan>δι<ex>πλᾶ</ex></expan> <num value="3">γ</num>
+
+    <lb n="7"/>Ἀλεκᾷ <choice><reg>γναφεῖ</reg><orig>γναφῖ</orig></choice> <expan>δι<ex>πλᾶ</ex></expan> <num value="2">β</num>
+
+    <lb n="8"/><choice><reg>Νεφορῷ</reg><orig>Νεφορο͂ͅ</orig></choice> <expan>δι<ex>πλᾶ</ex></expan> <num value="6">ϛ</num>
+
+    <lb n="9"/><choice><reg>Διονυσίῳ</reg><orig>Ζιονυσίοͅ</orig></choice> <expan><ex>διπλοῦν</ex></expan> <num value="1">α</num>
+
+    <lb n="10"/>Θεονίλᾳ <expan><ex>διπλοῦν</ex></expan> <num value="1">α</num>
+
+    <lb n="11"/><choice><reg>Ἄμμωνι</reg><orig>Ἄμονι</orig></choice> <expan>δι<ex>πλ  </ex></expan>
+
+    <lb n="12"/><gap reason="illegible" quantity="1" unit="line"/>
+<lb n="12"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <app type="alternative"><lem><expan>δι<ex>πλᾶ</ex></expan> <num value="4">δ</num></lem><rdg><expan>δι<ex>πλοῦν</ex></expan> <num value="1">α</num></rdg></app>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <app type="alternative"><lem><expan>δι<ex>πλᾶ</ex></expan> <num value="4">δ</num></lem><rdg><expan>δι<ex>πλοῦν</ex></expan> <num value="1">α</num></rdg></app>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <app type="alternative"><lem><expan>δι<ex>πλᾶ</ex></expan> <num value="4">δ</num></lem><rdg><expan>δι<ex>πλοῦν</ex></expan> <num value="1">α</num></rdg></app>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>διπλοῦν</ex></expan> <num value="1">α</num>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan>δι<ex>πλᾶ</ex></expan> <num value="2">β</num>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>διπλοῦν</ex></expan> <num value="1">α</num>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <expan>δι<ex>πλᾶ</ex></expan> <num value="2">β</num>
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <expan>δι<ex>πλᾶ</ex></expan> <num value="2">β</num></ab></div></div>

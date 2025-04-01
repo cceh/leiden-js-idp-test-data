@@ -1,0 +1,25 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" quantity="17" unit="character" precision="low"/><supplied reason="lost"> ὁμολο</supplied><unclear>γ</unclear>ῶ <choice><reg>ὀφείλειν</reg><orig>ὀφίλειν</orig></choice> σοι καὶ <choice><reg>χρεωστεῖν</reg><orig>χρεωστῖν</orig></choice> 
+
+    <lb n="3"/><supplied reason="lost">ὑπὲρ ἐκφορίων καρπῶν τῆς</supplied> <unclear>π</unclear>αρούσης <choice><reg>τεσσαρεσκαιδεκάτης</reg><orig>τεσσαρασκαιδεκάτης</orig></choice><num value="14"/> <expan>ἰνδικ<ex>τίονος</ex></expan> 
+
+    <lb n="4"/><supplied reason="lost">κεφαλαίου σίτου ἀρτάβας </supplied><num value="11"><supplied reason="lost">ἕ</supplied><unclear>ν</unclear>δεκα</num> καὶ κριθῶν ἀρτάβας <num value="5">πέντε</num>,
+
+    <lb n="5"/><supplied reason="lost"><expan>γίν<ex>ονται</ex></expan> <expan>σί<ex>του</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="11">ια</num> καὶ <expan>κρι<ex>θῶν</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="5">ε</num>, ἅς σο</supplied>ι μετρήσω τῷ Ἐπεὶφ μηνὶ 
+
+    <lb n="6"/><supplied reason="lost">τῆς εὐτυχοῦς </supplied><num value="15"><supplied reason="lost">πεντεκαιδεκάτη</supplied>ς</num> <expan>ἰνδικ<ex>τίονος</ex></expan> ἐν σιτοκρίθῳ νέῳ 
+
+    <lb n="7"/><supplied reason="lost">καθαρῷ κεκοσκινευμένῳ μέτρ</supplied>ῳ Ἀθηναίῳ ἐφʼ ἁλώνων 
+
+    <lb n="8"/><supplied reason="lost">τῆς αὐτῆς</supplied><supplied reason="lost" cert="low"> κώμης</supplied><supplied reason="lost"> ἀνυπερθέτ</supplied>ως, γινομένης σοι τῆς 
+
+    <lb n="9"/><supplied reason="lost">πράξεως ἔκ τε ἐμοῦ καὶ ἐκ τῶ</supplied>ν ὑπαρχόντων μοι πάν
+
+    <lb n="10" break="no"/><supplied reason="lost">των καθάπερ ἐκ δίκης. </supplied><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ω</unclear><gap reason="illegible" quantity="2" unit="character"/>
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

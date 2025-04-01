@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               (Translation: P. L. Bat. 25.76)
+'(cross) Phib the camel-driver and Patricius (?) from Mikron (have paid) 3 artabas of wheat for the xth indiction.'
+'Isac the elder. Indiction 6.'
+            =>
+         =T>
+      

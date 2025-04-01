@@ -1,0 +1,6 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><expan>Παχὼ<ex>ν</ex></expan> <num value="3">γ</num> τοῦ <app type="editorial"><lem><num value="32">λβ</num></lem><rdg><num value="19">ιθ</num></rdg></app> <expan><ex>ἔτους</ex></expan> <expan>ὀνό<ex>ματος</ex></expan> Κ<gap reason="illegible" quantity="3" unit="character"/> 
+
+    <lb n="2"/><abbr>Πετε</abbr> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>φοι<ex>νικώνων</ex></expan> <expan>ἱερ<ex>ατικῶν</ex></expan> τοῦ <app type="editorial"><lem><num value="32">λβ</num></lem><rdg><num value="19">ιθ</num></rdg></app> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="3"/><expan>Νό<ex>του</ex></expan> <expan><ex>δραχμὰς</ex></expan> <choice><reg>ὀκτὼ</reg><orig>ὀκτὼι</orig></choice> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> <gap reason="illegible" quantity="3" unit="character"/> </ab></div>

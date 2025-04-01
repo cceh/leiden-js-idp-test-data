@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+      <ab>
+<lb n="1"/>ὑπατείας <choice><reg><app type="alternative"><lem>Φλαουΐου</lem><rdg>Φλαουΐων</rdg></app></reg><orig>Φλαουΐω</orig></choice> <choice><reg>Τατιανοῦ</reg><orig>Τατιανῶ</orig></choice> κ<supplied reason="lost">αὶ Συμμάχου τῶν λαμπροτάτων </supplied><supplied reason="lost"><note xml:lang="en">month</note>, <note xml:lang="en">day</note></supplied>
+<lb n="2"/>Αὐρηλίῳ <choice><reg>Ἡλιοδώρῳ</reg><orig>Ἡλιωδώρου</orig></choice> Μουσέως <supplied reason="lost">ἀπὸ τῆς <expan>λαμ<ex>πρᾶς</ex></expan> καὶ <expan>λαμ<ex>προτάτης</ex></expan> <expan>Ὀξυρυγχ<ex>ιτῶν</ex></expan> <expan>πόλ<ex>εως</ex></expan></supplied>
+<lb n="3"/>συστάτῃ φυλῆς <choice><reg>Δρόμου</reg><orig>Δρώμω</orig></choice> Γυμνασίο<supplied reason="lost">υ καὶ ἄλλων ἀμφόδων παρὰ Αὐρηλίου</supplied>
+<lb n="4"/>Ἀνικήτου ἀπὸ τῆς αὐτῆς πόλεως <gap reason="lost" quantity="28" unit="character" precision="low"/>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

@@ -1,0 +1,18 @@
+<S=.cop
+<=
+1. *rho-cross* ⲧⲛ̄ϣⲓⲛⲉ ⲉⲧⲉⲕ̄ⲙ̣[ⲛⲧⲥⲟⲛ]
+2. ⲉⲧ*word-sep-apostrophe*ⲧⲁⲉⲓⲏⲩ ϩⲙ̄ ⲡⲉⲛ[ϩⲏⲧ] ⲧⲏⲣϥ ⲙ̣[ⲛ]
+3.- ⲛ̄ⲥⲱⲥ ⲧⲛ̄<:παρακαλεῖν=grc|reg|ⲡⲁⲣⲁⲕⲁⲗ[ⲉⲓ]:> [ⲛ]ⲧ̣ⲉⲕⲙⲛⲧⲥⲟⲛ
+4. ϫⲉ <:κατά=grc|reg|ⲕⲁⲧⲁ:> ⲧⲙⲉ ⲉⲛⲉⲁⲕ*word-sep-apostrophe*ⲕⲱ ϣ̣ⲁ̣ ⲡⲉϥⲣⲁⲥⲧⲉ ⲉϣϫⲉ
+5. ⲁⲛ<:πείθειν=grc|reg|ⲡⲓⲑⲉ:> ⲙ̄ⲙⲟⲕ*word-sep-apostrophe**middot* ⲁⲣⲓ ⲡⲛⲁ*word-sep-apostrophe* ⲧⲱⲟⲩⲛ ⲛⲅ̄ⲉⲓ*word-sep-apostrophe* ⲡⲉⲕϩⲏ̣[ⲧ]
+6. ⲛⲁⲙ̄ⲧⲟⲛ*middot* ⲉϣⲱⲡⲉ ⲟⲛ ⲁⲕϣⲱⲱⲧ*word-sep-apostrophe* ⲉⲃⲟⲗ ⲉⲓⲥ
+7. ⲧⲉⲕ*word-sep-apostrophe*ⲉϣⲱ ϩⲁϩⲧⲏⲛ ⲙ̄[.1]ⲛ̣ⲟⲩⲛ*middot* ⲁⲩⲱ ⲉ̣ⲛⲃⲱⲕ
+8. ⲉⲓⲱⲧ*word-sep-apostrophe* ⲛⲁⲩ ⲡⲉⲧⲛⲁ ⲉⲃⲟ[ⲗ] [.1]ⲁⲕ *word-sep-apostrophe*ⲧⲁⲁ .1[.?]
+9. ⲕⲛⲁⲣ̄ ϣⲙ̄ⲙⲟ*word-sep-apostrophe* ⲉⲣⲟⲛ*middot* ⲑⲟ ⲓ(¨)ⲧⲉ ⲇ̣.1[.?]
+10. ⲁⲛϯⲧⲱⲕ ϩⲁⲣⲟⲥ*middot* ⲁⲛⲁⲩ ϫⲉ ⲟⲩ̄ ⲡⲉ̣ⲧ̣ⲕ̣
+11.- ⲛⲁⲁ̣ϥ <:εἴτε=grc|reg|ⲉⲓⲧⲉ:> ⲉⲓ*word-sep-apostrophe**middot* <:εἴτε=grc|reg|ⲉⲓⲧⲉ:> ϫⲟⲟⲩ ⲡⲟⲩⲱ*word-sep-apostrophe*
+12. ⲛⲁⲛ ϫⲉ ⲛⲉⲗⲁⲁⲩⲉ ⲧⲏⲣⲟⲩ ⲙⲟⲕϩ̄ ⲛ̄
+13.- ϩⲏⲧ*word-sep-apostrophe* *dipunct* ⲟⲩϫⲁ ⲓ(¨) ϩⲙ̄ ⲡϫⲟⲉⲓⲥ *rho-cross*
+14. *rho-cross*
+=>
+      

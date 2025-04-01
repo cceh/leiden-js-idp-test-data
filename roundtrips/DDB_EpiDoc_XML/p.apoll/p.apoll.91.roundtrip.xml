@@ -1,0 +1,29 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><milestone rend="horizontal-rule" unit="undefined"/> 
+
+    <lb n="2"/><choice><reg>ὁμοίως</reg><orig>ὁμέως</orig></choice> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>πρέπιος    <expan>σώματ<ex>α</ex></expan> <num value="4">δ</num>        <expan>νό<ex>μισμα</ex></expan> <num value="1">α</num> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan>ξ<ex>έσ</ex>τ<ex>αι</ex></expan> <num value="16">ιϛ</num> <expan>πρ<ex>ὸς</ex></expan> <expan>ὀνόματ<ex>α</ex></expan> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>καὶ</ex></expan> <expan>κ<ex>ε</ex>ντ<ex>η</ex></expan>νάριον                <num value="1">α</num> 
+
+    <lb n="6"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">πρ</supplied><unclear>ο</unclear>σφ<ex>ορὰ</ex></expan>                   <expan>νο<ex>μίσματος</ex></expan> <num value="1/2">𐅵</num> 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <expan>προσφ<ex>ορὰ</ex></expan>  ἀλλὸ            <expan>νο<ex>μίσματος</ex></expan> <num value="1/3" rend="tick">γ</num> 
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>λ<gap reason="illegible" quantity="1" unit="character"/><unclear>κου</unclear>        <unclear>ἀλλὸ</unclear>            <expan>νο<supplied reason="lost"><ex>μισμα  </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>ιτου</unclear>                       <expan>νο<ex>μίσματος</ex></expan> <num value="1/3" rend="tick">γ</num> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/>κ                         <expan>νο<ex>μίσματος</ex></expan> <num value="1/3" rend="tick">γ</num> 
+
+    <lb n="11"/><expan><ex>ὑπὲρ</ex></expan> <expan>χαρτ<ex>ουλαρίου</ex></expan> 
+
+    <lb n="12"/><unclear>ε</unclear><gap reason="illegible" quantity="3" unit="character"/> ἄλλον <choice><reg>κάτω</reg><orig>κάτο</orig></choice>            <expan>νο<ex>μίσματος</ex></expan> <subst><add place="inline"><num value="1/3" rend="tick">γ</num></add><del rend="corrected"><num value="1/4" rend="tick">δ</num></del></subst> 
+
+    <lb n="13"/><foreign xml:lang="cop">ⲉⲛⲧⲁϥ<choice><reg xml:lang="grc">πληροφορεῖν</reg><orig>ⲡⲗⲉⲣⲟⲫⲟⲣⲓⲥⲧⲉ</orig></choice> ⲉⲣⲱⲛ ⲉⲡⲁ<hi rend="diaeresis">ⲓ</hi>
+
+    <lb n="14"/><choice><reg xml:lang="grc">κενσίστικος</reg><orig>ⲕⲉⲛⲥⲓⲥⲧⲓⲕⲟⲥ</orig></choice> ⲛⲧⲁⲛϫⲟⲟⲥ ⲉⲣⲟϥ</foreign>
+</ab></div>

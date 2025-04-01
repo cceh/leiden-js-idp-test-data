@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘… The gifts which the letter-carrier brought, consisting of … wheat and the new flax, we presented to the king. And you must know that the house of the gouty Nicanor at Canopus is ours for 2 talents 500 drachmae. So if the people of Antiochus the rachas importune you, take note that originally we came forward first and have paid earnest-money and repulsed …; and of these same facts we notified him when he was here himself and his secretary Sosibius approached us on his behalf. Year 28, Choiach 13.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) (Addressed) To Apollonius.’
+               =>
+            =D>
+         =T>
+      

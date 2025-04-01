@@ -1,0 +1,29 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><supplied reason="lost">βασιλευό</supplied>ντων Κλεοπάτρας <unclear>τ</unclear><supplied reason="lost">ῆς μητρὸς θεᾶς Ἐπιφανοῦς καὶ Πτολεμαίου τοῦ Πτολεμαίου ἔτους τρίτου, ἐφʼ ἱερέ</supplied>
+
+
+    <lb n="2" break="no"/><supplied reason="lost">ως Φίλων</supplied>ος τοῦ Κάστορος Ἀλεξ<supplied reason="lost">άνδρου καὶ θεῶν Σωτήρων καὶ θεῶν Ἀδελφῶν καὶ θεῶν Εὐεργετῶν καὶ θεῶν Φιλοπατόρων</supplied> 
+
+    <lb n="3"/><supplied reason="lost">καὶ β</supplied>ασιλέως Πτολεμαίου Φιλ<supplied reason="lost">ομήτορος, ἀθλοφόρου Βερενίκης Εὐεργέτιδος Σιμαρίστης τῆς Εὐφράνορος, κανηφόρου Ἀρσινόης Φιλα</supplied>
+
+    <lb n="4" break="no"/>δέλφου Ἑλένης τῆς Φιλοξένο<supplied reason="lost">υ, ἱερείας Ἀρσινόης Φιλοπάτορος Εἰρήνης τῆς Πτολεμαίου μηνὸς Περιτίου </supplied><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> Μεσορὴ </supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> ἐν Φιλα</supplied>
+
+    <lb n="5" break="no"/>δελφείαι τοῦ Ἀρσινοίτου νομοῦ. <supplied reason="lost">ἐμίσθωσεν </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ δεῖνος, Μακεδὼν </supplied><gap reason="lost" quantity="9" unit="character"/><supplied reason="lost"> κοντά</supplied>
+
+    <lb n="6" break="no"/>ρουρος Θ<supplied reason="lost">εο</supplied>φίλωι Θραικὶ τῶ<supplied reason="lost">ν </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀπὸ τοῦ ἑαυτοῦ </supplied><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">αρουρικοῦ κλήρου</supplied> 
+
+    <lb n="7"/>τοῦ ὄντος <supplied reason="lost">π</supplied>ερὶ Ἡρακλείω<supplied reason="lost">νος κώμην, γείτονες </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἀρούρας </supplied><gap reason="lost" extent="unknown" unit="character"/><app type="editorial"><lem><supplied reason="lost">, φόρου</supplied></lem><rdg><supplied reason="lost">ἐκφορίου</supplied></rdg></app> 
+
+    <lb n="8"/>τὴν ἄρουραν ἑκάστην χα<supplied reason="lost">λκοῦ </supplied><app type="editorial"><lem><supplied reason="lost">νομίσματος ὀφθαλμοφανοῦς ταλάντων </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> δραχμῶν </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> χιλίων </supplied><certainty match=".." locus="value"/></lem><rdg><supplied reason="lost">νομίσματος </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> εἰς ἔτη </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ὁμολογεῖ δὲ ἀπέχειν ἐκ προδόματος τὰ χαλκοῦ <expan><ex>τάλαντα</ex></expan> </supplied><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> καὶ τὰς δραχμὰς</supplied></rdg></app> 
+
+    <lb n="9"/><choice><reg>πεντακοσίων</reg><orig>πεντακο<unclear>σί</unclear><supplied reason="lost">α</supplied>ς</orig></choice> <num value="500"/> κ<supplied reason="lost">ατʼ ἔ</supplied>τος τ <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> καὶ συγχωρεῖ <app type="editorial"><lem>Θεοφίλωι </lem><rdg>E<gap reason="lost" quantity="3" unit="character"/>φίλωι </rdg></app>κατασπείρειν καὶ καρπίζεσθαι </supplied><gap reason="lost" quantity="4" unit="character"/>
+
+    <lb n="10"/>ἄσπερμον καὶ ἀκίνδ<supplied reason="lost">υνον καὶ ἀνυπόλογον πάσης φθορᾶς </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/><app type="editorial"><lem>εικ<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>ος τῆς</lem><rdg>εικ<supplied reason="lost">οσ</supplied>ιοστης</rdg></app> δὲ <app type="editorial"><lem>γενομ<supplied reason="lost">ένης γῆς ἀβρόχου ἀποτινέτω Θεόφιλος τὸ ἔλλειμμα. βρεχείσης δὲ τῆς γῆς κατασπειράτω τὴν γῆν</supplied></lem><rdg>γενομ<supplied reason="lost">ένης </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
+
+    <lb n="12"/><app type="editorial"><lem>Θεόφιλος</lem><rdg>θεα<gap reason="illegible" quantity="3" unit="character"/>ιος</rdg></app> καθʼ <app type="editorial"><lem>ὥραν</lem><rdg>ὥρας</rdg></app> <app type="editorial"><lem>το<supplied reason="lost">ῖς ἰδίοις ἀναλώμασιν σπέρματα ἑαυτῶι παρέχων </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>το<gap reason="lost" extent="unknown" unit="character"/></rdg></app>· <supplied reason="lost">ἐὰν δὲ <app type="editorial"><lem>μὴ</lem><rdg><gap reason="illegible" quantity="3" unit="character"/> μὴ</rdg></app> κατασ</supplied>
+
+    <lb n="13" break="no"/>πείρηι ἢ λίπῃ τὴν <supplied reason="lost"><app type="editorial"><lem>μίσθωσιν πρὸ τοῦ χρόνου</lem><rdg><supplied reason="lost">μίσθωσιν </supplied><gap reason="lost" extent="unknown" unit="character"/></rdg></app> </supplied>
+
+    <lb n="14"/><gap reason="lost" quantity="9" unit="character"/>κωι <app type="editorial"><lem>προδ<supplied reason="lost">ομ </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>προδ<gap reason="lost" extent="unknown" unit="character"/></rdg></app> </ab></div>

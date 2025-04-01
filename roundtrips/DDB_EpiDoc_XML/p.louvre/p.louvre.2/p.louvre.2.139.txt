@@ -1,0 +1,19 @@
+<S=.grc
+<D=.i.column<= 
+1. lost.?lin
+1. vestig.4lin
+5. [.?].2 σὺν σοί
+6. lost.1lin
+7. vestig.1lin
+8. [.?]αθ̣ι̣ησα εἰς 
+9. [.?] <:[ἔ(?)]χειν|reg|[ἔ(?)]χιν:> καθ’ οὗ
+10. vestig.1lin
+10. lost.?lin 
+=>=D>
+<D=.ii.column<= 
+1. lost.?lin
+1. vestig.13lin
+13. lost.?lin
+=>=D>  
+
+      

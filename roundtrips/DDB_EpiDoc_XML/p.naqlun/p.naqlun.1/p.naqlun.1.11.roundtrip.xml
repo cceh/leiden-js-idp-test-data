@@ -1,0 +1,33 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="FrA" type="textpart"><ab>
+
+    <lb n="1"/><g type="stauros"/> γνῶσις
+
+    <lb n="2"/><choice><reg>ὀνηλασίων</reg><orig>ὀνελα<unclear>σ</unclear>ίων</orig></choice>
+
+    <lb n="3"/>παρʼ ἐμοῦ Ἰωσὴφ
+
+    <lb n="4"/><expan>χρυ<ex>σίου</ex></expan> <expan>νο<ex>μισμάτιον</ex></expan> <num value="1">α</num>
+
+    <lb n="5"/><expan><ex>καὶ</ex></expan> τρίμισα ἕξ <num value="6"/>
+
+    <lb n="6"/><expan>στιχαρομαφ<ex>όριον</ex></expan>
+
+    <lb n="7"/><expan>μοναχικ<ex>όν</ex></expan> <num value="1">α</num>
+
+    <lb n="8"/><choice><reg>γαλέριον</reg><orig>γ<unclear>αλ</unclear>εριν</orig></choice> <num value="1">α</num>
+
+    <lb n="9"/><gap reason="lost" quantity="3" unit="character"/><abbr>αλλοδ</abbr> <num value="1">α</num>
+
+    <lb n="10"/><gap reason="lost" quantity="6" unit="character"/>ξ <num value="1">α</num>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div><div n="FrC" type="textpart"><ab>
+<lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="11"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/><expan><ex>καὶ</ex></expan> ῥάχνη <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><ex>καὶ</ex></expan> <abbr>αρ</abbr><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="14"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="14"/><gap reason="lost" extent="unknown" unit="line"/></ab></div></div>

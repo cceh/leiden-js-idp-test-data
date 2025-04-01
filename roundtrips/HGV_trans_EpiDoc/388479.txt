@@ -1,0 +1,11 @@
+
+            <T=.en
+            <=
+ /*Translation provided by the edition*/
+               ((1)) [...] So I have also written [a letter] to Kleon myself, of which I attached a copy below. 
+                The water [...] immediately so that, if we are able [...]. ((5)) Please [...] send him urgently [...] 
+                afterwards [...] of the security/safety [...].
+                /*Translation: B. Van Beek in P.Petr.Kleon, p. 81, © Peeters*/
+            =>
+         =T>
+        

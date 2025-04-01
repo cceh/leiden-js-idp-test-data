@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((3)) Theon, guard of the shore, to Claudius Erasus, strategus of the division of Themistes, greeting. The gates of the sluices (?), as you know, were lifted when you were present, as much as the inspectors of sowing wished, and they are nearly all out of the water, as you know; for I gave the inspectors of sowing the conduct of the whole matter, instructing them through you to draw off as much water as they need, and I urged you through the centurion Iulius ... I hear that the comogrammateus of Apias has petitioned you for a further supply of water for the fields of the village, when all the time the inspector of sowing for the district (?) was at the village and ought, if he required water, to have remembered my order given when you were present to come up in order to draw off as much water as he wishes or to send somebody for this purpose. It is evident from this that nobody wants it, nor has any one of the cultivators applied to you about this till now...
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((00))
+               =>
+            =D>
+         =T>
+      

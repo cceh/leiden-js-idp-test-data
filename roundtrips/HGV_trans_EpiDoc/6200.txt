@@ -1,0 +1,23 @@
+
+            <T=.en
+                <=
+                    ((1)) ... I sent to you ... letter ... so that ... amount ... Farewell. Year 35, Apellaios/Hathyr 22.
+((10)) Apollonios to Demetrios, greetings. The king has enjoined, for the defensive breastwork of war ships, 
+that we cut down the wood of native trees: acanthus, tamarisk and willow. Therefore, as soon as you read this letter, taking with you the royal scribes, 
+the official in charge of the police, the thief-catchers and the … slaves for the cutting, an amount … in the districts the specified amount.
+((16)) Therefore, do not be negligent, but immediately compile the assessed amount until … but if not the last (day), 
+until the 15th of Choiak … and suitable for the need … the king has decreed concerning this amount … to make the examination … 
+                    /*Translation: J. Bauschatz (via PN in 2014)*/
+                =>
+            =T>
+            <T=.en
+                <=
+                    ((10))Apollonios to Demetrios, greeting. The king has given instructions that nativ timber, namely acacia, 
+tamarisk, and willow, should be felled to provide th breastwork for the 'long ships'. ((12))On reading this letter you will therefore take with you the basilikoi grammateis, 
+the chief of police, the investigators, an the ... and [collect] labourers for felling to the number of 500 - the require contingent on the spot. 
+((16)) [Do not neglect this matter, but] expeditiously com plete your quota [by ... or], failing that, at the latest by Choiak 15. [See tha the wood is...] 
+and serviceable for its purpose. - The king has ordered it respect of this quota - to carry out the survey -
+                    /*Translation: R.S. Bagnall - P. Derow, Hellenistic Period, no. 119*/
+                =>
+            =T>
+        

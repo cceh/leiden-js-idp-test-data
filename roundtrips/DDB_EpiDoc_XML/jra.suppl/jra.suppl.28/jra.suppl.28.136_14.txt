@@ -1,0 +1,41 @@
+<S=.grc
+<=
+    1. <#VI=6#> Idus (April(es)) ad (Oct(obrem))
+
+    2. ((centenarius)) Donatilus ((centenaria)) <#XII=12#> (p(ondo)) (l(ibras)) <#L=50#>
+
+    3. ((centenarius)) Victorianus ((centenaria)) <#VII=7#> (p(ondo)) (l(ibras)) <#XV=15#>
+
+    4. ((centenarius)) Vanosus ((centenaria)) <#XIIII=14#> (p(ondo)) (l(ibras)) <#XIIII=14#>
+
+    5. ((centenarius)) Fi[.?]r ((centenaria)) <#XLVII=47#> (p(ondo)) (l(ibras)) <#LXV=65#>
+
+    6. ((centenarius)) Ka[.?]lius ((centenaria)) <#XXIIII=24#>
+
+    7. ((centenarius)) Ar[.?]us ((centenaria)) <#XXIII=23#> (p(ondo)) (l(ibras)) <#LIII=53#>
+
+    8. ((centenarius)) Victor ((centenaria)) <#XLVI=46#> (p(ondo)) (l(ibras)) <#LX=60#>
+
+    9. ((centenarius)) Romanus ((centenaria)) <#LVII=57#> (p(ondo)) (l(ibras)) <#X=10#>
+
+    10. ((summa)) <#CCXXXII=232#> (p(ondo)) (l(ibras)) <#LXVII=67#>
+
+    11. (inpletu(r)) Macrinenses (as(copae)) a (B(yzacena?)) (n(umero)) <#XLVIIII=49#>
+
+    12. et (k(e)nt(enaria)) <#CXX=120#> ạf̣ṛ ((summa)) <#CCXXXV=235#>
+
+    13. fieri in (condit(orio)) (Ẓ(eugitano?)) (ạ(mphorae?)) (g(emellariae?)) (n(umero)) <#CLXVII=167#> et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):>  <#L=50#> fisci
+
+    14. et (|Tebelbucitan|) qz (as(copae)) a (B(yzacena?)) (n(umero)) <#CCC=300#> et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):>  <#L=50#>
+
+    15. et Macrinenses (as(copae)) a (B(yzacena?)) (n(umero)) <#[VI]=6#> et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):> <#CXX=120#>
+
+    16. et Vol (as(copae)) a (B(yzacena?)) (n(umero)) <#((mille)) D[XIIII]=1514#> [et]
+
+    17. (o(lei?)) (R(omae?)) (c(anon?)) (as(copae)) (n(umero)) <#CCC[XCI]=391#>
+
+    18. et <:(c(e)nt(enaria))|reg|(k(e)nt(enaria)):>  <#[((mille)) XCI]=1091#>
+
+    19. ((summa)) [<#V̄CCCCI=5410#> (p(ondo)) (l(ibras)) <#XXXV=35#>]
+=>
+      

@@ -1,0 +1,16 @@
+
+         <T=.de
+            <=
+               (((1)))Von Peukestes:
+               (((2)))Niemand darf weitergehen. Es ist die Kammer eines Priesters.
+               /*translated by Johannes Kern as part of the Papyrology course at Würzburg (taught by Birgit Breuer, WS 2021/22)*/
+            =>
+         =T>
+         <T=.en
+            <=
+               (((1)))Of Peukestes
+               (((2)))No one is to pass. The chamber is that of a priest.
+               /*Translation: E.G. Turner, JEA 60, 1974, S. 240*/
+            =>
+         =T>
+      

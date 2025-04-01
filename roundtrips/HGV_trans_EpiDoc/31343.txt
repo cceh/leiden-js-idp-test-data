@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               /*Translation: from P.Oxy. 1*/ Herais requests your company at dinner in celebration of the marriage of her children at her house tomorrow, the 5th, at 9 o'clock.
+            =>
+         =T>
+      

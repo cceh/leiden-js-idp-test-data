@@ -1,0 +1,12 @@
+<S=.grc
+<D=.r<= 
+    1. (Lang: Demotic 1 lines)
+    2. (Lang: Demotic 1 char) <:πινακίς|reg|πιναγίς:> (Lang: Demotic 3 char)
+    3. (Lang: Demotic 4 lines)
+    =>=D> 
+    <D=.v<= 
+    1. (Lang: Demotic 1 lines)
+    =>=D> 
+
+
+      

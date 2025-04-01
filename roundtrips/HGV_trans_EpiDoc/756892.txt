@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) [Year x of Imperatores] Caesares Publius [Licinnius Valerianus and Publius] Licinnius Valerianus [Gallienus Germanici] Maximi Pii Felices [and Publius Licinnius] Cornelius Saloninus [Valerianus] nobilissimus Caesar [Augusti ... ]
+            =>
+         =T>
+      

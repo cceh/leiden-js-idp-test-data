@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               (((1))) two dining trays
+               (((2))) meat-hooks
+               (((3))) a bag of papyrus rolls
+                        /*Translation: C. Balamoshev, ZPE 192 (2014) 206*/
+            =>
+         =T>
+      

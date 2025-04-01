@@ -1,0 +1,7 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><app type="alternative"><lem><unclear>Ca</unclear>laul<gap reason="illegible" quantity="1" unit="character"/></lem><rdg>Calauli</rdg></app> <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
+<lb n="2"/><expan>disp<ex>ensator</ex></expan> <space extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

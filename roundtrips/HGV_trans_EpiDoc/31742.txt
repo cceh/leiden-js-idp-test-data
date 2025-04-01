@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Aurelius Tithoëtion, scribe of the river-workmen of Kore, through me, Melas, his friend, to his colleague and the river-workmen, greeting. By continuous labour dig the whole amount of naubia in the waters of Talu at the customary rate of payment for fifteen days, total 15. The 3rd year, Pauni 26.
+            =>
+         =T>
+      

@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><g type="stauros"/> Κοσμᾶς λ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>ἐν <abbr>τ</abbr> Ευβρηκῃ <app type="alternative"><lem><expan><ex>καμηλι </ex></expan></lem><rdg><expan><ex>ἡμερα </ex></expan></rdg></app> <num value="1">α</num> <supplied reason="lost"><expan>κ<ex>όλλα</ex>θ<ex>ον</ex></expan> <num value="1/2"><expan><ex>ἥμισυ</ex></expan></num></supplied>
+<lb n="3"/><choice><reg><num value="1/2">ἥμισυ</num></reg><orig><num value="1/2"><unclear>ὑ</unclear>μοίσου</num></orig></choice> <expan>μ<ex>όνον</ex></expan> <expan>μ<ex>ηνὶ</ex></expan> <expan>Με<ex>σορὴ</ex></expan> <num value="19"><unclear>ιθ</unclear></num> <supplied reason="lost"><expan>ἰνδ<ex>ικτίονος</ex></expan> <num value="4">δ</num> <g type="stauros"/></supplied>
+
+</ab>
+      </div>

@@ -1,0 +1,27 @@
+
+         <T=.de<=
+            ((1))(1. Hand) Gemeldet dem <Strategen=strategos> durch den 
+            <Helfer=boethos> Art : 2 Kamele am 4. Mecheir.
+            (((3)))(2. Hand). Gemeldet dem <Königlichen 
+                Schreiber=basilikosgrammateus> durch den 
+            <Helfer=boethos> Adrastos: 2 Kamele am 4. Meicheir.
+            (((5)))(3. Hand) <:Es wurde übereinstimmend gezählt|BGU_DDbDP:KRUSE - Königlicher Schreiber, S. 199 f., A. 422|:> <:von Seiten des|:|:> 
+            <Strategen=strategos>.
+            (((6)))(4. Hand) <:Es wurde übereinstimmend gezählt|BGU_DDbDP:KRUSE - Königlicher Schreiber, S. 199 f., A. 422|:> <:von Seiten des|:|:> 
+            <Königlichen (Schreibers)=basilikosgrammateus>.
+            (((7)))(5. Hand) <:Es wurde übereinstimmend gezählt|BGU_DDbDP:KRUSE - Königlicher Schreiber, S. 199 f., A. 422|:> <:von Seiten eines|:|:> Fremden.
+        =>=T>
+         <T=.en<=
+            ((1))(m. 1) Registered at the office of the 
+            <strategos~grc-Latn=strategos>, through Art , 
+            <assistant=boethos>, 2 camels, Mecheir 4.
+            (((3)))(m. 2) Registered at the office of the 
+            <royal scribe=basilikosgrammateus>, through Adrastos, 
+            <assistant=boethos>, 2 camels, Mecheir 4.
+            (((5)))<:(m. 3) It has been tallied|BGU_DDbDP:Kruse, Der königliche Schreiber, p. 199, note 422|:> at the office of the 
+            <strategos~grc-Latn=strategos> in corroboration.
+            (((6)))<:(m. 4) It has been tallied|BGU_DDbDP:Kruse, Der königliche Schreiber, p. 199, note 422|:> at the office of the 
+            <royal scribe=basilikosgrammateus> in corroboration.
+            (((7)))<:(m. 5) It has been tallied|BGU_DDbDP:Kruse, Der königliche Schreiber, p. 199, note 422|:> by an unknown person in corroboration.
+        =>=T>
+      

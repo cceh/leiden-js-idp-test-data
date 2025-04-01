@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>π<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="9" unit="character"/>ίδης <expan>πολ<ex>ιτευόμενος</ex></expan> διὰ <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>Πασίρου καὶ Φ<gap reason="illegible" quantity="4" unit="character"/>ων <unclear>Π</unclear>ωκᾶ ὑπὲρ γε
+
+    <lb n="4" break="no"/><unclear>ν</unclear>ήματος <num value="14">ιδ</num> <expan>ἰν<ex>δικτίωνος</ex></expan> <expan>σί<ex>του</ex></expan> <expan>ῥυπ<ex>αροῦ</ex></expan> <expan>ἀρ<unclear>τ</unclear><ex>άβας</ex></expan> τεσσεράκοντα
+
+    <lb n="5"/><choice><reg>ἥμισυ</reg><orig>ἥμυσυ</orig></choice> <expan>χ<ex>οίνικας</ex></expan> <num value="4">δ</num>, <expan>γί<ex>νονται</ex></expan> <expan>σί<ex>του</ex></expan> <expan>ῥυπ<ex>αροῦ</ex></expan> <expan><ex cert="low">ἀρτάβαι</ex></expan> <num value="40"><unclear>μ</unclear></num> <expan><ex cert="low">ἥμισυ</ex></expan> <num value="1/2"/> <expan>χ<ex>οίνικες</ex></expan> <num value="4">δ</num>.
+
+    <lb n="6"/>διʼ ἐμοῦ Φοιβάμμ<supplied reason="lost">ωνος. </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/>Παῦνι <num value="24">κδ</num>.</ab></div>

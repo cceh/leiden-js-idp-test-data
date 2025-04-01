@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=“Pathotes son of Horos.”
+               ((1))
+            =>
+            <=
+               ((1))
+            =>
+         =T>
+      

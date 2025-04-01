@@ -1,0 +1,455 @@
+<S=.la<D=.FrA,1<=
+
+    1. [.?]o (co(n)s(ul )) 
+
+    2. [.?].2 (|castr|) 
+
+    3. [.?]ạr ((denarios)) <#C̣CXLIII=243#> (ob(olos)) <#X=10#> (s(emis)) 
+
+    4. [.?][ Orfito et M]ạx̣ịṃo (co(n)s(ulibus))
+
+    5. [.?]pus*high-punctus* (|castr|) 
+
+    6. (|[loric]|)[ in (dep(osito)) ((denarios)) ][.?]  ịn viatico ((denarios)) <#LXXV=75#>
+
+    7. [accepit stipendi ((denarios))] <#ḶXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    8. [ex eo collatio ((denarios)) ][.?] <#ỊỊỊỊ=4#> (ọb(olos)) <#XXII=22#> (s(emis)) 
+
+    9. [reliquos tulit ((denarios))] <#[LX]X̣ỊX=79#> (ob(olos)) <#X̣X̣I=21#> ((quadrantem)) 
+
+    10. [habet in (dep(osito)) ((denarios)) ][.?][ in viatic]ọ ((denarios)) <#LXXṾ=75#>[.?] 
+
+    11. [.?]ṃẹ[.?] 
+
+    12. lost.8lin
+
+    20. (|[loric]|)[ in (dep(osito))] ((denarios?)) C̣[.?][ in v]ịạ[tico ((denarios)) <#LXXV=75#> ][.?]  
+
+    21. [accepit stipe]ṇdi ((denarios)) <#LXXXIV=84#> (ob(olos)) x[v (s(emis)) ((quadrantem))] 
+
+    22. [ex eo col]latio ((denarios)) <#IIII=4#> (ob(olos)) xxi[i (s(emis))] 
+
+    23. [reliquos tu]lit ((denarios)) <#LXXIX=79#> (ob(olos)) <#XXI=21#> ((quadrantem)) 
+
+    24. [habet in (dep(osito))] ((denarios?)) <#C=100#> in viatico ((denarios)) <#LX[XV]=75#> 
+
+    25. [.?][ P]ọḷḷione <#II=2#> (cọ(n)ṣ(ul  )) 
+
+    26. [.?] .1ṭhehus*high-punctus* (|castr|) 
+
+    27. (|[loric]|)[ in (dep(osito)) ((denarios))] <#C̣=100#> in viatico ((denarios)) <#LXXV=75#> 
+
+    28. [accepit stipendi] ((denarios)) <#LXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    29. [ex eo collati]ọ ((denarios)) <#IIII=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    30. [reliquos tulit] ((denarios?)) <#LXXIX=79#> (ob(olos)) <#XXI=21#> ((quadrantem)) 
+
+    31. [habet in (dep(osito)) ((denarios)) <#C=100#> in] viatico ((denarios)) <#LXXV=75#> 
+
+    32. [(Imp(eratore)) Luccio Commodo et] 
+
+    33. Q̣uinṭịḷ[lo ]([co(n)]ṣ(ulibus)) 
+
+    34. [Ma]x̣imuṣ N[.5]ianus*high-punctus* (|Castr|) 
+
+    35. [loric]titis in (dep(osito)) ((denarios)) <#C=100#> [i]n ṿiaticọ ((denarios?)) <#LXXV=75#>LX̣XV 
+
+    36. [deb]et ex priore (ratiọṇ(e)) ((denarios?)) <#X̣[V]Ị[III]=18#> (ob(olos)) <#XXIV=14#> (s(emis)) 
+
+    37. [ite]ṃ collatio ((secundo)) (stip̣(endio)) ((denarios)) <#IIII=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    38. [.?] (f(iunt)) quos debet ((denarios)) <#XXII=22#> (ob(olos)) <#XIX=19#> 
+
+    39. [habe]ṭ in (dep(osito)) ((denarios)) <#C=100#> in viatic̣o ((denarios)) <#LXXV=75#> 
+
+    40. debet ((denarios)) <#XXII[I]=23#> (ob(olos)) <#XIX=19#> 
+=>=D><D=.FrA,2<=
+
+    1. Luccius Agillius*high-punctus* (|castr|) 
+
+    2. lorictitis in (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios)) <#XIX=19#> 
+
+    3. accepit stipendi ((denarios)) <#LXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    4. ex eo coḷ[la]tiọ ((denarios)) <#IIII=4#> (ob(olos)) <#XXIỊ=22#> (s(emis)) 
+
+    5. reliquos ṭ[u]ḷịṭ ((denarios)) <#LXXIX=79#> (ob(olos)) <#XXỊ=21#> ((quadrantem?)) 
+
+    6. habet in (dep(osito)) ((denarios?)) <#C=100#> in viatico ((denarios)) <#C=100#> 
+
+    7. Orf̣ịto et Rufo (co(n)s(ulibus)) 
+
+    8. P̣olion[.?] Ḍioscori (|castr|) 
+
+    9. ḷorictitiṣ ị[n] (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios)) <#LXXV=75#> 
+
+    10. accepit s[ti]pendi ((denarios)) <#LXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    11. ex eo c[ol]ḷatio ((denarios)) <#IIII=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    12. [r]ẹḷiquos [t]ụḷ[i]t ((denarios)) <#LXXIX=79#> (ob(olos)) <#XXI=21#> ((quadrantem)) 
+
+    12. [ha]bet in [(dep(osito)) ((denarios))] <#C̣=100#> in ṿ[i]aṭico ((denarios)) <#LXXV=75#> 
+
+    14. [.?].1ṣ.1[.3] Pantarchus (|castr|) 
+
+    15. [lorictiti]ṣ in (dep(osito)) ((denarios)) <#CLXXXXV=195#> (ob(olos)) <#VIII=8#> (s(emis)) in viạ[tico] 
+
+    16. [accepit] stipendi ((denarios)) <#LX̣XX̣[IV ]=84#>([o]ḅ(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    17. [ex eo] c̣[o]ḷḷatio ((denarios)) <#IIỊỊ=4#> (ọḅ(olos)) <#[XXII]=22#> (s(emis)) 
+
+    18. [.?]<:[q]uaesturam|reg|[q]ụẹsturam:> pro <:conductione|reg|contụctione:> [.?] 
+
+    19. [.?].1meịlocụṣoụbilateris ((denarios)) <#LỊ[III]=54#> 
+
+    20. [.?]x̣ ṛ.3ṭa ((denarios)) <#LVIII=58#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    21. [reliqu]ọṣ tulit ((denarios)) <#XXV=25#> (ob(olos)) <#XXI=21#> ((quadrantem)) 
+
+    22. [habet in] (ḍep(osito)) ((denarios)) <#CLXXXXV=195#> (ob(olos)) <#VIII=8#> (s(emis)) in viatico ((denarios)) <#LXXV=75#> 
+
+    23. [.?]s Maximus*high-punctus* (|castr|) 
+
+    24. [loricti]tis in (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios)) <#LXXV=75#> 
+
+    25. [d]ẹbet ex̣ priore (ration(e)) ((denarios)) <#XVIII=18#> (ob(olos)) <#XXIV=24#> (s(emis)) 
+
+    26. item collaṭio ((secundo)) (stip(endio)) ((denarios)) <#IIII=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    27. (f(iunt)) quos debet ((denarios)) <#XXIII=23#> (ob(olos)) <#XIX=19#> 
+
+    28. habet in (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios)) <#LXXV=75#> 
+
+    29. debet ((denarios)) <#XXIII=23#> (ob(olos)) <#XIX=19#> 
+
+    30. Presente ii et <:Condiano|reg|contiano:> <#II=2#> (co(n)s(ulibus)) 
+
+    31. $m2 (rinoc(orurae)) $m1 Pathermuthis (Ptolemei(us)) (Heliopol(itanus)) 
+
+    32. loricititis in (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios)) <#LXXV=75#> 
+
+    33. accepit stipendi ((denarios)) <#LXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    34. ex eo colḷatio ((denarios)) <#IIII=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    35. reliquos tulit ((denarios)) <#LXXIX=79#> (ob(olos)) <#XXI=21#> ((quadrantem)) 
+
+    36. h[a]bet in (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios)) <#LXXV=75#> 
+
+    37. $m2 (ostraci(nae)) $m1 Ḥ.3ṇ[.1]nus Phlei*high-punctus* (Anteopol(itanus)) 
+
+    38. lorictitis in (dep(osito)) ((denarios)) <#CCVI=206#> in viatico ((denarios)) <#LXXV=75#>  
+
+    39. accepit stipendi ((denarios)) <#LXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    40. ex eo colḷatio ((denarios)) <#III=3#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    41. reliquos tulit ((denarios)) <#LXXIX=79#> (ob(olos)) <#XXI=21#> ((quadrantem)) habet in (dep(osito)) ((denarios)) <#CCVI=206#> in viatico ((denarios)) <#LXXV=75#> 
+=>=D><D=.FrA,3<=
+
+    1. Heraclus Iu[.?] 
+
+    2. loṛ[ic ][.?] 
+
+    3. a[ccepit ][.?] 
+
+    4. [.?] 
+
+    5. [.?] 
+
+    6. haḅ[et ][.?] 
+
+    7. [.?] 
+
+    8. [.?][ Ce]rkas*high-punctus* go anụ[.?] 
+
+    9. [.?] gendụṃ loṛị[c ][.?] 
+
+    10. a[ccepit ][.?] 
+
+    10a. lost.14lin 
+
+    24. h[abet ][.?] 
+
+    25. .1[.?].1[.?].1[.?] 
+
+    26. Helius Melas*high-punctus* L[.?] 
+
+    27. lorictitis iṇ [(dep(osito)) ][.?]  
+
+    28. debet ex [priore ][.?] 
+
+    29. item [collatio ((secundo)) (stip(endo)) ][.?]  
+
+    30. (f(iunt)) [quos debet ][.?] 
+
+    31. habet ị[n (dep(osito)) ][.?]  
+
+    32. [ debet ][.?] 
+
+    33. lost.1lin 
+
+    34. Anto[.?] 
+
+    35. loricẹṃ [in (dep(osito)) ][.?]  
+
+    36. accep̣[it ][.?] 
+
+    37. [ex eo collatio ][.?] 
+
+    38. .2 ṛ[eliquos tulit ][.?] 
+
+    39. ḥ[abet ][.?] 
+
+    40. .1[.?] 
+
+    41. ṿ[.?] 
+=>=D><D=.FrC<=
+
+    1. He.1[.?] 
+
+    2. loric̣[.?] 
+
+    3. acc̣[epit ][.?] 
+
+    4. [ex eo ][.?] 
+
+    5. ṛ[eliquos tulit ][.?] 
+
+    6. habẹ[t ][.?] 
+
+    7. [.?] 
+
+    8. [.?]ṭḥaub Ṃ[.?] 
+
+    9. l[oric ][.?] 
+=>=D><D=.FrD<=
+
+    1. [collatio ((denarios)) <#IIII=4#> (ob(olos)) <#XXII=22#>] (s(emis)) 
+
+    2. [tulit <#LXXIX=79#> (ob(olos)) <#XXI=21#>] ((quadrantem?)) 
+
+    3.  [.?][ viatico ((denarios))] <#LXXV=75#> 
+
+    4. [.?] 
+
+    5. [.?]it 
+
+    6.  [.?][ in viatico ((denarios))] <#[LX]X̣V=75#> ogḍo[.?] 
+
+    7.  [.?][ stipendi ((denarios)) <#LXXXIV=84#> (ob(olos)) <#XV=15#> (s(emis))] ((quadrantem)) ṣ[.?] 
+
+    8.  [.?][ collatio ((denarios)) <#IIII=4#> (ob(olos))] <#[XX]ỊI=22#> (s(emis)) 
+
+    9.  [.?][ tulit ((denarios)) <#LXXIX=79#> ]([o]b(olos)) <#XXI=21#> ((quadrantem)) 
+
+    10.  [.?][ in viatico ((denarios))] <#L[X]XV=75#> 
+
+    11.  [.?] (|[ca]ṣtr|) 
+
+    12. [.?][ in viati]c̣o ((denarios)) <#LXXV=75#> 
+
+    13.  [.?][ (ob(olos))] <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    14.  [.?][ (ob(olos))] <#X̣XII=22#> (s(emis)) 
+
+    15.  [.?][ (ob(olos))] <#[X]X̣I=21#> ((quadrantem)) 
+
+    16.  [.?][ in viatico ((denarios))] <#[LX]X̣V=75#> 
+
+    17. [.?].2 
+
+    18. [.?][ in v]ịatico ((denarios)) <#LXXV=75#> of[.?] 
+
+    19. [.?] (ṣ(emis?)) ((quadrantem?)) 
+
+    20. [.?] (ṣ(emis?)) 
+
+    21. [.?] ((quadrantem?)) 
+
+    22. [.?] ((denarios?)) <#LXXV=75#> 
+
+    23. [.?].2 
+=>=D><D=.FrE<=
+
+    1. [.?]nus (|Oxyr|) [.?] 
+
+    2.  [.?][ (|loric|) in (dep(osito))] ((denarios)) <#CLXXXVII=187#> (s(emis)) in v[iatico ][.?] 
+
+    3. [accepit stipe]ṇdi ((denarios)) <#LXX̣XIV=84#> (ob(olos)) x̣[v (s(emis)) ((quadrantem)) ][.?]  
+
+    4. [ex eo] c̣ollatio ((denarios)) <#IIII=4#> (ob(olos)) x̣[xii (s(emis)) ][.?]  
+
+    5. [reliquo]ṣ tulit ((denarios)) <#LXXIX=79#> (ob(olos)) x̣[xi ((quadrantem)) ][.?]  
+
+    6. [habet in (dep(osito))] ((denarios?)) <#CLXXXṾII=187#> (s(emis)) in viaticọ[.?] 
+
+    7. [.?] (co(n)s(ul )) 
+
+    8. [.?]nius .1[.?] 
+=>=D><D=.FrF<=
+
+    1. [.?]i (ob(olos)) <#XXỊ=#>[.?] 
+
+    2. [(f(iunt)) quos debet ((denarios)) ][.?] ([o]b(olos)) <#XII=12#> 
+
+    3. [.?] ((denarios)) <#LXXṾ=#>[.?] 
+=>=D><D=.FrG<=
+
+    1. .1[.?] 
+
+    2. [.?] 
+
+    3. Iụ[.?] 
+
+    4. [.?].1ẹrro lọ[ric ][.?] 
+
+    5. a[ccepit ][.?] 
+
+    6.  [.?][ ex eo ][.?]  
+
+    7. [reliquos ][.?] 
+
+    8. hạ[bet ][.?] 
+
+    9. The[.?] 
+
+    10. loric[.?] 
+
+    11. a[ccepit ][.?] 
+=>=D><D=.PAberd,133<=
+
+    1. [.?] (co(n)s(ul )) 
+
+    2. [.?].1s*high-punctus* (Heliopol(itanus)) 
+
+    3. [.?][ i]ṇ viatic̣ọ ((denarios)) <#ḶX̣X̣[V ]=75#>[.?] 
+=>=D><D=.FrB,1<=
+
+    1. (|[loric]|)[ in (dep(osito)) ((denarios)) <#C=100#> in viati]c̣ọ ((denarios?)) [<#LXXV=75#> ][.?] 
+
+    2. [accepit] ṣtị[p]ẹndi [((denarios))] <#[LX]X̣XIV=84#> (ob(olos)) <#XV=15#> [(s(emis)) ((quadrantem))] 
+
+    3. [e]x̣ eo cọḷlat[io ((denarios))] <#IIII=4#> (ob(olos)) <#XII=12#> (s(emis)) 
+
+    4. [reliqu]ọs tulit ((denarios)) <#LXXIX=79#> (ob(olos)) <#XXI=21#> ((quadrantem)) 
+
+    5. [habet in ]([d]ẹp(osito)) ((denarios)) <#C̣=100#> in viạtico ((denarios)) <#LXXV=75#> 
+
+    6. [.?][ Se]ptimianọ ịi (co(n)s(ul )) [.?] 
+
+    7. Tiberis*high-punctus* Thinit 
+
+    8. [lorictiti]ṣ in (dep(osito)) ((denarios)) c iṇ viatico ((denarios)) <#LXXV=75#> 
+
+    9. [debet] ex p̣riore (rati[on(e)]) ((denarios)) <#VI=6#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    10. [item collatio ((secundo)) (stip(endo)) ((denarios))] <#[I]ỊII=4#> (ob(olos)) <#XXIỊ=22#> (s(emis)) 
+
+    11. [(f(iunt)) quos debet ][.?][ ((denarios))] <#X̣I=11#> (ob(olos)) <#XVII=17#> 
+
+    12. [habet in (dep(osito)) ((denarios)) <#C=100#> in viat]ico ((denarios)) <#LXXV=75#> 
+
+    13. [debet ][.?][ ((denarios)) <#XI=11#> (ob(olos))] <#XVII=17#> 
+
+    14. [.?]s*high-punctus* (c(ivis)) (R(omanus)) 
+
+    15. (|[loric]|) [.?][ in (dep(osito)) ((denarios)) <#C=100#> in viatic]ọ ((denarios)) <#LXXV=75#> 
+
+    16. [accepit stipendi ((denarios)) <#LXXXIV=84#> ] (ob(olos)) <#XV=15#> (s(emis)) ((quadrantem)) 
+
+    17. [ex eo collatio ((denarios))] <#[IIII]=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    18. [reliquos tulit ((denarios)) <#LXXIX=79#> (ob(olos))] <#X̣X̣I=21#> ((quadrantem)) 
+
+    19. [habet in (dep(osito)) ((denarios)) <#C=100#> in viatico ][.?]  ((denarios)) <#LXXV=75#> 
+
+    20. [.?]ṣ.4 
+
+    21. (|[loric]|)[ in (dep(osito)) ((denarios)) <#C=100#> in viatic]ọ ((denarios)) <#LXXV=75#> 
+
+    22. [debet ex priore (ration(e)) ((denarios)) ][.?] .1<#IX=#> (ob(olos)) <#XVII=17#> (s(emis)) 
+
+    23. [item collatio ((secundo)) (stip(endo)) ((denarios))] <#IIII=4#> (ob(olos)) <#XXII=22#> (s(emis)) 
+
+    24. [(f(iunt)) quos debet ((denarios)) ][.?] ([o]ḅ(olos)) <#XII=12#> 
+
+    25. [habet in (dep(osito)) ((denarios)) <#C=100#> in viatico ((denarios))] <#ḶXXV=75#> 
+=>=D><D=.FrB,2<=
+
+    1. lost.6lin 
+
+    7. .1[.1].1[.1].1[.?]
+
+    8. .2[.2].1ixṭ.1[.?] 
+
+    9. trạṇ.1[.1].1[.?] 
+
+    10. [.?]ḥe magni.1[.?] 
+
+    10a. $m2 pọscu.1[.?] 
+
+    11. $m1 ex eis in (dẹp̣(osito)) [.?] 
+
+    11a. $m2 ex <:inscriptione|reg|yscription.1:> [.?] 
+
+    12. $m1 habet in (dep(osito)) [.?] 
+
+    13. (Imp(eratore)) Lucc̣ị[o Commodo vii et] 
+
+    14. Perṭ[inace <#II=2#> (co(n)s(ulibus))] 
+
+    15. $m3 (Bab(ylone)) $m1 Tinhius Val[.?] 
+
+    16. loricem in (dep(osito)) ((denarios?)) [.?] 
+
+    17. debet ex prioṛẹ [.?] 
+
+    18. item collati[o ][.?] 
+
+    19. accepit sụṃ[.?] 
+
+    19a. $m2 (mis(sus)) ad (praesi(dium?)) 
+    20. (Bab(ylonis?)) [.?] 
+
+    20. $m1 Cincturas C.1[.?] 
+
+    21. (f(iunt)) quos ḍ[ebet ][.?] 
+
+    22. habet in (dep(osito)) ((denarios?)) x̣[.?] 
+
+    23. debet ((denarios)) .1[.?] 
+
+    24. Iuḷ[i]ụs[.?] 
+
+    25. (|lor[ic]|) [.?]  
+
+    26. acc̣[epit ][.?] 
+
+    27.  [.?][ ex eo collatio (?)][.?]  
+
+    28. pin .1[.?] 
+
+    29. poss [.?] 
+=>=D><D=.FrH<=
+
+    1. [.?]lx̣[xv ][.?] 
+
+    2. [.?] <#LXXV=75#> 
+
+    3. [.?] ((denarios?)) <#LXXV=75#> 
+
+    4. [.?] ((denarios?)) <#ḶX̣X̣Ṿ=75#> 
+
+    5. [.?] <#LXXV=75#> 
+
+    6. [.?] <#LXXV=75#> 
+
+    7. [.?] ((denarios?)) <#LXXV=75#> 
+
+    8. [.?] ((denarios)) <#LXXV=75#> 
+
+    9. [.?] ((denarios?)) <#[L]X̣X̣[V]=75#> =>=D>

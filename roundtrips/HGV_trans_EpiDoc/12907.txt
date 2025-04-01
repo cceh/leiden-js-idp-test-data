@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To the commissioners of sacrifices from Aurelia Soueris whose mother is Taesis, of the village of Theadelphia. It has ever been my habit to sacrifice and pay reverence to the gods, and now I have in your presence, in accordance with the commands, made sacrifice and libation and tasted the offerings, and I beg you to certify my statement. Farewell. We, Aurelius Serenus and Aurelius Hermas saw you sacrificing. I, Hermas, have signed. The 1st year of the Emperor Caesar Gaius Messius Quintus Trajanus Decius Pius Felix Augustus, Pauni 26.’
+            =>
+         =T>
+      

@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+
+    <lb n="1"/>ἔτους <num value="50">ν</num> <subst><add place="inline">Ἐπεὶφ</add><del rend="corrected">παχ</del></subst>  <num value="30">λ</num> <expan>τέ<ex>τακται</ex></expan> ἐπὶ τὴν 
+
+    <lb n="2"/>ἐν Διὸς <expan>πόλ<ex>ει</ex></expan> τῇ <expan>μεγ<ex>άλῃ</ex></expan> <expan>τρά<ex>πεζαν</ex></expan> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="3"/>Στράτων Μηνοδώρου 
+
+    <lb n="4"/><num value="48">μη</num> <expan><ex>ἔτους</ex></expan>  <num value="800">ω</num>, <num value="49">μθ</num> <expan><ex>ἔτους</ex></expan>  <num value="1000">Α</num> 
+
+    <lb n="5"/><num value="50">ν</num> <expan><ex>ἔτους</ex></expan>  <num value="300">τ</num> <expan><ex>γίνονται</ex></expan> <subst><add place="inline"><num value="2100">Βρ</num></add><del rend="corrected">`<gap reason="illegible" quantity="1" unit="character"/><num value="100">ρ</num></del></subst>. <milestone rend="paragraphos" unit="undefined"/> <handShift new="m2" cert="low"/> <expan>Εἰρη<ex>ναῖος</ex></expan> <expan>τρα<ex>πεζίτης</ex></expan>. 
+
+    <lb n="6"/><handShift new="m3" cert="low"/>  <num value="2300">Βτ</num>. </ab></div>

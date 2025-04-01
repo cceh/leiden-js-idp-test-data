@@ -1,0 +1,14 @@
+
+         <T=.en 
+            <D=.r 
+               <= (Translation from P.L.Bat.19.41)((1))((2))
+(Mummy) of Sisôis, also (called) Apollônios, son of Areios, son of Haryôtês, his mother is Sensontôous.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((4))[Demotic] His soul will serve Osiris-Sokaris, the Great God, Lord of Abydos: Siôis, whom they call Apollônios, son of Areios, his mother is Sensontôous.
+               =>
+            =D>
+         =T>
+      

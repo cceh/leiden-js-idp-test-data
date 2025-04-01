@@ -1,0 +1,16 @@
+
+         <T=.en
+            <=
+               ((1)) Copy of receipt. 17th year of Imperator Caesar Nerva Trajanus
+                      Augustus Germanicus Dacicus, Pachon 27th. ((4)) Herakleides, son of Maron, ex-keeper of the
+                      public archives, has paid as a penalty on account of his administration in the district of
+                      Herakleides during the 16th year, two hundred eighty two drachmae and two obols, say
+                      282 dr. 2 ob., extra 17 dr. 4 ob., ((8)) and according to another receipt of the same 17th year
+                      of Trajanus Caesar the lord, in the month Epeiph after other payments on the 7th: ((11)) the
+                      same through his children, Herakleides also called Valerius and Lysimachos, for penalty
+                      on account of his administration during the aforesaid keeping of the public archives one
+                      thousand two hundred - - - drachmae, extra - - - 1 obol - - -
+                      /*Translation: B.A. van Groningen, P.Fam. Tebt. 14*/
+            =>
+         =T>
+      

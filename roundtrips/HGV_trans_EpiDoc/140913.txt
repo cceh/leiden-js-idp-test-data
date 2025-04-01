@@ -1,0 +1,7 @@
+
+         <T=.fr
+            <=
+               ((1))Un ancien a dit: « Mon père, ((5))chez qui je me suis fixé, sa vie tout entière est une Pâque ». Aie la miséricorde de prier pour moi […]
+            =>
+         =T>
+      

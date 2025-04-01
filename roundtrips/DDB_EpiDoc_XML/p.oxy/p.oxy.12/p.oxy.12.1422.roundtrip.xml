@@ -1,0 +1,30 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <expan>ἐλ<ex>άβομεν</ex></expan> <expan>Μεχ<ex>εὶρ</ex></expan> <num value="14">ιδ</num>. <handShift new="m2"/> <subst><add place="inline"><num value="87">πζ</num></add><del rend="corrected"><num value="8">η</num><del rend="erasure"><gap reason="illegible" quantity="1" unit="character"/></del></del></subst>. 
+
+    <lb n="2"/><handShift new="m3"/> <gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> Δ</supplied>ημήτριος στρατηγὸς 
+
+    <lb n="3"/><supplied reason="lost" cert="low">Γυναι</supplied><unclear>κ</unclear>οπολείτου Ἀγαθῷ Δαίμον<supplied reason="lost">ι</supplied> 
+
+    <lb n="4"/><supplied reason="lost">στρατη</supplied>γῶι Ὀξυρυγχείτου τῶι 
+
+    <lb n="5"/>φιλτάτωι χαίρει<supplied reason="lost">ν.</supplied> 
+
+    <lb n="6"/><gap reason="lost" quantity="6" unit="character"/> Ἀχιλλεὺς ὃν ἐδήλωσας <supplied reason="lost">ἐν</supplied>
+
+    <lb n="7" break="no"/><supplied reason="lost">κεκλῆσθαι</supplied> <unclear>ὑ</unclear>πὲρ ὑποδοχῆς δού
+
+    <lb n="8" break="no"/><supplied reason="lost">λου </supplied><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> ἐδη</supplied>λώθη καὶ ὑπὸ τῶν 
+
+    <lb n="9"/><supplied reason="lost">κωμογρα</supplied><unclear>μ</unclear>ματέων τοῦ ν<supplied reason="lost">ομοῦ</supplied> 
+
+    <lb n="10"/><supplied reason="lost">καὶ τῶν τῆς μη</supplied>τροπόλεως γραμ
+
+    <lb n="11" break="no"/><supplied reason="lost">ματέων </supplied><supplied reason="lost" cert="low">ἀφανὴ</supplied>ς εἶναι. <handShift new="m4"/> ἐρρῶσθαί σε 
+
+    <lb n="12"/><supplied reason="lost">εὔχομαι </supplied><gap reason="lost" quantity="9" unit="character"/><abbr><unclear>ταμ</unclear>ιο</abbr> <abbr><unclear>γρ</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>κ</unclear></abbr>. 
+
+    <lb n="13"/><handShift new="m3"/> <supplied reason="lost" cert="low"><expan><ex>ἔτους</ex></expan> <num value="12">ιβ</num>  Αὐτοκράτορος Κα</supplied>ίσ<supplied reason="lost">α</supplied>ρος Τραιανοῦ 
+
+    <lb n="14"/><supplied reason="lost">Ἁδριανοῦ Σεβαστοῦ Τ</supplied>ῦβι <num value="20">κ</num>. 
+
+    <lb n="15"/><handShift new="m5" cert="low"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Τῦβι</supplied> <num value="24"><unclear>κ</unclear>δ</num>. </ab></div>

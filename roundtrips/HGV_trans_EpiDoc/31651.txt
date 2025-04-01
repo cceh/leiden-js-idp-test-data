@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              To my lord Theon from Hebdomus (?), greeting. I send for your information in some notes the journal of expenditure. Would you be pleased, sir, to send me some money for the business of harvesting going on here and the other business? With regard to the collection of the wine about which you wrote to me, I see nothing bad in my behaviour; for the boat is being prepared in order that I may transfer the wine of Silenus. You will send me the nails for emptying (?) and a jar of gum for the tools of the machines; this will be of use to prevent their perishing of neglect. The hippopotamus has destroyed nothing, for if there is any superfluity, I watch over the place. About the fields, if you come, D. V., you will learn their condition. I pray, sir, for your health and prosperity. The accounts will show the details as contained in the memorandum.
+            =>
+         =T>
+      

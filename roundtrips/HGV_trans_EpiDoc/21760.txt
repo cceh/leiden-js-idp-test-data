@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              Theonas to his dearest Apion, many greetings. I wish you to know that as soon as I arrived at Alexandria I immediately attended to the matter about which you asked me. I found the man prospering in the main. Greet all my friends. I send you the actual proclamation of the praefect in order that you may hasten to do what concerns you. Good-bye. The 7th year of the emperor Nerva Trajanus Augustus Germanicus Dacicus, Pachon 1. (Addressed) Deliver to Apion, pastophorus, at the Iseum, from Theonas.
+            =>
+         =T>
+      

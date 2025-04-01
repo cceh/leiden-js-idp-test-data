@@ -1,0 +1,17 @@
+
+         <T=.de
+            <=
+               ((1)) O Herr Oserapis und ihr Götter, die ihr bei Oserapis sitzt, [ich bete zu] euch, ich Artemisia, Tochter des Amasis,
+ gegen den Vater meiner Tochter, [der ihr] die Grabbeigaben geraubt hat und das Grab. Wenn er also mir und seinen eigenen Kindern 
+gegenüber nicht gerecht gehandelt hat – wie er mir und seinen eigenen Kindern gegenüber ungerecht gehandelt hat –, dann möge Oserapis
+ und die Götter dafür sorgen, ((5)) dass er kein Grab von seinen Kindern erhält und dass er seine eigenen Eltern nicht begräbt. Solange meine Anklage
+ hier liegt, sollen er und was ihm gehört schrecklich vernichtet werden, zu Land und zu Wasser, von Oserapis und den Göttern, die im Poserapi
+ zusammensitzen, und er soll weder von Oserapis noch von den Göttern, die bei Oserapis sitzen, Gnade erhalten.
+ Artemisia hat diese Bitte hinterlegt und bittet ((10)) Oserapis, Recht zu sprechen, und die Götter, die bei Oserapis sitzen. Solange meine Bitte hier liegt,
+ soll der Vater dieses Mädchens von den Göttern keinerlei Gnade erhalten. Wer aber diese Schrift [wegnimmt] und Artemisia Unrecht tut, dem wird der 
+Gott eine Strafe auferlegen … für niemanden … außer denen, denen Artemisia befiehlt, dass …
+
+/*translated by Johannes Kern as part of the Papyrology course at Würzburg taught by Birgit Breuer in WS 2022/23*/
+            =>
+         =T>
+      

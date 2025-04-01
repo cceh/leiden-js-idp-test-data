@@ -1,0 +1,48 @@
+<S=.la<=
+    1. Fotais              (sol(idum)) i (f(olles)) (n(umero)) dcc 
+
+    2. <:Iambus|reg|ianbus:>   (f(olles)) (n(umero)) cxv 
+
+    3. Martialiṣ           (f(olles)) (n(umero)) cḷ 
+
+    4. Inulus              (f(olles)) (n(umero)) xxx 
+
+    5. Martialis           (f(olles)) (n(umero)) ccc 
+
+    6. Victorinus          (f(olles)) (n(umero)) ccxxx 
+
+    7. Vigilianus          (f(olles)) (n(umero)) cccxxxvi 
+
+    8. Martialis           (f(olles)) (n(umero)) ccccl 
+
+    9. Secundianu          (f(olles)) (n(umero)) cccl 
+
+    10. Quintianus          (f(olles)) (n(umero)) cccxl 
+
+    11. Victorinu           (sol(idum)) i 
+
+    12. Leporius            (sol(idum)) i 
+
+    13. <:Muraena|reg|ṃuraẹn:>  (sol(idum)) i 
+
+    14. Preiecta            (f(olles)) (n(umero)) lxxx (t(un))c̣ lx xx̣ 
+
+    15. Martiali            (f(olles)) (n(umero)) d 
+
+    16. Restitutus          (f(olles)) (n(umero)) cccl 
+
+    17. Adeudata            (f(olles)) (n(umero)) clxxx 
+
+    18. Restitutus          (f(olles)) (n(umero)) l 
+
+    19. <:qui|reg|qq:> <:supra|reg|ss:>   (f(olles)) (n(umero)) d 
+
+    20. Maximanus           (f(olles)) (n(umero)) xc 
+
+    21. Processanu          (f(olles)) (n(umero)) dcl 
+
+    22. <:qui|reg|qq:> <:supra|reg|ss:>   (sol(idum)) (n(umero)) i 
+
+    23. Donatus             (f(olles)) (n(umero)) ḷ 
+
+    24. fit (sol(idos)) v (f(olles)) (n(umero)) v /*milia*/ ccccli =>

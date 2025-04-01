@@ -1,0 +1,17 @@
+<S=.cop
+<=
+    1. ⳨ ϩⲁⲑⲏ ⲙⲉⲛ ⲛ̄ϩⲱⲃ ⲛⲓⲙ ⲉⲓ <:προσκυνεῖν=grc|reg|[ⲡⲣⲟⲥ] 
+
+    2.- ⲕⲩⲛⲉⲓ:> ⲛ̄ⲧⲉⲧⲛ̄ⲙⲛ̄ⲧⲉⲓⲱ <:ⲧ̣=PN L. Jiménez (photograph)|ed|[ⲧ]:> 
+
+    3. ⲙⲛ̄ⲛ̄ⲥⲱⲥ ⲁ ⲁ ⲁ ϣ <:.1=PN L. Jiménez (photograph)|ed|:> 
+
+    4. <:*filler(extension)?*=PN L. Jiménez (photograph)|ed|:> 
+
+    5. ⲑⲏ ⲙⲉⲛ ⲛ̄ϩⲱⲃ <:*filler(extension)?*.1=PN L. Jiménez (photograph)|ed|:> 
+
+    6. <:ⲙⲱ ⲩ(¨)ⲥⲏⲥ=PN L. Jiménez (photograph)|ed|ⲙⲱⲩⲥⲏⲥ:> ⲙⲛ̄ ⲁⲁⲣⲱⲛ̣ 
+
+    7. ⲥⲉⲟⲩⲁⲁⲃ ⲁⲛⲟ 
+=>
+      

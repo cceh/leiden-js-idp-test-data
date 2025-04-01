@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              ((9))On my voyage to Alexandria, therefore, where Areus and Euporus and Apion’s brother and guardian, Callidamas, live, I reached Memphis on the day Julia Augusta, the 15th of the present month Caesareus, and seized the above-mentioned slave Euporus, from whom the whole truth respecting the aforesaid matter will have to be learnt, and have brought him to you at the expense of a severe and violent attack upon myself by him and those by whom he was surrounded. I am, therefore, impelled to present this petition, and beg you, if you think fit, to keep the said slave guarded, and to send word to the lord praefect Julius Postumus with a view to the proceedings which I shall take at his court in the proper manner concerning the whole matter. /*Date.*/
+            =>
+         =T>
+      

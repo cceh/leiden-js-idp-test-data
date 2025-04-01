@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>ἔτους <choice><reg><expan>τεσσαρεσκαιδεκ<ex>άτου</ex></expan></reg><orig><expan>τεσαρεσκαιδεκ<ex>άτου</ex></expan></orig></choice><num value="14"/> Αὐτοκράτορος 
+
+    <lb n="2"/>Καίσαρος <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="3"/>Ἐπεὶφ <num value="1">α</num> <note xml:lang="en">?</note> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+
+    <lb n="4"/><gap reason="illegible" quantity="2" unit="line"/> 
+
+    <lb n="6"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <expan>Φιλαδελ<ex>φείας</ex></expan> <num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan> 
+
+    <lb n="7"/><expan><unclear>δρ</unclear><supplied reason="lost">αχ<ex cert="low">μὰς</ex></supplied></expan><supplied reason="lost"> τε</supplied>τρακοσίας ὀγδοήκοντα, <expan><ex>δραχμὰς</ex></expan> <num value="480">υπ</num>. </ab></div>

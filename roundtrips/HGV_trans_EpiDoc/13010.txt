@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Ision and the other nine superintendents of the lease of the dyeing monopoly, from Heron son of Herodes son of Theogiton, of the quarter of the temple of Sekneptunis. I wish to be granted by you the control of the weaving in the village of Archelais for the present 13th year only of Aurelius Antoninus Caesar the lord at a total yearly rent of 300 silver drachmae which I will pay in equal monthly instalments, the fiscal charges payable for other accounts falling upon me the lessee, if you consent to the concession. (Signed) I, Isidorus, have received a copy of this application. I, Ision, have received a copy of this application. The 13th year of Marcus Aurelius Antoninus Caesar the lord, Thoth 2[.].’
+            =>
+         =T>
+      

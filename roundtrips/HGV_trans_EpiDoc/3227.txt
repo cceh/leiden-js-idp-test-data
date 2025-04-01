@@ -1,0 +1,34 @@
+
+         <T=.fr
+            <D=.r 
+               <D=.i.column 
+                  <=
+                     ((1)) Compte dressé par Andronikos [...]. J’ai reçu pour la provision des bois pour le flottage en radeau, le 2 de Mésoré de l’an [...], du banquier Amenneus, 120 dr.
+                     ((8)) Sur cette somme, il a été dépensé:
+                            Pour le voyage (?) d’Architimos:
+                 (((10))) vers Hérakléopolis, ainsi: fret du bateau payé à celui qui a fait remonter le fleuve aux pêcheurs et aux naupègoi de Ptolemaïs vers Hérakléopolis, 14 hommes: 1 dr. 1 ob. 1/2;
+                 (((17))) à Hérakléopolis, fret du bateau payé à celui qui a fait remonter les mêmes (?) d’Hérakléopolis vers Oxyrhynchos, puis qui les a faits redescendre vers Hérakléopolis, par jour: 4 dr.; du 4 au 8, soit 5 jours: 20 dr.; – 7 (?) –
+                 (((26))) et dans l’Hérakléopolite, fret d’une petite kybaia payé à celui qui a navigué autour de l’Hérakléopolite, les naupègoi (?) inspectant les bois (?) dans quelques villages, par jour: 2 dr.; du 9 au 11, soit 3 jours: 6 dr. Total : 27 dr. 1 ob. 1/2.
+                 (((34))) Et pour l’entretien des 14 hommes
+                   ((35)) dans le bateau (?), par homme et par jour: 2 ob.; total: 4 dr. 4 ob.; du 4 au 8, soit 5 jours: 23 dr. 2 ob.;
+                 (((38))) dans l’Hérakléopolite, pour 3 hommes, 3 jours: 3 dr. Total: 26 dr. 2 ob.
+                  =>
+               =D>
+               <D=.ii.column 
+                  <=
+                     ((41)) – 23 – Pour trois bareis, avec 6 hommes dans chacune, total: 18, plus un naupègos, 1, plus le machimos d’Hèrakleidès, 1; total: 20 hommes; par homme et par jour: 2 ob.; total: 6 dr. 4 ob.; du 23 au 28, soit 6 jours: 40 dr. – 9 –
+                     ((50)) Pour 14 autres, à 2 ob.; total par jour: 4 dr. 4 ob.; du 29 au 5e jour épagomène, soit 7 jours: 32 dr. 4 ob. Total: 72 dr. 4 ob.
+                   (((54))) Et à Andronikos, salaire: 20 dr.;
+                   (((55))) et droit de garde sur le fleuve [...], à Pekerkeur et à [...]pseu: 2 dr. Total 22 dr. Pour l’ensemble: 148 dr. 1 ob. 1/2.
+                   (((61))) Solde débiteur: 28 dr. 1 ob. 1/2 (?) [...] pour le machimos d’Hèrakleidès: 2 dr. (?). Total: 30 dr. 1 ob. 1/2.
+                  =>
+               =D>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Compte dressé par Andronikos [...]
+                         /*Translation: V. Schram, CdE 94 (2019) 371-372*/
+               =>
+            =D>
+         =T>
+      

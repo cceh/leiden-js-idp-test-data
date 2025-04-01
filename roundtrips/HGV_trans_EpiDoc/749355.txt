@@ -1,0 +1,17 @@
+
+            <T=.en
+            <=
+(((1))) (number lost) planks
+(((2))) pegs
+(((3))) another plank
+(((4))) lance (word damaged)
+(((5))) drums
+(((6))) a tunic (word damaged)
+(((7))) boys’ (word damaged)
+(((8))) a tunic (word damaged)
+(((9))) (word damaged)
+(((10))) a soft tunic
+                /*Translation: R. Janko, 205 (2018) 200*/
+            =>
+         =T>
+        

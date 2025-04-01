@@ -1,0 +1,25 @@
+<S=.la
+<D=.37a.tablet<=
+    1. <:instrumentum|reg|ṣṭ[rume]ntu[m]:> [.?] 
+=>=D>
+<D=.37b.tablet<=
+    2. anno <:duodecimo|reg|dodecimo:> (dom(i)n(i)) regis <:Gunthamundi|reg|ginttamundi:> \sub [die] xị (k(a)l(endas)) maias/ <:vendentem|reg|bendentem:> Foṭṭạ ṛẹḷịc̣ṭạ 
+
+    3. <:Secundiani|reg|secuniani:> <:subscripturis|reg|subbiscrituris:> coram <:subscribentibus|reg|subbiscribentibus:> ẹx̣ c̣ụḷṭụṛịs ṣụis 
+
+    4. <:mancianis|reg|mantianis:> sub dominio Fabi Gemini Catullini (fl(aminis)) (p(er)p(etui)) partịc̣ẹḷḷas agrorum 
+
+    5. id <:est|reg|es:> in <:Buinac(?)|reg|bunnac:> <:massa|reg|masa:> una \<:habentes|reg|abientes:> fici treḍẹc̣ịm/ inter <:adfines|reg|afines:> eiusḍẹṃ agri a sepṭẹṇṭṛịọṇẹ ẹṭ a Ma 
+
+    6.- rino <:(h(eredes))|reg|(hh(eredes)):> belli a Coro Felix <:emptor|reg|emtor:> ab Africo <:latericiis|reg|lateretis:> aquaris <:vergentibusque|reg|bergentibusque:> 
+
+    7. suis item in <:alio|reg|innalio:> loco in <:Buinac(?)|reg|bunnac:> locus unus inter <:adfines|reg|afines:> a ṃẹṛịdie <:Victor8.- ianus|reg|ḅịc̣tor8.- ianus:> a Coro Doṇạtianus ab Africo et a Marino aquaris et <:vergentibusque|reg|bergentibusque:> su 
+
+    9.- is item in <:alio|reg|innalio:> loco ịḍ <:est|reg|ẹṣ:> in <:Buinac(?)|reg|bunnac:> ḷọcus ụṇụs inter <:adfines|reg|afines:> eius a merid
+
+    10.- ie Felix <:emptor|reg|emtor:> a Coro <:(h(eredes))|reg|(ḥḥ(eredes)):> bẹḷḷi a sẹp̣ṭẹṇṭṛịọṇẹ Dọṇạṭus Ạq̣ụạris <:vergenti11.- bus|reg|bergenti11.- bus:> suis item in <:alio|reg|innalio:> loco in Pụḷḷạṭis locus unus <:habente|reg|abiente:> <:olive|reg|olibe:> (ạṛḅ(ores)) <:novel12.- le|reg|ṇobel12.- le:> duas fici <:novelli|reg|nobelli:> duas ab Africo ẹṭ ạḅ ọc̣c̣ịḍẹṇṭẹ Doṇạṭịạṇụṣ a merid[ie] <:(h(eredes))|reg|(ḥḥ(eredes)):> 
+
+    13. belli a Ṃạṛịṇo ẹṭ ab [oriente] <:latericiis|reg|[lateretis]:> ạq̣ụạṛịṣ ẹṭ <:vergentibus|reg|ḅẹṛg̣ẹṇṭịbus:> ṣụịṣ ẹṭ ẹx̣ ḥạc̣ 
+
+    14. lost.?lin 
+=>=D>

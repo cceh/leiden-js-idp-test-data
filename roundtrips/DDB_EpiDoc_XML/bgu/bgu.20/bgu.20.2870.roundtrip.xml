@@ -1,0 +1,27 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="illegible" quantity="6" unit="character"/><gap reason="lost" quantity="12" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>ἐ</unclear>π<unclear>ο</unclear>
+<lb n="2" break="no"/>φθαλ<unclear>μ</unclear><supplied reason="lost">ιάσα</supplied><unclear>σα</unclear> <unclear>τ</unclear>οῖς <unclear>τ</unclear>ρ<gap reason="illegible" quantity="3" unit="character"/>σι<gap reason="illegible" quantity="1" unit="character"/>
+<lb n="3"/><app type="alternative"><lem>σκ<unclear>νο</unclear>υ<gap reason="illegible" quantity="2" unit="character"/></lem><rdg>ἐκ νου<gap reason="illegible" quantity="2" unit="character"/></rdg></app><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="9" unit="character"/>
+<lb n="4"/>φην μ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <unclear>ο</unclear>ὐ
+<lb n="5"/>βούλεται ἀπο<unclear>δ</unclear><supplied reason="lost">οῦ</supplied><unclear>ν</unclear>αι τα<unclear>ῦτ</unclear><supplied reason="lost">α·</supplied>
+<lb n="6"/><supplied reason="lost">ἀ</supplied><unclear>ν</unclear>ὰ μέρος δὲ κ<unclear>α</unclear><supplied reason="lost">ὶ ὕ</supplied>βριν μοι ο<supplied reason="lost">ὐ</supplied>
+<lb n="7"/>τὴν τυχοῦσα<unclear>ν</unclear> <supplied reason="lost">συ</supplied>νεστήσα<supplied reason="lost">το</supplied>
+<lb n="8"/><surplus><supplied reason="lost">ο</supplied><unclear>ὐ</unclear> τὴν τυχοῦ<unclear>σαν</unclear></surplus> καὶ ἔδωκεν
+<lb n="9"/><unclear>π</unclear>ληγὰς πλείο<supplied reason="lost">υς ε</supplied><unclear>ί</unclear>ς πᾶν μ<unclear>έ</unclear>ρος
+<lb n="10"/>τοῦ σώματος <unclear>ὥσ</unclear>τε καὶ ἐν τῇ 
+<lb n="11"/><choice><reg>ἐνειλήσει</reg><orig>ἐνιλήσι</orig></choice> δια<supplied reason="lost">ιρε</supplied>ῖν ὃν πε<unclear>ρι</unclear>
+<lb n="12" break="no"/><unclear>εθέμ</unclear>ην <choice><reg>μην<supplied reason="lost">ίσ</supplied>κον</reg><orig>μη<unclear>ν</unclear><supplied reason="lost">ίσ</supplied><unclear>κ</unclear>α</orig></choice> χρυσοῦν
+<lb n="13"/><num value="1/4"><unclear>τε</unclear>τάρτης</num> <num value="1">α</num>. <supplied reason="lost">ἀξ</supplied><unclear>ιῶ</unclear> <unclear>σ</unclear>υντάξαι
+<lb n="14"/>γρά<unclear>ψ</unclear>αι τῷ <unclear>τ</unclear><supplied reason="lost">ῆς</supplied> <unclear>κώ</unclear>μης ἐπισ
+<lb n="15" break="no"/>τατῃ <choice><reg>ἐξαπ<supplied reason="lost">οστεῖ</supplied>λαι</reg><orig>ἐξα<unclear>π</unclear><supplied reason="lost">οστῖ</supplied><unclear>λαι</unclear></orig></choice> τὴν <choice><reg>ἐγ <lb n="16" break="no"/>καλουμένη<supplied reason="lost">ν</supplied></reg><orig>ἐv
+<lb n="16" break="no"/>καλουμέν<unclear>η</unclear><supplied reason="lost">ν</supplied></orig></choice> <supplied reason="lost">ἐ</supplied><unclear>πὶ</unclear> <unclear>σ</unclear>ὲ ὅπ<unclear>ω</unclear>ς
+<lb n="17"/>ἐπαναγκασ<unclear>θ</unclear><supplied reason="lost">ῇ</supplied> <unclear>πα</unclear>ραχρῆμα
+<lb n="18"/>συνεχομέ<unclear>ν</unclear><supplied reason="lost">η ἀποδο</supplied><unclear>ῦ</unclear>ναι τὰ 
+<lb n="19"/>ἡμέτερα κ<unclear>α</unclear><supplied reason="lost">ὶ τύχῃ</supplied> <unclear>ὧ</unclear>ν π<unclear>ροσ</unclear>
+<lb n="20" break="no"/>ήκει.
+<milestone rend="paragraphos" unit="undefined"/>
+<lb n="21"/><handShift new="m2"/><app type="alternative"><lem><abbr>ἐ<unclear>γ</unclear>ρ<unclear>α</unclear></abbr></lem><rdg><expan>ἐγρά<ex>φη</ex></expan></rdg></app> <unclear>τω</unclear> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="22"/><handShift new="m3"/> <supplied reason="lost">εὐτύ</supplied><unclear>χ</unclear><supplied reason="lost" cert="low">ει </supplied> 
+</ab></div>

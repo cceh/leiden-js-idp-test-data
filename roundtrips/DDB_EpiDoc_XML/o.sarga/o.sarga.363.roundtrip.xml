@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><g type="rho-cross"/> <expan>λόγ<ex>ῳ</ex></expan> <foreign xml:lang="cop">ⲡⲁⲥⲟⲛ ⲡ</foreign><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan>σί<ex>του</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <subst><add place="inline"><num value="62"><unclear>ξβ</unclear></num></add><del rend="corrected"><gap reason="illegible" quantity="2" unit="character"/></del></subst> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ε <expan>σί<ex>του</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ὁμοῦ</ex></expan> <expan>γί<ex>νονται</ex></expan> <expan>σί<ex>του</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num atLeast="231" atMost="239">σ<unclear>λ</unclear><gap reason="lost" quantity="1" unit="character"/></num> <gap reason="lost" extent="unknown" unit="character"/>
+</ab></div></div>

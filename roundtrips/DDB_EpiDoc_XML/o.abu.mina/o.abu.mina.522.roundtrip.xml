@@ -1,0 +1,7 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><supplied reason="lost"><gap reason="illegible" extent="unknown" unit="character"/> </supplied> αππα <choice><reg cert="low">Κυρίου</reg><orig>Κυρίω</orig></choice>
+<lb n="2"/><expan>συμμάχ<ex>ου</ex></expan> <expan>ὀν<ex>ικαὶ</ex></expan> <expan>φορ<ex>αὶ</ex></expan> <num value="2">β</num> <num value="1/2"><expan><ex>ἥμισυ</ex></expan></num>
+<lb n="3"/><expan><ex>ὁμοῦ</ex></expan> <expan>ὀν<ex>ικαὶ</ex></expan> <expan>φορ<ex>αὶ</ex></expan> <num value="12">ιβ</num> <num value="1/2"><expan><ex>ἥμισυ</ex></expan></num>
+</ab>
+</div>

@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>Δίδυμος <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>παράσχου Σιλβανῷ <choice><reg>μείζονι</reg><orig>μίζονι</orig></choice> <supplied reason="lost">ὑπὲρ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> δηναρίων μυριάδας δισχιλίας ὀκτακοσίας</supplied>
+
+    <lb n="3"/>ἐβδομήκοντα, <expan><ex>γίνονται</ex></expan> <expan><ex>δηναρίων μυριάδες</ex></expan> <num value="2870">Βωο</num> <num value="28700000"/> μ<supplied reason="lost">όνα </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>καὶ ὁμοίως παράσχου Σιλβα<supplied reason="lost">νῷ μείζονι ὑπὲρ </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> δηναρίων μυριάδας </supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>ὀκτακοσίας τριά<supplied reason="lost">κον</supplied><unclear>τα</unclear>, <supplied reason="lost"><expan><ex>γίνονται</ex></expan></supplied> <expan><ex>δηναρίων μυριάδες</ex></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"><num value="830">ωλ</num> μόνα </supplied><gap reason="lost" extent="unknown" unit="character"/></ab></div>

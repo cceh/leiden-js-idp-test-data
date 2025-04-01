@@ -1,0 +1,38 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> <expan>λό<ex>γος</ex></expan> <expan>μισθ<ex>οῦ</ex></expan> <expan>φυλάκ<ex>ων</ex></expan> <num value="2">β</num> <del rend="erasure"><unclear>π</unclear></del> <expan>κ<ex>ερατίων</ex></expan> <num value="35">λ<unclear>ε</unclear></num> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>οὕ<ex>τως</ex></expan> 
+
+    <lb n="3"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Ἀπολλῶ Ποῦσι Σαμβᾶ <expan>κ<ex>εράτια</ex></expan> <num value="3">γ</num> 
+
+    <lb n="4"/><expan>δ<ex>ιὰ</ex></expan> Παμουτίου               <expan>κ<ex>εράτια</ex></expan> <num value="3">γ</num> 
+
+    <lb n="5"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Ἀπολλῶ Νείλου      <expan>κ<ex>εράτια</ex></expan> <num value="3">γ</num> 
+
+    <lb n="6"/><expan>δ<ex>ιὰ</ex></expan> Συμεωνίου               <expan>κ<ex>εράτια</ex></expan> <subst><add place="inline"><num value="3">γ</num></add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/></del></subst> 
+
+    <lb n="7"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> <unclear>Ψ</unclear>α<unclear>ῦ</unclear> <abbr><unclear>Κ</unclear>οπ</abbr>         <expan>κ<ex>εράτια</ex></expan> <num value="2">β</num> 
+
+    <lb n="8"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Ποῦσι Ἀῶρ          <expan>κ<ex>εράτια</ex></expan> <num value="2">β</num> 
+
+    <lb n="9"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Σαμβᾶ Καραβωτᾶ      <expan>κ<ex>εράτια</ex></expan> <num value="2">β</num> 
+
+    <lb n="10"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Φῖβ <expan>Νειλάμμ<ex>ωνος</ex></expan>   <expan>κ<ex>εράτια</ex></expan> <del rend="erasure"><num value="2">β</num></del> <num value="3">γ</num> 
+
+    <lb n="11"/><expan>δ<ex>ιὰ</ex></expan> <expan>Φοιβ<ex>άμμωνος</ex></expan> Ἀνο<unclear>ῦ</unclear>π    <expan>κ<ex>εράτιον</ex></expan> <num value="1">α</num> 
+
+    <lb n="12"/><add place="interlinear"> <handShift new="m2"/> <expan>Οὐεναφρ<ex>ίου</ex></expan> </add> 
+
+    <lb n="13"/><handShift new="m1"/> <g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Ἰωάννου Παρεῦ <expan>κ<ex>εράτια</ex></expan> <num value="2">β</num> 
+
+    <lb n="14"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> Λαήου Ἀλλίου       <expan>κ<ex>εράτια</ex></expan> <num value="6">ϛ</num> 
+
+    <lb n="15"/><g type="check"/> <expan>δ<ex>ιὰ</ex></expan> <expan><unclear>Φοιβ</unclear><ex>άμμωνος</ex></expan>      <expan><supplied reason="lost">κ</supplied><ex>εράτια</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="16"/><expan>δ<ex>ιὰ</ex></expan> <unclear>Να</unclear>αρ<unclear>α</unclear>οῦ Ἰσὰκ           <expan>κ<ex>εράτια</ex></expan> <num value="2">β</num> 
+
+    <lb n="17"/><supplied reason="lost"><expan>δ<ex>ιὰ</ex></expan></supplied> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>                <expan><unclear>κ</unclear><supplied reason="lost"><ex>εράτια</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="18" rend="perpendicular"/> <handShift new="m3"/> <expan>Αὐρ<ex>ήλιος</ex></expan> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><expan><ex>  </ex></expan> 
+
+    <lb n="19"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>

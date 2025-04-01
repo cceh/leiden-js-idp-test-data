@@ -1,0 +1,8 @@
+
+         <T=.de
+            <=
+               ((1))Pachumis, Sohn des Menelaos, hat für Wächterlohn des 6. Jahres eine Drachme gezahlt. 6. Jahr, 3. Epeiph.
+            /*Translation: ed. pr.*/
+            =>
+         =T>
+      

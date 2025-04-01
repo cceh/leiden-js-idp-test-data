@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 8*/
+              The year after the consulship of Flavius Eusebius and Flavius Hypatius the most illustrious, Mecheir 17. At a meeting of the senate, the prytanis being Asclepiades son of Achilleus, ex-gymnasiarch and senator, Eutrygius, ex-logistes, said: His highness my lord the most illustrious dux, Flavius Artemius, having auspiciously made a visit here, we advised his excellency that the new levies raised by us for military service had falsely represented themselves as not having received the sum agreed upon with them, and that we had previously paid them not only the amount fixed upon by the treasury but a further consideration; and his highness accepted [this statement].
+            =>
+         =T>
+      

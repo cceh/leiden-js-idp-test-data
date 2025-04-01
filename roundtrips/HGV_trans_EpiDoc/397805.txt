@@ -1,0 +1,19 @@
+
+         <T=.en
+            <=
+               ((1)) Debt (?). /*Column number*/
+                      30. In the nineteenth year of Emperor Caesar Nerva Traianus Optimus Augustus Germanicus Dacicus Parthicus,
+                      on the twenty–fourth day of the month Kaisareios, in Theadelpheia in the Themistos division of the
+                      Arsinoite nome. ((6)) Eirenaios, son of Aphrodisios, about forty-two years old, with a scar on the right calf of
+                      his leg acknowledges to Heron, son of Hermas, about forty years old, with a scar in the middle of his forehead,
+                      that he /*sc. Eirenaios*/ has received back from him /*sc. Heron*/ one hundred drachmas in silver which
+                      Heron owed to Eirenaios, as he /*sc. Heron?*/ says, according to a contract which is claimed to have been
+                      lost ((14)) and Eirenaios admits that it /*i.e. the contract*/ is invalid for him and for everyone who should bring it
+                      forth and that Eirenaios neither makes nor will make any claim against Heron or his assigns either about
+                      these things he has received, as stated above, or about the interest on them or about any other matter at
+                      all, written or unwritten, up to the present day, in any manner. The contract is incontestable. ((25)) Subscriber for Heron /*vacat*/
+                      ... of Aphrodisios. 
+                      /*Translation: A. Mirończuk, ZPE 194 (2015) 196*/
+            =>
+         =T>
+      

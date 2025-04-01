@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/><gap reason="ellipsis" quantity="8" unit="line"><desc>non transcribed</desc></gap>
+<lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="9"/><gap reason="ellipsis" quantity="1" unit="line"><desc>non transcribed</desc></gap>
+<lb n="10"/>Ἀφρικανὸς <gap reason="ellipsis" extent="unknown" unit="character"><desc>non transcribed</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="11"/><gap reason="ellipsis" extent="unknown" unit="character"><desc>non transcribed</desc></gap> ἰς Διδύμ<supplied reason="lost">ους</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="12"/>διπλάσας ἐπι<unclear>στο</unclear><supplied reason="lost">λ</supplied><gap reason="lost" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="13"/><gap reason="ellipsis" quantity="3" unit="line"><desc>non transcribed</desc></gap>
+<lb n="13"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div></div>

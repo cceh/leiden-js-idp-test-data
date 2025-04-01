@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Ἄλκιμος <abbr>Ψενθώτ</abbr> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>παρὰ σοῦ ἐπιμ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>εἴκοσι τέσσ<unclear>ε</unclear>ρα <num value="24"/> <expan><ex>γίνεται</ex></expan> <supplied reason="lost"><gap reason="illegible" extent="unknown" unit="character"/> <expan><ex>ἔτους</ex></expan> <num><gap reason="illegible" atLeast="1" atMost="2" unit="character"/></num> Αὐτοκράτορος</supplied>
+<lb n="4"/><unclear>Κα</unclear>ίσαρος Δομιτ<supplied reason="lost">ιανοῦ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

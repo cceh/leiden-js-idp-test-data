@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>οσ</unclear>ι</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">εἴ</supplied><unclear>κοσ</unclear>ι<certainty match=".." locus="value"/></rdg></app>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Φ</supplied>αρμοῦθι <num value="1">α</num> <expan>ἰ<ex>νδικτίωνος</ex></expan> <num value="14">ιδ</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="11" unit="character"/>
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <expan>στο<unclear>ι</unclear>χ<ex>εῖ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>

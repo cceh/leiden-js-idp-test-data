@@ -1,0 +1,14 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><expan>ψωμ<ex>ία</ex></expan> <num value="18">ιη</num>  <num value="54">νδ</num> <del rend="erasure"><expan>μ<ex>άτια</ex></expan> <num value="6">ϛ</num></del> 
+
+    <lb n="3"/><expan>ψωμ<ex>ία</ex></expan> <num value="16">ιϛ</num>  <num value="48">μη</num> 
+
+    <lb n="4"/><expan>ψωμ<ex>ία</ex></expan> <num value="13">ιγ</num>  <num value="39">λθ</num> 
+
+    <lb n="5"/><expan>γί<ex>νονται</ex></expan> <expan>ψωμ<ex>ία</ex></expan> <num value="141">ρμα</num> 
+
+    <lb n="6"/>ἐν τῇ <expan>ἡ<ex cert="low">μέρᾳ</ex></expan> <del rend="erasure"><num value="31">λα</num></del> </ab></div>

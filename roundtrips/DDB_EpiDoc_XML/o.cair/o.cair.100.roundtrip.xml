@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="ellipsis" quantity="2" unit="line"><desc>Demotic</desc></gap> 
+</ab></div><div n="v" type="textpart"><ab>
+
+    <lb n="4"/><handShift new="m2"/> <gap reason="ellipsis" quantity="4" unit="line"><desc>Demotic</desc></gap> 
+
+    <lb n="5"/><handShift new="m3"/> <gap reason="ellipsis" quantity="1" unit="line"><desc>Demotic</desc></gap> 
+
+    <lb n="6"/><handShift new="m4"/> <gap reason="lost" extent="unknown" unit="character"/><unclear>ς</unclear> συνπαρείληφα πυροῦ ἀρτάβας 
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>ἔτους</ex></expan> <num value="12"><unclear>ιβ</unclear></num> Καίσαρος Ἐπεὶφ <num value="24">κδ</num>. </ab></div></div>

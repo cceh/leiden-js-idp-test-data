@@ -1,0 +1,27 @@
+
+         <T=.fr
+            <D=.r 
+               <=
+                  ((1)) Ayant saisi l’occasion du messager, j’ai cru devoir vous écrire, pour me
+prosterner et saluer la trace bénie des pieds bénis de mon bon maître, ainsi que tous
+les frères très aimés de Dieu qui habitent avec mon bon maître, ((4)) et je prie mon maître
+de se souvenir de mon humble personne dans les prières toutes saintes et efficaces
+de mon bon maître, jusqu’à ce que Dieu me juge digne aussi de me prosterner en
+personne aux pieds de mon bon maître. ((8)) Car je ne cesse, jour et nuit, de prier le
+Christ notre Maître pour le salut et la préservation de mon bon maître, et de tous
+ceux qui aiment mon maître dans le Seigneur. Phamenoth 2, indiction 2.
+/*Translation: Fournet, Anatomie de la lettre antique, p. 51-52*/
+               =>
+            =D>
+            <D=.v,ctr 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.v,md 
+               <=
+                  ((2))
+               =>
+            =D>
+         =T>
+      

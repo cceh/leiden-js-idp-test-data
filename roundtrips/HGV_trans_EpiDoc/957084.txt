@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) Souchion, praktor of (the quarter of the) Bithynians, to Dioskoros, son of Dioskoros, greetings. 
+(((3))) I receive from you eight silver drachmas for the poll-tax of the twentieth year of Hadrian Caesar the lord, total 8 dr., four bronze obols. Year 21 of Hadrian Caesar the lord. Phaophi 27.
+/*Translation: F. Micucci,  CdE 95 (2020) 298*/
+            =>
+         =T>
+      

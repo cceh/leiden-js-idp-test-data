@@ -1,0 +1,21 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>ἔτους <num value="16">ἑκκαιδεκάτου</num> <choice><reg>Αὐρηλίου</reg><orig>Αὐληρίου</orig></choice> 
+
+<lb n="2"/>Ἀντωνίνου Καίσαρος τοῦ κυρίου
+
+<lb n="3"/><expan>ἀριθ<ex>μήσεως</ex></expan> <expan>Φαρμουθ<ex>ι</ex></expan>. <expan>διέγρα<ex>ψαν</ex></expan> <choice><reg>Πρίσκῳ</reg><orig>Πρίσκος</orig></choice>
+
+<lb n="4"/>καὶ <expan>μετ<unclear>ό</unclear>χ<ex>οις</ex></expan> <expan>πράκ<ex>τορσι</ex></expan> <expan>ἀργ<ex>υρικῶν</ex></expan> <expan>κώ<ex>μης</ex></expan> <expan>Τεπ<ex>τύνεως</ex></expan> Πά
+
+<lb n="5" break="no"/>τρων Φεῦτος καὶ οἱ <expan>λ<supplied reason="lost">ο</supplied>ιπ<ex>οὶ</ex></expan> <choice><reg>νε
+
+<lb n="6" break="no"/>κροτάφοι</reg><orig><subst><add place="inline">νε<del rend="erasure">κ<gap reason="illegible" quantity="1" unit="character"/></del><lb n="6" break="no"/>κροτάφυ</add><del rend="corrected">νε<del rend="erasure">κ<gap reason="illegible" quantity="1" unit="character"/></del><lb n="6" break="no"/><unclear>ν</unclear>ταφυ</del></subst></orig></choice> <expan>ὑπ<ex>ὲρ</ex></expan> <choice><reg>ἀρχιερέως</reg><orig>ἀρχερες</orig></choice> <choice><reg>προσ 
+
+<lb n="7" break="no"/>όδων</reg><orig>προσ<lb n="7" break="no"/>ώδων</orig></choice> ἱερατικῶν τάξεων
+
+<lb n="8"/>ιϛ <expan><ex>ἔτους</ex></expan> ῥυπαρὰς <expan><ex>δραχμὰς</ex></expan> <num value="312">τριακοσίας
+
+<lb n="9"/>δεκαδύο</num> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="312">τιβ</num>.
+</ab>
+      </div>

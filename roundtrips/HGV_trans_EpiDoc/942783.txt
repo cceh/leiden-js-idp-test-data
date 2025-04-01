@@ -1,0 +1,23 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((2)) Euer Sohn Isaak, Einwohner aus Telke, schreibt an seinen geliebten väterlichen Herrn, [...]
+                  (((3))) Apa Georg, den Klostervorsteher und Archimandriten. Zunächst und vor [allem]
+                  ((4)) küsse [ich] den Boden für den Fußschemel eurer [väterlich herrlichen] Heiligkeit.
+                  ((5)) Wegen der Schreiben eurer väterlich herrlichen Heiligkeit habe ich den Boden geküsst. [...]
+                  (((6))) die Antwort Gottes [erhalten (?)], die euch voll zufriedenstellen wird, denn ich habe dieses [wahrlich (?)] nicht getan [...],
+                  ((7)) damit man eure Väterlichkeit festsetzt, indem man euch ermahnt und damit ich in der Art verfahre, wie [...]
+                  (((8))) [...] mir und ich zahle jeden Einzelnen [zurück (?)] [...] ... [...]
+                  ((9)) ... [...] ... [...]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) [/*An*/ ...] heiligen und Christus tragenden Apa Georg, den Klostervorsteher und 
+((2)) Archimandriten, von eurem Sohn Isaak aus 
+((3)) Telke. /*Translation: G. Schenke, P.KoelnAegypt. 2, p. 86*/
+               =>
+            =D>
+         =T>
+      

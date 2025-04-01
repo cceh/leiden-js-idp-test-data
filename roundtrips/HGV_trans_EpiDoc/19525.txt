@@ -1,0 +1,16 @@
+
+         <T=.en
+            <D=.1 
+               <=
+                  ((1)) 
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((14)) ‘The 16th year of Hadrianus Caesar the lord, Pharmouthi 22, West-end Quarter, (paid by) Haroeipoi … son of Harats … for the poll-tax of the 16th year eight drachmae, total 8, for the prison-guard 1 obol, for the ferry-guard (?) 1 obol 2 ch., through Nicomachus. Pauni 26, (paid by) the same person through the same agency for pig-tax one drachma four obols, total 1 dr. 4 ob. 
+‘Quarters of the Western and Eastern Guard-houses, the 19th year of Hadrianus Caesar the lord, Tubi 23, (paid by) Dioscorus son of Harpaesion for the tax on a calf 14 obols, through Callias.’
+
+               =>
+            =D>
+         =T>
+      

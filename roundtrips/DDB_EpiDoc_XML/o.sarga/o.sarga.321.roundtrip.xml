@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="rho-cross"/> <hi rend="supraline">Θὼθ</hi> <g type="dipunct"/>  <num value="27"><hi rend="supraline">κζ</hi></num> <g type="dipunct"/> 
+
+    <lb n="2"/><foreign xml:lang="cop">ⲧⲁϩⲣⲟⲩϫ</foreign> <g type="dipunct"/> 
+
+    <lb n="3"/><expan>οἴ<ex>νου</ex></expan> <expan>μικ<ex>ρὰ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="4"/><foreign xml:lang="cop">ⲡⲁⲏⲥⲉ</foreign> <choice><reg><expan>κ<supplied reason="lost">αμηλ<ex>ίτης</ex></supplied></expan></reg><orig><expan>κ<supplied reason="lost">αμαλ<ex>ίτης</ex></supplied></expan></orig></choice> </ab></div>

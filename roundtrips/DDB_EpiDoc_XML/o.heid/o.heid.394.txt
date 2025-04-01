@@ -1,0 +1,29 @@
+<S=.grc
+<=
+    1. lost.?lin 
+
+    1. [.?].1[.1].1[.?]
+
+    2. *slanting-stroke* *slanting-stroke*  Παρίων [.?]
+
+    3. *slanting-stroke* *slanting-stroke*  Φοβώ̣ου .1[.?]
+
+    4. *slanting-stroke* *slanting-stroke*  Δόμνος [.?] 
+
+    5. *slanting-stroke* *slanting-stroke*  Λευκίου  η.1[.?] 
+
+    6.  <#𐅵=1/2#> /*Perhaps from a lost column at left?*/ *slanting-stroke* *slanting-stroke*  Πετε ΐ(¨)ων  <#δ=4#> 
+
+    7. *slanting-stroke* *slanting-stroke*  Σατύρου Δεῖ̣ος <#ιβ=12#> <#𐅵=1/2#> 
+
+    8. *slanting-stroke* *slanting-stroke*  Σερηνίλλας <#δ=4#> 
+
+    9. *slanting-stroke* *slanting-stroke*  Θῶνις (|δημοσι|)    <#β=2#> 
+
+    10. *slanting-stroke* *slanting-stroke*  Σερῆνος (|ἱππ|)    <#β=2#> 
+
+    11. *slanting-stroke* *slanting-stroke*  Ἡρακλῆς (|μεγ|)   <#β=2#> 
+
+    12. *slanting-stroke* *slanting-stroke*  Ἡρακλῆς (|λιβ|) 
+
+    13. vac.  <#β=2#>  =>

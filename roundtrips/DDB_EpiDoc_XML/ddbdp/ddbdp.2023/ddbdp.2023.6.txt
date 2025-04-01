@@ -1,0 +1,11 @@
+<S=.grc
+<=
+    1. lost.?lin
+
+    1. vestig  
+
+    2. *rho-cross* ~|di emu|~grc-Latn  Κόμιτος̣ #sign 
+
+    (3, indent)χμγ
+=>
+      

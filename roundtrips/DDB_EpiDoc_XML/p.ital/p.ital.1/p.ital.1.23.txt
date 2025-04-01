@@ -1,0 +1,30 @@
+<S=.la
+<=
+    1a. [Attalianus ][.10][ huic (chartul(ae)) donationis a] <:praesenti|reg|[presenti]:> [die (s(upra)s(crip)tarum) <#trium=3#> unciarum principalium in integro (fund(i)) Cellulas cum (omnib(us)) 
+ad (eumd(em)) (pertinentib(us)) sicut superius 
+]
+    1a. [legitur facta in Ioannia (r(e)l(igiosa)) (abb(atissa)) monasterii (S(an)c(t)i) (Iohann(is)) Baptistae qui appellatur ad] 
+
+    1a. [Navicula et per eum in eodem (Monaster(io)) a Iohanne (prim(icerio)) (num(eri))]
+
+    1a. [(Rav(ennatium)) et Stefania (h(onesta)) (f(emina)) iugali (s(upra)s(crip)tis) donatoribus, qui me <:praesente|reg|[presente]:> signa <:(s(an)c(ta)e)|reg|sce:> (cruc(is)) (fec(erunt)), et eis relec]
+
+    1.- tum est, rogatus ab (eosd(em)) testis subscripsi, et <:hanc|reg|hac:> (chartul(am)) (d[on(ationis)]) [mei] <:[praes]
+
+    2.- entia |reg|[pres]2.- ẹnṭia:> (ḥ(ac)) (d(ie)) super (s(an)c(t)[a]) evangelia traditam vidi. 
+
+    3. [Ser]g̣ius, (domestic(us)) (num(eri)) Armeniorum, <:huic|reg|uih:> <:chartulae|reg|chartule:> donationis a <:praesenti|reg|presen[ti]:> [die] 
+
+    4. [tr]ịum unciarum principal[iu]ṃ in <:integro|reg|initegro:> fundi Cellulas cum ọṃ[nibus ad (eund(em))] 
+
+    5. pertinentibus, <:sicut|reg|sicud:> superi[u]ṣ legitur, facta in Iohannia, (ṛ(e)ḷ(i)g̣(iosa)) [(abb(atissa)) monasterii] 
+
+    6. (s(an)c(t)i) Iohannis <:baptisti|reg|baptisteị:>, qui appellatur ad Navicula, et [per eam in] 
+
+    7. <:eodem|reg|eode:> monasterium, a Iohanne (v(iro)) (c(larissimo)), <:primicerio|reg|primicirio:> (num(eri)) (Ṛav(ennatium)), et Ste[fania ][.2] 
+
+    8. <:iugali|reg|iugalis:>, (s(upra)ṣ(crip)tiṣ) <:donatoribus|reg|donatores:>, qui me <:praesente|reg|presente:> signa <:(s(an)c(ta)e)|reg|sce:> [(cruc(is)) (fec(erunt)), et] 
+
+    9. [eis] <:relectum|reg|relectom:> est, rogatus <:ab|reg|au:> eosdem testis subscripsi, et [hanc chartul
+
+    10.- am] donationis mei <:praesentia|reg|pre[sen]ti[a]:> (ḥ(ac)) (ḍ(ie)) sup̣ẹṛ (s(an)c(t)a) evangelia [traditam vidi]. =>

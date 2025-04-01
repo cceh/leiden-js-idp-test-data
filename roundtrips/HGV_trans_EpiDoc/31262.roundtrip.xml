@@ -1,0 +1,13 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An die <foreign xml:lang="la"><term target="archephodos" xml:lang="la">archephodoi</term></foreign>
+            des Dorfes Karanis. Überstellt umgehend [N.N.], Sohn des Didymos, und 
+            dessen Ehefrau Tamarôn, die beschuldigt werden von Aurelius Serênos, 
+            Sohn des Sarapiôn.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To the <term target="archephodos">archephodoi</term> of the village 
+            of Karanis. Send up immediately [NN], son of Didymos and his wife Tamaron, accused 
+            by Aurelius Serenos, son of Sarapion.
+        </p></div>
+      </body>

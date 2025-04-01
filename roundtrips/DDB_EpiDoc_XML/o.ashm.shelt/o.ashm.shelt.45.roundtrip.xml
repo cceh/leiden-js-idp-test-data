@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><expan><ex cert="low">ἔτους</ex></expan> <num value="6"><unclear>ϛ</unclear></num> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <num value="24"><unclear>κ</unclear>δ</num>  <num value="1/6" rend="tick">ϛ</num>, <expan><ex>γίνεται</ex></expan> <num value="1/3" rend="tick">γ</num> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνονται</ex></expan> <num value="2"><unclear>β</unclear></num>  <num value="29">κθ</num> <num value="1/6" rend="tick">ϛ</num>, <expan><ex>γίνεται</ex></expan> <num value="1/2">𐅵</num> <num value="1/3" rend="tick">γ</num> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1/3" rend="tick"><unclear>γ</unclear></num>, <expan><ex>γίνεται</ex></expan> <num value="1">α</num> <num value="1/6" rend="tick">ϛ</num>, <expan><ex>γίνεται</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> 
+
+    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <expan><ex>γίνονται</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> 
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνεται</ex></expan> <num value="1/2">𐅵</num> <gap reason="illegible" quantity="3" unit="character"/> </ab></div>

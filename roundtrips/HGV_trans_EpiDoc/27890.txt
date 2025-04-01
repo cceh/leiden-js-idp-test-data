@@ -1,0 +1,37 @@
+
+         <T=.en
+            <D=.r 
+               <==>
+            =D>
+            <D=.1 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((1)) ‘We have likewise deducted as aforesaid 8 3/8 artabae, remainder 29 11/24 art. of lentils, total instead of
+215 1/12 of barley 100 11/24 art. of lentils; from which we have deducted as aforesaid 22... art., remainder of payments 78 … art. of lentils.’
+
+               =>
+            =D>
+            <D=.3 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.v 
+               <==>
+            =D>
+            <D=.1 
+               <=
+                  ((1))
+               =>
+            =D>
+            <D=.2 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

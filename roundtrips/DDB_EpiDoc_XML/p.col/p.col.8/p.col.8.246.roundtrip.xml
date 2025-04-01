@@ -1,0 +1,27 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><g type="slanting-stroke"/> <g type="slanting-stroke"/> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><g type="stauros"/> <expan>λόγ<ex>ος</ex></expan> <expan><hi rend="diaeresis">ὑ</hi>ποδοχ<ex>ῆς</ex></expan> χρυσικῶν <num value="6">ϛ</num> <expan><hi rend="diaeresis">ἰ</hi>νδ<ex>ικτίονος</ex></expan> <expan>ο<ex>ὕτως</ex></expan>· 
+
+    <lb n="3"/><expan>δ<ex>ιὰ</ex></expan> Παπχῶρε  <expan>νο<ex>μισμάτιον</ex></expan> <num value="1">α</num> <expan>π<ex>αρὰ</ex></expan> <num value="5">ε</num> <subst><add place="inline"><num value="1/2">𐅵</num></add><del rend="corrected"><num value="1/4" rend="tick">δ</num></del></subst> <num value="1/4" rend="tick">δ</num> 
+
+    <lb n="4"/><g type="stauros"/> ἐξ <expan>ὀνόμ<ex>ατος</ex></expan> τοῦ κυρίου καὶ <expan>δεσπό<ex>του</ex></expan> 
+
+    <lb n="5"/>Αὐρηλίῳ Ἄπα Νακείῳ <hi rend="diaeresis">υ</hi>ἱῷ 
+
+    <lb n="6"/>τοῦ μακαρίου  ἀπὸ τῆς 
+
+    <lb n="7"/><expan>Ὀξυρυγχ<ex>ιτῶν</ex></expan> πόλεως<g type="apostrophe"/> σοὶ 
+
+    <lb n="8"/><choice><reg>Σερήνῳ</reg><orig>Σερήνου</orig></choice> νομικαρίῳ 
+
+    <lb n="9"/>τοῦ ἐνδόξου οἴκου Ἀπίω
+
+    <lb n="10" break="no"/>νος<g type="apostrophe"/> ἀπὸ τῆς αὐτῆς 
+
+    <lb n="11"/>πόλεως ἐξ <expan>ὀν<ex>όματος</ex></expan> <expan>δ<ex>ιὰ</ex></expan> Φῖβ 
+
+<milestone rend="wavy-line" unit="undefined"/>
+</ab></div>

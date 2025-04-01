@@ -1,0 +1,12 @@
+
+            <T=.en
+            <=
+               ((1)) /*Body contract*/ In the thirty-seventh year [of the dominion of Caesar,] son of a god, on the [seventeenth] of the month of Apellaios, [seven]teenth of Phaophi, in Philagris of the Themistos [meris of the Arsinoite] nome. Harthotes, son of Marres [ … ] Persian of the epigone, acknowledges to Theon, [son of Petermouthis, oilmaker of the [oil mill on the estate] of Livia and Germanicus [Caesar] in Philagris.
+               ((7)) /*Registration docket*/ Year 37 of Caesar, Phaophi [17, in Philagris. Registered through NN.]
+               ((8)) /*Subscription*/ I, Harthotes son of Marres, Persian of the [epigone … ] acknowledge that I have received from Theon, son of Petermouthis, [oilmaker of the oil mill on the estate] ((10)) of Livia and Germanicus Caesar in Philagris, [ … ] drachmas of minted silver as a capital sum [ … ] that in return for these, and for necessities and clothing, [I shall provide my daughter Tahaunes] to remain [with Theon for] two years from the month of Hathyr of the current [thirty-seventh] 
+               ((15)) year of Caesar, feeding olives [at the indicated oil mill,] as well as staying and [doing everything ordered,] not being absent by night [or by day, but following him everywhere throughout the nome (?) … ] 
+               ((20)) After the period (of the contract) [ … ] the aforementioned [ … ]
+               /*Translation by W. Graham Claytor, BASP 53 (2016) 105-106*/
+            =>
+         =T>
+        

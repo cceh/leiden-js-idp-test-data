@@ -1,0 +1,40 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                Letter (a): ((1))[Horion?] to Taeroua (?) many greetings. ((2))Before everything I pray that you are in good health, ((3))and I make obeisance for you ((4))every day before the lord Sarapis. 
+((5))I entrusted to you the key ((6))to my house under the tool. ((7))So my sister Isis tells me ((8))«I’ve been sleeping here for two days and ((9))I haven’t found anything». So give my key to the man ((10))who is delivering 
+the letter to you and give ((11))the tool that I’m keeping at your house to Nilos son of ((12))Tiborsis. So do not withhold my key.
+vac.?
+((13))Letter (b): Horion to Castreses. I really blame you ((14))for cultivating my aroura 
+((15))in the district of Kianithen Panisatis, which ((16))borders with the property of Nilos, son of Apollos. So Nilos son of Tiborsis ((17))has already leased the aroura. 
+((18))Put aside what you’ve already gathered until I arrive 
+((19))there and we can settle accounts.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1))[...] and ... ((2))... from Horion
+               =>
+            =D>
+         =T>
+         <T=.it
+            <D=.r 
+               <=
+                  ((1))[Horion?] a Taeroua (?) molti saluti. ((2))Prima di tutto spero che tu stia bene, ((3)) e compio atto di prostrazione per te 
+((4))ogni giorno dinanzi al signore Sarapis. ((5))Ti ho lasciato la chiave ((6))di casa mia sotto lo strumento. ((7))Dunque mia sorella Isis mi dice ((8))«Dormo qui da due giorni e ((9))non ho trovato niente». Dunque da’ la mia chiave a chi 
+((10))ti consegna la lettera e da' ((11))lo strumento di mio possesso che è da te a Nilos figlio di ((12))Tiborsis. Quindi non trattenere la mia chiave.
+vac.?
+((13))Horion a Castreses. Ti biasimo molto per il fatto che ((14))coltivi la mia aroura 
+((15))nel distretto di Kianithen Panisatis, la quale  ((16))confina con la proprietà di Nilos, figlio di Apollos. Dunque, Nilos figlio di Tiborsis ((17))ha già preso in affitto l’aroura. 
+((18))Metti da parte quello che hai raccolto finora, finché  
+((19))non arrivo io e possiamo fare i conti.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1))[...] e ... ((2))... da Horion
+               =>
+            =D>
+         =T>
+      

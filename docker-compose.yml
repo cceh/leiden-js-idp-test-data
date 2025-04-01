@@ -1,0 +1,19 @@
+services:
+  xsugar:
+    build:
+      context: https://github.com/papyri/xsugar.git
+      dockerfile: ./Dockerfile
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8080" ]
+      interval: 1s
+      timeout: 5s
+      retries: 20
+    image: xsugar
+    container_name: leiden-test-xsugar
+    ports:
+      - mode: host
+        published: 9999
+        target: 8080
+    environment:
+      - JAVA_OPTIONS=-Xms2000m -Xmx2000m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:MaxGCPauseMillis=100 -XX:ParallelGCThreads=4 -XX:ConcGCThreads=2 -XX:InitiatingHeapOccupancyPercent=45 -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=60 -XX:+UseStringDeduplication -Dorg.eclipse.jetty.server.Request.maxFormContentSize=-1
+

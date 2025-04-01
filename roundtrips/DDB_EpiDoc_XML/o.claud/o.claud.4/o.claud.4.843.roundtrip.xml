@@ -1,0 +1,12 @@
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Hieronymi
+<lb n="2"/><abbr><hi rend="supraline">n</hi></abbr> <num value="1"><hi rend="supraline">I</hi></num>
+<lb n="3"/>Cochlax
+<lb n="4"/><abbr><hi rend="supraline">n</hi></abbr> <num value="1"><hi rend="supraline">I</hi></num> maior
+<lb n="5"/><abbr><hi rend="supraline">n</hi></abbr> <num value="2">II</num> minor
+<lb n="6"/><choice><reg>Harpochrates</reg><orig>Arpochrate</orig></choice>
+<lb n="7"/><abbr><hi rend="supraline">n</hi></abbr> <num value="1"><hi rend="supraline">I</hi></num>
+<lb n="8"/><abbr><hi rend="supraline">n</hi></abbr> <num value="1"><hi rend="supraline">II</hi></num>
+</ab>
+      </div>

@@ -1,0 +1,7 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><num value="26"><unclear>κ</unclear><hi rend="supraline">ϛ</hi></num> Τ<unclear>ῦ</unclear>β<supplied reason="lost">ι</supplied>
+<lb n="2"/><app type="alternative"><lem><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></lem><rdg><unclear>κ</unclear>ρ<unclear>ι</unclear><certainty match=".." locus="value"/></rdg></app>
+<lb n="2"/><gap reason="illegible" quantity="4" unit="line" precision="low"><desc>vestiges</desc></gap>
+</ab>
+      </div>

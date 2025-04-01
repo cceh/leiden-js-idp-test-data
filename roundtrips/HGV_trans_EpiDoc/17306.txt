@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘To Aurelius Didymus also called Dioscurides, ex-exegetes, senator, and administrator of the corps of the city of Oxyrhynchus, from Aurelius Claudianus, son of Saras, son of Sarapion, his mother being Ammonous, of the city of Oxyrhynchus. As I have attained the age of 68 in the present sixth year and ought to be enrolled among the members of the gerousia who have lived to the same age in order to share in the priveliges of the gerousia, I present my application, enclosing the relevant portion of the house-to-house census return of the twenty-fourth year of the deified Severus Antoninus, in order that the proper steps may be taken in consequence. (Date.) I have presented. Likewise I present (an extract) from the public archive from the roll of scrutiny of the aforesaid year….’
+            =>
+         =T>
+      

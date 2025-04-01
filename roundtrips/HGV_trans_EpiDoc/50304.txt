@@ -1,0 +1,14 @@
+
+         <T=.de
+            <D=.r 
+               <=
+                  ((1)) Liefere die Mumie ab in Machor im Herakleopolites, im Norden des Dorfes. Sie heißt Chairemon, Sohn der Thenamunis (?).Gib dies (die Mumie und das Täfelchen) dem Horion, ihrem (Plur.) Schwiegersohn; er ist Maurer. /*Translation: C.V. Römer*/
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) Kyremen, the son of Teshenamun …. Mekhel /*Translation: J. Tait*/
+               =>
+            =D>
+         =T>
+      

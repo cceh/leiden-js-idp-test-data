@@ -1,0 +1,17 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+
+    <lb n="2"/><abbr>Πετεαρπ</abbr> <gap reason="lost" extent="unknown" unit="character"/><abbr><gap reason="illegible" quantity="2" unit="character"/><unclear>ιο</unclear></abbr> Ψεννι<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>λαο<ex>γραφίας</ex></expan> <expan>Με<ex>μνονείων</ex></expan> <num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan> <expan>δραχ<ex>μὰς</ex></expan> 
+
+    <lb n="4"/><supplied reason="lost">ὀκ</supplied>τώ <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num>. <expan><ex>ἔτους</ex></expan> <num value="14">ιδ</num> Τραιανοῦ τοῦ κυ<supplied reason="lost">ρίου</supplied> 
+
+    <lb n="5"/><expan>Φαμε<ex>νὼθ</ex></expan> <num value="16">ιϛ</num>. <expan>Φαρμο<ex>ῦθι</ex></expan> <num value="11">ια</num> <expan>δραχ<ex>μὰς</ex></expan> τέσσαρας <expan><ex>γίνονται</ex></expan> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num></supplied>. 
+
+    <lb n="6"/><num value="23">κγ</num> <expan>δραχ<ex>μὰς</ex></expan> <choice><reg>τέσσαρας</reg><orig>τέσσαρες</orig></choice> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num>. <expan>Παῦ<ex>νι</ex></expan> <num value="24">κδ</num> <expan>δραχ<ex>μὰς</ex></expan> τέσσ<supplied reason="lost">αρας <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num>.</supplied> 
+
+    <lb n="7"/><handShift new="m2"/> Μεσορὴ <num value="16">ιϛ</num> <expan>δραχ<ex>μὰς</ex></expan> τέσσαρας <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="4">δ</num>. <handShift new="m3"/> <gap reason="lost" quantity="5" unit="character"/>δ 
+
+    <lb n="8"/><unclear>ωρ</unclear><gap reason="illegible" quantity="2" unit="character"/> <expan>χω<ex>μάτων</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num>, αἱ <expan>κ<ex>αθήκουσαι</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <gap reason="illegible" quantity="2" unit="character"/>. 
+</ab></div>

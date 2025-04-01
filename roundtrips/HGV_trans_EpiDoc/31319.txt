@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              Articles deposited with Arsinoë :— 3 woollen wraps, 3 ... coverings, 1 outer cloak, 1 white mantle, 4 woollen (?) shirts, 1 white veil, 2 woollen pillows belonging to Calleas, and some linen ones, 1 girdle, 1 small face-cloth, 1 face-cloth belonging to Thaësis, 1 ditto, worn, 1 new cross-band, 2 cambrics with shaded stripes, 4 worn shirts, 3 shawls, 1 bathing-bag (?), 1 thick cambric, 2 worn pillows, 1 Cynopolite cambric, worn, an Aphrodite, 2 cups; and in the casket some spoons, some pepper.
+            =>
+         =T>
+      

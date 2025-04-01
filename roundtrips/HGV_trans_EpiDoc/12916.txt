@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Athenodorus, chief of police, from Protarchus son of Ptolemaeus. On the night before the 4th of the
+present month Phaophi of the 18th year of Tiberius Caesar Augustus, certain individuals making a thievish incursion into an olive-yard I possess, in the area of Euhemeria in the division of Themistes at the comer, gathered of the fruits a quantity of olives ; moreover they repeatedly gathered them in the same way and carried them off. Wherefore I request you, if so it seems good, to order a letter to be written that inquiry be made into the matter with a view to the ensuing punishment. Farewell.’
+            =>
+         =T>
+      

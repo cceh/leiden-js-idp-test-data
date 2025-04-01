@@ -1,0 +1,15 @@
+<S=.grc<=
+    1. [.?]~|m|~la 
+
+    2. [.?] ~|Isidorus|~la 
+
+    3. [.?]~|e|~la .1~|tone|~la .1 ~|dignationis|~la 
+
+    4. [.?].1 ~|mihi|~la  <:~|damnavis|~la |reg|~|demnavis|~la :>
+
+    5. [.?]~|essaria est dignare|~la 
+
+    6. [.?].1~|iem exoneratam quantoc|~la .3
+
+    7. [.?]~|e|~la [.3].3[.3]~|est onere puerum|~la 
+7. lost.?lin=>

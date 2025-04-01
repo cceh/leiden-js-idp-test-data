@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+((1)) Psen[...] recorded ... [...] for the poll-tax Year 5 ... 4 drachmas 
+((3)) [year ...] of Claudius Caesar [Augustus] Germanicus Imperator [...]
+(((7))) on behalf of the dyke-tax Year 5 drachmas ... on behalf of the dyke-tax 
+Year 5 4 drachmas 5 obols ... [...]
+            =>
+         =T>
+      

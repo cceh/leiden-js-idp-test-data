@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><supplied reason="lost">Παλ</supplied>μυρηνοί 
+<lb n="2"/><handShift new="m2"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ερης <expan><ex>ἑκατοντάρχης</ex></expan>
+<lb n="3"/><handShift new="m1"/>Ἰούλις Ἀντίοχος <space extent="unknown" unit="character"/> <handShift new="m2"/><num value="2">β</num>
+<lb n="4"/><handShift new="m1"/>Κρόνις <choice><reg>Διογένους</reg><orig>Διογένης</orig></choice>
+<lb n="5"/><unclear>Ἰσ</unclear>ίδωρος <choice><reg>Ποσειδωνίου</reg><orig><unclear>Π</unclear>ο<unclear>σι</unclear>δώνις</orig></choice>
+<lb n="6"/>Κρόνις Ψενόσιρις
+<lb n="7"/>Ἀθηνόδωρος Αλλαιμου
+<lb n="8"/><gap reason="illegible" quantity="7" unit="character"/><unclear>ι</unclear>ς Ἀνουβίων
+<lb n="9"/><gap reason="illegible" quantity="5" unit="character"/>  Σάλμης
+<lb n="10"/><gap reason="illegible" quantity="6" unit="character"/> Πετόσιρις
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+      </div>

@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" quantity="1" unit="character"/><unclear>ν</unclear>ιν <choice><reg>νιτρίον</reg><orig>νιτρίν</orig></choice>  <space extent="unknown" unit="character"/>  <num value="1">α</num>
+<lb n="2"/><abbr>νιπτηρ</abbr>  <space extent="unknown" unit="character"/>  <num value="1">α</num>
+<lb n="2"/><choice><reg>χοιρίδιον</reg><orig>χοιρίδιν</orig></choice> <space extent="unknown" unit="character"/>  <num value="1">α</num>
+<lb n="4"/><expan>κόλλαθ<ex>ον</ex></expan> κρέως  <space extent="unknown" unit="character"/>  <num value="1">α</num>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>

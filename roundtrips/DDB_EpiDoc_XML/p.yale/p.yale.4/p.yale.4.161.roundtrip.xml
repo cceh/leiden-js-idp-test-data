@@ -1,0 +1,25 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>σ</unclear>υ<unclear>νπε</unclear>πτωκότος ε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" atLeast="0" atMost="1" unit="character"/>
+
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="12" unit="character" precision="low"/><gap reason="illegible" quantity="3" unit="character"/>
+
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> καὶ τοῦ Μοισιακοῦ γράψαντός σοι ἐπισ 
+
+<lb n="4" break="no"/><supplied reason="lost">τολὴν κεχρονισμένην εἰς</supplied> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> Φαωφι <num value="22"><hi rend="supraline">κβ</hi></num> <space extent="unknown" unit="character"/> δι’ ἧς ἐπέτρεπεν αὐτῷ ἐφ’ οἷς
+
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>ήσασθαι <space extent="unknown" unit="character"/> προσφωνῶ τὸν <expan>Πετεχῶ<ex>ντα</ex></expan>
+
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>δε παραγένηται <subst><add place="inline">παραγγελεῖν</add><del rend="corrected">παραγγελω</del></subst> αὐ
+
+<lb n="7" break="no"/><supplied reason="lost">τῷ</supplied> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> Πορρήβεως ἀπαρτίσαι τὰ κατὰ
+
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><subst><add place="inline">ήσειν</add><del rend="corrected">ησω</del></subst> μέντοι ὥστε μηδεμίαν
+
+<lb n="10"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><unclear>αρ</unclear></lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">π</supplied><unclear>αρ</unclear>’</rdg></app> ἑτέρων γενέσθαι.
+
+<lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> 
+</ab>
+      </div>

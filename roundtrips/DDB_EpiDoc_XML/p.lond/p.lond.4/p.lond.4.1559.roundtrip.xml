@@ -1,0 +1,43 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><foreign xml:lang="grc"><gap reason="lost" extent="unknown" unit="character"/> <expan>γί<ex>νονται</ex></expan> <expan>χρ<ex>υσίου</ex></expan> <expan>νο<ex>μίσματα</ex></expan> <num value="2">β</num> <num value="1/2">𐅵</num> <gap reason="lost" extent="unknown" unit="character"/></foreign>
+
+    <lb n="2"/><g type="rho-cross"/> ⲁⲛ<supplied reason="lost">ⲟⲛ ⲁⲛ</supplied>ⲇⲣⲉⲁⲥ ⲡϣⲏ ⲙⲙ<unclear>ⲁ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/>ⲡϣⲛ ⲙ<unclear>ⲏⲛⲁ</unclear> ⲧⲛ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig>ⲥⲧⲏⲭⲉ</orig></choice> ⲉⲡⲓ<supplied reason="lost"><choice><reg xml:lang="grc">διασταλμός</reg><orig>ⲇⲓⲁⲥⲧⲁⲗⲙⲟⲥ</orig></choice> <choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice></supplied>
+
+    <lb n="4"/>ⲧⲉϥϭⲟ<supplied reason="lost">ⲙ</supplied> ⲁⲩⲱ ⲧⲛ<choice><reg xml:lang="grc">ὁμολογεῖν</reg><orig>ϩⲟⲙⲱⲗ<unclear>ⲟ</unclear><supplied reason="lost">ⲅⲓ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>ϫⲉ <choice><reg xml:lang="grc">οὐδέ</reg><orig>ⲟⲩⲇ<unclear>ⲉ</unclear></orig></choice> <supplied reason="lost">ⲉ</supplied>ⲧⲃⲉ ⲟⲩ<choice><reg xml:lang="grc">ἐχθρία</reg><orig>ⲉⲭⲑⲣⲓⲁ</orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/>ⲟⲩ<choice><reg xml:lang="grc">φιλία</reg><orig>ⲫⲓⲗ<supplied reason="lost">ⲓⲁ</supplied></orig></choice> ⲁⲩⲱ ϫⲉ <choice><reg>ⲛⲡⲉⲛⲕⲁ</reg><orig>ⲛⲓⲙⲉⲛⲕⲁ</orig></choice> <app type="alternative"><lem><unclear>ⲁ</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><unclear>ⲗ</unclear><supplied reason="lost">ⲁⲁⲩ</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/>ϣⲏⲣⲉ <supplied reason="lost">ⲉϥϩ</supplied>ⲛ <supplied reason="omitted">ⲛ</supplied>ⲁ<num value="15">ⲙⲛⲧⲉ</num> ⲛⲣⲟⲙⲡⲉ <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/>ⲛⲏⲧⲛ ⲉ<gap reason="lost" quantity="3" unit="character"/><unclear>ⲉ</unclear>ⲓ <choice><reg xml:lang="grc">εἰ δέ</reg><orig>ⲉⲓⲧⲉ</orig></choice> ⲉⲣϣⲁⲛⲧⲉⲧ <supplied reason="lost">ⲛϩⲉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/>ⲛ<choice><reg xml:lang="grc">ὑποκεῖσθαι</reg><orig>ϩⲩⲡⲟⲕ<supplied reason="lost">ⲉⲓ</supplied>ⲥⲑⲁⲓ</orig></choice> ϩⲁ <choice><reg xml:lang="grc">πρόστιμον</reg><orig>ⲡⲣⲟⲥⲧⲓⲙⲟ<supplied reason="lost">ⲛ</supplied></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/>ⲛⲁ<choice><reg xml:lang="grc">ὁρίζειν</reg><orig>ϩⲱⲣⲓⲍⲉ</orig></choice> ⲛⲙⲟⲃ ⲉϫⲟⲛ <g type="stauros"/> ⲁ<supplied reason="lost">ⲛⲟⲕ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/>ⲡⲉⲧϣⲏⲣⲡ ⲥϩⲁⲓ ⲧⲉ<choice><reg xml:lang="grc">στοιχεῖν</reg><orig>ⲥⲧⲉⲭ<unclear>ⲉ</unclear> <gap reason="lost" extent="unknown" unit="character"/></orig></choice>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲙⲡⲛ</supplied>ⲧⲁⲗⲟ ⲗⲁⲁⲩ <supplied reason="lost">ⲉϫⲛ ⲣ</supplied>ⲱⲙⲉ
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲙ</supplied>ⲡⲛ<choice><reg xml:lang="grc">κουφίζειν</reg><orig>ⲕⲟⲩⲫⲓⲥ<supplied reason="lost">ⲉ</supplied></orig></choice> <supplied reason="lost">ⲛⲗⲁⲁ</supplied>ⲩ ⲁⲛ
+
+    <lb n="14" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ⲙⲡⲛⲕⲁ ⲟⲩⲣ<supplied reason="lost">ⲱ</supplied>ⲙⲉ ⲛⲟⲩⲱⲧ
+
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/>ⲉ <choice><reg xml:lang="grc">οὐδέ</reg><orig>ⲟⲩⲇⲉ</orig></choice> <choice><reg>ϣⲁ ⲟⲩⲕⲟⲩⲓ</reg><orig><add place="above">ϣⲁⲩ</add>ⲟⲕⲟⲩⲓ</orig></choice> ϣⲏⲣⲉ ⲉϥϩⲛ ⲙ
+
+    <lb n="16" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">εἰ δέ</reg><orig><supplied reason="lost">ⲉⲓ</supplied>ⲇⲉ</orig></choice> ⲉⲧⲉⲧⲛ<unclear>ϣ</unclear><supplied reason="lost">ⲁⲛ</supplied>ϩⲉ ⲉⲣⲟⲥ
+
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> <choice><reg xml:lang="grc">ὑποκεῖθαι</reg><orig><supplied reason="lost">ϩ</supplied>ⲩⲡⲟⲕⲓⲥⲑⲁⲓ</orig></choice> ϩⲁ <choice><reg xml:lang="grc">πρόστιμον</reg><orig>ⲡⲣⲟⲥⲑⲓⲙⲟⲛ</orig></choice>
+
+    <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ϫⲟⲉ</supplied>ⲓⲥ ⲛⲁ<choice><reg xml:lang="grc">ὁρίζειν</reg><orig>ϩⲟⲣⲓⲍⲉ</orig></choice> ⲙⲙⲟϥ ⲉϫⲟⲛ
+
+    <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/> ⲛⲧⲁⲩ<choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲣⲁⲕⲁⲗⲓ</orig></choice> ⲙⲙⲟⲓ
+ </ab></div></div>

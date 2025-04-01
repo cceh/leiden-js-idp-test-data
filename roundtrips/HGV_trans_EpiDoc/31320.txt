@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 6*/
+              Heratheon invites you to dine with him, on the occasion of his examination, at his house to-morrow, the 5th, at the 9th hour.
+            =>
+         =T>
+      

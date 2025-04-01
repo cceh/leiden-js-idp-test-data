@@ -1,0 +1,7 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Ψάις Ἰσιδώρ<unclear>ου</unclear>
+<lb n="2"/><expan>κερ<ex>άμια</ex></expan> <num value="5">ε<certainty match="../@value" locus="value"/></num>
+<lb n="3"/><unclear>ο</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>η</unclear>ει<unclear>ν</unclear>
+<lb n="4"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc><certainty match=".." locus="name"/></gap>  
+</ab></div>

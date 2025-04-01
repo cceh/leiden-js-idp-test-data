@@ -1,0 +1,10 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="chirho"/> Ἐπεὶφ <num value="10">ι</num> <expan><ex>καὶ</ex></expan> <num value="30">λ</num> <expan>τετάρτ<ex>ης</ex></expan> <expan>ἰνδ<ex>ικτίονος</ex></expan> 
+
+    <lb n="2"/>Παγκρᾶτεν <expan><ex>ὑπὲρ</ex></expan> <choice><reg>διαγραφ</reg><orig>διαγραφ<add place="above">ου</add></orig></choice><expan><ex>ῆς</ex></expan> λ<supplied reason="lost">αύρας</supplied> 
+
+    <lb n="3"/>τῆς <expan>Ἁγί<ex>ας</ex></expan> <expan>Θέκλ<ex>ης</ex></expan> <gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> κανόνος νομισμάτιον ἓν</supplied> 
+
+    <lb n="4"/><expan>Ἀλε<ex>ξανδρείας</ex></expan> <expan>νο<ex>μισμάτιον</ex></expan> <num value="1">α</num> <expan>Ἀλε<ex>ξανδρείας</ex></expan> <supplied reason="lost"><expan>μ<ex>όνον</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/><g type="stauros"/> <expan>δ<ex>ιʼ</ex></expan> ἐμο<add place="above">ῦ</add> Ν<gap reason="lost" extent="unknown" unit="character"/> </ab></div>

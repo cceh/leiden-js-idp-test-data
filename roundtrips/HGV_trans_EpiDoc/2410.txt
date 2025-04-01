@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) ‘There have arrived for you along with the gifts for Apollonius from Abdemoun the Sidonian the following articles which his brother Zenon sent from Rhodes, the taxes on which have been paid by Aristeus: …’
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1))
+               =>
+            =D>
+         =T>
+      

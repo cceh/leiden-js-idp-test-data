@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              The decurion invites you to his party on the sixth day before the Calends at eight o'clock.
+            =>
+         =T>
+      

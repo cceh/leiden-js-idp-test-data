@@ -1,0 +1,35 @@
+
+         <T=.de<=
+            ((1))An Harphaêsis, den <Dorfschreiber=komogrammateus> 
+            von Karanis,
+            (((2)))von Ammônios, Sohn des Harpagathês, des Sohnes des Hêras, und der Mutter 
+            Segath[is], aus dem Dorf Karanis.
+            (((4)))Ich melde mich und die Meinen für die 
+            <Haushaltsmeldung=katoikianapographe> des vergangenen 
+            <:23.|BGU:BL I, S. 12|:> Jahres des Gottes Antoninus für das Haus mit 
+            Hof der Thaïsa[ri]on, in dem ich im Dorf ansässig bin. 9 Ich bin der oben genannte 
+            A[mmôn]ios, 36 Jahre (alt), ohne Kennzeichen, und (ich melde auch) meine Ehefrau Thaïsarion, 
+            Tochter des <:Anton[i]u[s]|BGU_DDbDP:BL X, S. 10|:>, 29 Jahre (alt), ohne 
+            Kennzeichen, und die gemeinsame Tochter Seutharion, 9 Jahre (alt), ohne Kennzeichen. 
+            ((13))Meiner oben genannten Ehefrau Thaïsarion gehört im Dorf ein Haus mit Hof. 
+            Hiermit reiche ich (die Meldung) ein.
+            (((16)))Im 1. Jahr des Antoninus Caesar, des Herren, und des Verus Caesar, 
+            des Herren, am 13. Epeiph.
+        =>=T>
+         <T=.en<=
+            ((1))To Harphaesis, <village scribe=komogrammateus> of 
+            Karanis
+            (((2)))from Ammonios, son of Harpagathes, the son of Heras, mother Segath[is], 
+            from the village of Karanis.
+            (((4)))I register myself and my (family) for the <house-by-house 
+                registration=katoikianapographe> of the past 
+            <:23rd|BGU:BL I 12|:> year of the God Antoninus, for Thaisarion’s 
+            house and courtyard in the village, which I live in. ((9))I am A[mmon]ios the above 
+            mentioned, 36 years old without a distinguishing mark and (I register) my wife Thaisarion, 
+            daughter of <:Anton[i]u[s]|BGU_DDbDP:BL X 10|:>, 29 years old without a 
+            distinguishing mark and Seutharion daughter of both of us, 9 years old without a 
+            distinguishing mark. ((13))There belongs to my wife Thaisarion, the aforementioned, 
+            a house and courtyard in the village. Therefore I submit (this registration).
+            (((16)))Year 1 of Antoninus Caesar, the lord, and Verus Caesar, the lord, Epeiph 13.
+        =>=T>
+      

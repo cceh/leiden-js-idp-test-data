@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 12*/
+              Copy. ...s Nicon to the exactor of the Oxyrhynchite nome, greeting. It has come to my knowledge that Ptolemaeus, the collector of linen, has gone to Alexandria. So to prevent any deception from occurring in connexion with the completion (?) of the weaving of the said linen, take care to provide Sarapion the centurion with the assistance assigned to your division, and with the services of Antonius the officialis, in order that the persons responsible may be compelled to manufacture the clothing in irreproachable (?) materials, until the aforesaid Ptolemaeus comes. For this reason I have sent the aforesaid officialis. I pray for your health.
+            =>
+         =T>
+      

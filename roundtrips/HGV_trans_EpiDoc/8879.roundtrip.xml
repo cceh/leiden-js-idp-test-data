@@ -1,0 +1,30 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>An die <term target="sitologos">Sitologen</term> von Karanis.
+            <app type="BGU_DDbDP"><lem resp="BGU I, S. 356; vgl. den Kommentar zum Text">Wir haben </lem></app> erhalten <app type="BGU_DDbDP"><lem resp="Nach GUNDEL, CE 47, 1972, S. 207 f.">unter Abgabe einer eidlichen 
+                    handschriftlichen Erklärung</lem></app>
+            vom Saatgut des 22. Jahres des Antoninus Caesar, des Herren:
+            <milestone unit="line" n="3" rend="break"/>(2. Hand) 47. 
+            (<term target="cleruchy">Kleruchie</term>). Ptolemaios, Sohn des Pnepherôs,
+            <milestone unit="line" n="4" rend="break"/>(3. Hand) und Harphaêsis, Sohn des Mysthês,
+            <milestone unit="line" n="5" rend="break"/>für 3 1/4 1/64 1/128 <term target="aroura">Aruren</term> 
+            des Lurianischen (Landguts) bei <app type="BGU_DDbDP"><lem resp="P. Kar. Goodsp.">Psenarpsenêsis</lem></app>
+            <milestone unit="line" n="6" rend="break"/>für 3 <term target="aroura">Aruren</term> Pachtland bei
+            <app type="BGU_DDbDP"><lem resp="P. Kar. Goodsp.">Kerkesûcha</lem></app>
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/>To the <term target="sitologos">sitologoi </term> of Karanis. 
+            <app type="BGU_DDbDP"><lem resp="BGU I, p. 356">We received </lem></app> <app type="BGU_DDbDP"><lem resp="Cf. Gundel, CE 47, 1972, 207f.">under 
+                declaration with a written sworn statement 
+                </lem></app>
+            from the seed grain of year 22 of Antoninus Caesar, the lord.
+            <milestone unit="line" n="3" rend="break"/> (m. 2) 47th 
+            <term target="cleruchy">(cleruchy) </term>. Ptolemaios, son of Pnepheros
+            <milestone unit="line" n="4" rend="break"/>(m. 3) and Harphaesis, 
+            son of Mysthes.
+            <milestone unit="line" n="5" rend="break"/><app type="BGU_DDbDP"><lem resp="P.Kar. Goodsp., p. 37, note 13, no. 18">At Psenarpsenesis </lem></app> for 3 1/4 1/64 1/128 
+            <term target="aroura">arouras </term> on the Lourian (estate),
+            <milestone unit="line" n="6" rend="break"/><app type="BGU_DDbDP"><lem resp="P.Kar. Goodsp., p. 37, note 13, no. 18">at Kerkesoucha </lem></app> for 3 
+            <term target="aroura">arouras </term> of revenue (land).
+        </p></div>
+      </body>

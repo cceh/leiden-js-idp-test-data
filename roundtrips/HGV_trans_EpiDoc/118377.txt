@@ -1,0 +1,27 @@
+
+         <T=.en
+            <D=.1.fragment 
+               <D=.i.part 
+                  <=
+                     ((1)) The 7th. Carrying water-skins, 34 men. For firewood, 6 men. Temperers, bellows-men, 8 men. In the stomoterion, 3 men. In the watch-tower, 3 men. Water-carriers in the quarry, 3 men. Workers in the quarry, 9 men. Guards of the living quarters, 3 men. In the bakery, 2 men. Platearius 1. Total 72 men.
+                  =>
+               =D>
+               <D=.ii.part 
+                  <=
+                     ((12)) The 8th. Carrying water-skins, 37 men. In the quarry, 15 men. For firewood, 5 men. Temperers, bellows-men, 8 men. In the stomoterion, 3 men. In the watch-tower, 2 men. Water-carriers in the quarry, 3 men. In the bakery, 2. Guards of the living quarters, 3 men. Platearius, 1. Total, 74 men.
+                  =>
+               =D>
+               <D=.iii.part 
+                  <=
+                     ((23)) The 9th. Carrying water-skins, 32 men. In the quarry, 20 men. For firewood, x men Temperers, bellows-men  6 men --. 
+                 =>
+               =D>
+            =D>
+            <D=.2.fragment 
+               <=
+                  ((28)) -- Water-carriers x men.  In the stomoterion x men. In the bakery, x men. Platearius 1. Total xx men.
+
+               =>
+            =D>
+         =T>
+      

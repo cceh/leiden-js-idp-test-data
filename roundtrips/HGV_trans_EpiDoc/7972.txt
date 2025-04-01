@@ -1,0 +1,16 @@
+
+            <T=.en
+            <D=.r 
+               <=
+                  ((1)) Hestieios, village chief, and the crop guards to Petosiris, son of Horors, village scribe, greetings. 
+                   We have received from you the land survey itemized by type of plant and the itemized list of men for year 1. ...
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((4)) To Petosiris, village scribe of Oxyrhyncha.  
+                  /*Translation: J. Bauschatz (via PN in 2015)*/
+               =>
+            =D>
+         =T>
+        

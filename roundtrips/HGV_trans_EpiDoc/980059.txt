@@ -1,0 +1,20 @@
+
+         <T=.it
+            <D=.r 
+               <=
+                  ((1)) A Flavio Eri[trio Leonzio …]
+                         La tractoria […]
+                        in virtù della […]
+                        in alcun modo … […]
+                        coloro (che) da parte vostra […]
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) A Flavio Eritrio Leonzio, il magnificentissimo e onorevolissimo comes dei devoti domestici e delle schiere militari
+                         del limes tebano […] Teodosio … […] sacerrimo erario di Tolemaide.
+/*Translation: R. Pintaudi - A. Soldati, AnalPap 33 (2021) 50*/
+               =>
+            =D>
+         =T>
+      

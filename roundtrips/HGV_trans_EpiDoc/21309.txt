@@ -1,0 +1,21 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Apollonius to Sarapion the strategus and gymnasiarch, many greetings
+                         and continual good health. Isidorus, the bearer of this letter, is a member
+                         of my household. Please consider him introduced to you, and if he approaches
+                         you for anything, do it for him on my account. If you do this, I
+                         shall be obliged to you. ((10)) And signify anything you choose, and I will
+                         recompense you without hesitation. Look after you health. Farewell.
+                         Dated in the 36th year of Caesar, Phaophi 26.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((15)) Deliver to Sarapion, strategus.
+                           /*Translation: B.R. Rees – H.I. Bell – J.W.B. Barns, P.Mert. 2 62*/
+               =>
+            =D>
+         =T>
+      

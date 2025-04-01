@@ -1,0 +1,10 @@
+<S=.grc
+<=
+    1. lost.?lin
+
+    1. #sign 
+
+    2. [*stauros*] [δι’ Ἠ]λ̣ία συμβολαιογράφου
+
+    (3, indent)*stauros*
+=>

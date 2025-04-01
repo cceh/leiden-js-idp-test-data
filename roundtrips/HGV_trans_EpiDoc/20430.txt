@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              Sarapion son of Herodes, of Oxyrhynchus, has leased to Valerius son of Apollonius, of the village of Senepta, a Persian of the Epigone, for the current 15th year of Hadrianus Caesar the lord, out of the domain land standing in his name 5 arourae in the holding of Damon, to be cultivated with grass for cutting and grazing ata fixed rent of 120 silver drachmae and 4 drachmae for the slaves for a libation on account of all the land, the rent being secured against every risk, and the taxes on the land being paid by the lessor, who shall also be the owner of the crop until he receives the rent. If this lease is guaranteed, the lessee shall pay the rent in the month Pauni of the said year, and the lessee shall forfeit any arrears increased by one half; and the lessor shall have the right of execution upon the lessee and upon all his property. This lease is valid. The 15th year of the Emperor Caesar Trajanus Hadrianus Augustus, Athur 19. (Signed) I, Valerius son of Apollonius, have leased the land at a rent of 120 silver drachmae...
+            =>
+         =T>
+      

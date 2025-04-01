@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) [...] to our [...] grandfather Apollos [...] of places of the and secure, lasting [...] situated in the southern parts of the village on the street called Thanekoous 
+on the eastern side, so that I have it under my control to live in and to use the furniture, for each year one and a half of artabe of grain. 
+((8)) The lease will be valid and secure and having been asked the formal question about everything I consented. I, the aforementioned Aurelius such-and-such, son of 
+Senouthios, tailor, have leased. (((10))) Aurelius Andreas, son of Victor, having been deemed worthy, wrote for him as he does not know letters. I, Aurelius Christophoros, 
+son of Apollos, am a witness. (((11))) I, David, the youngest son of Andreas, priest, am a witness. (((12))) Written by me, Konstantinos, God willing, tabellio. 
+/*Translation by Law in Social Networks project*/
+            =>
+
+         =T>
+      

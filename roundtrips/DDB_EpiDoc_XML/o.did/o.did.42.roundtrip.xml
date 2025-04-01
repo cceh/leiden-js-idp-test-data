@@ -1,0 +1,11 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/>Βαρατιτ <unclear>Β</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>κουράτορι <unclear>π</unclear><supplied reason="lost">ραισιδίου</supplied> <app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="illegible" quantity="2" unit="character"/>μο<gap reason="illegible" quantity="1" unit="character"/>χε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><supplied reason="lost">Δι</supplied><lb n="3" break="no"/><unclear>δύ</unclear>μο<unclear>υ</unclear> <choice><reg>χαίρ<supplied reason="lost">ειν</supplied></reg><orig>χέ<unclear>ρ</unclear><supplied reason="lost">ειν</supplied></orig></choice></rdg></app>
+<lb n="4"/>τροφο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>                
+<lb n="5"/>κ<unclear>α</unclear>θ<unclear>ὼς</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/><space quantity="1" unit="line"/> 
+<lb n="6"/>ε<gap reason="illegible" atLeast="1" atMost="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

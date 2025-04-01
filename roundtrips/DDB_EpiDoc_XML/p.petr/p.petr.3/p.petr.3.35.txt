@@ -1,0 +1,6 @@
+<S=.grc<D=.A<=
+
+    1. /*PPetr 3,35,A reprinted in PPetr 2,19,1 */
+=>=D><D=.B<=
+
+    1. /*PPetr 3,35,B reprinted in (ref=p.petr;2;19=PPetr 2,19,2)*/=>=D>

@@ -1,0 +1,21 @@
+
+         <T=.en
+            <D=.r 
+               <D=.i.column 
+                  <=
+                     ((9/11))
+                  =>
+               =D>
+               <D=.ii.column 
+                  <=
+                     ((00))
+                  =>
+               =D>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) ‘[…In the holding of … arurae, … whereof the boundaries are on the south …, on the north …] and the river, on the east private and public land, on the west ... I the said surveyor have verified 49 37/64 arurae under seed and … arurae covered with sand ... to the south ... in the holding of Menelaus 10 19/32 arurae and in the holding of . . . 10 arurae, total 20 19/32  arurae, whereof the boundaries are on the south the estates of Messalina, and …, on the north and east the fields of Ancyronon, on the west public land … I the said surveyor have verified it on the spot. ... in the holding of … 1½ [	] arurae, whereof the boundaries are on the south a field, on the north and east the estates of Messalina, on the west private land. I the said surveyor have verified it on the spot. … year, account (?) of Pharmouthi. I, Heraclides son of Horion, have presented the return through Melas son of …, assistant.’
+               =>
+            =D>
+         =T>
+      

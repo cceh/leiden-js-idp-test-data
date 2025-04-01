@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 9*/
+              From the speculator to the chief of police of the village of Taampemou. Immediately on receiving my letter supply one donkey together with one guard to the sentinel whom I have sent. Signed by me.
+            =>
+         =T>
+      

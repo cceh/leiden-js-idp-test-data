@@ -1,0 +1,14 @@
+
+         <T=.de<=
+            ((1))An den <archephodos~grc-Latn=archephodos> 
+            und die <Wohlhabenden=euschemon> des Dorfes Karanis. 
+            Überstellt Seûêrianos, den Sohn des Ptolemaios, Sohn des Satyros, und Taseus, 
+            die Ehefrau des Ptolemaios, die beschuldigt werden von Zôsimos, Sohn des Leônidês, umgehend.
+        =>=T>
+         <T=.en<=
+            ((1))To the <archephodoi~grc-Latn=archephodos> and 
+            <notables=euschemon> of the village Karanis. Send up 
+            Severianus, son of Ptolemaios, son of Satyros and Taseus, wife of Ptolemaios, accused 
+            by Zosimos, son of Leonides, immediately.
+        =>=T>
+      

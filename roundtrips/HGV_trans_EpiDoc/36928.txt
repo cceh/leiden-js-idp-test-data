@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) [...] of the imperial offices [...] Aurelius Ioannes, son of Salamas and Euphemia, hailing from Alexandria, but staying in the same Antinoopolis. 
+((3)) I acknowledge readily and freely that I have leased from you for however long time you wish, counting from the current month of Pachon of this present [...]th indiction, 
+the belonging to you entire house having two stories, in whatever condition it is, with all appurtenances, located in the same Antinoopolis, in the fourth district, 
+fourth quarter, on the Apsa street. 
+((10)) As agreed upon by both parties rent each month three hundred myriads of silver, that is 300 myriads, which rent I will provide you for each month without delay, 
+and after whatever time you want I will give this house back to you with two installed doors without keys which I have received. 
+(((16))) The lease is secure and valid and having been asked the formal question I consented. (((17))) I, the aforementioned Aurelius Ioannes, son of Salamas, 
+have leased and will pay the rent and am convinced by all conditions [...] /*Translation: Law in Social Networks project (Warsaw*/)
+            =>
+         =T>
+      

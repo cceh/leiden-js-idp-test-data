@@ -1,0 +1,28 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="FrA" type="textpart">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> κακὰ τῶν πρε<supplied reason="lost" cert="low">βυτέρων </supplied><gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+</div>
+<div n="FrB" type="textpart">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><gap reason="illegible" quantity="6" unit="line"/>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <abbr>ἐπαρχ</abbr> τὰ πραχθέντα
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> κακουργίαι <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Δι</supplied>ονυσάριον ἡ Ῥωμαία <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="10"/><gap reason="illegible" quantity="1" unit="line"/>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> τὸ ἔ<unclear>γ</unclear>κλημα <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> περὶ ἐκτομῆς <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><gap reason="illegible" quantity="2" unit="line"/>
+</ab></div>
+<div n="v" type="textpart"><ab>
+
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> </ab></div>
+</div></div>

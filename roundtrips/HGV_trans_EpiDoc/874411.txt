@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.r 
+            <=
+               ((1)) To my lord brother A( )iades, Nestorios, greetings.
+                      Pay the remaining three hundred myriads to the villager bringing you this order.
+                      Farewell.
+            =>
+               =D>
+            <D=.v 
+            <=
+               ((4)) To my lord brother A…
+                      /*Translation: N.E. Wagner, BASP 57 (2020) 365*/
+            =>
+               =D>
+         =T>
+      

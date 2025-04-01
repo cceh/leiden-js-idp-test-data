@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               To my lord Herakleides, Nikokles, greetings. Supply – artabas of wheat by public measure to . . . the receipts . . . I pray for your health for many years.
+            =>
+         =T>
+      

@@ -1,0 +1,9 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><g type="stauros"/> <foreign xml:lang="grc"><expan>Παῦ<ex>νι</ex></expan> <num value="9"><unclear>θ</unclear></num></foreign> 
+<lb n="2"/><choice><reg xml:lang="grc">ἰνδικτίωνος</reg><orig><expan>ⲇⲓⲛ<unclear>ⲇ</unclear><ex>ⲓ</ex>ⲕ<ex>ⲧⲓⲱⲛ</ex></expan></orig></choice> <g type="dipunct"/> <foreign xml:lang="grc"><num value="6"><unclear>ϛ</unclear></num></foreign> <g type="dipunct"/>
+<lb n="3"/>ⲙⲁ ⲛⲁⲡⲟⲗⲱⲛ 
+<lb n="4"/><foreign xml:lang="grc"><expan>ἅμ<unclear>α</unclear>ξ<ex>αι</ex></expan> <num value="2">β</num> <g type="dipunct"/> <expan>σάκ<ex>κοι</ex></expan> <num value="10"><unclear>ι</unclear></num>
+<lb n="5"/><expan>σί<ex>του</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> <num value="30">λ</num></foreign>
+<lb n="6"/>ⲉⲧ<choice><reg xml:lang="grc">μυλών</reg><orig>ⲙⲟⲩⲗⲟⲛ</orig></choice>
+</ab></div>

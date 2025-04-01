@@ -1,0 +1,17 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>λη
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>βης
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">πα</supplied><unclear>ρ</unclear>ά μοι γε
+<lb n="4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ὀ</supplied>νηλάτης
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ε</unclear> <choice><reg>λεκτίκην</reg><orig>λεκτείκην</orig></choice>
+<lb n="6"/><app type="alternative"><lem><supplied reason="lost">3-4</supplied><gap reason="illegible" quantity="1" unit="character"/>αζε</lem><rdg><supplied reason="lost">ἐτοί</supplied><unclear>μ</unclear>αζε<certainty match=".." locus="value"/></rdg></app>. <choice><reg>κόμισαι</reg><orig>κόμισον</orig></choice> πα
+<lb n="7" break="no"/>ρὰ Τίτου τοῦ ὀνηλάτου
+<lb n="8"/>τὴν ἀρτάβην τοῦ σίτου
+<lb n="9"/>καὶ τὸν <choice><reg>κράβατον</reg><orig>κρέβατον</orig></choice> καὶ τὴν 
+<lb n="10"/>ψίαθον. τὰ δ’ ἄλλα <choice><reg>εὔχο
+<lb n="11" break="no"/>μαί</reg><orig>εὔχο<lb n="11" break="no"/>μέ</orig></choice> σε <choice><reg>ὑγιαίνειν</reg><orig>ὑγιαίνιν</orig></choice>.
+<lb n="12"/><expan>ἔρρω<ex>σο</ex></expan>. <expan>Φαμεν<ex>ωθ</ex></expan> <num value="20"><hi rend="supraline">κ</hi></num>.
+</ab>
+      </div>

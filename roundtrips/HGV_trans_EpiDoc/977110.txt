@@ -1,0 +1,21 @@
+
+            <T=.de
+            <=
+                ((1)) Am 1. Pauni, in Moithymis. - - - 139 1/2 1/4 (Artaben).
+                (((3))) - für Saatgut(darlehen): Weizen 8 1/3 (Artaben), Lupinen 4 1/6 (Artaben), noch übrig(?) sind 127 1/4 (Artaben);
+                (((4))) - betreffend das Kainochorion (bzw. Kainon Chorion), für Pachtzins: Gerste 1 1/2 (Artaben); für Saatgut(darlehen): 
+                Weizen 1 (Artabe), Olyra 3 (Artaben);
+                (((5))) - betreffend die Dorea, für Pachtzins: Weizen 8 (Artaben), Gerste 3 1/2 (Bruchzahlen) (Artaben), Olyra (Zahl) (Artaben); 
+                für Saatgut(darlehen): Weizen 2 1/4 (Artaben), Gras [(Zahl) (Artaben)];
+                (((7))) - betreffend das Dorf (sc. Moithymis): für Pachtzins: Weizen 31 1/2 1/4 (Artaben), Gerste 5 1/2 (Artaben), [- - -]; für Saatgut(darlehen): 
+                Weizen 11 1/2 1/12 (Artaben), Gras 3 1/6 (Artaben), Lupinen 12 1/2 (Artaben), Olyra (Zahl) (Artaben);
+                (((9))) - und (eingezahlt) für Meia: für Pachtzins: Gerste 2 1/2 (Artaben) [- - -]; für Saatgut(darlehen): Weizen 3 (Artaben), Lupinen 3 1/3 (Artaben), [- - -]
+                (((11))) - und (eingezahlt) für Sobthis: für Pachtzins Weizen 3 (Artaben), Gerste [7 (Artaben)].
+                (((12))) Im Speicher: für Pachtzins: Weizen 34 [1/2] 1/4 (Artaben), Gerste [14] (Artaben), Olyra (Zahl) (Artaben), [- - -]; für Saatgut(darlehen): 
+                Weizen 14 1/4 1/12 (Artaben), Gras 3 1/6 (Artaben), Lupinen 15 1/2 1/3 (Artaben) [- - - es macht] zusammen mit (den Artaben für) Pachtzins: Weizen 49 1/4 [1/12 (Artaben), 
+                Gras (Zahl) (Artaben)], Gerste 14 (Artaben), Lupinen 15 1/2 1/3 (Artaben), Olyra (Zahl) (Artaben).
+                (((17))) Am 2. [Pauni], in Meia, für Pachtzins: Weizen - - - es macht: Weizen 2 1/2 1/3 (Artaben), Gras 3 (Artaben), pha( ) 9 1/3 (Artaben) - - -.
+                /*Translation: R. Vecchiato, P.KölnSarapion 13*/  
+            =>
+         =T>
+        

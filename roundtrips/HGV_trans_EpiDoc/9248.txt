@@ -1,0 +1,12 @@
+
+            <T=.de
+            <=
+               ((1))An Sokrates, den Sohn des Duplicarius Gaius Marcius, von Heron, dem Sohne des Panegbauis, und Psumsnaus, 
+               dem Sohne des Herieus, Persern von der Colonie, die gegenseitig für die Zahlung bürgen.
+               (((8)))Wir wollen pachten die auf das dritte Jahr des Kaisers Nero Claudius Caesar Augustus Germanicus entfallende Ernte an Palmbäumen, 
+               die südlich an dem Weinberge des Marcius entlang gepflanzt sind, (((17)))und versprechen als Pachtgeld im Ganzen zu zahlen vierundvierzig Drachmen Silbers, 
+               eine Artabe auserlesener Syrios-Datteln sowie ... 
+               /*Translation: A. Erman - F. Krebs, Aus den Papyrus der königlichen Museen (1899) 199*/
+            =>
+         =T>
+        

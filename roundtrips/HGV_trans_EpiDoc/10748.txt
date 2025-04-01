@@ -1,0 +1,19 @@
+
+            <T=.en
+            <=
+               ((1))Copy of contract. The 11th year of Imperator Caesar Domitianus Augustus Germanicus, month of Daisios the 21st, of Pharmouthi the 21st, 
+at Ptolemais Drumou of the Arsinoite nome. ((3))Areios son of Areios, 45 years old, having a scar on his right shin, acknowledges to - - -, - - years old, 
+having a scar on the left knee, assisted by her husband - -  son of Lysimachos the son of Didymos, 35 years old, having a scar on the right of the forehead, that he, 
+the acknowledger, has sold to her through this contract from now for evermore one aroura, or how much it may be, of a vineyard near Kerkesis in the district of Polemon, 
+and together with it one eight of an aroura as additional quantity, with all the appurtenances, the storehouse thereon being common to the land of Kerkesis, 
+and moreover the dike and the chasing and fishing being common with Ammonios, the neighbour, because the two arourae form one plot. ((13))It has been bought, as Areios asserts, 
+already a long time ago in the said conditions. Neighbours of the said aroura are: to the south, a canal through which the aroura is watered; to the north, a public road; 
+to the west the aforesaid aroura of Ammonios; to the east, the children of Sarapion, son of Achilles, with their reed-land. 
+((17))And he declares to have received (the price) of sevenhundred and sixty silver drachmae in full through Didymos’ bank - - . 
+He confirms to her with every guarantee that it is free from all kind of public duties in corn and money and from all fines in any form, 
+beginning with former times up to the present eleventh year of Imperator Caesar Domitianus Germanicus inclusively, because the yearly rent belonged to Areios (?). 
+(It is also free) from private dues and claim of any sort for ever. The rest is accordingly.
+/*Translation: B.A. van Groningen, P.Fam. Tebt. 3*/
+            =>
+         =T>
+        

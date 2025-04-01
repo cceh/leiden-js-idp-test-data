@@ -1,0 +1,9 @@
+
+         <T=.de
+            <D=.1.column 
+               <=
+                  ((1)) Lies es und notiere die Hauptpunkte! /*oder: Lies es und markiere die Kapitel!*/ (Übersetzung von D. Hagedorn)
+               =>
+            =D>
+         =T>
+      

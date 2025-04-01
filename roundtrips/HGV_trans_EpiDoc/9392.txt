@@ -1,0 +1,21 @@
+
+         <T=.de<=
+            ((1))Im 3. Jahr des Imperator Caesar Marcus Aurelius Antoninus Augustus und 
+            des Imperator Caesar Lucius Aurelius Verus Augustus.
+            (((5)))Gearbeitet hat für Dammarbeiten des vergangenen 2. Jahres vom 10. 
+            bis zum 14. Thôth die <:für 5 Tage|BGU:BL VIII, S. 36|:> angeordnete 
+            <:<penthemeros~grc-Latn=penthemeros>|BGU:BL I, S. 76.|:> im
+            <:Kanal von Phyrê Phrô  (?)|BGU:BL I, S. 76|:> für Soknopaiû 
+            Nêsos Stotoêtis, Sohn des Apynchis, des Sohnes des Stotoêtis, und der Mutter Tekiasis.
+        =>=T>
+         <T=.en<=
+            ((1))Year 3 of Imperator Caesar Marcus Aurelius Antoninus Augustus and 
+            Imperator Caesar Lucius Aurelius Verus Augustus.
+            (((5)))Work has been done on the dike works of the past year 2, Thoth 
+            10 (to) 14 the required <:<penthemeros~grc-Latn=penthemeros>|BGU:BL I 76.|:> 
+            <:of 5 days|BGU:BL VIII 36|:> in the 
+            <:canal of Phyre Phro  (?)|BGU:BL I 76|:> for Soknopaiou 
+            (Nesos) by Stotoetis, son of 
+            Apynchis, the son of Stotoetis, mother Tekiasis.
+        =>=T>
+      

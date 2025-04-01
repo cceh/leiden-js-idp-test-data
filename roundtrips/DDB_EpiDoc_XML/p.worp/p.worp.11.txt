@@ -1,0 +1,8 @@
+<S=.grc-Latn
+<=
+1. *stauros* a b g d e z ē th i c l m n x o p r s
+2. t u f ch ps ō 
+3. a b g e z h th i c l m n x o p r s 
+4.  t u f ch ps o
+=>
+      

@@ -1,0 +1,20 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Adrastos to his father Theon, greetings. You will do well, when you are in Antinoou Polis with Sarapion, to meet also Rufus, the prefect's friend.
+((6)) For he willingly promised to help you in whatever is needed; do not hesitate, however, to use your own capacity in order to achieve everything;
+for the journey to Antinoou Polis does not take you many days. ((13)) I asked Sarapion to help you in order to get on my behalf two mantles and a double cloak, 
+all of them white, which in any case should be (…) for me before the upstream delivery.
+(((18))) Let there be no hindrance on any account either by your hesitation - for Sarapion will help - or because of the price of the woof: at whatever price,
+let it be bought; and the money I shall pay here to his father. I pray that you be well, my respected father Theon.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) To my father Theon.
+/*Transaltion: N. Tchernetska - P. Schubert, ZPE 190 (2014) 213*/
+               =>
+            =D>
+         =T>
+      

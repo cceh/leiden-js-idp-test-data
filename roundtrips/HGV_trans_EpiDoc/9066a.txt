@@ -1,0 +1,28 @@
+
+            <T=.de<=
+            ((1))Im einundzwanzigsten Jahr des Marcus Aurelius Com[mo]dus Antoninus Augustus, am 
+            16. Mecheir.
+            (((3)))Eingezahlt hat an Hêrôn und (seine) Genossen, 
+            <Einforderer=apaitetes> von Karanis, Apiôn, Sohn des Po[ly]neikos 
+            <:an|BGU:BL I, S. 40|:> 
+            <:<arithmêthikon katoikôn~grc-Latn=arithmetikonkatoikon>|BGU:BL I, S. 40.|:> für das zwanzigste Jahr sechzehn Drachmen, 1 
+            1/2 Obolen, das sind 16 Drachmen, 1 1/2 Obolen, <:an|:|:> 
+            <Zusatzzahlungen=prosdiagraphomena> 1 Drachme, 2 
+            <chalkoi~grc-Latn=chalkos>;
+            (((5)))und auf Petheus, Sohn des Hatrês, ebenso <:an|BGU:BL I, S. 40|:> <:<arithmêthikon [kat]oikôn~grc-Latn=arithmetikonkatoikon>|BGU:BL I, S. 40.|:> fünf Drachmen, 2 1/2 Obolen, das sind 5 
+            Drachmen, 2 1/2 Obolen, an <Zusatzzahlungen=prosdiagraphomena> 
+            2 Obolen, 2 <chalkoi~grc-Latn=chalkos>.
+        =>=T>
+            <T=.en<=
+            ((1))Year twenty one of Marcus Aurelius Com[mo]dus Antoninus Augustus, Mecheir 16,
+            (((3)))Apion, son of Polyneikos, paid to Heron and his associates, 
+            <apaitetai~grc-Latn=apaitetes> of Karanis, for 
+            <:<arithmetikon katoikon~grc-Latn=arithmetikonkatoikon>|BGU:BL I 40.|:> of year twenty sixteen drachmas 1 1/2 obols, = 16 
+            drachmas 1 1/2 obols, <extra charges=prosdiagraphomena> 1 drachma 2 
+            <chalkoi~grc-Latn=chalkos>.
+            (((5)))and for Petheus, son of Hatres, likewise for 
+            <:<arithmetikon [kat]oikon~grc-Latn=arithmetikonkatoikon>|BGU:BL I 40.|:> five drachmas 2 1/2 obols, = 5 drachmas 2 1/2 
+            obols, <extra charges=prosdiagraphomena> 2 obols 2 
+            <chalkoi~grc-Latn=chalkos>.
+        =>=T>
+        

@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) Year 2 of Imperator Caesar Marcus Aurelius Antoninus Augustus and Imperator Caesar Lucius Aurelius Verus Augustus, Mesore 30, for the accounting of Mesore. 
+((4)) Satyros, son of Asklepiades, grandson of Hermias, mother Tamystha, paid for the poll-tax of the second year for (the quarter of) Boutaphion twenty drachmas, total 20, for surcharges ten bronze obols.
+/*Translation: F. Micucci,  CdE 95 (2020) 300-301*/
+            =>
+         =T>
+      

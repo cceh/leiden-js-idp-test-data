@@ -1,0 +1,15 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app><lem>Am[mônio]s (?), Sohn des P[ap]eis</lem></app>, grüßt Pakysis.
+            <milestone unit="line" n="3" rend="break"/>Ich habe von Dir erhalten den Kaufpreis, für den ich Dir verkauft habe 
+            [<app type="BGU_DDbDP"><lem resp="BL IX, S. 18">einen Esel (?)</lem></app>] – weiblich, ausgewachsen, 
+            weiß –, (in Höhe von) hundertachtundzwanzig Drachmen. <milestone unit="line" n="7"/>[Im x. Jahr 
+            <app><lem>des Antoninus] und des</lem></app> Commodus, der Herren Augusti, am 30. Choiak.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app><lem>Am[moni]os (?), son of P[ap]eis</lem></app>, to Pakysis, greetings.
+            <milestone unit="line" n="3" rend="break"/>I have received from you the price of one hundred and twenty eight 
+            drachmas, for which I have sold a female, white [<app type="BGU_DDbDP"><lem resp="BL IX 18">donkey (?)</lem></app>] to you. <milestone unit="line" n="7"/>[Year x of <app><lem>Antoninus] and</lem></app> 
+            Commodus, the lords, Augusti, Choiak 30.
+        </p></div>
+      </body>

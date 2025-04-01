@@ -1,0 +1,14 @@
+
+         <T=.en
+            <D=.1.fragment 
+               <=
+                  ((2)) ... grandson of Pachnoubis, whose mother is Sen ... ((3)) ... grandson of Menches, whose mother is ... ((4)) ...-os, grandson of Psenenouphis, whose mother is ... ((5)) ... grandson of Honeus, whose mother is T[- -]nep ... ½ ¼ ((6)) ... grandson of Horos, whose mother is Tapou[- -]is ... ½ ¼ ((7)) ...-nes, grandson of Petechnoubis, whose mother is ... ((8)) ... son of Haronnophris, grandson of ... ((9)) ...-es, grandson of Panouris, whose mother is T[-]n ... ((10)) ...-toites, grandson of Pam ... ((11)) ... grandson of A[ ]os, whose mother is ... ris ...
+               =>
+            =D>
+            <D=.2.fragment 
+               <=
+                  ((1))  ... half ... 
+               =>
+            =D>
+         =T>
+      

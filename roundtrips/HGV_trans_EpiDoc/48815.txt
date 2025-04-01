@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+               Fare well! He (or she) lived x years.
+/*Translation: M. Thieme in P.Lugd.Bat. 19.39*/
+            =>
+         =T>
+      

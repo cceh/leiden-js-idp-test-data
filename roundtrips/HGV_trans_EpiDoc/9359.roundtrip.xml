@@ -1,0 +1,19 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="de" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app type="BGU"><lem resp="BL I, S. 68">Den</lem></app> 
+            <app type="BGU"><lem><term target="rkain">Zoll</term></lem></app> 
+            <term target="rkain">von 1/100 und 1/50</term> 
+            <app type="BGU"><lem resp="BL I, S. 68">hat entrichtet</lem></app> (für die Passage) durch das 
+            Tor von <app type="BGU"><lem resp="BL I, S. 68">Karanis</lem></app> Hêrôn, der auf zwei Kamelen, 
+            zwei Fohlen und einem Lasttier [...] zweiundzwanzig 
+            <term target="artaba">Artaben</term> [...] ausgeführt hat. <milestone unit="line" n="5"/>Im 9. 
+            Jahr, am fünfzehnten (15.) Hadrianos.
+        </p></div>
+         <div xml:lang="en" type="translation" xml:space="preserve"><p>
+            <milestone unit="line" n="1"/><app type="BGU"><lem resp="BL I 68">Paid</lem></app> for 
+            <term target="rkain">the 1 and 2 per cent</term> (for the passage) through the 
+            gate of <app type="BGU"><lem resp="BL I 68">Karanis</lem></app> by Heron, exporting on two camels, 
+            two foals, and one baggage [...] twenty two <term target="artaba">artabas</term> 
+            of [...]. <milestone unit="line" n="5"/>Year 9, Hadrianos, the fifteenth, 15.
+        </p></div>
+      </body>

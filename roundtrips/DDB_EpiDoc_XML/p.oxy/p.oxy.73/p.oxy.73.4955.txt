@@ -1,0 +1,80 @@
+<S=.la
+<D=.i.column<=
+    1. lost.?lin
+
+    1. [.?].3ens
+
+    2. [.?]t.4
+
+    3. [.?]
+
+    4. [.?]
+
+    5. [.?].2us
+
+    6. [.?]
+
+    7. [.?]ṃanus
+
+    8. lost.?lin
+=>=D><D=.ii.column<=
+    1. lost.?lin
+
+    1. $m2 [.?]ị (Q(uintus)) Vọc̣ọnius Satu[rninus]
+
+    2. [.?] vac.? (M(arcus)) Antonius Cl.1[.?]
+
+    3. [.?] [/*topographical entry*/]
+
+    4. [.?] [/*century*/] vac.? (M(arcus)) Tullius [.?]
+
+    5. [.?] [/*topographical entry*/]
+
+    6. [.?] [/*century*/] vac.? (T(itus)) Flauius [.?]
+
+    7. [.?] [/*topographical entry*/]
+
+    8. [.?] [/*century*/] vac.? (Ṃ(arcus)) Dellius Quinṭ[.?]
+
+    9. [.?] [/*topographical entry*/]
+
+    10. [.?] [/*century*/] vac.? (C(aius)) Iulius Firmụ[s]
+
+    11. [.?] [/*topographical entry*/]
+
+    12. [.?] [/*century*/] vac.? (C(aius)) Iulius Crisp[.?]
+
+    13. [.?] [/*century*/] vac.? (Q(uintus)) Vettius Pudẹ[.?]
+
+    14. castello  vac.?
+
+    15. (c(enturia)) Faiani Crispi vac.? C̣[.5].1us Sc̣[.?]
+
+    16. (c(enturia)) Clodi Capitoni vac.? (C(aius)) Annaeius Ḅ.1[.?]
+
+    17. portico  vac.?
+
+    18. (c(enturia)) Faiani Crispi vac.? (P(ublius)) Vettius D[.?]
+
+    19. (c(enturia)) Septim[i] vac.? (M(arcus)) Acillius Ṭ[.?]
+
+    20. amphothia〚tur〛  vac.? 
+
+    21. (c(enturia)) Iuli Saturnini vac.? (L(ucius)) Antonịụ[s]
+
+    22. (c(enturia)) Septimi vac.? (T(itus)) Flauius Vạ[.?]
+
+    23. fistuliṣ  vac.? 
+
+    24. (c(enturia)) Faiani vac.? (T(itus)) Flauius Maio[r]
+
+    25. (c(enturia)) Clodi Capitoni vac.? (T(itus)) Flauius Sceuọ[la]
+
+    26. alabastrona  vac.? 
+
+    27. (c(enturia)) (Ti(beri)) Iuli vac.? (C(aius)) Iulius Loṇ[g][.?]
+
+    (28, indent)(sum(ma)) <#XVII=17#> ededit (P(ublius)) Ac.1[.?]
+
+    29. lost.?lin
+=>=D>

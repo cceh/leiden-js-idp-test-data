@@ -1,0 +1,7 @@
+
+         <T=.en
+            <=
+               ((1)) ‘Heracles son of Petesouchos, head of the weavers of Euhemeria, and Aphrodisius son of Asclepiades, secretary of the same weavers, to Heron agent of Sotas, exegetes, greeting. We acknowledge that we are sureties to you for Apheus son of Apheus, Harpagathes son of Orsenouphis, Heras son of Orsenouphis, Melas son of Hergeus, and Heracles son of Apollonius, all five weavers of the said village of Euhemeria, and that it is incumbent on us to produce them for you whenever you choose, to answer the claims stated in the petition of Paninoutis son of Aphrodisius, wool-worker. I the aforesaid Aphrodisius have written for Heracleus because he is illiterate. The ..th year of Tiberius Caesar Augustus, Epeiph 18.’
+            =>
+         =T>
+      

@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Heracles to his dearest Musaeus, greetings. I request you to regard as introduced
+                         to you Dioscorus, who will deliver the letter to you; ((6)) he is a very close friend of mine.
+                         By doing this, you will be conferring a favour on me. Farewell. Pharmuthi 13 (?).
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((11)) To my dearest Musaeus.
+                           /*Translation: B.R. Rees, P.Herm. 1*/
+               =>
+            =D>
+         =T>
+      

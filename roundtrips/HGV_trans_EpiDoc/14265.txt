@@ -1,0 +1,21 @@
+
+         <T=.en
+            <=
+               ((1)) In the 13th year of Tiberius Claudius Caesar Augustus Germanicus 
+               ((2)) Imperator. Aulaios, son of Harthotos, of Theadelphia, has completed his five-days corvee labor on the canal, concerning 
+               ((3)) the dikes, in the same year. 
+               ((4)) 2hd. I, Dionysius, have signed.
+               ((5)) 3rd hd. I, Harpochratis, have signed. 
+               ((6)) 4th hd. I, Didymus, secretary of the royal scribe, have signed
+            =>
+         =T>
+         <T=.ar   
+ <=  ((1)) فى العام الثالث عشر من حكم  تيبريوس كلاوديوس القيصر أغسطس جيرمانيكوس
+      ((2)) الإمبراطور. أتم أونيس بن أرثوتوس عمله الإجبارى فى تطهير الترع وصيانة السدود لمدة خمسة أيام فى قناة الرى الصالحة للملاحة 
+      ((3)) فى نفس هذا العام عن قرية ثيادلفيا 
+      ((4)) بخط يد ثانية : وقعت أنا ديونيسيوس.
+      ((5)) بخط يد ثالثة : وقعت أنا حربوكراتيس .
+     ((6)) بخط يد رابعة : وقعت أنا ديديموس سكرتير الكاتب الملكي.
+=>
+=T>
+      

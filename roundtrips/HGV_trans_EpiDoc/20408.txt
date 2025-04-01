@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 4*/
+              Antonius Aelianus to the strategus of the Diospolite nome in the Thebaid, greeting. Since the cargo dispatched from the nome under you in charge of [.]ausis son of Sipos and his companions, amounting to 2000 artabae of wheat, appeared at the weighing of the samples to have been adulterated, I ordered that the amount of barley and earth in half an artaba of it should be ascertained, and it proved to be under measure by 2 per cent. of barley and likewise 1/2 per cent. of earth. Accordingly exact at your own risk from the sitologi who shipped the wheat the difference on the whole amount of the corn, 50 3/4 artabae of wheat, and the extra payments and other expenses, and when you have added this total to the account of the chiliarch let me know. The 29th year, Phaophi 30.
+            =>
+         =T>
+      

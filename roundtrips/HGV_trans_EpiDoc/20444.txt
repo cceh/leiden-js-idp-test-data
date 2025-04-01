@@ -1,0 +1,19 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                 ((1)) Theon to Heraclides his brother, many greetings and wishes for good health.
+                        Hermophilus the bearer of this letter is (the friend or relative) of ..erius, and asked me
+                        to write to you. ((6)) Hermophilus declares that he has business at Kerkemounis. Please
+                        therefore further him in this matter, as is just. For the rest take care of yourself that you
+                        may remain in good health, Good-bye. ((12)) The 3rd year of Tiberius Caesar Augustus, Phaophi 3.
+               =>
+            =D>
+            <D=.v 
+               <=
+                 ((13)) To Heraclides, basilicogrammateus of the Oxyrhynchite and Cynopolite nomes.
+                          /*Translation: B.P. Grenfell – A.S. Hunt, P.Oxy. 4 746*/
+               =>
+            =D>
+         =T>
+      

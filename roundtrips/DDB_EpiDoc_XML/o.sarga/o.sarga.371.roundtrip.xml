@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><foreign xml:lang="cop">ⲫⲟⲩⲏⲩ</foreign>
+
+    <lb n="2"/><choice><reg cert="low">ἐπαγομένων</reg><orig>πακωμενος</orig></choice> <g type="dipunct"/>  <subst><add place="inline"><num value="4">δ</num></add><del rend="corrected"><gap reason="illegible" quantity="1" unit="character"/></del></subst> <g type="dipunct"/> 
+
+    <lb n="3"/><expan>μεγ<ex>άλα</ex></expan> <subst><add place="inline"><num value="64">ξδ</num></add><del rend="corrected"><gap reason="illegible" quantity="2" unit="character"/></del></subst> <g type="dipunct"/> 
+
+    <lb n="4"/> <foreign xml:lang="cop"><hi rend="diaeresis">ⲓ</hi>ⲱϩⲁⲛⲛⲏⲥ</foreign>
+
+    <lb n="5"/><choice><reg><expan>καμηλ<ex>ίτης</ex></expan></reg><orig><expan>καμαλ<ex>ίτης</ex></expan></orig></choice> 
+
+    <lb n="6"/><expan>μικ<ex>ρὸν</ex></expan> <num value="1">α</num> <g type="middot"/> </ab></div>

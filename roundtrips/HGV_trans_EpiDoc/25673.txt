@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 2*/
+              Indike to Thaisous greeting. I sent you the bread-basket by Taurinus the camel man; please send me an answer that you have received it. Salute my friend Theon and Nicobulus and Dioscorus and Theon and Hermocles, who have my best wishes. Longinus salutes you. Good-bye.
+            =>
+         =T>
+      

@@ -1,0 +1,19 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="6" unit="character"/> των πηχῶν <unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb n="3"/><supplied reason="lost">µετὰ κυρίου</supplied> τοῦ ἀνδρὸς <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>οῦ καὶ Ἱέρακος <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb n="5"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ἡ</unclear> <unclear>κ</unclear>α<unclear>ὶ</unclear> <abbr>Ἰ<unclear>σι</unclear></abbr> οἱ ὑπογεγραµµέν<supplied reason="lost">οι</supplied> <gap reason="lost" extent="unknown" unit="character"/>  
+
+<lb n="6"/>   <space extent="unknown" unit="character"/>  
+
+<lb n="7"/>Αὐρηλία Τις ἐβεβαίωσα <app type="editorial"><lem>καὶ νῦ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg resp="F. Mitthof, APF 52 (2006) 279">καὶ νυ<supplied reason="lost" cert="low">ν</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+
+<lb n="8"/>ὡµολόγησα. ἔγραψα ὑπὲρ αὐτῆς  <app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>γράµµατα µὴ εἰδυίης</rdg><rdg>ἀγραµµάτου <expan><ex>οὔσης</ex></expan></rdg></app> 
+</ab>
+      </div>

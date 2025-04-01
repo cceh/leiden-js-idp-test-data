@@ -1,0 +1,15 @@
+
+         <T=.fr
+            <D=.1.column 
+               <=
+                  ((1)) (...) Postumus; en effet, en prenant son commandement, il mit à l'écart ceux qui
+                          avaient obtenu depuis le commencement leur position et ceux qui avaient hérité leur
+                          charge de leurs pères et de leurs grands-pères, et il promut des bons à rien et des désespérés
+                          en vendant les biens gardés depuis tout ce temps. ((8)) Suite à cela, ayant ordonné
+                          que l'on mette à l'écart les plus compétents et les plus utiles des administrateurs,
+                          accusés de vol.
+                          /*Translation: C. Rodriguez, JJP 40 (2010) 210*/
+               =>
+            =D>
+         =T>
+      

@@ -1,0 +1,17 @@
+
+         <T=.en
+            <=
+               ((1)) From Amos, one donkey-load.
+            =>
+         =T>
+         <T=.it
+            <=
+               ((1)) Tramite Amos, un carico di un asino.
+            =>
+         =T>
+         <T=.pl
+            <=
+               ((1)) Przez Amosa, jeden osiol z ladunkiem.
+            =>
+         =T>
+      

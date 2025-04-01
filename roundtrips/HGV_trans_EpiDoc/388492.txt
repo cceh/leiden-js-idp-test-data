@@ -1,0 +1,9 @@
+
+            <T=.en
+            <=
+               ((1)) Epeiph 123 dr. 2 ob. Mesore 574 dr. 4 ob. Tybi 99 dr. 2 1/2 ob. Total 1,374 bronze dr. 1/2 ob. 
+               ((5)) [...] of dykes [...] ((8)) Choiak 30 :[...]
+            /*Translation: B. Van Beek in P.Petr.Kleon, p. 215, © Peeters*/
+            =>
+         =T>
+        

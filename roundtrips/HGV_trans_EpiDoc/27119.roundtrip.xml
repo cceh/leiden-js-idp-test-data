@@ -1,0 +1,23 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+         <div xml:lang="fr" type="translation" xml:space="preserve">
+            <div n="r" type="textpart">
+               <p>
+                  <milestone unit="line" n="1"/> Priscus Apolinaris, –––, à sa mère, un très grand salut.
+                  <milestone unit="line" n="3" rend="break"/> Avant tout, je prie que tue (?) sois en bonne santé. Chaque jour, j'adresse une prière à ton nom au seigneur Sarapis. 
+                  <milestone unit="line" n="7"/> Th–––a t'embrasse, et [–––], et Aphrodisia. <milestone unit="line" n="9"/> Je remercie les dieux de ce que [–––] et [–––] en bonne santé [–––].
+                  <milestone unit="line" n="13" rend="break"/> Embrasse [–––]
+               </p>
+            </div>
+            <div n="r,ms" type="textpart">
+               <p>
+                  <milestone unit="line" n="14"/> et Ptolémaios (?). [Je prie pour ta] bonne [santé].
+               </p>
+            </div>
+            <div n="v" type="textpart">
+               <p>
+                  <milestone unit="line" n="15" rend="break"/> [Remets à –––] de la part de Priscus, soldat,
+                  <milestone unit="line" n="16" rend="break"/> à la maison de [–––].
+               </p>
+            </div>
+         </div>
+      </body>

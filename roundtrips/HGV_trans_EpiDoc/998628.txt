@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=Text 1:
+               (((4))) Pronoetes of Megalou Moucheos. (((5))) Pronoetes of Piaa. (((6))) Pronoetes of Phatement. (((7))) Pronoetes of ...
+            =>
+<=Text 2:
+In the name of the lord and master Jesus Christ, our God and Saviour. In the reign of ... Flavius ...’ /*Translation: N. Gonis, P.Harr. 3 299*/
+  =>
+         =T>
+      

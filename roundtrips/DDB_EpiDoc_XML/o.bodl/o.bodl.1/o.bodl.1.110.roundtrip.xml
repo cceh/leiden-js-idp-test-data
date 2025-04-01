@@ -1,0 +1,12 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
+
+    <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>ρ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> 
+
+    <lb n="2"/>το <expan><ex>ἔτος</ex></expan> τρισχιλίας ἑπτακοσίας <unclear>π</unclear>εν
+
+    <lb n="3" break="no"/>τήκοντα <expan><ex>γίνονται</ex></expan> <unclear>οὗ</unclear> <expan><unclear>ἀλ</unclear><ex>λαγὴ</ex></expan> <num value="3750">Γψν</num> καὶ τὰ καθήκοντ<unclear>α</unclear> 
+
+    <lb n="4"/>τέλη διπλᾶ. <abbr>Α<gap reason="illegible" quantity="4" unit="character"/>νι</abbr> <expan>τρα<ex>πεζίτης</ex></expan> 
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="5"/><num value="5200">Ε<unclear>σ</unclear></num>. </ab></div>

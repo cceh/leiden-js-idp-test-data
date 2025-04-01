@@ -1,0 +1,8 @@
+
+         <T=.en
+            <=
+              /*Translation: from P.Oxy. 3*/
+              Harmiüsis ... to Diogenes son of Sarapion, ex-agoranomus, gymnasiarch in office at Oxyrhynchus, priest of Fortune, greeting. I acknowledge that I have received from you the sum of 260 drachmae of silver to which nothing has been added, at the interest of 1 drachma upon a mina for each month from the current month Pharmouthi. And I will repay the principal with the interest on Phamenoth 30 of the coming 10th year of Aurelius Antoninus Caesar the lord without delay, or if I fail I will forfeit the amount increased by one half together with interest for the overtime at the same rate of 1 drachma a month for each mina, for which you are to have the right of execution upon both myself and all my property. The aforesaid 260 drachmae I have employed in buying up hay which is to be stored in the camel-shed of Similis at Oxyrhynchus which I have on lease, and it shall not be lawful for me to remove or sell or pledge this hay until I repay you the principal and interest, because it is mortgaged to you. And if any accident should happen to the said hay no damage shall accrue to you, because the sum and the interest are guaranteed against all risks. This bond, of which there are two copies, is valid wherever produced. The 9th year of. the Emperor Caesar Marcus Aurelius Antoninus Augustus Sarmaticus Medicus Parthicus Maximus, Pharmouthi.. 
+            =>
+         =T>
+      

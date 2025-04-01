@@ -1,0 +1,152 @@
+
+            <T=.es
+            <D=.1.column 
+               <=
+                   [...] ((3))y muchos poetas, especialmente ((5))los mayores no habrían sido educados en estas de manera semejante [...] 
+                   ((8))pues ni los rétores lo declaran ((10))así ni ninguno de los que tienen una formación semejante. 
+                   En general afirma que los poetas no se sirven de ((15))demostraciones ni de ellos mismos ni de otras personas [...] ((16))se ordenan [...] 
+                   ((20))a los filósofos [...] ((21))de los diferentes [...] ((22))formaciones [...] ((23))de otros [...] ((24))para los griegos [...] ((25))de filósofos [...] 
+                   ((26))educativos  no pocos de los discursos,  
+                   como los exhortativos, encomiásticos, consolatorios ((30))y de advertencia, no tienen la función  de las demostraciones  mencionadas [...] 
+                   ((34))por lo cual [...] 
+               =>
+            =D>
+            <D=.2.column 
+               <=
+                  ((25))Empédocles [...] ((26))compuso [...] ((28))todo [...] 
+               =>
+            =D>
+            <D=.3.column 
+               <=
+                  ((1))de entre los buenos poetas [...] los argumentos [...] ((3))Por tanto, Homero conocía los argumentos [...] 
+                   pues si como [...] ((5))lo busco por lo cual también [...] ((7))si homero es didáctico. Él diciendo que es necesario que otros, como hemos dicho [...] ((10))de cerca [...] 
+                   admiten que los otros van también pero incluso más Heraclides, ((15))como nosotros observamos. Por tanto, Heraclides [...] ((23))pues diciendo que [...] ((25))poeta [...] 
+                   ((26))a los oyentes servir pero a los [...], si dice «servir de cara a la virtud», es evidente a partir de lo que ((30))hemos dicho [...] ((32))pero si dice lo contrario [...] 
+               =>
+            =D>
+            <D=.4.column 
+               <=
+                  ((1))desgraciado, pues existiendo muchos tipos de utilidad, no supo distinguir cuál hay que pedirle a él y ((5))por eso divierte lo que se produce por medio 
+                   de algunas cosas, pero no nos indicó a través de qué placer, sino que en ambos dejó sin distinguir la virtud del ((10))poeta y, 
+                  por eso, rechaza los más hermosos poemas de los poetas a los que admiramos, por el hecho de que no procuran ninguna clase de utilidad e 
+                  ((15))incluso (rechaza) a la mayoría de algunos y toda la virtud de otros. 
+                  Entonces, ¿por qué hay que nombrar las que proporcionan un perjuicio y el más grande, 
+                  ((20))como en estos mismos, y qué será lo más importante por una utilidad más elevada desde 
+                  el punto de vista del discurso ((25))y que no pueda, mediante la medicina, ni la filosofía, ni ninguna otra ciencia, 
+                  alcanzar la cumbre por medio ((30))de la labor poética? Y he ahí que, cuando escribe que quien divierte no proporciona utilidad y 
+                  quien es poético ...
+               =>
+            =D>
+            <D=.5.column 
+               <=
+                  ... ((1))no conoce la realidad, parece que ayuda a comprender cualquier exposición de los hechos ((5))lo que es claramente una mentira.  
+                  Pero si una es inútil, nada impide que el poeta  aunque conozca estas cosas y las explique poéticamente ((10))sea inútil. 
+                  Pero se hace recaer impropiamente  sobre el poeta reputado la investigación exacta ((15))de los usos habituales del idioma, 
+                  siendo suficiente/utilizando según lo que elija escribir. [...] ((19))tener conocimiento de música, tal [...] ((23))con todas las maneras [...] 
+                  de manera absoluta toda la geometría ((25))para los poetas, geografía [...] ((28))naútica [...] ((30))necesarias  del [...] ((31))que avanza [...] completamente 
+                  cuantas no son manuales, ...
+               =>
+            =D>
+            <D=.6.column 
+               <=
+                  ... ((1))excepto [...] ((2))más tomar [...] ((5))manual [...] ((6))posible [...] ((12))lo primero y lo menos importante [...] 
+                  de la buena preconcepción es la brevedad y [...] ((15))y de los pensamientos la credibilidad y la evidencia, las dos cosas que son propias de la técnica 
+                  y del poeta, ((20))hay que buscar qué es lo primero y qué quiere mostrar como de menos importancia. Pues si lo primero es equivalente a lo concebido 
+                  en primer lugar, no sé por ((25))qué dice que éste es el primero que se debe citar de otros muchos y me asombro de por qué motivo definió como lo inferior 
+                  la ((30))brevedad y la claridad, aunque de ningún [...]
+               =>
+            =D>
+            <D=.7.column 
+               <=
+                  ((1))si dice lo mejor, ¿cómo al mismo tiempo esto y también lo peor? ¿Cómo claridad y brevedad son lo 
+                  mejor de las otras cosas que convienen ((5))al arte poética? ¿Quién tiene que referir los hechos de manera evidente y creíble, si muchas que no sólo son 
+                  falsas ((10))sino también fabulosas son referidas de la manera más evidente en las obras de los poetas? El que estas dos cosas sean propias de la técnica 
+                  ((15))y del poeta, ¿cómo puede ser digno de duda? Efectivamente, no es solo algo específico, sino que también los prosistas ejercen la brevedad y la evidencia. 
+                  ((20))Excepto mediante la técnica y por obra del poeta se producen de esta forma no sólo estas cosas sino también sencillamente todas las cosas que resultan. 
+                  ((25))Cuando dice que la riqueza y la gravedad, así como ((30))la ausencia de vulgaridad y ligereza se añaden a las que se han asumido 
+                  antes con vistas a la fuerza y grandeza de los ((35))poemas y que esto depende de la mano y la formación del poeta que tiene como materia una gran
+                  riqueza de personajes ...
+               =>
+            =D>
+            <D=.8.column 
+               <=
+                  ... ((1))y caracteres y la observación de los propios mitos y de los argumentos y de la verdad y ((5))peculiaridad que hay 
+                  en ellos, buscaré cuáles son las fuerzas y las llamaré un gran poema [...] ((12))volver. ¿Y cómo las no vigorosas se diferencian 
+                  de las hinchadas ? ((15))¿Y cómo creía que estos poemas solamente y los intermedios necesitan de riqueza? ¿Y cómo un argumento 
+                  está presente en los poemas medios ((20))y más en los fuertes? ¿Y cómo uno es grave y no ligero? Yo creo que es necesario que lo 
+                  sencillo y ligero se aleje completamente ((25))de tales cosas. Y según esto, ¿cuál no ofrecería relatos particulares y un argumento 
+                  verdadero y particular?, ¡por Zeus! Así pues, ((30))el que riqueza [...] ((31))la verdad de éstos [...] ((33))comprender [...] ((34))con ficciones [...]
+               =>
+            =D>
+            <D=.9.column 
+               <=
+                  [...] ((13))Por ejemplo, dependiendo de la mano y ((15))la formación del poeta, ¿en qué se diferencia de ser propio de la técnica y del arte? Cómo puso ésta 
+                  antes ((20))no lo comprendo, ¿qué comprendemos por la materia acerca de la cual es la ocupación ? y [...] ((24))cuenta relatos peculiares ((25))y un 
+                  argumento y una verdad. Pero la verdad, no sé por qué la añadió igualmente [...] 
+               =>
+            =D>
+            <D=.10.column 
+               <=
+                  ((1))y más después de que [...] ((8))hacer [...] ((9))el que sea necesario 
+                  avanzar miles de éxitos [...] ((11))junto a estas cosas [...] pues según [...] ((14))de los poemas y los discursos [...] también la realidad [...] ((18))y el ser después 
+                  de hacer bien también los [...] ((20))del buen poeta y admito completamente que quien compone bien se diferencia de éste. En efecto, alguien 
+                  puede presentando un relato o un ((25))argumento irracional hacerlo poéticamente, y algunos poetas han llegado a ser de tal clase: un perfecto 
+                  y buen ((30))poeta es el que conoce con la elección también de éstos. A la [...] ((33))como en Homero y Sófocles [...]  
+               =>
+            =D>
+            <D=.11.column 
+               <=
+                  [...] ((23))y el hecho de que algunos que tocan la flauta ((25))no son buenos flautistas admito que se corresponde 
+                  con el hecho de que el que compone bien se diferencia del buen poeta y después de que llama a ((30))los músicos como testigos de 
+                  que dice la verdad no miente de ninguna manera y el hecho de que estas distinciones disponen lo que le corresponde ...
+               =>
+            =D>
+            <D=.12.column 
+               <=
+                  ... ((1))y que el propio componer no comprendería una parte menor sino más de lo que corresponde a eso, ((5))asumo que es semejante a decir que 
+                  lo que está compuesto de manera poética es más fuerte que la riqueza de las ideas.
+                  /*Resumen de las doctrinas de Demetrio de Bizancio*/
+                  ((10))De los escritos de Filomelo, éstos creyendo que el mejor poeta es quien se mantiene al mismo nivel en los relatos, 
+                  en las otras etopeyas ((15))y en la dicción/estilo por igual dicen quizás algo verdadero, pero no definen al buen ((20))poeta pues 
+                  alguien podría establecer a ésta como la virtud del mimógrafo, del aretálogo o, en cierto modo, de cualquier prosista y 
+                  ((25))sostiene un discurso de que la dicción y la realidad son igualmente necesarios. Praxífanes afirma otras cosas acerca de 
+                  la virtud ((30))en el primer (libro de su tratado) Sobre los poemas [...] si algunos de los hechos que hay [...] ((33))estar [...] ((34))y, a su vez, 
+                  Demetrio de Bizancio ...
+               =>
+            =D>
+            <D=.13.column 
+               <=
+                  ... ((1))escribió otras cosas, pues dicen que es necesario que el buen poema sea concebido primero bellamente y, 
+                  en segundo lugar, después, adoptar palabras no ((5))discordantes de los (pensamientos) subyacentes y, por último, la elaboración 
+                  del estilo debe estar bien dispuesta [...] ((11))considérese estas cosas como lo principal de sus escritos. El pensar ((15))que esto caracteriza 
+                  al buen poeta es algo es algo completamente loco. Pues ni buscamos qué es el buen poema, ((20))ni más aún qué es lo principal y lo 
+                  prescindible, sino que refiere qué de esto es necesario que se produzca primero, qué en segundo lugar y qué ((25))en último y pueden 
+                  a todos los [...] adaptarse completamente. En efecto, es necesario pensar bien estas cosas y tomar las palabras ((30))apropiadas y que 
+                  estén bien elaboradas desde el punto de vista del estilo.
+                  /*Refutación de las doctrinas de Neoptólemo de Paros*/ 
+	          Sin embargo, Neoptólemo no parece haber distinguido correctamente la ((35))colocación de las palabras/composición estilística ...
+               =>
+            =D>
+            <D=.14.column 
+               <=
+                  ... ((1))de los pensamientos, afirmando que ésta constituye una parte en nada inferior o mejor, como creíamos. ((5))Extrañamente, también, 
+                  le atribuye una especie de técnica a quien tiene técnica y capacidad poética, junto con el ((10))poema y la poesía. ¿Cómo pueden ser 
+                  estas cosas? En efecto, debería haber llamado “poesías” a las composiciones, y todavía mejor ((15))“obras”, a los poemas, a las poesías 
+                  como “tejidos”, y “poeta” al que tiene la capacidad y crea gracias a ella, ((20))y si llama “poética” a la actividad, siendo la técnica 
+                  denominada así, no sabe. Y llamar “poeta” a una especie de ésta ((25))es ridículo. También es sorprendente de él (que diga que) el 
+                  argumento sólo pertenece a la poesía y, ((30))de hecho, una poesía y un poema, como la Ilíada, y los primeros treinta versos de ésta 
+                  son un ((35))poema, pero sin embargo, no son poesía. ...
+               =>
+            =D>
+            <D=.15.column 
+               <=
+                  ... ((1))Y el hecho de que solamente pertenece al poema la colocación de las palabras [...] 
+                  ((4))pensamientos [...] ((5))acciones y personajes. Y dice que si algo se compone en la estilo/dicción, también allí, por Zeus, no es posible 
+                  que se componga nada excepto esto, ((10))pero parece que la composición de acción es lo propio de la composición del estilo y también 
+                  admito que estas cosas son propias del poeta pero también ((15))el argumento y la composición. En efecto, quien hace todas estas cosas es él. 
+                  Y también escribe tontamente que no son comunes al poeta los argumentos y los ((20))poemas por sus errores, Pues triste es el que los poemas 
+                  y los argumentos de las poesías lleguen a ser malos ((25))por error del poeta [...] 
+               =>
+            =D>
+         =T>
+        
