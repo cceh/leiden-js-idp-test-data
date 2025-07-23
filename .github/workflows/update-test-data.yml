@@ -1,0 +1,140 @@
+name: Update Test Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      retry_failures:
+        description: 'Retry previously failed files'
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    # Check for updates every 6 hours
+    - cron: '0 */6 * * *'
+
+jobs:
+  update-test-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: true
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Cache Docker images
+      uses: actions/cache@v4
+      with:
+        path: /tmp/.buildx-cache
+        key: ${{ runner.os }}-docker-${{ hashFiles('docker-compose.yml') }}
+        restore-keys: |
+          ${{ runner.os }}-docker-
+
+    - name: Cache idp.data submodule
+      uses: actions/cache@v4
+      with:
+        path: idp.data
+        key: idp-data-${{ github.run_id }}
+        restore-keys: |
+          idp-data-
+
+    - name: Check for idp.data submodule updates
+      id: submodule_check
+      run: |
+        # Get current submodule commit
+        CURRENT_COMMIT=$(cd idp.data && git rev-parse HEAD)
+        echo "Current commit: $CURRENT_COMMIT"
+        
+        # Update submodule to latest
+        npm run get-data
+        
+        # Get new commit after update
+        NEW_COMMIT=$(cd idp.data && git rev-parse HEAD)
+        echo "New commit: $NEW_COMMIT"
+        
+        # Check if there are updates
+        if [ "$CURRENT_COMMIT" != "$NEW_COMMIT" ]; then
+          echo "has_updates=true" >> $GITHUB_OUTPUT
+          echo "idp.data updated from $CURRENT_COMMIT to $NEW_COMMIT"
+          git add idp.data
+        else
+          echo "has_updates=false" >> $GITHUB_OUTPUT
+          echo "No idp.data updates"
+        fi
+
+    - name: Start XSugar container
+      if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
+      run: npm run xsugar:up
+
+    - name: Generate edition roundtrips
+      if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
+      run: |
+        if [ "${{ inputs.retry_failures }}" = "true" ]; then
+          npx tsx create-idp-roundtrips.ts edition --retry-failures
+        else
+          npx tsx create-idp-roundtrips.ts edition
+        fi
+
+    - name: Generate translation roundtrips
+      if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
+      run: |
+        if [ "${{ inputs.retry_failures }}" = "true" ]; then
+          npx tsx create-idp-roundtrips.ts translation --retry-failures
+        else
+          npx tsx create-idp-roundtrips.ts translation
+        fi
+
+    - name: Stop XSugar container
+      if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
+      run: npm run xsugar:down
+
+    - name: Check for changes
+      if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
+      id: changes
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "No changes to commit"
+        else
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          echo "Changes detected"
+        fi
+
+    - name: Commit and push changes
+      if: (steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch') && steps.changes.outputs.has_changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Get submodule commit info for commit message
+        cd idp.data
+        SUBMODULE_COMMIT=$(git rev-parse HEAD)
+        SUBMODULE_SHORT=$(git rev-parse --short HEAD)
+        cd ..
+        
+        git commit -m "Update test data to idp.data@${SUBMODULE_SHORT}
+
+        Updated idp.data submodule to ${SUBMODULE_COMMIT}"
+        
+        git push
+
+    - name: Summary
+      run: |
+        if [ "${{ steps.submodule_check.outputs.has_updates }}" = "false" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+          echo "ℹ️ No idp.data updates available"
+        elif [ "${{ steps.changes.outputs.has_changes }}" = "true" ]; then
+          echo "✅ Test data updated successfully"
+        else
+          echo "ℹ️ No changes needed - test data is up to date"
+        fi
