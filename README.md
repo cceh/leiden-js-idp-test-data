@@ -11,6 +11,8 @@ The roundtrip data is generated using `create-idp-roundtrips.ts`, which:
 3. Uses XSugar (in Docker) to convert XML to Leiden+ or Leiden Translation
 4. Converts the Leiden back to XML and saves it in the corresponding `roundtrips` directory
 
+The script uses git-based change detection to only process files that have changed since the last run per default.
+
 
 ## Re-generate the data
 
@@ -62,6 +64,12 @@ Run each step manually:
    ```bash
    tsx create-idp-roundtrips.ts translation
    ```
+
+### Advanced Usage
+
+- **Retry failed files**: `tsx create-idp-roundtrips.ts <type> --retry-failures`
+- **Force full regeneration**: Delete state files and run normally
+- The script automatically skips previously failed files unless `--retry-failures` is used
 
 4. **Stop XSugar**:
    ```bash

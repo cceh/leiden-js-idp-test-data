@@ -5,7 +5,7 @@
   "private": "true",
   "type": "module",
   "scripts": {
-    "get-data": "git submodule update --init --depth 1 ./idp.data",
+    "get-data": "git submodule update --init --remote --depth 1 ./idp.data",
     "xsugar:up": "docker compose up --wait xsugar",
     "xsugar:down": "docker compose down --volumes --remove-orphans",
     "clean:edition": "rm -Rf roundtrips/DDB_EpiDoc_XML/*",

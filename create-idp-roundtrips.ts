@@ -1,6 +1,10 @@
 import { promises as fs } from "fs";
 import { dirname, join } from "path";
 import { JSDOM } from "jsdom";
+import { exec } from "child_process";
+import { promisify } from "util";
+
+const execAsync = promisify(exec);
 
 const configs = {
     edition: {
@@ -18,6 +22,194 @@ const configs = {
         conversion: "translation_epidoc"
     }
 };
+
+interface StateFile {
+    lastProcessedCommit: string;
+    timestamp: string;
+}
+
+const getStateFile = (configType: string) => `.idp-roundtrips-state-${configType}.json`;
+
+async function getCurrentSubmoduleCommit(): Promise<string> {
+    try {
+        const { stdout } = await execAsync("cd idp.data && git rev-parse HEAD");
+        return stdout.trim();
+    } catch (error) {
+        throw new Error(`Failed to get current submodule commit: ${error.message}`);
+    }
+}
+
+async function getChangedFilesSince(lastCommit: string | null, config: typeof configs["edition"] | typeof configs["translation"]): Promise<{files: string[], stats: {added: number, modified: number, deleted: number}}> {
+    const relevantPath = config.sourcePath.replace("idp.data/", "");
+    
+    if (!lastCommit) {
+        // First run - get all files via find
+        const { stdout } = await execAsync(`cd idp.data && find ${relevantPath} -name "*.xml" -type f`);
+        const files = stdout
+            .split('\n')
+            .filter(file => file.trim())
+            .map(file => join("idp.data", file));
+        return { 
+            files, 
+            stats: { added: files.length, modified: 0, deleted: 0 }
+        };
+    } else {
+        // Get files changed since last commit with status
+        const [addedResult, modifiedResult, deletedResult] = await Promise.all([
+            execAsync(`cd idp.data && git diff --name-only --diff-filter=A ${lastCommit}..HEAD`),
+            execAsync(`cd idp.data && git diff --name-only --diff-filter=M ${lastCommit}..HEAD`),
+            execAsync(`cd idp.data && git diff --name-only --diff-filter=D ${lastCommit}..HEAD`)
+        ]);
+
+        const filterRelevant = (stdout: string) => 
+            stdout.split('\n')
+                .filter(file => file.trim())
+                .filter(file => file.startsWith(relevantPath))
+                .filter(file => file.endsWith('.xml'))
+                .map(file => join("idp.data", file));
+
+        const added = filterRelevant(addedResult.stdout);
+        const modified = filterRelevant(modifiedResult.stdout);
+        const deleted = filterRelevant(deletedResult.stdout);
+        
+        const allFiles = [...added, ...modified];
+        
+        return { 
+            files: allFiles, 
+            stats: { 
+                added: added.length, 
+                modified: modified.length, 
+                deleted: deleted.length 
+            }
+        };
+    }
+}
+
+async function getLastProcessedCommit(configType: string): Promise<string | null> {
+    try {
+        const stateFile = getStateFile(configType);
+        const stateContent = await fs.readFile(stateFile, "utf-8");
+        const state: StateFile = JSON.parse(stateContent);
+        return state.lastProcessedCommit;
+    } catch (error) {
+        // State file doesn't exist or is invalid - first run
+        return null;
+    }
+}
+
+async function updateProcessedState(configType: string): Promise<void> {
+    try {
+        const currentCommit = await getCurrentSubmoduleCommit();
+        const state: StateFile = {
+            lastProcessedCommit: currentCommit,
+            timestamp: new Date().toISOString()
+        };
+        
+        const stateFile = getStateFile(configType);
+        await fs.writeFile(stateFile, JSON.stringify(state, null, 2));
+        console.log(`Updated ${configType} state: processed commit ${currentCommit.substring(0, 8)}`);
+    } catch (error) {
+        console.warn(`Warning: Failed to update state file: ${error.message}`);
+    }
+}
+
+async function getMissingOutputFiles(config: typeof configs["edition"] | typeof configs["translation"], retryFailures: boolean = false): Promise<{files: string[], skippedFailures: number}> {
+    const allXmlFiles = await getXmlFiles(config.sourcePath);
+    const missingOutputs: string[] = [];
+    let skippedFailures = 0;
+    
+    for (const xmlFile of allXmlFiles) {
+        const txtFile = xmlFile
+            .replace(config.sourcePath, config.targetPath)
+            .replace(".xml", ".txt");
+        const failFile = `${txtFile}.fail`;
+        
+        try {
+            await fs.access(txtFile);
+            // Output exists - skip
+        } catch {
+            // Output missing - check if we should retry failures
+            if (!retryFailures) {
+                try {
+                    await fs.access(failFile);
+                    // .fail file exists and --retry-failures not specified - skip
+                    skippedFailures++;
+                    continue;
+                } catch {
+                    // No .fail file - process normally
+                }
+            }
+            
+            missingOutputs.push(xmlFile);
+        }
+    }
+    
+    return { files: missingOutputs, skippedFailures };
+}
+
+async function validateSubmodule(): Promise<void> {
+    try {
+        await fs.access("idp.data");
+        const { stdout } = await execAsync("cd idp.data && git rev-parse --git-dir");
+        if (!stdout.trim()) {
+            throw new Error("idp.data is not a git repository");
+        }
+    } catch (error) {
+        throw new Error(`Submodule validation failed: ${error.message}. Run 'npm run get-data' to initialize the submodule.`);
+    }
+}
+
+async function getFilesToProcess(config: typeof configs["edition"] | typeof configs["translation"], configType: string, retryFailures: boolean = false): Promise<string[]> {
+    // Validate submodule first
+    await validateSubmodule();
+    
+    const currentCommit = await getCurrentSubmoduleCommit();
+    const lastProcessed = await getLastProcessedCommit(configType);
+    
+    let filesToProcess: string[] = [];
+    
+    // Get files changed since last processing (or all files if first run)
+    if (!lastProcessed || lastProcessed !== currentCommit) {
+        console.log(lastProcessed ? 
+            `Submodule updated from ${lastProcessed.substring(0, 8)} to ${currentCommit.substring(0, 8)}` :
+            "First run - no previous state found"
+        );
+        
+        const { files: changedFiles, stats } = await getChangedFilesSince(lastProcessed, config);
+        filesToProcess.push(...changedFiles);
+        
+        if (changedFiles.length > 0) {
+            const parts = [];
+            if (stats.added > 0) parts.push(`${stats.added} added`);
+            if (stats.modified > 0) parts.push(`${stats.modified} modified`);
+            if (stats.deleted > 0) parts.push(`${stats.deleted} deleted`);
+            console.log(`Found ${changedFiles.length} changed files via git (${parts.join(', ')})`);
+        }
+    } else {
+        console.log(`Submodule unchanged at commit ${currentCommit.substring(0, 8)}`);
+    }
+    
+    // Always check for missing outputs (handles manual deletion scenario)
+    const { files: missingOutputs, skippedFailures } = await getMissingOutputFiles(config, retryFailures);
+    filesToProcess.push(...missingOutputs);
+    
+    if (missingOutputs.length > 0) {
+        console.log(`Found ${missingOutputs.length} files with missing outputs${retryFailures ? ' (including failures)' : ''}`);
+    }
+    
+    if (skippedFailures > 0) {
+        console.log(`Skipped ${skippedFailures} previously failed files (use --retry-failures to retry)`);
+    }
+    
+    // Remove duplicates and return
+    const uniqueFiles = Array.from(new Set(filesToProcess));
+    
+    if (uniqueFiles.length === 0) {
+        console.log("No files need processing - all outputs are up to date");
+    }
+    
+    return uniqueFiles;
+}
 
 async function getXmlFiles(dir: string): Promise<string[]> {
     const xmlPaths: string[] = [];
@@ -80,15 +272,6 @@ async function processXmlFile(
     await fs.mkdir(dirname(txtFilePath), { recursive: true });
 
 
-    // Check if output file already exists
-    try {
-        await fs.access(txtFilePath);
-        console.log(`[${currentIndex}/${totalFiles}] ${txtFilePath} already exists, skipping creation.`);
-        return;
-    } catch {
-        // File doesn't exist, continue processing
-    }
-
     try {
         // Read and process XML
         const xmlContent = await fs.readFile(filePath, "utf-8");
@@ -116,6 +299,15 @@ async function processXmlFile(
         await fs.writeFile(txtFilePath, roundtripLeiden);
         console.log(`[${currentIndex}/${totalFiles}] Created ${txtFilePath}`);
 
+        // Clean up any existing .fail file on successful processing
+        const failFile = `${txtFilePath}.fail`;
+        try {
+            await fs.unlink(failFile);
+            console.log(`[${currentIndex}/${totalFiles}] Removed old failure file for ${txtFilePath}`);
+        } catch {
+            // Ignore if .fail file doesn't exist
+        }
+
     } catch (error) {
         console.error(`[${currentIndex}/${totalFiles}] Error processing ${txtFilePath}:`, error.stack, error.message);
         await fs.writeFile(`${txtFilePath}.fail`, error.message);
@@ -123,18 +315,27 @@ async function processXmlFile(
 }
 
 
-async function processFiles(configType: keyof typeof configs) {
+async function processFiles(configType: keyof typeof configs, retryFailures: boolean = false) {
     const config = configs[configType];
     await fs.mkdir(config.targetPath, { recursive: true });
 
     try {
-        const xmlFiles = await getXmlFiles(config.sourcePath);
+        const xmlFiles = await getFilesToProcess(config, configType, retryFailures);
         const totalFiles = xmlFiles.length;
 
+        if (totalFiles === 0) {
+            console.log(`No files to process for ${configType}`);
+            return;
+        }
+
+        console.log(`Processing ${totalFiles} files for ${configType}`);
+        
         for (let i = 0; i < xmlFiles.length; i++) {
             await processXmlFile(xmlFiles[i], config, i + 1, totalFiles);
         }
 
+        // Update state file after successful processing
+        await updateProcessedState(configType);
         console.log(`Processing complete for ${configType}`);
     } catch (error) {
         console.error("Error:", error.message);
@@ -142,13 +343,14 @@ async function processFiles(configType: keyof typeof configs) {
     }
 }
 
-// Get the type from command line argument
+// Parse command line arguments
 const type = process.argv[2] as keyof typeof configs;
+const retryFailures = process.argv.includes('--retry-failures');
 
 if (!type || !configs[type]) {
     console.error("Provide a valid type of data to prepare: edition or translation");
-    console.error("Usage: tsx create-idp-roundtrips.ts <type>");
+    console.error("Usage: tsx create-idp-roundtrips.ts <type> [--retry-failures]");
     process.exit(1);
 }
 
-await processFiles(type);
+await processFiles(type, retryFailures);
