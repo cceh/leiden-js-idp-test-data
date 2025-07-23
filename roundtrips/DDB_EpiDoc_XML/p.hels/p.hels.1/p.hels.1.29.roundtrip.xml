@@ -41,7 +41,7 @@
 
     <lb n="18"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="4" unit="character"/> Θνῆς <note xml:lang="en">?</note>                         <num value="596">φϙϛ</num> 
 
-    <lb n="19"/><abbr>ε<unclear>λ</unclear>υση</abbr> <unclear>Ἀ</unclear>σφεύς                        <num value="36">λϛ</num><gap reason="lost" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="19"/><abbr>ε<unclear>λ</unclear>υση</abbr> <unclear>Ἀ</unclear>σφεύς                        <num atLeast="3600" atMost="3699">Γχ</num><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
 
     <lb n="20"/>Ταοῦθ<supplied reason="lost">ι</supplied>ς                                <num value="1600">Αχ</num> 
 
@@ -61,11 +61,11 @@
 
     <lb n="28"/>Κερκύτου Διονύ<unclear>σιος</unclear>                       <expan><ex>τάλαντον</ex></expan> <num value="1">α</num>  <num value="2500">Βφ</num> <expan><ex>γίνεται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="4">δ</num>  <num value="5640"><unclear>Ε</unclear>χμ</num> 
 
-    <lb n="29"/><num value="22">κβ</num><gap reason="illegible" quantity="1" unit="character"/><num>0</num> 
+    29,indent <num atLeast="2201" atMost="2290">Βσ<gap reason="illegible" quantity="1" unit="character"/></num> 
 
-    <lb n="30"/>ἕκτη <expan><ex cert="low">τάλαντα</ex></expan> <num value="6"><unclear>ϛ</unclear></num>  <num value="4240">Δσ<unclear>μ</unclear></num> <expan>ἰσ<unclear>ον</unclear><ex>όμου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="3">γ</num>  <choice><reg><num value="2307">Βτ<unclear>ζ</unclear></num></reg><orig><num value="2307307"><num value="2300000">Σλ</num> <num value="7307"><unclear> </unclear>Ζ<unclear>τ</unclear></num></num>ζ</orig></choice> 
+    <lb n="30"/>ἕκτη <expan><ex cert="low">τάλαντα</ex></expan> <num value="6"><unclear>ϛ</unclear></num>  <num value="4240">Δσ<unclear>μ</unclear></num> <expan>ἰσ<unclear>ον</unclear><ex>όμου</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="3">γ</num>  <choice><reg><num value="2307">Βτ<unclear>ζ</unclear></num></reg><orig>Β<surplus>τ<unclear>ζ</unclear></surplus>τ<unclear>ζ</unclear></orig></choice> 
 
-    <lb n="31"/><gap reason="illegible" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <num value="3200">Γσ</num> 
+    31,indent <gap reason="illegible" quantity="2" unit="character"/> <num value="3200">Γσ</num> 
 
     <lb n="32"/><num value="7">ζ</num> <num value="41">μα</num><gap reason="illegible" quantity="2" unit="character"/> <expan><ex>γίνεται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="10">ι</num>  <num value="547">φμ<unclear>ζ</unclear></num> 
 

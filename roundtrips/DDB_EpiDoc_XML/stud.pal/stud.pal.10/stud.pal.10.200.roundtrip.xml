@@ -1,7 +1,8 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><app type="editorial"><lem resp="A. Benaissa, Tyche 25 (2010) 209"><supplied reason="lost"><expan>χω<ex>ρίον</ex></expan> Τ</supplied>αλη</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>αλη</rdg></app> <num value="2">β</num> <g type="slanting-stroke"/> 
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num> <gap reason="lost" extent="unknown" unit="character"/><abbr>ανουπ</abbr> <num value="1">α</num> <num value="1">α</num> 
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num> <app type="editorial"><lem resp="N. Gonis, APF 66 (2020) 357"><expan>χω<ex>ρίον</ex></expan> <expan><unclear>Κασ</unclear>ανούπ<ex>εως</ex></expan></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><abbr>ανουπ</abbr></rdg></app> <num value="1">α</num> <num value="1">α</num>
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <g type="slanting-stroke"/> <g type="slanting-stroke"/> <num value="1">α</num> <g type="check"/> <expan>χω<ex>ρίον</ex></expan> Μαγδόλον <g type="slanting-stroke"/> <g type="slanting-stroke"/> <num value="1">α</num> 
 
@@ -11,4 +12,5 @@
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <num value="3">γ</num> <num value="80">π</num> <num value="1">α</num> <g type="check"/> <expan>χω<ex>ρίον</ex></expan> Πεενή <num value="2">β</num> <num value="1">α</num> 
 
-    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num> </ab></div>
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num value="1">α</num> 
+</ab></div>

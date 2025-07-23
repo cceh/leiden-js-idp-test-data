@@ -1,5 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
     <lb n="1"/><expan>λόγ<ex>ος</ex></expan> <expan><supplied reason="lost">στι</supplied><unclear>χ</unclear><supplied reason="lost">α</supplied><unclear>ρ</unclear><supplied reason="lost"><ex>ίων</ex></supplied></expan><supplied reason="lost"> ἑ</supplied><unclear>νδε</unclear><supplied reason="lost">κάτης</supplied> 
 
     <lb n="2"/><expan>ἰνδικ<ex>τίονος</ex></expan> <unclear>οὕτ</unclear>ως 
@@ -26,17 +26,17 @@
 
     <lb n="13"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἀ</supplied>ρτοκ<ex>όπων</ex></expan>               <expan>στιχ<ex>άρια</ex></expan> <num value="12">ιβ</num> 
 
-    <lb n="14"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>χοπωλ<ex>ῶν</ex></expan>           <expan>στιχ<ex>αρι </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="14"/> <app type="editorial"><lem resp="N. Gonis, ZPE 232 (2024) 226"><expan><supplied reason="lost">τα</supplied><unclear>ρ</unclear><supplied reason="lost">ι</supplied>χοπωλ<ex>ῶν</ex></expan></lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <expan><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>χοπωλ<ex>ῶν</ex></expan></rdg></app>           <expan>στιχ<ex>αρι </ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="15"/> <gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear>ιοπωλῶν                <expan>στιχ<ex>άρια</ex></expan>  <num value="2">β</num> 
+    <lb n="15"/> <app type="editorial"><lem resp="N. Gonis, ZPE 232 (2024) 227"><supplied reason="lost">ἐ</supplied><unclear>λ</unclear>αιοπωλῶν</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear>ιοπωλῶν</rdg></app>                <expan>στιχ<ex>άρια</ex></expan>  <num value="2">β</num> 
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>κοπω<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="17"/><gap reason="illegible" quantity="2" unit="line"/> 
 
     <lb n="18"/><gap reason="lost" extent="unknown" unit="line"/> 
-</ab></div><div n="2" type="textpart"><ab>
-
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><choice><reg><supplied reason="lost">μα</supplied>γείρων</reg><orig><supplied reason="lost">μα</supplied>γίρ<unclear>ων</unclear></orig></choice>   <expan>σ<unclear>τ</unclear><supplied reason="lost">ιχ<ex>αρι </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>θύτων               <expan>στ<supplied reason="lost">ιχ<ex>αρι </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
@@ -49,7 +49,7 @@
 
     <lb n="6"/><g type="x"/> χαλκέων                    <expan><unclear>σ</unclear>τ<supplied reason="lost">ιχ<ex>αρι </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
 
-    <lb n="7"/><g type="x"/> <gap reason="illegible" quantity="2" unit="character"/>ιουργῶν                  <expan><unclear>σ</unclear><supplied reason="lost">τιχ<ex>αρι </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
+    <lb n="7"/><g type="x"/> <app type="editorial"><lem resp="N. Gonis, ZPE 232 (2024) 227">ἐλαιουργῶν</lem><rdg><gap reason="illegible" quantity="2" unit="character"/>ιουργῶν</rdg></app>                  <expan><unclear>σ</unclear><supplied reason="lost">τιχ<ex>αρι </ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>  
 
     <lb n="8"/><g type="x"/> ὑελουργῶν                  <expan>στιχ<ex>άρια</ex></expan>  <num value="2">β</num> 
 
@@ -65,7 +65,7 @@
 
     <lb n="14"/><g type="x"/> ἐλεφαντουργῶν              <expan>στιχ<ex>άριον</ex></expan> <num value="1">α</num> 
 
-    <lb n="15"/>Φοιβάμμων συστάτης         <expan>στιχ<ex>άρια</ex></expan> <num value="20">κ</num> 
+    <lb n="15"/>Φοιβάμμων συστάτης         <expan>στιχ<ex>άρια</ex></expan> <app type="editorial"><lem resp="N. Gonis, ZPE 232 (2024) 227"><num value="27">κζ</num></lem><rdg><num value="20">κ</num></rdg></app> 
 
     <lb n="16"/>καλικαρίων                 <expan>στιχ<ex>άριον</ex></expan> <num value="1">α</num> <num value="1/2" rend="tick">𐅵</num>
 
@@ -75,4 +75,5 @@
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ε</unclear><gap reason="illegible" quantity="1" unit="character"/>ελοι<unclear>τ</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>     <expan><unclear>σ</unclear><supplied reason="lost">τ</supplied>ιχ<ex>άριον</ex></expan> <num value="1">α</num> 
 
-    <lb n="20"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>
+    <lb n="20"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div></div>

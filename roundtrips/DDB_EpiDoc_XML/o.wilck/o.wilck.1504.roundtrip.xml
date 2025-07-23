@@ -1,12 +1,12 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
     <lb n="1"/>ἔτους <num value="27">κζ</num> Τῦβι <num value="25">κε</num> <expan>τέ<ex>τακται</ex></expan> 
 
-    <lb n="2"/>ἐπὶ τὴν ἐν Διὸς <expan>πό<ex>λει</ex></expan> τῆι <expan>με<ex>γάληι</ex></expan> <expan>τρ<ex>άπεζαν</ex></expan>, 
+    <lb n="2"/>ἐπὶ τὴν ἐν Διὸς <expan>πό<ex>λει</ex></expan> τῆι <expan>με<ex>γάληι</ex></expan> <app type="editorial"><lem resp="BL 2.1.115"><expan><unclear>τρά</unclear><ex>πεζαν</ex></expan></lem><rdg><expan>τρ<ex>άπεζαν</ex></expan></rdg></app>, 
 
-    <lb n="3"/>ἐφʼ ἧς Πτολεμαῖος, πορε<unclear>υτῶν</unclear> 
+    <lb n="3"/>ἐφʼ ἧς Πτολεμαῖος, <app type="editorial"><lem resp="BL 2.1.115">πορθμίδων</lem><rdg>πορε<unclear>υτῶν</unclear></rdg></app> 
 
-    <lb n="4"/><num value="27">κζ</num> <expan><ex>ἔτους</ex></expan> <expan>Σαμβᾶ<ex>ς</ex></expan> <expan>ἀλλ<ex>αγὴ</ex></expan> ὀκτ<supplied reason="lost">ακοσίας</supplied> 
+    <lb n="4"/><num value="27">κζ</num> <expan><ex>ἔτους</ex></expan> <app type="editorial"><lem resp="BL 2.1.115"><expan>Σαμβα<ex>θαῖος</ex></expan> οὗ <expan>ἀλ<ex>λαγὴ</ex></expan> ὀκτ<unclear>ακοσίας</unclear></lem><rdg><expan>Σαμβᾶ<ex>ς</ex></expan> <expan>ἀλλ<ex>αγὴ</ex></expan> ὀκτ<supplied reason="lost">ακοσίας</supplied></rdg></app> 
 
-    <lb n="5"/>ἑξήκοντα ἑπτὰ <expan><ex>γίνονται</ex></expan> <expan>ἀλλ<ex>αγὴ</ex></expan> <num value="867">ωξζ</num>. 
+    <lb n="5"/>ἑξήκοντα ἑπτὰ <expan><ex>γίνονται</ex></expan> <app type="editorial"><lem resp="BL 2.1.115">οὗ <expan>ἀλ<ex>λαγὴ</ex></expan></lem><rdg><expan>ἀλλ<ex>αγὴ</ex></expan></rdg></app> <num value="867">ωξζ</num>. 
 <milestone rend="paragraphos" unit="undefined"/>
-    <lb n="6"/>Πτολεμαῖος <supplied reason="lost"><expan>τρα<ex>πεζίτης</ex></expan></supplied>. </ab></div>
+    <lb n="6"/><app type="editorial"><lem resp="BL 2.1.115">Πτολεμαῖ<unclear>ος</unclear> <expan>τ<unclear>ρ</unclear>α<ex>πεζίτης</ex></expan> <num value="1000">Α</num></lem><rdg>Πτολεμαῖος <supplied reason="lost"><expan>τρα<ex>πεζίτης</ex></expan></supplied></rdg></app>. </ab></div>

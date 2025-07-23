@@ -1,0 +1,25 @@
+
+         <T=.en
+            <D=.r 
+               <= 
+((1)) Nilus to Thalia greetings. I received the small cheeses via Antoninus; when you read my sealed letter you will know how distressed I was. 
+(((5))) But now, although I wrote what the matter was two months ago, you write “I have received other letters from you in which you write nothing.”
+Well, this is all in the past. For if I find someone reliable, it will be sent to you. Do your best to send me the olives also. 
+((10))  Regarding what you need, write to me, knowing that I am not neglectful. Greetings to the excellent Agathopous, even if he too(?) does not write to us.  
+I pray for your health, my lady sister.
+               =>
+            =D>
+            <D=.r,ms 
+               <=
+                  (((15))) Greet the excellent Agathus Daemon. 
+Know the care which he has taken of your lady friend although she has spent nothing.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((17)) To Thalia Nilus. 
+/*Translation: J.-L. Calvo Martinez, P.Oxy. 67 4626*/
+               =>
+            =D>
+         =T>
+      

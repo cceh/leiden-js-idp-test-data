@@ -1,0 +1,12 @@
+
+         <T=.de
+            <=
+               ((1)) An Phanias, den Strategen des Themistes- und des Polemon-Bezirks des
+                      Arsinoites, von Turbo, Sohn des Mysthes, und Dioskoros, Sohn des Maron,
+                      und Kastor, Sohn des Kastor, die alle drei Einnehmer der Geldsteuern des
+                      Dorfes Theadelphia sind. ((8)) Da unser Kollege P..., Sohn des Chairemon,
+                      gestorben ist, bitten wir darum ...
+                      /*Translation: H. Maehler, BGU 11 2067*/
+            =>
+         =T>
+      

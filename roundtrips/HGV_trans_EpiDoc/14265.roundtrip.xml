@@ -1,12 +1,11 @@
 <body xmlns:xml="http://www.w3.org/XML/1998/namespace">
          <div xml:lang="en" type="translation" xml:space="preserve">
             <p>
-               <milestone unit="line" n="1"/> In the 13th year of Tiberius Claudius Caesar Augustus Germanicus 
-               <milestone unit="line" n="2"/> Imperator. Aulaios, son of Harthotos, of Theadelphia, has completed his five-days corvee labor on the canal, concerning 
-               <milestone unit="line" n="3"/> the dikes, in the same year. 
-               <milestone unit="line" n="4"/> 2hd. I, Dionysius, have signed.
-               <milestone unit="line" n="5"/> 3rd hd. I, Harpochratis, have signed. 
-               <milestone unit="line" n="6"/> 4th hd. I, Didymus, secretary of the royal scribe, have signed
+               <milestone unit="line" n="1"/> In the 13th year of Tiberius Claudius Caesar Augustus Germanicus Imperator.
+               <milestone unit="line" n="2"/> Aulaios, son of Harthotos, of Theadelphia, has completed his five-days corvee labor on the canal, concerning the dikes, in the same year. 
+               <milestone unit="line" n="4"/> (2nd Hd) I, Dionysius, have signed.
+               <milestone unit="line" n="5" rend="break"/> (3rd Hd) I, Harpochratis, have signed. 
+               <milestone unit="line" n="6" rend="break"/> (4th Hd) I, Didymus, secretary of the royal scribe, have signed
             </p>
          </div>
          <div xml:lang="ar" type="translation" xml:space="preserve">   
@@ -15,7 +14,7 @@
       <milestone unit="line" n="3"/> فى نفس هذا العام عن قرية ثيادلفيا 
       <milestone unit="line" n="4"/> بخط يد ثانية : وقعت أنا ديونيسيوس.
       <milestone unit="line" n="5"/> بخط يد ثالثة : وقعت أنا حربوكراتيس .
-     <milestone unit="line" n="6"/> بخط يد رابعة : وقعت أنا ديديموس سكرتير الكاتب الملكي.
+      <milestone unit="line" n="6"/> بخط يد رابعة : وقعت أنا ديديموس سكرتير الكاتب الملكي.
 </p>
 </div>
       </body>

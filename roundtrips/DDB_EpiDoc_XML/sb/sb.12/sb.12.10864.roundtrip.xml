@@ -10,7 +10,7 @@
 
     <lb n="5" break="no"/>λουθοῦσιν      <num value="60">ξ</num>, 
 
-    <lb n="6"/><abbr>Ἀπολλω</abbr> τῶι οἰκονόμωι παρʼ 
+    <lb n="6"/><app type="editorial"><lem resp="BL 7.223">Ἀπολλωνίωι</lem><rdg><abbr>Ἀπολλω</abbr> τῶι</rdg></app> οἰκονόμωι παρʼ 
 
     <lb n="7"/>Ἀμεννέως Πατοῦτος        <num value="10">ι</num> 
 
@@ -25,7 +25,7 @@
 
     <lb n="1"/>ἔχεις μετὰ αὐτ<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/>οἴνου <expan>κε<ex>ράμια</ex></expan> <num value="5">ε</num> <expan><ex>κριθῆς</ex></expan> <num value="20">κ</num> <unclear>ρ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/>οἴνου <expan>κε<ex>ράμια</ex></expan> <num value="5">ε</num> <app type="editorial"><lem resp="BL 7.223"><expan>ἀν<ex>ὰ</ex></expan> <num value="20">κ</num> <num value="100">ρ</num></lem><rdg><expan><ex>κριθῆς</ex></expan> <num value="20">κ</num> <unclear>ρ</unclear><gap reason="lost" extent="unknown" unit="character"/></rdg></app> 
 
     <lb n="3"/>Ἀγαθίνωι <num value="160">ρξ</num> 
 

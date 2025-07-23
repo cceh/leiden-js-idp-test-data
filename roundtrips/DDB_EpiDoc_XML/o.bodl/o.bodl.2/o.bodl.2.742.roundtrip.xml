@@ -1,5 +1,6 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/>Πεμψάις <expan>τελώ<ex>νης</ex></expan> <expan>θησ<ex>αυροῦ</ex></expan> 
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><app type="editorial"><lem resp="O.Stras. 2, p. 50, n. 125">Πετεψάις</lem><rdg>Πεμψάις</rdg></app> <expan>τελώ<ex>νης</ex></expan> <expan>θησ<ex>αυροῦ</ex></expan> 
 
     <lb n="2"/>ἱερῶν <choice><reg>Ὀννώφρει</reg><orig>Ὀν<unclear>ν</unclear>ωφ<unclear>ρι</unclear>ο</orig></choice> <expan>Πετεμενώφ<ex>ιος</ex></expan> 
 
@@ -9,4 +10,5 @@
 
     <lb n="5"/>τοῦ <unclear>κ</unclear>υρ<unclear>ίο</unclear>υ Φαμενὼθ 
 
-    <lb n="6"/><num value="25">κε</num>. </ab></div>
+    <lb n="6"/><num value="25"><hi rend="supraline">κε</hi></num>. 
+</ab></div>

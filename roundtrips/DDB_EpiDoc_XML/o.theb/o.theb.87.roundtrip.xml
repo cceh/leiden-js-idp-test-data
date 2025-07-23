@@ -3,8 +3,9 @@
 
     <lb n="2"/>καὶ <expan>μέτοχ<ex>οι</ex></expan> <expan>ἐπιτηρητ<ex>αὶ</ex></expan> <expan>τέλ<ex>ους</ex></expan> ἐπι
 
-    <lb n="3" break="no"/><expan>ξένω<ex>ν</ex></expan> διὰ <expan>Φθομώ<ex>νθου</ex></expan> <expan>γρα<ex>μματέως</ex></expan>
-<choice><reg>Πετέ<lb n="4" break="no"/>χωντι</reg><orig>Πετε<lb n="4" break="no"/>χων</orig></choice> <abbr>Τεμ</abbr>.  <expan>ἔσχ<ex>ομεν</ex></expan> παρὰ <expan>σο<ex>ῦ</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> 
+    <lb n="3" break="no"/><expan>ξένω<ex>ν</ex></expan> διὰ <app type="editorial"><lem resp="BL 2.1.47">Φθομ<unclear>ών</unclear>θ<unclear>ο</unclear>υ</lem><rdg><expan>Φθομώ<ex>νθου</ex></expan></rdg></app> <expan>γρα<ex>μματέως</ex></expan> <choice><reg>Πετέ
+
+    <lb n="4" break="no"/>χωντι</reg><orig>Πετε<lb n="4" break="no"/>χων</orig></choice> <app type="editorial"><lem resp="BL 2.1.47"><expan>τέκ<ex>τονι</ex></expan></lem><rdg><abbr>Τεμ</abbr></rdg></app>.  <expan>ἔσχ<ex>ομεν</ex></expan> παρὰ <expan>σο<ex>ῦ</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> 
 
     <lb n="5"/><choice><reg>Μεχεὶρ</reg><orig>Μεχχεὶρ</orig></choice> τοῦ <num value="17">ιζ</num> <expan><ex>ἔτους</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="2">β</num>.  <expan><ex>ἔτους</ex></expan> <num value="17">ιζ</num> 
 

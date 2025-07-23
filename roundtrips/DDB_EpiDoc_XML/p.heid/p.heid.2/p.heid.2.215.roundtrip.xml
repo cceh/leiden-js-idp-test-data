@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><expan>Αὐρήλ<ex>ιος</ex></expan> Ἁρποκ<supplied reason="lost">ρατ</supplied>ίων <expan>Α<unclear>ὐ</unclear>ρηλ<ex>ίῳ</ex></expan> Ἀρσι
 
     <lb n="2" break="no"/>νό<unclear>ῳ</unclear> τῷ υἱ<unclear>ῷ</unclear> πολλὰ χαίρειν· 
@@ -15,10 +16,13 @@
 
     <lb n="8"/>νυκτός, ἵνα τὴν αὐτὴν κατέλ
 
-    <lb n="9" break="no"/>θῃ ὑπὸ σῖτον· καὶ ἐν Ταλῆθι 
+    <lb n="9" break="no"/>θῃ ὑπὸ σῖτον· καὶ <app type="editorial"><lem resp="PN C. Balamoshev"><choice><reg>ἔντειλαι</reg><orig>ἐντάληθι</orig></choice></lem><rdg>ἐν Ταλῆθι</rdg></app> 
 
-    <lb n="10"/>Πρωτᾶτι τῷ <supplied reason="omitted">λ</supplied>ι<supplied reason="omitted">ν</supplied>ούφῳ π<unclear>ε</unclear>ρὶ τῶ<unclear>ν</unclear> 
+    <lb n="10"/>Πρωτᾶτι τῷ <choice><reg>λινοΰφῳ</reg><orig>νιλοΰφῳ</orig></choice> π<unclear>ε</unclear>ρὶ τῶ<unclear>ν</unclear> 
 
-    <lb n="11"/><choice><reg>ὀθονίων</reg><orig>ὀθω<unclear>ν</unclear>ίων</orig></choice> ἱ<unclear>μ</unclear><supplied reason="lost">ατίων </supplied><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="11"/><choice><reg>ὀθονίων</reg><orig>ὀθω<unclear>ν</unclear>ίων</orig></choice> ἱ<unclear>μ</unclear><supplied reason="lost">ατίων</supplied> <gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="12"/><num value="236">σλϛ</num>· μὴ <choice><reg>ἀμελήσῃς</reg><orig>ἀμ<unclear>ε</unclear><supplied reason="lost">λήσηις</supplied></orig></choice>. </ab></div>
+    <lb n="12"/><num value="236">σλϛ</num>· μὴ ἀμ<unclear>ε</unclear><supplied reason="lost">λήσῃς</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>

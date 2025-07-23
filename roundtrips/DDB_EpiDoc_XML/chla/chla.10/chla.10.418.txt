@@ -1,5 +1,5 @@
-<S=.la<D=.1<=
-
+<S=.la
+<D=.1.column<=
     1. [.4][ gr]aue *middot* uidetur *middot* [q]uinque <#=5#> *middot* decuriis *middot* in *middot* iungi 
 
     2. [illu]d *middot* certe *middot* faciṭe ut *middot* caueátis *middot* ne quis 
@@ -10,7 +10,7 @@
 
     5. [causas *middot*] ṣervitútis [*middot* li]bertátisque *middot* ịụ́ḍicare 
 
-    6. [qui *middot* ad *middot*] ṛes *middot* suás *middot* agẹ[n]ḍas *middot* legis *middot* Laetoriae 
+    6. [qui *middot* ad *middot*] ṛes *middot* suás *middot* agẹ[n]ḍas *middot* nihil *middot* legis *middot* Laetoriae 
 
     7. [utantur *middot* au]xilió 
 
@@ -41,8 +41,8 @@
     20. [.?]ạe 
 
     21. [.?]ọre *middot* ne 
-=>=D><D=.2<=
-
+=>=D>
+<D=.2.column<=
     1. tenuisse *middot* <:causam|reg|caussam:> *middot* petitóri *middot* expediaṭ 
 
     2. hae *middot* ne *middot* <:procedant|subst|intercedant:> *middot* artes *middot* male *middot* agentibus *middot* si 
@@ -86,8 +86,8 @@
     21. tále *middot* factum *middot* qui *middot* iam *middot* sq[ua]lóṛem *middot* sumere 
 
     22. barbamq̣ụe *middot* et *middot* capillum [*middot* su]mmittere 
-=>=D><D=.3<=
-
+=>=D>
+<D=.3.column<=
     1. suá *middot* <:causa|reg|caussá:> *middot* quó [*middot*] magis *middot* ṃịṣerab[i]ḷis *middot* ụ[ideatur] 
 
     2. fastidiunt [*middot*] sed *middot* ụiḍẹ[ant *middot* ipsi *middot* quid *middot* haec *middot*] ṣibi *middot* ạ [*middot* natura] 
@@ -132,4 +132,5 @@
 
     22. adseṇ[t]ior *middot* deinde *middot* c[um *middot* e]x̣ịerint *middot* dix̣[imus] 
 
-    23. <#Αρν=1150#>=>=D>
+    23. <#Αρν=1150#>
+=>=D>

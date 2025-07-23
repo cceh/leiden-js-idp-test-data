@@ -1,8 +1,10 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> <expan>ἀπό<ex>μοιρα</ex></expan> <note xml:lang="en">?</note>
-</ab></div><div n="2" type="textpart"><ab>
-
+    <lb n="00"/><expan>ἀπό<ex>μοιρα</ex></expan> <note xml:lang="en">?</note>
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
     <lb n="1"/>Τκάλες Χμεφίβιος <expan>μητ<ex>ρὸς</ex></expan> Τ<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="2"/>Τσενπετεμοῦνις Ἁρμά<hi rend="diaeresis">ι</hi>ο<unclear>ς</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
@@ -35,7 +37,7 @@
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan>μ<ex>ητρὸς</ex></expan> <expan>Τααφύγχ<ex>ιος</ex></expan> Σα<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <expan><ex>ἀρούραι</ex></expan> <num value="3">γ</num> <expan><ex>ἔτους</ex></expan> <num value="16">ιϛ</num> ἐχου<supplied reason="lost">ς  </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <app type="editorial"><lem resp="N. Gonis, ZPE 232 (2024) 225"><expan><ex>ἄρουραι</ex></expan> <num value="3">γ </num> <num value="1/2">𐅵</num><num value="1/16"><hi rend="supraline">ιϛ</hi></num></lem><rdg><expan><ex>ἀρούραι</ex></expan> <num value="3">γ</num> <expan><ex>ἔτους</ex></expan> <num value="16">ιϛ</num></rdg></app> ἐχου<supplied reason="lost">ς  </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="18"/><supplied reason="lost">Τ</supplied>σεναμφιῶμις ἡ καὶ <unclear>Τ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -49,6 +51,7 @@
 
     <lb n="23"/>Τσενθεοῦς καὶ <expan>Τετσῖ<ex>ρις</ex></expan> <unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="24"/>Σεφῶ <expan>ἀπο<ex>μοίρας</ex></expan> <expan><ex>ἀρούραι</ex></expan> <num value="3">γ</num> <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="24"/>Σεφῶ <app type="editorial"><lem resp="N. Gonis, ZPE 232 (2024) 225">ἀπὸ <expan><ex>ἀρουρῶν</ex></expan> γ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg><expan>ἀπο<ex>μοίρας</ex></expan> <expan><ex>ἀρούραι</ex></expan> <num value="3">γ</num> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 
-    <lb n="25"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>
+    <lb n="25"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div></div>

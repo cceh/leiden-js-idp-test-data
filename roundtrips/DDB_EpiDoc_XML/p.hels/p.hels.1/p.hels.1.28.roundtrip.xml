@@ -27,6 +27,6 @@
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνεται</ex></expan> <expan><ex>τάλαντα</ex></expan> <num value="15">ιε</num>  <num value="4481">Δυπα</num> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <expan><ex>τάλαντα</ex></expan> <num value="3">γ</num>  <num value="288">σπη</num><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <expan><ex>τάλαντα</ex></expan> <num value="3">γ</num>  <num atLeast="2880" atMost="2889">Βωπ</num><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><ex>τάλαντα</ex></expan> <num value="13">ιγ</num>  <num value="1920">Αϡκ</num> <num value="2"><expan><ex>διώβολον</ex></expan></num> </ab></div>

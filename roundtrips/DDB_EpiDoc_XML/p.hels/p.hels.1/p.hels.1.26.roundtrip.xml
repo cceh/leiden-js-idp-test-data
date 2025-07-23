@@ -44,7 +44,7 @@
 
     <lb n="21"/>Τεχθὼ <expan>Νή<ex>σου</ex></expan> Ἐλβώνθεως ὁμ<unclear>οίως</unclear> <expan><ex>ἔτους</ex></expan> <num value="18">ιη</num> Μεσορὴ <num value="15">ιε</num>  <num value="500">φ</num> 
 
-    <lb n="22"/><expan><ex>γίνεται</ex></expan> <expan>νι<ex>τρικῆς</ex></expan> <num value="278">σο<supplied reason="lost">η</supplied></num> 
+    <lb n="22"/><expan><ex>γίνεται</ex></expan> <expan>νι<ex>τρικῆς</ex></expan> <num value="2708">Βψ<supplied reason="lost">η</supplied></num> 
 
     <lb n="23"/><expan><supplied reason="lost">ἐ</supplied><unclear>λ</unclear><ex cert="low">αίου</ex></expan> <expan><unclear>τ</unclear>έ<ex>λος</ex></expan> Κω<unclear>ίτ</unclear><supplied reason="lost">ου </supplied><gap reason="lost" quantity="4" unit="character"/><unclear>ν</unclear> <unclear>τ</unclear>ῆς <expan>πό<ex>λεως</ex></expan> 
 
@@ -52,7 +52,7 @@
 </ab></div>
 <div n="2" subtype="column" type="textpart"><ab>
 
-    <lb n="24"/><app type="editorial"><lem resp="BL 9.106"><expan>βα<ex>λανείων</ex></expan> <expan><ex>τρίτης</ex></expan></lem><rdg><expan>βα<ex>σιλικ  </ex></expan> <abbr><unclear>νι</unclear></abbr></rdg></app> Κωίτου Τοεμήσεως Λυσία<supplied reason="lost" cert="low">ς</supplied><gap reason="lost" quantity="2" unit="character"/> 
+    <lb n="24"/><app type="editorial"><lem resp="BL 9.106"><expan>βα<ex>λανείων</ex></expan> <expan><ex>τρίτης</ex></expan></lem><rdg><expan>βα<ex>σιλικ  </ex></expan> <abbr><unclear>νι</unclear></abbr></rdg></app> Κωίτου Τοεμήσεως Λυσία<supplied reason="lost" cert="low">ς</supplied> <gap reason="lost" quantity="2" unit="character"/> 
 
     <lb n="25"/><app type="editorial"><lem resp="BL 9.106">Περόηι</lem><rdg>Περόης</rdg></app> Πρώταρχος         <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/> 
 

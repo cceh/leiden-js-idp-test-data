@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
     <lb n="1"/>τῷ κυ<unclear>ρ</unclear>ίῳ μου πατρὶ 
 
     <lb n="2"/>Ἀ<unclear>π</unclear>ει<unclear>θ</unclear>έωνι Ταῧρις 
@@ -55,7 +56,8 @@
 
     <lb n="28"/>ἀδελφή<add place="above">ν</add> σου καὶ τὴν ἀδελφὴν 
 
-    <lb n="29"/><unclear>τῆς</unclear> <unclear>μητρ</unclear>ός <unclear>σου</unclear>. 
+    <lb n="29"/><unclear>τῆς</unclear> <unclear>μητρ</unclear>ός <unclear>σου</unclear>.</ab></div>
+<div n="v" type="textpart"><ab>
 
     <lb n="30"/>τῷ κυρίῳ μου ἀδελφῷ Θεωδώρῳ <add place="above">Ταῧρεις</add> πλεῖστα χαίρειν. ἀγόρασόν μοι, κύριέ μου ἄδελφε, <num value="3">τρία</num> <choice><reg>σαβακάθια</reg><orig>σαβακάτεια</orig></choice> 
 
@@ -69,4 +71,4 @@
 
     <lb n="35"/>εἰς τὸ καβι<unclear>ε</unclear>ιν. εἶπ<unclear>ε</unclear> ὁ <unclear>υἱ</unclear><supplied reason="lost">ὸ</supplied><unclear>ς</unclear> Ἡ<supplied reason="lost">ρ</supplied><unclear>ακ</unclear>λει<unclear>αν</unclear>ὸς ὅτι τ<unclear>ὰ</unclear> <num value="2">δύο</num> τ<unclear>άλαντα</unclear>, εἰ δοκεῖ <choice><reg>σοι</reg><orig>συ</orig></choice>, α<unclear>π</unclear>ο<gap reason="lost" quantity="1" unit="character"><certainty match=".." locus="name"/></gap><gap reason="illegible" quantity="7" unit="character"/> <choice><reg>πορφύριον</reg><orig><unclear>πο</unclear>ρφύρειν</orig></choice> ἀγόρασον. 
 
-    <lb n="36"/><choice><reg>ἀσπάζομαί</reg><orig>ἀσπάδομέ</orig></choice> <choice><reg>σε</reg><orig>συ</orig></choice> Ηρακ<unclear>λ</unclear><gap reason="illegible" quantity="4" unit="character"/><unclear>ν</unclear> καὶ τὸν σύμβιόν σου. <choice><reg>ἀσπάζομαι</reg><orig>ἀσπάδομαι</orig></choice> Θεοδ<gap reason="lost" quantity="3" unit="character"/>ου. ταχὺ ἔρχῃ <choice><reg>ἵνα</reg><orig>εἵνα</orig></choice> <choice><reg>ἴδωμέν</reg><orig>εἴδομέν</orig></choice> <choice><reg>σε</reg><orig>συ</orig></choice>. </ab></div>
+    <lb n="36"/><choice><reg>ἀσπάζομαί</reg><orig>ἀσπάδομέ</orig></choice> <choice><reg>σε</reg><orig>συ</orig></choice> Ηρακ<unclear>λ</unclear><gap reason="illegible" quantity="4" unit="character"/><unclear>ν</unclear> καὶ τὸν σύμβιόν σου. <choice><reg>ἀσπάζομαι</reg><orig>ἀσπάδομαι</orig></choice> Θεοδ<gap reason="lost" quantity="3" unit="character"/>ου. ταχὺ ἔρχῃ <choice><reg>ἵνα</reg><orig>εἵνα</orig></choice> <choice><reg>ἴδωμέν</reg><orig>εἴδομέν</orig></choice> <choice><reg>σε</reg><orig>συ</orig></choice>. </ab></div></div>

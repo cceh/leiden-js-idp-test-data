@@ -1,12 +1,11 @@
 
          <T=.en
             <=
-               ((1)) In the 13th year of Tiberius Claudius Caesar Augustus Germanicus 
-               ((2)) Imperator. Aulaios, son of Harthotos, of Theadelphia, has completed his five-days corvee labor on the canal, concerning 
-               ((3)) the dikes, in the same year. 
-               ((4)) 2hd. I, Dionysius, have signed.
-               ((5)) 3rd hd. I, Harpochratis, have signed. 
-               ((6)) 4th hd. I, Didymus, secretary of the royal scribe, have signed
+               ((1)) In the 13th year of Tiberius Claudius Caesar Augustus Germanicus Imperator.
+               ((2)) Aulaios, son of Harthotos, of Theadelphia, has completed his five-days corvee labor on the canal, concerning the dikes, in the same year. 
+               ((4)) (2nd Hd) I, Dionysius, have signed.
+               (((5))) (3rd Hd) I, Harpochratis, have signed. 
+               (((6))) (4th Hd) I, Didymus, secretary of the royal scribe, have signed
             =>
          =T>
          <T=.ar   
@@ -15,7 +14,7 @@
       ((3)) فى نفس هذا العام عن قرية ثيادلفيا 
       ((4)) بخط يد ثانية : وقعت أنا ديونيسيوس.
       ((5)) بخط يد ثالثة : وقعت أنا حربوكراتيس .
-     ((6)) بخط يد رابعة : وقعت أنا ديديموس سكرتير الكاتب الملكي.
+      ((6)) بخط يد رابعة : وقعت أنا ديديموس سكرتير الكاتب الملكي.
 =>
 =T>
       

@@ -1,13 +1,1 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
-<ab>
-<lb n="1"/><g type="stauros"/> <expan>γνῶσ<ex>ις</ex></expan> <expan>χρυσ<ex>ίου</ex></expan> <expan>λοιπαζομέ<ex>νου</ex></expan> <expan><ex>ὑπὲρ</ex></expan> τῶν <expan>δημοσ<ex>ίων</ex></expan> <expan>χωμάτ<ex>ων</ex></expan> <expan><ex>ὑπὲρ</ex></expan> <num value="13">ι<hi rend="supraline">γ</hi></num> <expan>ἰνδ<ex>ικτίωνος</ex></expan>
-
-<lb n="2" rend="indent"/> <expan>οὕ<ex>τως</ex></expan>·
-
-<lb n="3"/><expan>π<ex>αρὰ</ex></expan> τοῦ <expan>σχο<ex>λαστικοῦ</ex></expan> Μαρίνου <expan><ex>ὑπὲρ</ex></expan> τῶν ἀπὸ Μούχεως Ταλη <expan><ex>ὑπὲρ</ex></expan> <num value="12">ιβ</num> <expan><ex>καὶ</ex></expan> <num value="13">ιγ</num>   <expan>νο<ex>μισμάτια</ex></expan> <num value="10">ι</num>  <g type="slanting-stroke"/><g type="slanting-stroke"/>
-
-<lb n="4"/><expan>π<ex>αρὰ</ex></expan> <expan>τ<ex>οῦ</ex></expan> <expan>αὐτ<ex>οῦ</ex></expan> <expan><ex>ὑπὲρ</ex></expan> <app type="alternative"><lem>τ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>τ<unclear>ῶ</unclear><supplied reason="lost">ν</supplied> <gap reason="lost" extent="unknown" unit="character"/></rdg></app>
-
-<lb n="4"/><gap reason="lost" extent="unknown" unit="line"/> 
-</ab>
-      </div>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab/></div>

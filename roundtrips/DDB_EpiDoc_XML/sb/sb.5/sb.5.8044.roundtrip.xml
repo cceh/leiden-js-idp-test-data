@@ -5,7 +5,7 @@
 
     <lb n="3"/>Ἀντωνίνου τοῦ κυρίου 
 
-    <lb n="4"/><expan>ὑ<ex>πὲρ</ex></expan> <expan>μητρὸ<ex>ς</ex></expan> <expan>Ψενοσῖ<ex>ρις</ex></expan> Σεν
+    <lb n="4"/><expan>ὑ<ex>πὲρ</ex></expan> <app type="editorial"><lem resp="O.Heid. 292.4 n."><expan>μητροπ<ex>όλεως</ex></expan></lem><rdg><expan>μητρὸ<ex>ς</ex></expan></rdg></app> <expan>Ψενοσῖ<ex>ρις</ex></expan> Σεν
 
     <lb n="5" break="no"/><expan>ψενοσί<ex>ριος</ex></expan> <abbr>Πεβ</abbr> <expan>ἱερ<ex>εὺς</ex></expan> <expan><ex>πυροῦ ἀρτάβας</ex></expan> <num value="93">ϙγ</num> <num value="1/8" rend="tick">η</num>. 
 

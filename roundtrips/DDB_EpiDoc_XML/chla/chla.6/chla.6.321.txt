@@ -1,5 +1,5 @@
 <S=.grc<=/*full document: Rom.Mil.Rec. 89+Ch.L.A. 6,321+Ch.L.A. 47,1446*/
-=><D=.FrFFF<=
+=><D=.FFF.fragment<=
 
     1. [.?].1[.?]
 

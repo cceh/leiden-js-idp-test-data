@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>Ἰσιδότωι τῶν <num value="1">α</num> φίλων καὶ 
 
     <lb n="2"/>λαάρχωι 
@@ -13,7 +14,7 @@
 
     <lb n="7"/>Ἐπαγομένων τοῦ <num value="31"><supplied reason="lost">λ</supplied><unclear>α</unclear></num> <expan><ex>ἔτους</ex></expan> τοῦ 
 
-    <lb n="8"/>ἑνὸς <num value="1"/> ἡμῶν Ἁρμιύσιος πλύ
+    <lb n="8"/><num value="1">ἑνὸς</num> ἡμῶν Ἁρμιύσιος πλύ
 
     <lb n="9" break="no"/>νον<unclear>τ</unclear>ος τὰ βύσσι<unclear>ν</unclear>α π<unclear>ερι</unclear>βό
 
@@ -25,40 +26,45 @@
 
     <lb n="13"/>Σιουῆρις Σιουήριος καὶ ὁ τού
 
-    <lb n="14" break="no"/>του υἱὸς <app type="editorial"><lem resp="BL ">καὶ</lem><rdg/></app> δόντες αὐτῶι 
+    <lb n="14" break="no"/>του υἱὸς <app type="editorial"><lem resp="BL 9.324">καὶ δόντες</lem><rdg>δόντες</rdg></app> αὐτῶι 
 
     <lb n="15"/>πληγὰς πλείους ἀφείλοντο 
 
     <lb n="16"/>τὰ βύσσινα ὀθόνια τῶν θεῶν 
 
-    <lb n="17"/>καὶ ἃ εἶχεν ἱμάτια 
+    <lb n="17a"/><add place="interlinear"> καὶ ἃ εἶχεν ἱμάτια </add>
 
-    <lb n="18"/>ὥστʼ ἂν παρʼ ἂλλο <expan><unclear>δ</unclear>ι<unclear>ε</unclear>θῆ<ex>ναι</ex></expan> τῆς 
+    <lb n="17"/>ὥστʼ ἂν παρʼ ἂλλο <expan><unclear>δ</unclear>ι<unclear>ε</unclear>θῆ<ex>ναι</ex></expan> τῆς 
 
-    <lb n="19"/>τοῦ νέου ἔτους κωμασίας 
+    <lb n="18"/>τοῦ νέου ἔτους κωμασίας 
 
-    <lb n="20"/>καὶ τῶν ἄνωθεν γινομένων 
+    <lb n="19"/>καὶ τῶν ἄνωθεν γινομένων 
 
-    <lb n="21"/>νομίμων, οὐδενὸς <choice><reg>ἡμῖν</reg><orig>ἡμεῖν</orig></choice> 
+    <lb n="20"/>νομίμων, οὐδενὸς <choice><reg>ἡμῖν</reg><orig>ἡμεῖν</orig></choice> 
 
-    <lb n="22"/>ἐνε<unclear>σ</unclear>τῶτος πρὸ<supplied reason="lost">ς</supplied> αὐτούς. 
+    <lb n="21"/>ἐνε<unclear>σ</unclear>τῶτος πρὸ<supplied reason="lost">ς</supplied> αὐτούς. 
 
-    <lb n="23"/>οἱ αὐτοὶ δὲ καὶ ἐν τῶι <num value="30">λ</num> <expan><ex>ἔτει</ex></expan> συν
+    <lb n="22"/>οἱ αὐτοὶ δὲ καὶ ἐν τῶι <num value="30">λ</num> <expan><ex>ἔτει</ex></expan> συν
 
-    <lb n="24" break="no"/>λαβόντες <add place="above">καὶ εἰσβιασάμενοι εἰς</add> ἡμᾶς διέσεισαν 
+    <lb n="23" break="no"/>λαβόντες ἡμᾶς διέσεισαν 
 
-    <lb n="25"/><add place="above">τὸ ἱερὸν καὶ διαρπάσαντες</add> <expan>ἀργυ<ex>ρίου</ex></expan> <expan>δρ<ex>αχμὰς</ex></expan> <num value="40">μ</num>. ἐπεὶ οὖν διʼ αὐτοὺς 
+    <lb n="23a"/><add place="interlinear"> καὶ εἰσβιασάμενοι εἰς </add>
 
-    <lb n="26"/>κινδυνεύομεν ἐ<unclear>ν</unclear>καταλιπεῖν 
+    <lb n="24a"/><add place="interlinear"> τὸ ἱερὸν καὶ διαρπάσαντες </add>
 
-    <lb n="27"/>τὸ ἱερόν, ἐπιδίδομεν τὸ ὑπό
+    <lb n="24"/><expan>ἀργυ<ex>ρίου</ex></expan> <expan>δρ<ex>αχμὰς</ex></expan> <num value="40">μ</num>. ἐπεὶ οὖν διʼ αὐτοὺς
 
-    <lb n="28" break="no"/>μνημα, ὅπως ὑποτάξῃς 
+    <lb n="25"/>κινδυνεύομεν ἐ<unclear>ν</unclear>καταλιπεῖν 
 
-    <lb n="29"/>τῶι <choice><reg>στρατηγῶι</reg><orig>στρατηιγῶ<supplied reason="lost">ι</supplied></orig></choice> καὶ σημήνῃ<supplied reason="lost">ς</supplied> 
+    <lb n="26"/>τὸ ἱερόν, ἐπιδίδομεν τὸ ὑπό
 
-    <lb n="30"/>τὸ καθὲν τῶν ἐγνωσμένων σοι 
+    <lb n="27" break="no"/>μνημα, ὅπως ὑποτάξῃς 
 
-    <lb n="31"/>πρὸς τὸν ἐσόμενόν μοι πρὸς 
+    <lb n="28"/>τῶι <choice><reg>στρατηγῶι</reg><orig>στρατηιγῶ<supplied reason="lost">ι</supplied></orig></choice> καὶ σημήνῃ<supplied reason="lost">ς</supplied> 
 
-    <lb n="32"/>αὐτοὺς <expan><unclear>ἀ</unclear>ρ<unclear>γυ</unclear><ex>ρίου</ex></expan> <expan><ex>ταλάντων</ex></expan> <num value="4"><unclear>δ</unclear></num><gap reason="lost" quantity="1" unit="character"/> λό<unclear>γ</unclear>ο<unclear>ν</unclear>. </ab></div>
+    <lb n="29"/><app type="editorial"><lem resp="BL 13.239">τὸ καθ’ ἕν</lem><rdg>τὸ καθὲν</rdg></app> τῶν ἐγνωσμένων σοι 
+
+    <lb n="30"/>πρὸς τὸν ἐσόμενόν μοι πρὸς 
+
+    <lb n="31"/>αὐτοὺς <expan><unclear>ἀ</unclear>ρ<unclear>γυ</unclear><ex>ρίου</ex></expan> <expan><ex>ταλάντων</ex></expan> <num value="4"><unclear>δ</unclear></num><gap reason="lost" quantity="1" unit="character"/> λό<unclear>γ</unclear>ο<unclear>ν</unclear>. 
+</ab></div>

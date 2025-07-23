@@ -1,7 +1,7 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
     <lb n="1"/>ἔτους <num value="14">ιδ</num> Καίσαρος Μεσορὴ <num value="30">λ</num> <expan>μεμέτρη<ex>κε</ex></expan> <expan>Καλλία<ex>ς</ex></expan> 
 
-    <lb n="2"/>Ἀμενώθου <choice><reg>εἰς</reg><orig>ἰς</orig></choice> τὸν Πισι<unclear>ρ</unclear><gap reason="illegible" quantity="3" unit="character"/> θησαυρὸν Λιβύης τοῦ <abbr>κο<unclear>λ</unclear></abbr> 
+    <lb n="2"/>Ἀμενώθου <choice><reg>εἰς</reg><orig>ἰς</orig></choice> τὸν Πισι<unclear>ρ</unclear><gap reason="illegible" quantity="3" unit="character"/> θησαυρὸν Λιβύης τοῦ <app type="editorial"><lem resp="BL 2.1.40"><expan>Κοπ<ex>τίτου</ex></expan></lem><rdg><abbr>κο<unclear>λ</unclear></abbr></rdg></app>
 
     <lb n="3"/>μισθώσεως <expan><ex>πυροῦ ἀρτάβας</ex></expan> <num value="40">μ</num> 
 

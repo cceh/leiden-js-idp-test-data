@@ -5,8 +5,8 @@
 
     <lb n="3"/>τ<unclear>ο</unclear>ῦ κ<unclear>υρί</unclear>ου Φαῶφι <num value="19">ι<unclear>θ</unclear></num> τοῦ 
 
-    <lb n="4"/><num value="26">κϛ</num> <expan><ex>ἔτους</ex></expan>. <expan>ὑπ<ex>ὲρ</ex></expan> <expan>Χά<ex>ρακος</ex></expan> <expan>ὀνό<ex>ματος</ex></expan> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
+    <lb n="4"/><num value="26">κϛ</num> <expan><ex>ἔτους</ex></expan>. <expan>ὑπ<ex>ὲρ</ex></expan> <expan>Χά<ex>ρακος</ex></expan> <expan>ὀνό<ex>ματος</ex></expan> <app type="editorial"><lem resp="N. Gonis, APF 64 (2018) 45"><expan>Σενκαμήτ<ex>ιος</ex></expan> 
 
-    <lb n="5"/><abbr>Α<gap reason="illegible" quantity="3" unit="character"/>το</abbr> <supplied reason="lost"><expan>πυρο<ex>ῦ</ex></expan></supplied> <expan><unclear>ὄ</unclear>γδο<ex>ον</ex></expan> <expan><ex>γίνεται</ex></expan> <expan><ex>πυρου</ex></expan> <num value="1/8" rend="tick">η</num>. 
+    <lb n="5"/><expan>Ἀβῶτο<ex>ς</ex></expan></lem><rdg><gap reason="illegible" quantity="6" unit="character"/> <lb n="5"/><abbr>Α<gap reason="illegible" quantity="3" unit="character"/>το</abbr></rdg></app> <supplied reason="lost"><expan>πυρο<ex>ῦ</ex></expan></supplied> <expan><unclear>ὄ</unclear>γδο<ex>ον</ex></expan> <expan><ex>γίνεται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="1/8" rend="tick">η</num>. 
 
-    <lb n="6"/><abbr>Α</abbr> <abbr><unclear>Δι</unclear></abbr>. </ab></div>
+    <lb n="6"/><app type="editorial"><lem resp="N. Gonis, APF 64 (2018) 45"><expan>Ἀμ<ex>ώνιος</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan></lem><rdg><abbr>Α</abbr> <abbr><unclear>Δι</unclear></abbr></rdg></app>. </ab></div>

@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+               ((1)) To …nios, strategos (and) leading councillor of the Arsinoite, [from Aurelius A]nnianus?, apotactic monk [from the] city of the Arsinoites. 
+(((4))) [Throughout?] this [entire?] ten?-year period I have been living [among the] apotactic monks, [a man] of modest means, possessing nothing, 
+[practising?] the ways of life of the [apotactics?] . . . acquiring . . . in the city . . . ((10)) Diogenes, son . . . to / for those wishing . . .
+/*Translation: W.G. Claytor, JJP 53 (2023) 13*/
+            =>
+         =T>
+      

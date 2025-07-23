@@ -1,5 +1,5 @@
-<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
-
+<div xml:lang="la" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
     <lb n="1"/><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost"> gr</supplied>aue <g type="middot"/> uidetur <g type="middot"/> <supplied reason="lost">q</supplied>uinque <num value="5"/> <g type="middot"/> decuriis <g type="middot"/> in <g type="middot"/> iungi 
 
     <lb n="2"/><supplied reason="lost">illu</supplied>d <g type="middot"/> certe <g type="middot"/> faci<unclear>t</unclear>e ut <g type="middot"/> caueátis <g type="middot"/> ne quis 
@@ -10,7 +10,7 @@
 
     <lb n="5"/><supplied reason="lost">causas <g type="middot"/></supplied> <unclear>s</unclear>ervitútis <supplied reason="lost"><g type="middot"/> li</supplied>bertátisque <g type="middot"/> <unclear>iúd</unclear>icare 
 
-    <lb n="6"/><supplied reason="lost">qui <g type="middot"/> ad <g type="middot"/></supplied> <unclear>r</unclear>es <g type="middot"/> suás <g type="middot"/> ag<unclear>e</unclear><supplied reason="lost">n</supplied><unclear>d</unclear>as <g type="middot"/> legis <g type="middot"/> Laetoriae 
+    <lb n="6"/><supplied reason="lost">qui <g type="middot"/> ad <g type="middot"/></supplied> <unclear>r</unclear>es <g type="middot"/> suás <g type="middot"/> ag<unclear>e</unclear><supplied reason="lost">n</supplied><unclear>d</unclear>as <g type="middot"/> nihil <g type="middot"/> legis <g type="middot"/> Laetoriae 
 
     <lb n="7"/><supplied reason="lost">utantur <g type="middot"/> au</supplied>xilió 
 
@@ -41,8 +41,8 @@
     <lb n="20"/><gap reason="lost" extent="unknown" unit="character"/><unclear>a</unclear>e 
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><unclear>o</unclear>re <g type="middot"/> ne 
-</ab></div><div n="2" type="textpart"><ab>
-
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
     <lb n="1"/>tenuisse <g type="middot"/> <choice><reg>causam</reg><orig>caussam</orig></choice> <g type="middot"/> petitóri <g type="middot"/> expedia<unclear>t</unclear> 
 
     <lb n="2"/>hae <g type="middot"/> ne <g type="middot"/> <subst><add place="inline">procedant</add><del rend="corrected">intercedant</del></subst> <g type="middot"/> artes <g type="middot"/> male <g type="middot"/> agentibus <g type="middot"/> si 
@@ -86,8 +86,8 @@
     <lb n="21"/>tále <g type="middot"/> factum <g type="middot"/> qui <g type="middot"/> iam <g type="middot"/> sq<supplied reason="lost">ua</supplied>ló<unclear>r</unclear>em <g type="middot"/> sumere 
 
     <lb n="22"/>barbam<unclear>qu</unclear>e <g type="middot"/> et <g type="middot"/> capillum <supplied reason="lost"><g type="middot"/> su</supplied>mmittere 
-</ab></div><div n="3" type="textpart"><ab>
-
+</ab></div>
+<div n="3" subtype="column" type="textpart"><ab>
     <lb n="1"/>suá <g type="middot"/> <choice><reg>causa</reg><orig>caussá</orig></choice> <g type="middot"/> quó <supplied reason="lost"><g type="middot"/></supplied> magis <g type="middot"/> <unclear>mis</unclear>erab<supplied reason="lost">i</supplied><unclear>l</unclear>is <g type="middot"/> <unclear>u</unclear><supplied reason="lost">ideatur</supplied> 
 
     <lb n="2"/>fastidiunt <supplied reason="lost"><g type="middot"/></supplied> sed <g type="middot"/> <unclear>u</unclear>i<unclear>de</unclear><supplied reason="lost">ant <g type="middot"/> ipsi <g type="middot"/> quid <g type="middot"/> haec <g type="middot"/></supplied> <unclear>s</unclear>ibi <g type="middot"/> <unclear>a</unclear> <supplied reason="lost"><g type="middot"/> natura</supplied> 
@@ -132,4 +132,5 @@
 
     <lb n="22"/>adse<unclear>n</unclear><supplied reason="lost">t</supplied>ior <g type="middot"/> deinde <g type="middot"/> c<supplied reason="lost">um <g type="middot"/> e</supplied><unclear>xi</unclear>erint <g type="middot"/> di<unclear>x</unclear><supplied reason="lost">imus</supplied> 
 
-    <lb n="23"/><num value="1150">Αρν</num></ab></div></div>
+    <lb n="23"/><num value="1150">Αρν</num>
+</ab></div></div>

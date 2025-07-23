@@ -1,5 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
     <lb n="1"/><g type="stauros"/> ἐν ὀνόματι <expan>το<ex>ῦ</ex></expan> <expan>κυρίο<ex>υ</ex></expan> καὶ δεσπότου <expan>Ἰησο<ex>ῦ</ex></expan> <expan>Χριστο<ex>ῦ</ex></expan> 
 
     <lb n="2"/>τοῦ θεοῦ καὶ σωτῆρος ἡμῶν καὶ τῆς <expan>δεσποίν<ex>ης</ex></expan> 
@@ -49,6 +49,7 @@
     <lb n="24"/>καὶ <expan>ἐπερ<ex>ωτηθέντες</ex></expan> <expan>ὡμ<ex>ολογήσαμεν</ex></expan> <g type="stauros"/> 
 
   <lb n="25"/><handShift new="m2"/> <g type="stauros"/> <app type="editorial"><lem resp="BL 9.18"><unclear>Χμ</unclear>γ</lem><rdg/></app> <foreign xml:lang="la">di emu Georgiu</foreign> <g type="unintelligible"/> <add place="above"><g type="unintelligible"/><hi rend="tall">x</hi></add> Φ  
-</ab></div><div n="v" type="textpart"><ab>
-
-    <lb n="1"/><g type="stauros"/> <expan>κομπρόμισσ<ex>ον</ex></expan> <expan>γενόμε<ex>νον</ex></expan> <expan>μεταξ<ex>ὺ</ex></expan> <expan>Α<supplied reason="lost">ὐρ<ex>ηλίου</ex></supplied></expan><supplied reason="lost"> ἄπα</supplied> Ἰ<supplied reason="lost">ου</supplied>λίου κν<supplied reason="lost">αφέως υἱοῦ</supplied> Ἰ<supplied reason="lost">ωσ</supplied>ὴφ κ<supplied reason="lost">αὶ </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="1"/><g type="stauros"/> <expan>κομπρόμισσ<ex>ον</ex></expan> <expan>γενόμε<ex>νον</ex></expan> <expan>μεταξ<ex>ὺ</ex></expan> <app type="editorial"><lem resp="S. Kovarik, Pylon 7 (2025) 4 § 51">Aπ<unclear>α</unclear> Ἰ<unclear>ο</unclear><supplied reason="lost">υ</supplied>λίο<unclear>υ</unclear> <expan>κν<supplied reason="lost">α</supplied><unclear>φ</unclear><ex>έως</ex></expan> <expan><ex cert="low">καὶ</ex></expan> Ἰ<unclear>ωσ</unclear>ὴφ <expan>κα<unclear>πήλ</unclear><ex>ου</ex></expan></lem><rdg><expan>Α<supplied reason="lost">ὐρ<ex>ηλίου</ex></supplied></expan><supplied reason="lost"> ἄπα</supplied> Ἰ<supplied reason="lost">ου</supplied>λίου κν<supplied reason="lost">αφέως υἱοῦ</supplied> Ἰ<supplied reason="lost">ωσ</supplied>ὴφ κ<supplied reason="lost">αὶ </supplied></rdg></app><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div></div>

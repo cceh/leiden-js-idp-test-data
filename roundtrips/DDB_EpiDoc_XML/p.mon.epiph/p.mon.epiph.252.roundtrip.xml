@@ -1,0 +1,19 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><g type="rho-cross"/> ϩⲁⲑⲉ <choice><reg>μέν</reg><orig>ⲙⲉⲛ</orig></choice> <hi rend="supraline">ⲙ</hi>ⲡⲁ
+
+    <lb n="2" break="no"/>ϣⲁϫⲉ <hi rend="supraline">ⲛ</hi><choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan>ⲉⲗⲁⲭ<ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice>
+
+    <lb n="3"/>ϯϣⲓⲛⲉ <choice><reg>ⲡⲁϫⲟⲉⲓⲥ</reg><orig>ⲉⲛⲁϫⲟⲉⲓⲥ</orig></choice> <hi rend="supraline">ⲛ</hi>ⲉⲓ
+
+    <lb n="4" break="no"/>ⲱⲧ <hi rend="supraline">ⲙ</hi>ⲡⲉⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ϣⲓⲛⲉ <hi rend="supraline">ⲛ</hi>
+
+    <lb n="5" break="no"/>ⲥⲱ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ϩⲛ</hi> ϯⲡⲁⲥⲭⲁ<g type="word-sep-apostrophe"/> ϫⲉ ϯ
+
+    <lb n="6" break="no"/>ⲟⲛϩ <app type="alternative"><lem><hi rend="supraline">ϩⲛ</hi>ϯⲙⲟⲟⲩⲧ</lem><rdg>ϫⲛϯⲙⲟⲟⲩⲧ</rdg><rdg>ϩ<hi rend="supraline">ⲛ</hi> ϯⲙⲟⲟⲩⲧ</rdg></app> ⲉⲁⲛⲟⲛ ϩⲉ
+
+    <lb n="7" break="no"/>ⲛⲣⲱⲙⲉ ⲉϣⲁⲩϣⲱⲛⲉ <choice><reg xml:lang="grc">πλήν</reg><orig>ⲡⲗ<lb n="8" break="no"/>ⲏⲛ</orig></choice> ⲁⲡⲁϩⲏⲧ ϭⲱ<hi rend="supraline">ⲧⲛ</hi> ⲉⲣⲟ<hi rend="diaeresis">ⲓ</hi> <choice><reg xml:lang="grc">ἀλλά</reg><orig>ⲁⲗⲗⲁ</orig></choice>
+
+    <lb n="9"/>ⲉⲛϣⲁⲛⲱⲛϩ <gap reason="lost" extent="unknown" unit="character"/>
+</ab>
+      </div>

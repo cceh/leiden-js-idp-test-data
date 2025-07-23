@@ -9,7 +9,7 @@
 
     <lb n="4"/>υἱῷ τοῦ αἰδεσίμου Πετρωνίου 
 
-    <lb n="5"/>ἀπὸ ταύτης τῆς <expan>Ὀξυρ<ex>υγ</ex><hi rend="superscript">χ</hi><ex>ιτῶν</ex></expan> <expan>πόλ<hi rend="superscript">ε</hi><ex>ως</ex></expan>. 
+    <lb n="5"/>ἀπὸ ταύτης τῆς <expan>Ὀξυρ<ex>υγ</ex>χ<ex>ιτῶν</ex></expan> <expan>πόλε<ex>ως</ex></expan>. 
 
     <lb n="6"/>ἐγὼ Δαυὶδ <unclear>μ</unclear>είζων <hi rend="diaeresis">υ</hi>ἱὸς 
 
@@ -22,7 +22,7 @@
 
     <lb n="3"/>κεράτια εἴκοσι δύο ἥμισυ, 
 
-    <lb n="4"/><expan>γί<ex>νεται</ex></expan> <expan>χρ<hi rend="superscript">υ</hi><ex>σοῦ</ex></expan> <expan>ν<hi rend="superscript">ο</hi><ex>μισμάτιον</ex></expan> <num value="1">α</num> <expan>εἰ<ex>ς</ex></expan> <expan><ex>κεράτια</ex></expan> <num value="22">κβ</num> <num value="1/2">𐅵</num>, καὶ ὑπὲρ 
+    <lb n="4"/><expan>γί<ex>νεται</ex></expan> <expan>χρυ<ex>σοῦ</ex></expan> <expan>νο<ex>μισμάτιον</ex></expan> <num value="1">α</num> <expan>εἰ<ex>ς</ex></expan> <expan><ex>κεράτια</ex></expan> <num value="22">κβ</num> <num value="1/2">𐅵</num>, καὶ ὑπὲρ 
 
     <lb n="5"/>αὐτοῦ ὁμολογῶ παρασχεῖν 
 
@@ -30,7 +30,7 @@
 
     <lb n="7"/><expan>καθαρ<ex>ὰς</ex></expan> <expan>κεκοσκ<ex>ινευμένας</ex></expan> μέτρῳ δικαίῳ 
 
-    <lb n="8"/>ἐν τῷ Παῦνι <expan>μῆ<ex>νὶ</ex></expan> τῆς <expan>παρού<ex>σης</ex></expan> 
+    <lb n="8"/>ἐν τῷ Παῦνι <expan>μη<ex>νὶ</ex></expan> τῆς <expan>παρού<ex>σης</ex></expan> 
 
     <lb n="9"/>δεκάτης <expan>ἰνδ<ex>ικτί</ex>ο<ex>νος</ex></expan> καρπῶν τῆς 
 
@@ -42,7 +42,7 @@
 
     <lb n="13"/>ἐμῶν βοῶν. καὶ σὺν <choice><reg>θ<supplied reason="omitted">ε</supplied>ῷ</reg><orig>θῷ</orig></choice> καὶ 
 
-    <lb n="14"/>ἐπὶ τούτοις πᾶσιν <app type="editorial"><lem resp="N. Gonis, Tyche 30 (2015) 229 (KorrTyche 802)">ἐπ<unclear>ω</unclear>μοσάμην</lem><rdg resp="BL 5.68"><expan>ἐπ<ex>ερωτηθεὶς</ex> ὡμο<ex>λόγησα</ex></expan></rdg><rdg><expan>ἐπ<unclear>ω</unclear>μ<hi rend="superscript">ο</hi><ex>νύμενος</ex></expan></rdg></app> 
+    <lb n="14"/>ἐπὶ τούτοις πᾶσιν <app type="editorial"><lem resp="N. Gonis, Tyche 30 (2015) 229 (KorrTyche 802)">ἐπ<unclear>ω</unclear>μοσάμην</lem><rdg resp="BL 5.68"><expan>ἐπ<ex>ερωτηθεὶς</ex> ὡμο<ex>λόγησα</ex></expan></rdg><rdg><expan>ἐπ<unclear>ω</unclear>μο<ex>νύμενος</ex></expan></rdg></app> 
 </ab></div>
 <div n="C" subtype="fragment" type="textpart"><ab>
     <lb n="1"/><handShift new="m2"/> <unclear>Πα</unclear>μουθίο<unclear>υ</unclear> <expan><unclear>ἐυδ</unclear><ex>οκῶ</ex></expan> ὡς <expan>πρόκ<ex>ειται</ex></expan> 

@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>α<gap reason="illegible" quantity="2" unit="character"/><unclear>ω</unclear>σι<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
@@ -17,12 +18,13 @@
 
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>ωρος <expan>φακ<ex>οῦ</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> τὸ <expan><ex>τρίτον</ex></expan> <expan>φακ<ex>οῦ</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβης</ex></expan> <num value="1/2">𐅵</num> </supplied><gap reason="lost" extent="unknown" unit="character"/>  
 
-    <lb n="9"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>κρι<ex>θῆς</ex></expan></supplied> <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num> τὸ <expan><ex>τρίτον</ex></expan> <expan>κριθ<ex>ῆς</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> 
+    <lb n="9"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><expan>κρι<ex>θῆς</ex></expan></supplied> <expan><ex>ἀρτάβαι</ex></expan> <num value="3">γ</num> τὸ <expan><ex>τρίτον</ex></expan> <expan>κριθ<ex>ῆς</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> 
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ἀρτάβης</ex></expan> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> 
 
     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><num value="48"><unclear>μη</unclear></num> <num value="1/2">𐅵</num> <expan>φακ<ex>οῦ</ex></expan> <subst><add place="inline"><num value="643">χμγ</num></add><del rend="corrected"><num value="683">χ<unclear>π</unclear>γ</num></del></subst> <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ἀρτάβ  </ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan>παλ<ex>αιοῦ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num><gap reason="lost" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>  
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>ἀρτάβ- </ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan>παλ<ex>αιοῦ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num atLeast="300" atMost="399">τ<gap reason="lost" quantity="2" unit="character"/></num> <gap reason="lost" extent="unknown" unit="character"/>  
 
-    <lb n="13"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>

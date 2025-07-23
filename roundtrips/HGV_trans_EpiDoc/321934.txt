@@ -1,0 +1,9 @@
+
+         <T=.en
+            <=
+               ((1)) Eighteenth year of Imperator Caesar Traianus Hadrianus Augustus, Epeiph 26, for the accounting period of Pauni.
+               ((4)) Aphrodisios, son of Philippos, paid through Stotoetis, superintendent of the 1-and-2% toll of the gate of Dionysias for the eighteenth year, one hundred eighty-four drachmas, three obols,
+               ((9)) which come to 184 dr., 3 ob. /*Translation: W.G. Claytor, APF 67 (2021) 351*/
+            =>
+         =T>
+      

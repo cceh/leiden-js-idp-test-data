@@ -1,0 +1,18 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1" rend="indent"/><gap reason="illegible" quantity="3" unit="character"/> 
+
+    <lb n="2" rend="indent"/> λόγος μηνὸς Ἁδριανοῦ <num value="1"><hi rend="supraline">α</hi></num> ἕως <num value="30"><hi rend="supraline">λ</hi></num>. 
+
+    <lb n="3" rend="indent"/><expan>μισθ<ex>οὶ</ex></expan> <expan>ἀνδ<ex>ρῶν</ex></expan> 
+
+    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Π</unclear>ασήμιος κηπουρὸς <expan><ex>δραχμαὶ</ex></expan> <num value="24">κδ</num> 
+
+    <lb n="5"/><choice><reg><supplied reason="lost">ἁμαξ</supplied>ηλάτης</reg><orig><supplied reason="lost">ἁμαξ</supplied><unclear>ε</unclear>λάτης</orig></choice>  <num value="2"><hi rend="supraline">β</hi></num> Ἁδριανοῦ <num value="15"><hi rend="supraline">ιε</hi></num> ἕως <num value="19"><hi rend="supraline">ιθ</hi></num> 
+
+    <lb n="6"/><supplied reason="lost"><expan>ἡμ<ex>έρας</ex></expan> <hi rend="supraline">ε</hi> ἐ</supplied>κ <num value="5"><expan><ex>πεντωβόλου</ex></expan></num> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="7">ζ</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>, τροφὴ <choice><reg><app type="alternative"><lem>βοός</lem><rdg>βοῶν</rdg></app></reg><orig>βοῦς</orig></choice> <num value="15"><hi rend="supraline">ιε</hi></num> 
+
+    <lb n="7"/><supplied reason="lost">ἕως</supplied> <num value="19"><hi rend="supraline">ιθ</hi></num> <expan>ἑκάστ<ex>ης</ex></expan> ἡμέρας <expan><ex>ἀρτάβης</ex></expan> <num value="1/4">δ</num> <expan><ex>γίνονται</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> <num value="1/4">δ</num> 
+
+    <lb n="8"/><supplied reason="lost">ἐπὶ τὸ</supplied> <expan><supplied reason="lost">α</supplied><ex>ὐτὸ</ex></expan> ἀργυρίου <expan><ex>δραχμαὶ</ex></expan> <num value="31">λα</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num>, <expan>φ<unclear>α</unclear>κ<ex>οῦ</ex></expan> <expan><ex>ἀρτάβη</ex></expan> <num value="1">α</num> <num value="1/4">δ</num> 
+</ab></div>

@@ -34,6 +34,6 @@
 
     <lb n="17"/><choice><reg>ⲧⲓⲟ</reg><orig>ⲧⲓⲁⲓ</orig></choice> <choice><reg>ⲙⲙⲛⲧⲣⲉ</reg><orig>ⲙⲉⲧⲣⲏ</orig></choice></foreign>  <g type="stauros"/><g type="stauros"/><g type="stauros"/> 
 
-    <lb n="18"/><handShift new="m3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>υ</unclear> Φῖβ ἐγράφη <g type="stauros"/>
+    <lb n="18"/><handShift new="m3"/><app type="editorial"><lem resp="S. Kovarik, Pylon 7 (2025) 4 §5"><supplied reason="lost"><g type="stauros"/> δι’ ἐμ</supplied><unclear>οῦ</unclear> <supplied reason="lost">Ἰωάν</supplied><unclear>νου</unclear> υἱ<unclear>οῦ</unclear></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>υ</unclear></rdg></app> Φῖβ ἐγράφη <g type="stauros"/>
 </ab>
       </div>

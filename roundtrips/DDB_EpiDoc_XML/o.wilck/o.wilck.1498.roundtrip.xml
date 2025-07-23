@@ -1,7 +1,7 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/>ἔτους <num value="6">ϛ</num> Μεσορὴ <num value="30">λ</num> <expan>μ<ex>εμέτρκεν</ex></expan> <num value="5">ε</num> <expan><ex>ἔτους</ex></expan> 
+    <lb n="1"/>ἔτους <num value="6">ϛ</num> Μεσορὴ <num value="30">λ</num> <expan>μ<ex>εμέτρηκεν</ex></expan> <num value="5">ε</num> <expan><ex>ἔτους</ex></expan> 
 
-    <lb n="2"/>εἰς τὸ <expan>Ἀμμ<ex>ώνιον</ex></expan> <expan>Δημήτρι<ex>ο</ex>ς</expan> Φι<gap reason="illegible" quantity="3" unit="character"/>ου 
+    <lb n="2"/>εἰς τὸ <app type="editorial"><lem resp="BL 2.1.115"><expan><ex>ἥμισυ</ex></expan> <expan>ἀ<ex>ρτάβης</ex></expan></lem><rdg><expan>Ἀμμ<ex>ώνιον</ex></expan></rdg></app> <expan>Δημήτρι<ex>ο</ex>ς</expan> <app type="editorial"><lem resp="BL 2.1.115">Φιλίνου</lem><rdg>Φι<gap reason="illegible" quantity="3" unit="character"/>ου</rdg></app> 
 
     <lb n="3"/><expan><ex>πυροῦ</ex></expan> δέκα <choice><reg>τέσσαρας</reg><orig>τέσσαρες</orig></choice> <expan><ex>γίνονται</ex></expan> <expan><ex>πυροῦ</ex></expan> <num value="14">ιδ</num> 
 
