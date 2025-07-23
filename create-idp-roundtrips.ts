@@ -232,27 +232,69 @@ async function getXmlFiles(dir: string): Promise<string[]> {
     return xmlPaths;
 }
 
+async function restartXSugarContainer(): Promise<void> {
+    try {
+        console.log("Restarting XSugar container...");
+        await execAsync("docker-compose restart xsugar");
+        
+        // Wait for container to be healthy
+        let attempts = 0;
+        const maxAttempts = 30;
+        while (attempts < maxAttempts) {
+            try {
+                const response = await fetch("http://localhost:9999", { method: "GET" });
+                if (response.ok) {
+                    console.log("XSugar container is healthy");
+                    return;
+                }
+            } catch {
+                // Continue waiting
+            }
+            
+            attempts++;
+            await new Promise(resolve => setTimeout(resolve, 1000)); // Wait 1 second
+        }
+        
+        throw new Error("XSugar container failed to become healthy after restart");
+    } catch (error) {
+        throw new Error(`Failed to restart XSugar container: ${error.message}`);
+    }
+}
+
 async function xsugarConvert(input: string, direction: "xml2nonxml" | "nonxml2xml", conversion: string): Promise<string> {
     const encodedInput = encodeURIComponent(input);
     const postData = `content=${encodedInput}&type=${conversion}&direction=${direction}`;
-    const response = await fetch("http://localhost:9999", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/x-www-form-urlencoded"
-        },
-        body: postData
-    });
+    
+    try {
+        const response = await fetch("http://localhost:9999", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            body: postData
+        });
 
-    if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}\n`);
+        if (response.status === 500) {
+            await restartXSugarContainer();
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const responseData = await response.json();
+        if (responseData.exception) {
+            throw new Error(`XSugar exception: ${responseData.exception.cause}`);
+        }
+
+        return responseData.content;
+    } catch (error) {
+        if (error.message.includes('fetch failed') || error.code === 'ECONNREFUSED') {
+            await restartXSugarContainer();
+        }
+        throw error;
     }
-
-    const responseData = await response.json();
-    if (responseData.exception) {
-        throw new Error(`XSugar exception: ${responseData.exception.cause}`);
-    }
-
-    return responseData.content;
 }
 
 async function processXmlFile(
@@ -271,6 +313,7 @@ async function processXmlFile(
     await fs.mkdir(dirname(roundtripFilePath), { recursive: true });
     await fs.mkdir(dirname(txtFilePath), { recursive: true });
 
+    let currentStep = null;
 
     try {
         // Read and process XML
@@ -287,14 +330,17 @@ async function processXmlFile(
         const processedXml = element.outerHTML.replace(" xmlns=\"http://www.tei-c.org/ns/1.0\"", "");
 
         // STEP 1: Convert to leiden
+        currentStep = "original XML -> Leiden";
         const xsugarLeiden = await xsugarConvert(processedXml, "xml2nonxml", config.conversion);
 
         // STEP 2: Roundtrip to XML
+        currentStep = "Generated Leiden -> XML";
         const xsugarXml = await xsugarConvert(xsugarLeiden, "nonxml2xml", config.conversion);
         await fs.writeFile(roundtripFilePath, xsugarXml);
         console.log(`[${currentIndex}/${totalFiles}] Created ${roundtripFilePath}`);
 
         // STEP 3: Roundtrip-XML to Roundtrip-Leiden
+        currentStep = "Roundtrip XML -> Leiden";
         const roundtripLeiden = await xsugarConvert(xsugarXml, "xml2nonxml", config.conversion);
         await fs.writeFile(txtFilePath, roundtripLeiden);
         console.log(`[${currentIndex}/${totalFiles}] Created ${txtFilePath}`);
@@ -310,7 +356,7 @@ async function processXmlFile(
 
     } catch (error) {
         console.error(`[${currentIndex}/${totalFiles}] Error processing ${txtFilePath}:`, error.stack, error.message);
-        await fs.writeFile(`${txtFilePath}.fail`, error.message);
+        await fs.writeFile(`${txtFilePath}.fail`, `${currentStep}: ${error.message}`);
     }
 }
 
