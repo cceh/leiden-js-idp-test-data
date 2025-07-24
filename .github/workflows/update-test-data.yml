@@ -20,6 +20,14 @@ jobs:
       DOCKER_BUILDKIT: 1
     
     steps:
+    - name: Cache git repository
+      uses: actions/cache@v4
+      with:
+        path: .git
+        key: git-${{ github.run_id }}
+        restore-keys: |
+          git-
+
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
@@ -38,13 +46,13 @@ jobs:
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v3
 
-    - name: Cache idp.data submodule
+    - name: Cache Docker layers
       uses: actions/cache@v4
       with:
-        path: idp.data
-        key: idp-data-${{ github.run_id }}
+        path: /tmp/.buildx-cache
+        key: ${{ runner.os }}-buildx-${{ hashFiles('docker-compose.yml') }}
         restore-keys: |
-          idp-data-
+          ${{ runner.os }}-buildx-
 
     - name: Check for idp.data submodule updates
       id: submodule_check
@@ -72,7 +80,15 @@ jobs:
 
     - name: Start XSugar container
       if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
-      run: npm run xsugar:up
+      run: |
+        export BUILDX_CACHE_FROM=type=local,src=/tmp/.buildx-cache
+        export BUILDX_CACHE_TO=type=local,dest=/tmp/.buildx-cache-new,mode=max
+        npm run xsugar:up
+        # Move cache for next run if it exists
+        if [ -d "/tmp/.buildx-cache-new" ]; then
+          rm -rf /tmp/.buildx-cache
+          mv /tmp/.buildx-cache-new /tmp/.buildx-cache
+        fi
 
     - name: Generate edition roundtrips
       if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
