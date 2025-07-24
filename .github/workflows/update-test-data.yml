@@ -8,6 +8,11 @@ on:
         required: false
         default: false
         type: boolean
+      force_trigger_tests:
+        description: 'Force trigger leiden-js tests (for testing)'
+        required: false
+        default: false
+        type: boolean
   schedule:
     # Check for updates every 6 hours
     - cron: '0 */6 * * *'
@@ -159,7 +164,7 @@ jobs:
         git push
 
     - name: Trigger leiden-js tests
-      if: steps.changes.outputs.has_test_data_changes == 'true'
+      if: steps.changes.outputs.has_test_data_changes == 'true' || inputs.force_trigger_tests == true
       run: |
         curl -X POST \
           -H "Accept: application/vnd.github.v3+json" \
