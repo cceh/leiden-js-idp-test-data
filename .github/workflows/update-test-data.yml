@@ -126,10 +126,18 @@ jobs:
         git add .
         if git diff --staged --quiet; then
           echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "has_test_data_changes=false" >> $GITHUB_OUTPUT
           echo "No changes to commit"
         else
           echo "has_changes=true" >> $GITHUB_OUTPUT
-          echo "Changes detected"
+          # Check if any actual test data files changed (not just state files)
+          if git diff --staged --name-only | grep -E '^roundtrips/' > /dev/null; then
+            echo "has_test_data_changes=true" >> $GITHUB_OUTPUT
+            echo "Test data files changed"
+          else
+            echo "has_test_data_changes=false" >> $GITHUB_OUTPUT
+            echo "Only non-test-data files changed (state files, submodule)"
+          fi
         fi
 
     - name: Commit and push changes
@@ -150,12 +158,23 @@ jobs:
         
         git push
 
+    - name: Trigger leiden-js tests
+      if: steps.changes.outputs.has_test_data_changes == 'true'
+      run: |
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.LEIDEN_JS_TRIGGER_TOKEN }}" \
+          https://api.github.com/repos/cceh/leiden-js/dispatches \
+          -d '{"event_type":"idp-test-data-updated","client_payload":{"commit":"${{ github.sha }}","test_data_commit":"'"$(cd idp.data && git rev-parse HEAD)"'"}}'
+
     - name: Summary
       run: |
         if [ "${{ steps.submodule_check.outputs.has_updates }}" = "false" ] && [ "${{ github.event_name }}" = "schedule" ]; then
           echo "ℹ️ No idp.data updates available"
+        elif [ "${{ steps.changes.outputs.has_test_data_changes }}" = "true" ]; then
+          echo "✅ Test data updated successfully and leiden-js notified"
         elif [ "${{ steps.changes.outputs.has_changes }}" = "true" ]; then
-          echo "✅ Test data updated successfully"
+          echo "✅ Repository updated (state files only, no test data changes)"
         else
           echo "ℹ️ No changes needed - test data is up to date"
         fi
