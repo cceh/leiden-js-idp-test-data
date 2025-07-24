@@ -166,11 +166,18 @@ jobs:
     - name: Trigger leiden-js tests
       if: steps.changes.outputs.has_test_data_changes == 'true' || inputs.force_trigger_tests == true
       run: |
-        curl -X POST \
+        SUBMODULE_COMMIT=$(cd idp.data && git rev-parse HEAD)
+        if curl --fail-with-body -X POST \
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.LEIDEN_JS_TRIGGER_TOKEN }}" \
+          -H "Content-Type: application/json" \
           https://api.github.com/repos/cceh/leiden-js/dispatches \
-          -d '{"event_type":"idp-test-data-updated","client_payload":{"commit":"${{ github.sha }}","test_data_commit":"'"$(cd idp.data && git rev-parse HEAD)"'"}}'
+          -d "{\"event_type\":\"idp-test-data-updated\",\"client_payload\":{\"commit\":\"${{ github.sha }}\",\"test_data_commit\":\"${SUBMODULE_COMMIT}\"}}"; then
+          echo "✅ Successfully triggered leiden-js tests"
+        else
+          echo "❌ Failed to trigger leiden-js tests"
+          exit 1
+        fi
 
     - name: Summary
       run: |
