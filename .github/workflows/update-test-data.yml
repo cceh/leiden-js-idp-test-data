@@ -24,7 +24,7 @@ jobs:
       uses: actions/cache@v4
       with:
         path: .git
-        key: git-${{ github.run_id }}
+        key: git-${{ github.sha }}
         restore-keys: |
           git-
 
