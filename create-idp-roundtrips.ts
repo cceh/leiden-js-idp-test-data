@@ -375,16 +375,15 @@ async function processFiles(configType: keyof typeof configs, retryFailures: boo
 
         if (totalFiles === 0) {
             console.log(`No files to process for ${configType}`);
-            return;
+        } else {
+            console.log(`Processing ${totalFiles} files for ${configType}`);
+            
+            for (let i = 0; i < xmlFiles.length; i++) {
+                await processXmlFile(xmlFiles[i], config, i + 1, totalFiles);
+            }
         }
 
-        console.log(`Processing ${totalFiles} files for ${configType}`);
-        
-        for (let i = 0; i < xmlFiles.length; i++) {
-            await processXmlFile(xmlFiles[i], config, i + 1, totalFiles);
-        }
-
-        // Update state file after successful processing
+        // Update state file after successful processing (even if no files were processed)
         await updateProcessedState(configType);
         console.log(`Processing complete for ${configType}`);
     } catch (error) {
