@@ -104,14 +104,21 @@ async function getLastProcessedCommit(configType: string): Promise<string | null
 async function updateProcessedState(configType: string): Promise<void> {
     try {
         const currentCommit = await getCurrentSubmoduleCommit();
-        const state: StateFile = {
-            lastProcessedCommit: currentCommit,
-            timestamp: new Date().toISOString()
-        };
+        const lastProcessedCommit = await getLastProcessedCommit(configType);
         
-        const stateFile = getStateFile(configType);
-        await fs.writeFile(stateFile, JSON.stringify(state, null, 2));
-        console.log(`Updated ${configType} state: processed commit ${currentCommit.substring(0, 8)}`);
+        // Only update if the processed commit has actually changed
+        if (lastProcessedCommit !== currentCommit) {
+            const state: StateFile = {
+                lastProcessedCommit: currentCommit,
+                timestamp: new Date().toISOString()
+            };
+            
+            const stateFile = getStateFile(configType);
+            await fs.writeFile(stateFile, JSON.stringify(state, null, 2));
+            console.log(`Updated ${configType} state: processed commit ${currentCommit.substring(0, 8)}`);
+        } else {
+            console.log(`${configType} state unchanged: already at commit ${currentCommit.substring(0, 8)}`);
+        }
     } catch (error) {
         console.warn(`Warning: Failed to update state file: ${error.message}`);
     }
