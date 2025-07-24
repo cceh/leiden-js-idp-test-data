@@ -81,14 +81,21 @@ jobs:
     - name: Start XSugar container
       if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
       run: |
-        export BUILDX_CACHE_FROM=type=local,src=/tmp/.buildx-cache
-        export BUILDX_CACHE_TO=type=local,dest=/tmp/.buildx-cache-new,mode=max
-        npm run xsugar:up
+        # Build with cache using docker buildx directly
+        docker buildx build \
+          --cache-from type=local,src=/tmp/.buildx-cache \
+          --cache-to type=local,dest=/tmp/.buildx-cache-new,mode=max \
+          --tag xsugar \
+          https://github.com/papyri/xsugar.git
+        
         # Move cache for next run if it exists
         if [ -d "/tmp/.buildx-cache-new" ]; then
           rm -rf /tmp/.buildx-cache
           mv /tmp/.buildx-cache-new /tmp/.buildx-cache
         fi
+        
+        # Start the container with compose
+        docker compose up --wait xsugar
 
     - name: Generate edition roundtrips
       if: steps.submodule_check.outputs.has_updates == 'true' || github.event_name == 'workflow_dispatch'
