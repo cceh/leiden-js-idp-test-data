@@ -15,11 +15,15 @@ on:
 jobs:
   update-test-data:
     runs-on: ubuntu-latest
+    env:
+      COMPOSE_DOCKER_CLI_BUILD: 1
+      DOCKER_BUILDKIT: 1
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        submodules: true
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup Node.js
@@ -31,13 +35,8 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Cache Docker images
-      uses: actions/cache@v4
-      with:
-        path: /tmp/.buildx-cache
-        key: ${{ runner.os }}-docker-${{ hashFiles('docker-compose.yml') }}
-        restore-keys: |
-          ${{ runner.os }}-docker-
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v3
 
     - name: Cache idp.data submodule
       uses: actions/cache@v4

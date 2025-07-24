@@ -55,6 +55,10 @@ async function getChangedFilesSince(lastCommit: string | null, config: typeof co
         };
     } else {
         // Get files changed since last commit with status
+        console.log(`Fetching latest processed commit ${lastCommit}...`);
+        const fetchResult = await execAsync(`cd idp.data && git fetch origin --depth 1 ${lastCommit}`);
+        console.log(fetchResult.stdout, fetchResult.stderr);
+        console.log("Getting changes...");
         const [addedResult, modifiedResult, deletedResult] = await Promise.all([
             execAsync(`cd idp.data && git diff --name-only --diff-filter=A ${lastCommit}..HEAD`),
             execAsync(`cd idp.data && git diff --name-only --diff-filter=M ${lastCommit}..HEAD`),
