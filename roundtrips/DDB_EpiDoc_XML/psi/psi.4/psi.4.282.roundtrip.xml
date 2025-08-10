@@ -1,17 +1,18 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ξω</unclear><gap reason="illegible" quantity="3" unit="character"/>ν<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="3"/>ς<gap reason="lost" quantity="5" unit="character"/> <unclear>Δ</unclear><supplied reason="lost">η</supplied>μητρία <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> παρε</supplied>
+    <lb n="3"/>σ<gap reason="lost" quantity="5" unit="character"/> <unclear>Δ</unclear><supplied reason="lost">η</supplied>μητρία <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> παρε</supplied>
 
     <lb n="4" break="no"/><unclear>γένοντο</unclear> οἱ δηλούμ<supplied reason="lost">ενοι </supplied><gap reason="lost" quantity="7" unit="character"/><supplied reason="lost"> <expan><ex>ἔτους</ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου Κομμόδου</supplied> 
 
     <lb n="5"/>Ἀντωνίνου Σε<unclear>β</unclear><supplied reason="lost">αστοῦ Ἀρμενιακοῦ Μηδικοῦ Παρθικοῦ Σαρματικοῦ Γερμανικοῦ μεγίστου,</supplied> 
 
-    <lb n="6"/>Σεβαστῇ <choice><reg cert="low"><supplied reason="omitted" cert="low">ἡ</supplied>μ<unclear>ε</unclear>ρᾳ</reg><orig>σεβαστημ<unclear>ε</unclear>ρᾳ</orig></choice> ἐπὶ <unclear>β</unclear><gap reason="lost" quantity="50" unit="character"/><supplied reason="lost"> ἀγορανό</supplied>
+    <lb n="6"/>Σεβαστῇ <supplied reason="omitted">ἡ</supplied>μ<unclear>έ</unclear>ρᾳ ἐπὶ <unclear>β</unclear><gap reason="lost" quantity="50" unit="character"/><supplied reason="lost"> ἀγορανό</supplied>
 
     <lb n="7" break="no"/><unclear>μος</unclear> αγορ<unclear>α</unclear><gap reason="lost" quantity="60" unit="character"/> 
 
@@ -73,4 +74,5 @@
 
     <lb n="36"/><expan><ex>ἔτει</ex></expan> <num value="23">κγ</num> <choice><reg>Αὐρηλίου</reg><orig>Αὐληρίου</orig></choice> <choice><reg>Κομμόδου</reg><orig>Κομόδου</orig></choice> <unclear>Ἀ</unclear><supplied reason="lost" cert="low">ντωνίνου Σεβαστοῦ</supplied>, 
 
-    <lb n="37"/><supplied reason="lost">Τ</supplied>ῦβι <num value="14">ιδ</num>. </ab></div>
+    <lb n="37"/><supplied reason="lost">Τ</supplied>ῦβι <num value="14">ιδ</num>. 
+</ab></div>
