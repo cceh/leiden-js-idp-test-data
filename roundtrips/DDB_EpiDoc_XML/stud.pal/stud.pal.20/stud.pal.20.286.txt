@@ -1,5 +1,7 @@
-<S=.grc<=
-    1. [.?]~|(|d|) quantum decimo (Kall(endas)) <:(easd(em))|reg|easdd:> duocene <:(r(a)ti(one)) <:(Baby(lonis))|reg|babe:>=BL 9.351|ed|stibale:> post (cons(ulatum)) (dom(ini)) 
+<S=.la
+<=
+    1. [.?](|d|) quantum decimo (Kall(endas)) (easd(em)) duocene <:(r(a)ti(one)) <:(Baby(lonis))|reg|babe:>=BL 9.351|ed|stibale:> post (cons(ulatum)) (dom(ini)) 
 (n(ostri)) honorii (p(erpetui)) (Aug(usti)) quater et 
 
-    2. E[utychia]ni (u(iri)) (c(larissimi)) (p(er)) Sergio actuario (i[nd(ictione)])[ xiv] |~la  =>
+    2. E[utychia]ni (u(iri)) (c(larissimi)) (p(er)) Sergio actuario (i[nd(ictione)]) <#[xiv]=14#>  
+=>
