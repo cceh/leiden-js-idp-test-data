@@ -1,5 +1,6 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/>ἔτους δευτέρου καὶ εἰκοστοῦ Αὐτοκράτορος Καίσαρος Τίτου 
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><del rend="cross-strokes">ἔτους δευτέρου καὶ εἰκοστοῦ Αὐτοκράτορος Καίσαρος Τίτου 
 
     <lb n="2"/>Αἰλί<unclear>ου</unclear> <unclear>Ἁ</unclear>δριανοῦ Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς μηνὸς 
 
@@ -21,11 +22,11 @@
 
     <lb n="11" break="no"/><supplied reason="lost">τῆς τὴ</supplied><unclear>ν</unclear> ὁμολογοῦσαν <unclear>χ</unclear>ρῆσιν διὰ χειρ<supplied reason="lost">ὸ</supplied>ς ἀργυρίου <expan>δρ<unclear>αχ</unclear><ex>μὰς</ex></expan> <num value="200"><unclear>σ</unclear></num> 
 
-    <lb n="12"/><supplied reason="lost">καὶ ἃς μεμ</supplied><unclear>έ</unclear>τρηκας διὰ Με<gap reason="lost" quantity="3" unit="character"/> πυροῦ ἀρτάβας τέσσαρας <num value="4"/> 
+    <lb n="12"/><supplied reason="lost">καὶ ἃς μεμ</supplied><unclear>έ</unclear>τρηκας διὰ Με<gap reason="lost" quantity="3" unit="character"/> πυροῦ ἀρτάβας <num value="4">τέσσαρας</num> 
 
-    <lb n="13"/><supplied reason="lost">μέτρῳ</supplied> δρόμων τετραχ<supplied reason="lost">οιν</supplied><unclear>ί</unclear>κῳ ὧν καὶ τὴν ἀπ<unclear>ό</unclear>δοσιν 
+    <lb n="13"/><supplied reason="lost">μέτρῳ</supplied> <app type="editorial"><lem resp="V. Iannace, ZPE 233 (2025) 201">δρόμῳ</lem><rdg>δρόμων</rdg></app> τετραχ<supplied reason="lost">οιν</supplied><unclear>ί</unclear>κῳ ὧν καὶ τὴν ἀπ<unclear>ό</unclear>δοσιν 
 
-    <lb n="14"/><supplied reason="lost">ἐπάναγκ</supplied><unclear>ον</unclear> ποιήσασθαι <supplied reason="lost">τὴν ὁ</supplied><unclear>μ</unclear>ολογοῦσαν ἐν μηνὶ Παῦνι 
+    <lb n="14"/><supplied reason="lost">ἐπάναγκ</supplied><unclear>ον</unclear> <app type="editorial"><lem resp="BL 8.103">ποιησάσθω <supplied reason="lost">ἡ ὁ</supplied>μολογοῦσα</lem><rdg>ποιήσασθαι <supplied reason="lost">τὴν ὁ</supplied><unclear>μ</unclear>ολογοῦσαν</rdg></app> ἐν μηνὶ Παῦνι 
 
     <lb n="15"/><supplied reason="lost">τοῦ ἐνεσ</supplied>τῶτος ἔτους <unclear>ἀ</unclear>ν<supplied reason="lost">υπε</supplied>ρθέτως γ<unclear>ε</unclear>ινομένης τῇ 
 
@@ -35,4 +36,5 @@
 
     <lb n="18"/><gap reason="lost" quantity="12" unit="character"/>αμ<unclear>μ</unclear><gap reason="lost" quantity="10" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ετω</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="7" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>αν</unclear> 
 
-    <lb n="19"/><gap reason="lost" quantity="12" unit="character"/>ρου<gap reason="lost" quantity="11" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> </ab></div>
+    <lb n="19"/><gap reason="lost" quantity="12" unit="character"/>ρου<gap reason="lost" quantity="11" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> </del>
+</ab></div>
