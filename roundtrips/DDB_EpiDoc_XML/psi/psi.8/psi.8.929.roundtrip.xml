@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>ἔτους <expan>πεντεκ<ex>αι</ex></expan>δεκ<supplied reason="lost">άτ</supplied>ου <supplied reason="lost">Αὐ</supplied>τοκρ<supplied reason="lost">άτορος</supplied> 
 
     <lb n="2"/><expan>Κ<ex>αί</ex>σαρος</expan> Νέ<unclear>ρ</unclear>ουα Τρα<unclear>ιανοῦ</unclear> <unclear>Σεβ</unclear>ασ<unclear>τοῦ</unclear> 
@@ -11,9 +12,9 @@
 
     <lb n="6"/>ὁμολογεῖ Νέων Πεθέως <unclear>Πέρσης</unclear> 
 
-    <lb n="7"/>τῆς ἐπιγονῆς ὡς ἐτ<unclear>ῶν</unclear> <unclear>τ</unclear><supplied reason="lost">εσσαρακοντα</supplied>
+    <lb n="7"/>τῆς ἐπιγονῆς ὡς ἐτ<unclear>ῶν</unclear> <num value="45"><unclear>τ</unclear><supplied reason="lost">εσσαρακοντα</supplied>
 
-    <lb n="8" break="no"/>πέντε <num value="45"/> <choice><reg>οὐλὴ</reg><orig>οὐληι</orig></choice> ἀντικνη<unclear>μί</unclear><supplied reason="lost">ωι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="8" break="no"/>πέντε</num> <choice><reg>οὐλὴ</reg><orig>οὐληι</orig></choice> ἀντικνη<unclear>μί</unclear><supplied reason="lost">ωι </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="9"/>Πεθεῖ Χαιρήμονος ὡς ἐτ<supplied reason="lost">ῶν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
@@ -21,7 +22,7 @@
 
     <lb n="11"/>παρʼ αὐτοῦ χρῆσιν <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan><ex>ἀρταβῶν</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> μέτρωι</supplied> 
 
-    <lb n="12"/>δρόμω<unclear>ν</unclear> <supplied reason="lost">τετρ</supplied>αχοιν<supplied reason="lost">ίκω</supplied>ι <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
+    <lb n="12"/><app type="editorial"><lem resp="V. Iannace, ZPE 233 (2025) 201">δρόμω<unclear>ι</unclear></lem><rdg>δρόμω<unclear>ν</unclear></rdg></app> <supplied reason="lost">τετρ</supplied>αχοιν<supplied reason="lost">ίκω</supplied>ι <gap reason="illegible" quantity="10" unit="character"/> 
 
     <lb n="13"/>τ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="10" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
 
@@ -65,9 +66,9 @@
 
     <lb n="33"/><supplied reason="lost">χωρὶς</supplied> ἄλλων ὧν <choice><reg>ὀφείλω</reg><orig>ὀφίλωι</orig></choice> <unclear>τῶι</unclear> <unclear>Πε</unclear>θεῖ <supplied reason="lost">ὡς</supplied> 
 
-    <lb n="34"/><supplied reason="lost"><expan>πρόκ<ex>ειται</ex></expan></supplied>. ἔγραψεν ὑπὲρ <unclear>αὐτοῦ</unclear> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="34"/><supplied reason="lost"><expan>πρόκ<ex>ειται</ex></expan></supplied>. ἔγραψεν ὑπὲρ <unclear>αὐτοῦ</unclear> <gap reason="illegible" quantity="5" unit="character"/> 
 
-    <lb n="35"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> Ἥρωνο<supplied reason="lost">ς διὰ</supplied> τὸ μὴ εἰδέναι 
+    <lb n="35"/><gap reason="illegible" quantity="5" unit="character"/> Ἥρωνο<supplied reason="lost">ς διὰ</supplied> τὸ μὴ εἰδέναι 
 
     <lb n="36"/>αὐτὸν γράμματα. 
 
@@ -75,4 +76,5 @@
 
     <lb n="38"/>ἡ <choice><reg>ὁμολογία</reg><orig>ὁμολογεία</orig></choice> καθὼς <unclear>πρ</unclear>όκειται. 
 
-    <lb n="39"/><handShift new="m4"/> πεντεκαιδεκάτῳ <expan><ex>ἔτει</ex></expan> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan><unclear>γραφεί</unclear><ex>ου</ex></expan> </ab></div>
+    <lb n="39"/><handShift new="m4"/> πεντεκαιδεκάτῳ <expan><ex>ἔτει</ex></expan> <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> <expan><unclear>γραφεί</unclear><ex>ου</ex></expan> 
+</ab></div>
