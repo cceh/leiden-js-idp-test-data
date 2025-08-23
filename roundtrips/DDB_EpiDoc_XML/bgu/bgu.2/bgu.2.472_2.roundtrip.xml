@@ -1,5 +1,6 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="2" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="2" subtype="column" type="textpart">
+<div n="r" type="textpart"><ab>
     <lb n="1"/><handShift new="m2"/> ἔτους τετάρ<supplied reason="lost">του Αὐ</supplied>τοκρ<supplied reason="lost">ά</supplied>τορος 
 
     <lb n="2"/>Καίσαρο<supplied reason="lost">ς</supplied> Τίτου Αἰ<supplied reason="lost">λί</supplied>ου Ἁδριανοῦ 
@@ -33,11 +34,11 @@
     <lb n="16"/>τετρ<supplied reason="lost">ακοσίας ὀ</supplied>κτὼ <num value="408"/> καὶ μηδὲν αὐτὴν ἐνκαλε<supplied reason="lost">ῖν</supplied> 
 
     <lb n="17"/><gap reason="lost" extent="unknown" unit="line"/> 
-
-</ab></div><div n="v" type="textpart"><ab>
-</ab></div><div n="2" type="textpart"><ab>
-
-    <lb n="1"/>Ἀπο<unclear>λ</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>α<gap reason="illegible" quantity="3" unit="character"/><unclear>σα</unclear><gap reason="illegible" quantity="3" unit="character"/>τα </ab></div>
+</ab></div>
+</div>
+<div n="v" type="textpart"><ab>
+    <lb n="1"/>Ἀπο<unclear>λ</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>α<gap reason="illegible" quantity="3" unit="character"/><unclear>σα</unclear><gap reason="illegible" quantity="3" unit="character"/>τα 
+</ab></div>
 
 
     </div>
