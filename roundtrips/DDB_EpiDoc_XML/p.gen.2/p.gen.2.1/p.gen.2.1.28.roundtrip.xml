@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><supplied reason="lost">Οὐεγέτωι τ</supplied>ῶ<unclear>ι</unclear> <unclear>καὶ</unclear> Σαραπ<unclear>ί</unclear>ω<unclear>νι</unclear>
 
     <lb n="2"/><supplied reason="lost">στρατηγῶι</supplied> <expan>Ἀρ<unclear>σ</unclear><ex>ινοείτου</ex></expan> <expan><unclear>Ἡρ</unclear>ακ<ex>λείδου</ex></expan> μερίδο<supplied reason="lost">ς</supplied>
@@ -23,9 +24,9 @@
 
     <lb n="12"/>πυ<unclear>ρ</unclear>όν, καὶ λαβ<unclear>ὼ</unclear>ν παρʼ ἡ
 
-    <lb n="13" break="no"/>μῶν ἀργυρίου δραχμὰς τρια
+    <lb n="13" break="no"/>μῶν ἀργυρίου δραχμὰς <num value="300">τρια
 
-    <lb n="14" break="no"/>κοσίας <num value="300"/> εἰ<unclear>ς</unclear> τὴν <unclear>τοῦ</unclear> πυροῦ τι
+    <lb n="14" break="no"/>κοσίας</num> εἰ<unclear>ς</unclear> τὴν <unclear>τοῦ</unclear> πυροῦ τι
 
     <lb n="15" break="no"/>μὴν ὡς <choice><reg>δοῦναι</reg><orig>δῶναι</orig></choice> τῷ πατρὶ αὐ
 
@@ -53,10 +54,11 @@
 
     <lb n="27"/><unclear>ἵν</unclear>ʼ ὦμεν ὑπὸ <unclear>σ</unclear>οῦ <expan>βεβοηθήμε<ex>νοι</ex></expan>.
 
-    <lb n="28"/><handShift new="m2"/>Στοτοῆτις <expan><ex>ἐτῶν</ex></expan> <num value="28">κη</num> <expan>ο<ex>ὐλὴ</ex></expan> <expan>μήλ<ex>ῳ</ex></expan> <expan>ἀρ<unclear>ισ</unclear><ex>τερῷ</ex></expan>
+    <lb n="28"/><handShift new="m2"/>Στοτοῆτις <expan><ex>ἐτῶν</ex></expan> <num value="28">κη</num> <expan>ο<ex>ὐλὴ</ex></expan> <expan>μήλ<ex>ῳ</ex></expan> <app type="editorial"><lem resp="V. Iannace, ZPE 233 (2025) 203"><expan>ἀριστ<ex>ερῷ</ex></expan></lem><rdg><expan>ἀρ<unclear>ισ</unclear><ex>τερῷ</ex></expan></rdg></app>
 
     <lb n="29"/>Πανούπιος <expan><ex>ἐτῶν</ex></expan> <num value="25">κε</num> <expan>ἄση<ex>μος</ex></expan>
 
     <lb n="30"/><expan><ex>ἔτους</ex></expan> <num value="22">κ<unclear>β</unclear></num> Αὐτοκράτορος Καίσαρος <expan>Τραι<ex>ανοῦ</ex></expan>
 
-    <lb n="31"/>Ἁδριανοῦ, Φαῶφι <num value="24">κδ</num>.</ab></div>
+    <lb n="31"/>Ἁδριανοῦ, Φαῶφι <num value="24">κδ</num>.
+</ab></div>
