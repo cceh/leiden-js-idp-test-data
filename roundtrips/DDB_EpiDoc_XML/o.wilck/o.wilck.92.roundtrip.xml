@@ -1,18 +1,20 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/><expan>Ἀμμώνιο<ex>ς</ex></expan> καὶ <expan>Πετορζμῆ<ex>θις</ex></expan> <supplied reason="lost">πράκτορες <expan>ἀργ<ex>υρικῆς</ex></expan> <expan>Σοή<ex>νης</ex></expan></supplied>. 
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><expan>Ἀμμώνιο<ex>ς</ex></expan> καὶ <expan>Πετορζμῆ<ex>θις</ex></expan> <supplied reason="lost"><expan>πράκ<ex>τορες</ex></expan> <expan>ἀργ<ex>υρικῶν</ex></expan> <expan>Σοή<ex>νης</ex></expan></supplied>. 
 
-    <lb n="2"/>διέγραψεν <expan>Ζμ<ex>ῆ</ex></expan>τ<supplied reason="lost">ις </supplied><gap reason="lost" quantity="9" unit="character"/> 
+    <lb n="2"/>διέγραψεν Ζμετ<supplied reason="lost">πῶς Ἁρπαήσεως</supplied> 
 
-    <lb n="3"/><expan>μη<ex>τρὸς</ex></expan> Σεντιθοήους<supplied reason="lost"> ὑπὲρ</supplied> 
+    <lb n="3"/><expan>μη<ex>τρὸς</ex></expan> Σεντιθοήους <supplied reason="lost">Δακ</supplied><unclear>ικ</unclear>οῦ ποταμοῦ καὶ
 
-    <lb n="4"/><expan>μισθ<ex>οῦ</ex></expan> <expan>ποτ<ex>α</ex>μοφυλ<ex>ακίδος</ex></expan> <supplied reason="lost"><num value="17">ιζ</num> <expan><ex>ἔτους</ex></expan> Τραιανοῦ</supplied> 
+    <lb n="4"/><expan>μισθ<ex>οῦ</ex></expan> <expan>ποταμοφυλ<ex>ακίδος</ex></expan> <num value="17">ιζ</num> <expan><ex>ἔτους</ex></expan> Τραιανοῦ Καίσαρος  
 
-    <lb n="5"/>τοῦ κυρίου <expan>ἀργ<ex>υρίου</ex></expan> <expan>δραχ<ex>μὰς</ex></expan> <gap reason="lost" quantity="7" unit="character"/> 
+    <lb n="5"/>τοῦ κυρίου <expan>ἀργ<ex>υρίου</ex></expan> <expan>δραχ<ex>μὰς</ex></expan> <unclear>ἓ</unclear>ξ <unclear>ὀ</unclear>β<unclear>ο</unclear>λοὺς πέντε, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="6">ϛ</num> <num value="5"><expan><ex>πεντώβολον</ex></expan></num>. 
 
-    <lb n="6"/><expan><ex>ἔτους</ex></expan> <num value="17">ιζ</num> Τραιαν<supplied reason="lost">οῦ </supplied><gap reason="lost" quantity="6" unit="character"/> 
+    <lb n="6"/><expan><ex>ἔτους</ex></expan> <num value="17">ιζ</num> Τραιανοῦ <supplied reason="lost">Κ</supplied><unclear>αίσαρος</unclear> τ<unclear>οῦ</unclear> <unclear>κυρ</unclear><supplied reason="lost">ίου</supplied> 
 
-    <lb n="7"/><handShift new="m2"/> Νιγρεῖνος σε<supplied reason="lost">σημείωμαι</supplied> 
+    <lb n="7" rend="indent"/>Φα<unclear>μενωθ</unclear> <num value="25"><hi rend="supraline"><unclear>κε</unclear></hi></num>.
 
-    <lb n="8"/><handShift new="m3"/> Παχομπ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> σεσημείω</supplied>
+    <lb n="8"/><handShift new="m2"/> <choice><reg>Νιγρῖνος</reg><orig>Νιγρεῖνος</orig></choice> <choice><reg>σεσημείωμαι</reg><orig>σεσημίωμαι</orig></choice>. 
 
-    <lb n="9" break="no"/>μαι. </ab></div>
+    <lb n="9"/><handShift new="m3"/> Παχομπ<unclear>ρ</unclear>ῆτις <choice><reg>σεσημείω<lb n="10" break="no"/>μαι</reg><orig>σεσυμίω<lb n="10" break="no"/>μαι</orig></choice>. 
+</ab></div>
