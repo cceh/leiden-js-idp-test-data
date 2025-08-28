@@ -1,4 +1,6 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1" rend="outdent"/>β<unclear>ασ</unclear>ιλ<supplied reason="lost">εύ</supplied>οντος Πτολεμαίου τοῦ Πτολεμαίου καὶ Κλεοπάτρας θεῶ<supplied reason="lost">ν</supplied> Ἐπιφανῶν
 
     <lb n="2"/><unclear>ἔ</unclear><supplied reason="lost">τους</supplied> <unclear>ὀγ</unclear>δόο<supplied reason="lost">υ</supplied> ἐφʼ ἱερέως Ἡρακλεοδώρου τοῦ Ἀπολλοφάνου Ἀλεξάν<supplied reason="lost">ρ</supplied>ου καὶ θεῶν 
 
@@ -20,13 +22,13 @@
 
     <lb n="11" break="no"/>τέρ<supplied reason="lost">α</supplied>ς ἱππαρχίας ἑκαντοντ<supplied reason="lost">α</supplied>ρούρωι <supplied reason="lost">εἶναι</supplied> γυναῖκα γαμετὴν φερνὴν 
 
-    <lb n="12"/>π<supplied reason="lost">ρ</supplied>οσφερομένην εἰς χ<supplied reason="lost">αλκοῦ</supplied> λόγον τάλαντα ἐνενήκοντα πέντε <num value="95"/> 
+    <lb n="12"/>π<supplied reason="lost">ρ</supplied>οσφερομένην εἰς χ<supplied reason="lost">αλκοῦ</supplied> λόγον τάλαντα <num value="95">ἐνενήκοντα πέντε</num> 
 
     <lb n="13"/>καὶ παιδίσκην δο<supplied reason="lost" cert="low">ύλην</supplied><supplied reason="lost"> αὐτῆς</supplied> ἧι ὄνομα Στολὶς καὶ τὸ ταύτης παιδίον ὑπο
 
-    <lb n="14" break="no"/>τίτθιον ἧι ὄνομα <app type="editorial"><lem resp="BL 9.92"><unclear>Α</unclear><gap reason="lost" quantity="9" unit="character"/></lem><rdg><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> σὺν</supplied></rdg></app> χαλκοῦ ταλάντοις πέντε <num value="5"/> ὥστʼ εἶναι τὰ π<unclear>ά</unclear>ν
+    <lb n="14" break="no"/>τίτθιον ἧι ὄνομα <app type="editorial"><lem resp="BL 9.92"><unclear>Α</unclear><gap reason="lost" quantity="9" unit="character"/></lem><rdg><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> σὺν</supplied></rdg></app> χαλκοῦ ταλάντοις <num value="5">πέντε</num> ὥστʼ εἶναι τὰ π<unclear>ά</unclear>ν
 
-    <lb n="15" break="no"/>τα χαλκοῦ τάλαν<supplied reason="lost">τα ἑκατόν</supplied> <num value="100"/>. ἔστω <supplied reason="lost">δὲ Ὀλ</supplied>υμπιὰς παρὰ Ἀνταίωι πειθαρ
+    <lb n="15" break="no"/>τα χαλκοῦ τάλαν<supplied reason="lost">τα</supplied> <num value="100"><supplied reason="lost">ἑκατόν</supplied></num>. ἔστω <supplied reason="lost">δὲ Ὀλ</supplied>υμπιὰς παρὰ Ἀνταίωι πειθαρ
 
     <lb n="16" break="no"/>χοῦσα αὐτοῦ ὡς π<supplied reason="lost">ροσῆκόν ἐστιν γυναῖκα ἀ</supplied>νδρὶ κυριεύουσα μετʼ αὐτοῦ 
 
@@ -55,8 +57,8 @@
     <lb n="28"/><supplied reason="lost">ἀφήμερον γίνεσθαι ἀπὸ τῆς Ἀνταίου οἰκίας ἄνευ τῆς Ἀνταίου γ</supplied><unclear>νώ</unclear><supplied reason="lost">μης</supplied> 
 
     <lb n="29"/><gap reason="lost" extent="unknown" unit="line"/> 
-</ab></div><div n="2" type="textpart"><ab>
-
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
     <lb n="1"/><handShift new="m2"/> Ἀπολλώνιος Μακεδὼν τῶν 
 
     <lb n="2"/>Κινέου τῆς δευτέρας ἱππαρ
@@ -65,13 +67,13 @@
 
     <lb n="4"/>Φίλιος Μακεδών, <app type="editorial"><lem resp="BL 7.59; cf. 1.168">Δημοκρατίδης</lem><rdg>Δημοκρατί<unclear>ω</unclear>ν</rdg></app> 
 
-    <lb n="5"/>Θεσσαλὸς οἱ δύο <num value="2"/> τῶν Κινέου 
+    <lb n="5"/>Θεσσαλὸς οἱ <num value="2">δύο</num> τῶν Κινέου 
 
     <lb n="6"/>τῆς δευτέρας ἱππαρχίας, 
 
     <lb n="7"/>Διογένης Κυρηναῖος τῶν 
 
-    <lb n="8"/>Διοδώρου τῆς <num value="1">α</num> <app type="editorial"><lem><expan>ἱπ<ex>παρχίας</ex></expan></lem><rdg><expan><unclear>ἱπ</unclear><supplied reason="lost">π<ex>αρχίας</ex></supplied></expan></rdg></app> οἱ τρεῖς <num value="3"/> 
+    <lb n="8"/>Διοδώρου τῆς <num value="1">α</num> <app type="editorial"><lem><expan>ἱπ<ex>παρχίας</ex></expan></lem><rdg><expan><unclear>ἱπ</unclear><supplied reason="lost">π<ex>αρχίας</ex></supplied></expan></rdg></app> οἱ <num value="3">τρεῖς</num> 
 
     <lb n="9"/>ἑκατοντάρουροι, Μηνόφιλ<supplied reason="lost">ο</supplied>ς 
 
@@ -83,4 +85,5 @@
 
     <lb n="13"/>Σαραπίων Ζωπύρου 
 
-    <lb n="14"/>Πέρσης οἱ δύο <num value="2"/> τῆς ἐπιγονῆς. </ab></div></div>
+    <lb n="14"/>Πέρσης οἱ <num value="2">δύο</num> τῆς ἐπιγονῆς. 
+</ab></div></div>
