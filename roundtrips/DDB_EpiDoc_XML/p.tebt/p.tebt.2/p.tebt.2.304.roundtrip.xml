@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>Λογγίνῳ <subst><add place="inline">δεκαδάρχῃ</add><del rend="corrected">δεκαταρχη</del></subst> <choice><reg>Ἀρσινοίτου</reg><orig>Ἀρσινω<hi rend="diaeresis">ί</hi>του</orig></choice> 
 
     <lb n="2"/>παρὰ Πακήβκις Ὀννώφρεως ἀπὸ 
@@ -19,22 +20,19 @@
 
     <lb n="10" break="no"/>τε μετὰ ξύλων <choice><reg>εἰσπηδῆσαι</reg><orig><hi rend="diaeresis">ἰ</hi>σπηδῆσαι</orig></choice> καὶ τὸν 
 
-    <lb n="11"/>ἀδελφόν μου <choice><reg>Ὀννῶφριν</reg><orig>Ὀννωφρις</orig></choice>
-<choice><reg>συλλαβόν<lb n="12" break="no"/>τες</reg><orig>συλαβόν<lb n="12" break="no"/>τες</orig></choice> <choice><reg>τραυματιαῖον</reg><orig>τραυματιαῖων</orig></choice> ἐποίησαν 
+    <lb n="11"/>ἀδελφόν μου <choice><reg>Ὀννῶφριν</reg><orig>Ὀννῶφρις</orig></choice> <choice><reg>συλλαβόν<lb n="12" break="no"/>τες</reg><orig>συλαβόν<lb n="12" break="no"/>τες</orig></choice> <choice><reg>τραυματιαῖον</reg><orig>τραυματιαιων</orig></choice> ἐποίησαν 
 
     <lb n="13"/>ὡς ἐκ τούτου τῷ ζῆν κινδυνεύ
 
     <lb n="14" break="no"/>ειν. ὅθεν, κύριε, εὐλαβῶς ἔχων τὸν 
 
-    <lb n="15"/>περὶ τοῦ <choice><reg>θανάτου</reg><orig>θαναθανάτου</orig></choice>αὐτοῦ 
-<choice><reg>κιν<lb n="16" break="no"/>δυνον</reg><orig>κιν<lb n="16" break="no"/>τυνων</orig></choice> <choice><reg>ἐπιδίδωμι</reg><orig>ἐπειτιμι</orig></choice>καὶ ἀξιῶ 
-<choice><reg>κελεῦ<lb n="17" break="no"/>σαι</reg><orig>καιλευ<lb n="17" break="no"/><unclear>σε</unclear>ται</orig></choice> ἀχθῆναι αὐτὸν ἐπὶ σὲ <choice><reg><supplied reason="omitted">ὥστε</supplied></reg><orig>προς</orig></choice> 
+    <lb n="15"/>περὶ τοῦ <choice><reg>θανάτου</reg><orig>θαναθανάτου</orig></choice> αὐτοῦ <choice><reg>κιν<lb n="16" break="no"/>δυνον</reg><orig>κιν<lb n="16" break="no"/>τυνων</orig></choice> <choice><reg>ἐπιδίδωμι</reg><orig>ἐπειτιμι</orig></choice>καὶ ἀξιῶ <choice><reg>κελεῦ<lb n="17" break="no"/>σαι</reg><orig>καιλεύ<lb n="17" break="no"/><unclear>σε</unclear>ται</orig></choice> ἀχθῆναι αὐτὸν ἐπὶ σὲ <app type="editorial"><lem resp="BL 1.426">πρὸς
 
-    <lb n="18"/>τὸ τὸ ἀκόλουθον γείνεσθαι 
+    <lb n="18"/>τὸ τὸ</lem><rdg><choice><corr>ὥστε</corr><sic>πρὸς</sic></choice> <lb n="18"/>τὸ <surplus>το</surplus></rdg></app> ἀκόλουθον γείνεσθαι 
 
     <lb n="19"/>καὶ τυχεῖν με τῆς δεούσης 
 
-    <lb n="20"/>ἐγδικίας. 
+    <lb n="20"/><choice><reg>ἐκδικίας</reg><orig>ἐγδικίας</orig></choice>. 
 
     <lb n="21"/>ἔτους <num value="8">η</num> Ἀντωνίνου καὶ Οὐήρου 
 
@@ -42,4 +40,5 @@
 
     <lb n="23" break="no"/>ακῶν <choice><reg>Μηδικῶν</reg><orig>Μητικῶν</orig></choice> <choice><reg>Παρθικῶν</reg><orig>Παρτικῶν</orig></choice> 
 
-    <lb n="24"/>Μεγίστων. </ab></div>
+    <lb n="24"/>Μεγίστων. 
+</ab></div>
