@@ -1,0 +1,392 @@
+
+         <T=.de
+            <D=.1.column 
+               <=
+                   /*This translation was created by Birgit Breuer, Holger Essler, Max Gräf, Johannes Kern, and Michaela Luiz in the context and aftermath 
+                    of a class on Demetrius Laco taught at Würzburg in the summer of 2017.*/
+                  … ((1))Epikur setzte in den als „Kyriai“ betitelten Lehrsprüchen (δόξαι) … ((3))die Entfernung des Schmerzenden, … ((5))gemäß diesem … 
+                  ((6))die Freude als Lebensziel … ((7))sagen … ((8))ist dieses … ((9))absurdeste … ((10))das … Ziel … ((11))der guten … ((16))ist …
+               =>
+            =D>
+            <D=.3.column 
+               <=
+                  … ((7))irgendwelche … ((8))ist … ((9))das durch …
+               =>
+            =D>
+            <D=.5.column 
+               <=
+                  … ((13))zwar ich zumindest …
+               =>
+            =D>
+            <D=.6.column 
+               <=
+                  … ((2))alles halten sie für richtig. Aber die primären Naturen setzte Epikur fest und er sagte, dass die, die alles als unterschiedslos ansehen, verwirrt seien. 
+                  Denn es ist klar, dass diejenigen unerfahren waren, die solche Dinge sagten und behaupteten, alles bestehe aus gleichen Teilen … ((11))unterschiedslos …
+               =>
+            =D>
+            <D=.7.column 
+               <=
+                  … ((2))sagen wir und … ((3))haben, weil … ((4))hat die … ((5))sagen … ((6))Würfel … ((7))und bei …
+               =>
+            =D>
+            <D=.8.column 
+               <=
+                  … ((9))sind …
+               =>
+            =D>
+            <D=.10.column 
+               <=
+                  … ((12))Notwendigkeit …
+               =>
+            =D>
+            <D=.11.column 
+               <=
+                  … ((4))setzte … ((5))Schrift …
+               =>
+            =D>
+            <D=.12.column 
+               <=
+                  … ((15))unwillig …
+               =>
+            =D>
+            <D=.14.column 
+               <=
+                  … ((20))sagen wir … ((22))Epikur bezeichnet …
+               =>
+            =D>
+            <D=.15.column 
+               <=
+                  … ((1))die primäre Naturen nicht gemäß ihrer Gestalt, sondern gemäß ihrer Art als unendlich, sodass nicht alle Formen, 
+                  die es im Bereich des Wahrnehmbaren gibt, primäre Formen sind, sondern nur die zusammenhängenden; aber die …
+               =>
+            =D>
+            <D=.17.column 
+               <=
+                  … ((1))denn … ((2))die Naturen … ((7))der Fehler …
+               =>
+            =D>
+            <D=.18.column 
+               <=
+                 … ((11))wurde eine Absurdität geschrieben … ((12))geschrieben auf folgende Weise: „In diesen Fällen ist Nasenbluten etwas Tödliches, besonders am vierten Tag“, 
+                  danach aber … ((17))„Wer am Anfang der Krankheit steht, für den ist sehr roter, dünner Stuhlgang ein schlechtes Zeichen“, denn wenn man „Wer am Anfang steht“ verschiebt ...
+                  und bis „besonders am vierten Tag“ …
+               =>
+            =D>
+            <D=.20.column 
+               <=
+                  … ((1))auf diese Weise ist bei Euripides schließlich ein Fehler entstanden im Lied des Phrygers? Dieser sagt im Orest: „Ilion, Ilion, wehe mir, solche Übel, 
+                  phrygische Stadt und heiliges Idagebirge mit schönem fruchtbaren Boden, wie ich deinen Untergang beklage mit barbarischem Geschrei.“ Erneut … ((19))Barbar…
+               =>
+            =D>
+            <D=.21.column 
+               <=
+                  … ((1))Der Ausdruck wird folgendermaßen angegeben: „Nachdem sie eine wildwachsende, abführende Gurke gegessen hat.“ Eine schlechte Verbesserung 
+                  verursacht Schreibfehler: denn auf diese Weise … ((6))eine Erzählung der Philosophen … durch diese Reden …
+               =>
+            =D>
+            <D=.22.column 
+               <=
+                  … ((2))aber auch der Grammatiker Aristophanes fand diesen Ausdruck bei Aischylos in der Semele: „Neugeborene aus dem Oberschenkel …“. ((7))Denn in der Lende …
+               =>
+            =D>
+            <D=.23.column 
+               <=
+                  … ((1))wobei der Empiriker Apollonios nicht wusste, was denn der Sinn davon sein sollte. Und dies erweist sich, wenn er weiter hinten in etwa sagt: „Auch im Spätherbst 
+                  nehmen die Blätter, wenn sie austrocknen, in etwa … die Gestalt von Krähenfüßen an.“ … ((9))ohne zu sehen … ((10))austrocknend …
+               =>
+            =D>
+            <D=.24.column 
+               <=
+                  … ((10))Kronos … ((11))Name …
+               =>
+            =D>
+            <D=.25.column 
+               <=
+                  … ((1))beim Berichtigen mit Blick auf fehlerhafte Vorlagen. Eine Stelle aber … der Schreibfehler und … Auf diese Weise verdrehten die Grammatiker auch eine Stelle
+                  von diesen … ((8))Fehler …
+               =>
+            =D>
+            <D=.26.column 
+               <=
+                  … ((17))Achill … Homer …
+               =>
+            =D>
+            <D=.28.column 
+               <=
+                  … ((7))des Kosmos …
+               =>
+            =D>
+            <D=.29.column 
+               <=
+                  … ((5))Wunder …((6))Gunst und der …
+               =>
+            =D>
+            <D=.31.column 
+               <=
+                  … ((1))aus diesen epischen Versen ergibt sich eine solche Art von Zweideutigkeit: „Nastes und Amphimachos, die herrlichen Kinder des Nomeionos, der, obwohl er Gold hatte, sie 
+                  in den Krieg schickte.“ Auch diese Zweideutigkeiten der zitierten Wörter könnte man wohl lösen, wenn man Schreibfehler bei Epikur finden kann. 
+                  Und beginnend mit dem ersten untersucht er alle Kopien … ((16)) der Schrift
+               =>
+            =D>
+            <D=.32.column 
+               <=
+                  … ((1))indem sie das Wort ἔλπισμα zu ἐνκατέλπισμα ändern und die Verbindung περὶ ταύτης zu περὶ τούτου … wobei sie sich ärgern …
+               =>
+            =D>
+            <D=.33.column 
+               <=
+                  … ((4))bewahrt habend … ((7))diese Schrift … ((9))Freude… ((12))durch die …. ((13))derjenige, der vorbereitet …
+               =>
+            =D>
+            <D=.34.column 
+               <=
+                  … ((1))wobei eine Verzerrung des Wortes eintreten kann. Auch wenn man die Zeichen der Interpunktion in den Texten der Abschriften durchgeht, ist es möglich, Schreibfehler 
+                  zu finden, die in den epikureischen Schriften vorliegen, wie auch …
+               =>
+            =D>
+            <D=.35.column 
+               <=
+                  … ((1))sind Synonyme. Wie gesagt, ist ihre Zusammensetzung in etwa ähnlich wie „Wurm-Wurm“ … Und zunächst haben sie nicht gesehen, dass er (sc. Epikur) wahrscheinlich 
+                  über irgendwelche unempfindlichen Dinge spricht und dabei auch die hiermit vergleichbare Unempfindlichkeit des Leichnams selbst verdeutlicht: Zusammengesetzt … eines Sophisten …
+                   irgendwelche der … einen Wurm …
+               =>
+            =D>
+            <D=.36.column 
+               <=
+                  … ((1))man sagt, dass das „diejenigen, die tanzen werden“ kein Pleonasmus sei: Denn die Sikinnis ist eine Form des Tanzes in der Komödie. Infolgedessen wollte Sophokles die Gattung durch die Form sichtbar 
+                  machen und schrieb folgendes: „Dann fand ich zum Trinken einen fließenden (Strom ?) …“ Und will dies jemand weglassen? Es ist klar: Zuerst schrieb er das „fließend“, dann auch das … 
+                  Dass beim Tragödiendichter ein Schreibfehler vorkommt, sagt einer freilich …
+               =>
+            =D>
+            <D=.37.column 
+               <=
+                  … ((1))war … aber ein gewisser Philoteimos widerlegte es und sagt, dass Epikur in „Über Krankheiten und Tod“ dies zu dem Unähnlichen rechnet, die Maden und die Würmer, und daraus 
+                   will er offensichtlich machen, dass Epikur das Synonym nicht kannte … Epikur selbst ist … und folgt dem nicht, ganz so wie es nach jenem entstand, gebraucht er dieses Synonym …
+               =>
+            =D>
+            <D=.38.column 
+               <=
+                  … ((1))das Beseitigen alles Schmerzenden.“ Das „alles“ unterscheidet sich je nach Kopie, in manchen ist ein „alles“ hinzugefügt, in manchen ist es nicht hinzugefügt.
+                   Nach allen fehlerhaften Kopien wird aber „das Entfernen (ἐξαίρεσις) des Krankseins“ geschrieben, nicht „das Beseitigen“ (ὑπεξαίρεσις), wie 
+                   die Zweideutigkeit von „Entfernen“ zeigt, vermuten wir … das Geschriebene …
+               =>
+            =D>
+            <D=.39.column 
+               <=
+                  … ((1))[weil] anderer Kopien es so haben oder weil Kopisten dies aufgrund ihres eigenen Unwissens taten; denn sie wussten nicht, dass manche Begriffe „gemeinsam“ (ἀπὸ κοινῶν) – wie wir sie oft bezeichnen – genannt werden, die geteilt werden,
+                   … das, was „gemeinsam“ genannt wird und im Bezug auf die Bedeutung …
+               =>
+            =D>
+            <D=.40.column 
+               <=
+                  … ((1))[von anderen werden die Herolde zwar für einen kurzen Augenblick den Namen verkünden, von jenem aber immer Griechenland] seine Weisheit.“ Denn es ist klar, dass einerseits die Herolde verkünden werden, 
+                   aber Griechenland verkünden wird, was die einzige die Bedeutung des Ausdrucks ist. Das kommt auch dann auch bei Empedokles vor, wenn er sagt: „Den nehmen weder des Zeus überdachte 
+                   Häuser auf, des Aigishalters, noch … des Hades … Dach … die eindeutige Bedeutung diese Ausdrucks, denn es ist klar, dass einerseits die Häuser aufnehmen, andererseits das Dach aufnimmt … und …
+               =>
+            =D>
+            <D=.41.column 
+               <=
+                  … ((1))[man könnte jenes für ein schwieriges Problem bei Epikur] halten: „Wenn ein weiser Mann sich um seinen Lebensunterhalt kümmern wird“, was jedoch heißt: „Wenn ein weiser Mann sich um sein 
+                   Begräbnis kümmert“, wobei er wahrscheinlich auf Kopien gestoßen ist, bei denen der Schreiber, nachdem das Alpha ausgemerzt war, weil er das Wort vervollständigen wollte, das Rho und das
+                   Omikron einsetzte. Somit ist auch klar, dass Epikur vorschreibt, nicht darüber zu streiten, welcher Behälter den Körper nach dem Tod aufnimmt.
+               =>
+            =D>
+            <D=.42.column 
+               <=
+                  …((6))der Natur … Hinsichtlich des richtigen Ortes des rationalen Teils der Seele hat Epikur im Gespräch darüber im Wesentlichen folgendes festgestellt: „Man muss 
+                   freilich erkennen, dass das Nachdenken über etwas oder das betrübt Werden …
+               =>
+            =D>
+            <D=.43.column 
+               <=
+                  …((2))diejenigen sind sowohl … als auch im Besonderen dumm, denen die Kohärenz nicht gewahrt scheint, wenn er (sc. Epikur) sagt, dass man infolge der Affekte und Bewegungen 
+                   von irgendwelchen Teilen (sc. der Seele) folgert … denn … hält die Brust nieder …
+               =>
+            =D>
+            <D=.44.column 
+               <=
+                  … ((2))zu folgern. Zenon, der uns am teuersten ist, stimmt zwar im Allgemeinen mit diesem überein, aber im Besonderen ist er nicht mit ihm einer Meinung. Er ist stattdessen damit 
+                   einverstanden, diesen Fehler des Schreibers anzuführen, dass … dieser Ort, wo am meisten die Bewegung und der Affekt … ((14))deshalb … ist es weitführend nun zu lehren …
+               =>
+            =D>
+            <D=.45.column 
+               <=
+                  … ((3))vermuten …
+               =>
+            =D>
+            <D=.46.column 
+               <=
+                  … ((1))Epikur wählte [diese Argumentation] auch im Bezug auf den Ort des rationales Teils der Seele, weil sich dieser auch für praktische und rationale Untersuchungen eignet. Die untersuchten Dinge waren in der Tat
+                   offensichtliche Dinge, Ängste benötigen keine rationale Erklärung; um dies zu lehren, wollte er … gleich ob beim Unberechenbaren oder über das Berechenbare … die geschickte Untersuchung …
+               =>
+            =D>
+            <D=.47.column 
+               <=
+                 … ((1))diejenigen, die sagen, dass beim Nachdenken und Trauern eine Bewegung nötig ist: Wo zieht die Bewegung und die Trauer am meisten? Denn offensichtlich 
+                   findet das Ziehen in der Brust statt. Danach nimmt er als Entgegnung die Schlussfolgerung an, die viele Ärzte benutzen, wenn sie zeigen, dass die Vernunft im 
+                 Kopf sitzt, und er bringt sie vor, indem er im Wesentlichen sagt, dass es nach Meinung einiger möglich ist, aus den Leiden und Wahnvorstellungen mancher Teile 
+                 zu schließen, dass die Vernunft im Kopf ist. 
+                 …  ((19))und das gemäß dieser Argumentation, wie er sagt,  das Gegenteil von Epikur vermuten würde …
+               =>
+            =D>
+            <D=.48.column 
+               <=
+                  … ((1))als Folgerung, aus welcher Abschweifung wäre zu lang zu erklären, stellt er ungefähr folgendes fest: „Denn dies geschieht, wenn, woher jenes weggegangen ist, in der darauffolgenden Zeit
+                  sofort das benachbarte Minimum folgt.“ Allerdings scheint sich eine Absurdität nach dieser Argumentation zu ergeben: Denn wie könnte eine 
+                   zusammenhängende Bewegung entstehen, wenn, wie er schreibt, das erste seinen Ausgang nahm und das Zusammenhängende in der darauffolgenden Zeit nachfolgt … ((16))nämlich … 
+                   Zeit … ((17))nahm seinen Anfang …
+               =>
+            =D>
+            <D=.49.column 
+               <=
+                  … ((2))Zeit … ((3))Art und Weise … ((4))in der darauffolgenden Zeit an diesen Ort hinübergehen … ((8))diesen … ((9))Metrodor … ((10))woher … ((12))Zeit … ((13))woher das erste weggegangen ist … ((14))eine Zeit das benachbarte Minimum, 
+                   sofort folgen wird … ((18))damals. Wir sagen … ((19))des …
+               =>
+            =D>
+            <D=.50.column 
+               <=
+                 … ((1))was auch immer von diesen jemand annimmt, es ist offensichtlich, dass – ohne einen Fehler eines Schreibers anzuführen, sei es von denen, mit denen wir uns vorher 
+                   auseinandergesetzt haben, oder von diesen anderen, welche jetzt Zenon anführt – die Seltsamkeiten des Ausdrucks nicht gelöst werden. Denn es wird derartig erscheinen: 
+                   Von dort, wo …. ((9))das Minimum weggegangen ist, wird auch in einem zweiten Moment das benachbarte Minimum sofort folgen, aber nicht zugleich. Und jenes scheint mir nicht … 
+                   ((15))zur Überlieferung der Lehre führen zu müssen …
+               =>
+            =D>
+            <D=.51.column 
+               <=
+                  … ((2)) indem sie auf Kürze zielen und häufig die Überlieferung der Ansichten an die Lehre der Hörer anpassen und beinahe auch schon die Einführung für diese Lehre verändern, 
+                   zeigen sie und …, dass sie dies der Menge zum Gefallen tun … ((16))Daher ist es niemandem erlaubt, … ((17))entweder der Überlieferung von diesem oder der Einführung zu schaden. 
+                   Um der Kürze willen ist man es gewohnt, beides zu tun. Jeder Schulmeister wird das Übereinstimmende in Kürze aufzeigen …
+               =>
+            =D>
+            <D=.52.column 
+               <=
+                  … ((1))man muss sich nämlich, wenn wir uns an das Büchlein halten, welches wir stets zur Hand haben, an die Maximen mit dem Titel „Hauptlehrsätze (Epikurs)“ halten: In diesen sagt Epikur, 
+                   dass das Ziel die Lust sei, behauptet aber, dass eben dieses keinen Beweis benötige, wenn er sagt …
+               =>
+            =D>
+            <D=.53.column 
+               <=
+                  … ((1))dass man nichts anderes braucht. Wir erkennen aber, dass das höchste Gut auch das ist, was, wenn es da ist, denjenige, der es besitzt, nichts anderes mehr brauchen lässt. 
+                   Das höchste Gut ist deshalb die Lust und wir sagen, dass es das größte Übel ist, Schmerz zu empfinden. Die gegenteiligen Gemütszustände …
+               =>
+            =D>
+             <D=.54.column 
+               <=
+                 … ((8))und … ((12))wo auch immer … ((13))und …
+               =>
+            =D>
+            <D=.57.column 
+               <=
+                  … ((1))und offenbar weist dies zugleich auch Empedokles einmal darauf hin, wenn er sagt: „Denn schwache Kräfte haben sich nach den Gliedern ausgestreckt“, das sinnlich 
+                   Wahrnehmbare aber setzt er wiederum dem Denken entgegen; denn er sagt, dass von den Wahrnehmungen die einen wahr seien, die anderen aber trügerisch. Aber wenn er solche 
+                   Dinge anführt, folgen wir ihm nicht; denn wenn alle Wahrnehmungen trügerisch sind, sind nicht alle wahr, wenn aber manche davon wahr sind und manche nicht, sind dennoch 
+                   nicht alle wahr; … ((18))trügerisch … ((19))wahr …
+               =>
+            =D>
+            <D=.58.column 
+               <=
+                  … ((1))und du wirst alle Kriterien durcheinanderbringen; denn der, der aufzeigt, dass alle Wahrnehmungen trügerisch seien, verleumdet sie zur Bekräftigung dessen, indem
+                   er jede einzelne davon in allen Teilen durchgeht. Er würde sagen, wenn er die optische Wahrnehmung verleumden wollte, dass sie sich die Vertiefung im Bild durch eben
+                    die Widerlegung des Tastsinns falsch vorstelle … ((11))Wahrheiten … ((14))die Wahrnehmungen …
+               =>
+            =D>
+            <D=.59.column 
+               <=
+                  … ((1))und jenes wird er nämlich für unanzweifelbar halten, wie Epikur nicht inkonsequent zu sich selbst ist, weil … ((5))die Meinungen oft … ((6))und Misstrauen …
+               =>
+            =D>
+            <D=.60.column 
+               <=
+                 … ((1))[es scheint nicht, dass] er, nachdem er es sich einmal vorgenommen hatte, durch Widerlegungen den eigenen Standpunkt zu verdeutlichen, gemäß der Vernunft sich dieser 
+                   Darstellungsart bedient hätte. Denn die einen Widerlegungen beziehen sich auf eine Prüfung, die anderen auf einen Beweis, die dritten auf eine Inkonsequenz, die vierten auf 
+                   eine Lehrmeinung …
+               =>
+            =D>
+            <D=.61.column 
+               <=
+                  … ((4))dem ganzen … ((6))Widerlegung … ((10))offensichtlich, dass … ((13))der anderen …
+               =>
+            =D>
+            <D=.63.column 
+               <=
+                  … ((1))[wer falsch widerlegt, glaubt, weil er ohne] Konzentration auf die zu widerlegenden Begriffe ist, dass man mit Bezug auf die Grundbedeutung der zu widerlegenden Begriffe die Widerlegungen 
+                   vornehmen muss. Uns aber wird offenbar zu demselben Zweck helfen, auf die feineren Unterteilungen zu achten, die aus dem (terminologischen) Unterschied der Schulen entspringen, 
+                   weil es alle möglichen Arten von Schulen gibt. Es scheint nämlich, dass er selbst … ((11))durch Namen … ohne Differenzierung nicht bemerkt … ((13))ist …
+               =>
+            =D>
+            <D=.64.column 
+               <=
+                  … ((1))[weshalb es dazu kam], dass die Leser irren: denn Atmung heißt das, was aus Einatmung und Ausatmung zusammengesetzt ist. Und in diesem Sinne sagen wir, dass jedes 
+                   Lebewesen atmet. 
+                   Und in engerer Bestimmung bezeichnen wir mit Atmung das Ausstoßen des Lufthauchs, das wir auch Ausatmen nennen, und in diesem Sinne …
+               =>
+            =D>
+            <D=.65.column 
+               <=
+                 … ((1))[Das sagt nämlich Empedokles] im Zuge seiner Ausführungen über das Atemholen der Menschen seiner Zeit: „So atmen sie ein und aus, im Fleisch erstrecken sich Kanäle ohne Blut
+                  im Körper direkt unter der Oberfläche.“ Und er verbindet offensichtlich aufeinander Folgendes, indem er als Atmung weder das Ganze nimmt – denn wie könnte er sie von der Ausatmung, 
+                 unterscheiden, die ja ein Teil der Atmung ist? – noch auch die Ausatmung, und zählt im Speziellen die Einatmung zu ihr. Offensichtlich … ersten …
+               =>
+            =D>
+            <D=.66.column 
+               <=
+                  … ((1))[einige Gegner so,] damit man aufgrund des Widerspruchs in den Lehraussagen einen Widerspruch auch in den Lehrmeinungen vermutet, und wenn man das nicht genau 
+                   untersucht hat, wird man (darüber) in Verwirrung geraten. Und wie konnte Epikur auch Absurdes an vielen Stellen sagen, dass nämlich die Liebe zu den Kindern nicht von Natur 
+                   aus existiert? Während nämlich von vielen bewiesen wird, dass, wenn die zärtliche Liebe zu den Kindern zur Natur gehört, sie notwendigerweise entstehen dürfte, nennen sie es 
+                   absurd, dass sie nicht natürlich ist …
+               =>
+            =D>
+            <D=.67.column 
+               <=
+                  … ((1))[denn es heißt, dass der Mensch von Natur aus auf den Erwerb von Nahrung ausgerichtet sei,] weil er es ohne äußere Einflüsse tut; dass er von Natur aus fähig ist, Mühen 
+                   auf sich zu nehmen, weil es gezwungenermaßen tut; dass er von Natur aus der Tugend nachjagt, weil er es zu seinem Vorteil tut; und wir sagen, dass von Natur aus das erste Aussprechen 
+                   von Benennungen entstanden ist, insofern …
+               =>
+            =D>
+            <D=.68.column 
+               <=
+                  … ((1))[Aber die Liebe zu den Kindern existiert nicht von Natur aus,] da ja die Menschen nicht gezwungenermaßen ihre Nachkommen lieben. Denn spezifisch für das, was mit Zwang 
+                   geschieht, ist die Unfreiwilligkeit, unmittelbare Folge der Unfreiwilligkeit aber ist der Widerstand. Das hat offensichtlich mit der Liebe zu den Kindern nichts zu tun. Und wie wird 
+                   jemand in Verwirrung geraten …
+               =>
+            =D>
+            <D=.69.column 
+               <=
+                  … ((1))Zu sehen, dass einige Lehren (sc. Epikurs) kritikfest sind, wird uns mit großer Unbeschwertheit während der Lektüre erfüllen, weil wir sehen, dass die Widersprüchlichkeiten 
+                   nicht allgemein (sc. als solche) anerkannt werden und dass man durch die Kritikfestigkeit dieser Lehren diejenigen widerlegen kann, die sich auf eine solche Weise abgemüht haben.
+                   Denn auch im Leben wäre wohl einer, der oft getadelt wird, dass er verschwenderisch sei, verschwenderisch, wenn er nicht einmal … das väterliche Erbe, das er übernommen hatte, 
+                  [bewahrt hätte]; hat er hingegen noch mehr, pflichtet er dem Tadel nicht bei, sondern widersetzt sich und weist ihn zurück und so, indem er den tadelt, der ihn ungerechterweise tadelt, …
+               =>
+            =D>
+            <D=.70.column 
+               <=
+                  … ((1))den Genuss. Daher ist das auch angemessen, da ich die Gelegenheit habe, zu sprechen, den leeren Unterwürfigkeit der Sophisten entgegenzutreten. Denn Homer hat hinsichtlich dieser Dinge
+                   nicht mehr unterschieden als die übrigen Menschen. Wir aber, Pythokles, sind so weit von … entfernt, dass …
+               =>
+            =D>
+            <D=.71.column 
+               <=
+                  … ((1))Und es vermag einer freilich nicht zu erkennen, dass einige Attribute durch Bezug auf Synonyme in logischer Konsequenz entstehen, da nicht ein unähnlicher Begriff beigeordnet 
+                   wird, sondern derjenige, der eine spezielle Verbindung zu dem Synonym hat.
+               =>
+            =D>
+            <D=.72.column 
+               <=
+                 … ((1))auf diese Weise. Wenn die Frage untersucht wird, wie wir Wahrnehmungen im Bezug auf wahrnehmbare Dinge als wahr bezeichnen, „insofern letztere ja wahr sind, scheint 
+                   freilich eine Aporie aufzutreten“. Wie Philion ja sagte, keiner …
+               =>
+            =D>
+            <D=.73.column 
+               <=
+                 … ((1))wir bestätigen dies in Bezug auf das Wahrnehmen: Nachdem die wahrgenommenen Dinge nicht wahr genannt werden, machen wir dies in Bezug auf die Synonyme;
+                   insofern diese denn existieren. Und tatsächlich ist es klar, dass wir die Säule als etwas betrachten, das wirklich existiert …
+               =>
+            =D>
+            <D=.74.column 
+               <=
+                  … ((1))Großen Dank dem Eirenaios, der mit uns mit größtem Eifer philosophierte und dem schönen Milet die ganze Zeit nicht fern war. Großen Dank auch euch, die ihr 
+                  zusammenarbeitet und in bester Weise zusammengearbeitet habt und gemeinsam zur Ruhe gelangt …
+                 =>
+            =D>
+         =T>
+      

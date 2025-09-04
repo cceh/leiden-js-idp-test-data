@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>ἐπὶ ὑπάτων τῶν κυρί<supplied reason="lost">ων</supplied> <unclear>ἡμ</unclear>ῶν Κωνσταντίου καὶ Μαξιμιανοῦ 
 
     <lb n="2"/>τῶν ἐπιφανεστάτων καισάρων τὸ <num value="5">ε</num>. 
@@ -25,7 +26,7 @@
 
     <lb n="13"/>δὲ Αὐρηλίων Κιαρούριος καὶ Λούτεως καὶ τῶν κοινωνῶν ἀπ<unclear>ο</unclear>δε<unclear>κτῶν</unclear> 
 
-    <lb n="14"/>καὶ ἐπισφραγιστῶν θησαυρῶν <expan>Ὀξ<ex>υρυγχειτῶν</ex></expan> πόλεως ἀπὸ <app type="editorial"><lem resp="BL 6.112"><choice><reg>ἀμείψεως</reg><orig>ἀμίψεως</orig></choice></lem><rdg><expan>ἀμ<ex>φόδου</ex></expan> Ψέως</rdg></app> 
+    <lb n="14"/>καὶ ἐπισφραγιστῶν θησαυρῶν <app type="editorial"><lem resp="BL 7.152"><expan>Ὀξ<ex>υρύγχων</ex></expan></lem><rdg><expan>Ὀξ<ex>υρυγχειτῶν</ex></expan></rdg></app> πόλεως ἀπὸ <app type="editorial"><lem resp="BL 6.112"><choice><reg>ἀμείψεως</reg><orig>ἀμίψεως</orig></choice></lem><rdg><expan>ἀμ<ex>φόδου</ex></expan> Ψέως</rdg></app> 
 
     <lb n="15"/>σίτου <expan>γενήμα<ex>τος</ex></expan> τοῦ διελθόντος <num value="20">κ</num> <expan><ex>ἔτους</ex></expan> <app type="editorial"><lem resp="BL 6.112"><supplied reason="omitted">καὶ <num value="19">ιθ</num> <expan><ex>ἔτους</ex></expan></supplied></lem><rdg><supplied reason="omitted"><num value="19">ιθ</num></supplied> <expan><ex>ἔτους</ex></expan></rdg></app> καὶ <num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> κ<supplied reason="lost">ρ</supplied><unclear>ιθ</unclear>ῆς καθαρωτάτης 
 
@@ -39,4 +40,5 @@
 
     <lb n="20"/><supplied reason="lost">ἐν μηδενὶ</supplied> <supplied reason="lost">μεμφθῆ</supplied><unclear>ναι</unclear> <unclear>ἢ</unclear> ἔνοχος ε<supplied reason="lost">ἴην</supplied> <supplied reason="lost">τῷ θείῳ ὅρκῳ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div>
+    <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div>
