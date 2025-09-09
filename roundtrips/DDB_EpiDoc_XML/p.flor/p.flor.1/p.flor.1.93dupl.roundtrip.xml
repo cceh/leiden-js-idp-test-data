@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><app type="editorial"><lem resp="BL 1.147"><supplied reason="lost">χ</supplied><unclear>μ</unclear>γ θ<g type="unintelligible"/></lem><rdg><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/></rdg></app> 
 
     <lb n="2"/><g type="stauros"/> βασιλείας καὶ <hi rend="diaeresis">ὑ</hi>πατείας τοῦ θειοτάτου ἡμῶν δεσπότου <expan>Φλα<ex>υίου</ex></expan> <hi rend="diaeresis">Ἰ</hi>ουστίνου τοῦ αἰωνίου 
@@ -43,7 +44,7 @@
 
     <lb n="22"/><supplied reason="lost">καὶ</supplied> <unclear>τ</unclear>ῶν ἐν αὐτ<supplied reason="lost">ῇ προσ</supplied>ηκόντων μοι <supplied reason="lost">πρ</supplied>αγμάτων παρὲξ τῆς στρώμνης μου καὶ τῶν ἐμῶν 
 
-    <lb n="23"/><supplied reason="lost">ἐσ</supplied>θημάτων καὶ ὁμολογοῦμεν ἐξ<supplied reason="lost">εῖν</supplied>αι ἑκατέρῳ μέρει ἡμῶν ἡμίκα <unclear>ἐ</unclear>ὰν βουληθείη ἑτέρῳ 
+    <lb n="23"/><supplied reason="lost">ἐσ</supplied>θημάτων καὶ ὁμολογοῦμεν ἐξ<supplied reason="lost">εῖν</supplied>αι ἑκατέρῳ μέρει ἡμῶν ἡνίκα <unclear>ἐ</unclear>ὰν βουληθείη ἑτέρῳ 
 
     <lb n="24"/><unclear>γάμ</unclear>ῳ ὁμιλῆσαι <choice><reg>ἀκωλύτως</reg><orig><unclear>ἀ</unclear>κολύτως</orig></choice> καὶ ἀν<unclear>ε</unclear>γκλήτως ἐπάναγκες, μὴ δυναμένο<unclear>υ</unclear> τινὸς ἡμῶν καθʼ οἱον
 
@@ -55,4 +56,5 @@
 
     <lb n="28"/><unclear>ἐξ</unclear> ἡμῶν ἐνάξαι τῷ ἑτέρῳ παρέξει <unclear>λόγ</unclear>ῳ προστίμου χρυσοῦ <expan>νομίσμ<ex>α</ex>τ<ex>α</ex></expan> ἓξ <num value="6"/> εὔσταθμα μετὰ καὶ τοῦ 
 
-    <lb n="29"/><unclear>αὐ</unclear>τὸν ἄκοντα ἐμμεῖναι πᾶσι τοῖς προγεγραμμένοις ἐφʼ οἷς ἐρωτηθέντες ὡμολογήσαμεν. <g type="stauros"/> </ab></div>
+    <lb n="29"/><unclear>αὐ</unclear>τὸν ἄκοντα ἐμμεῖναι πᾶσι τοῖς προγεγραμμένοις ἐφʼ οἷς ἐρωτηθέντες ὡμολογήσαμεν. <g type="stauros"/> 
+</ab></div>
