@@ -17,7 +17,7 @@
 
     <lb n="9"/>καταπλήσσεσθαι τοὺς ἰδιώτας, 
 
-    <lb n="10"/>ἀναγκαῖον ἡγησάμην δη
+    <lb n="10"/><app type="editorial"><lem resp="PN M. G. Elmaghrabi (from image)"><choice><reg>ἀναγκαῖον</reg><orig>ἀνανκαῖον</orig></choice></lem><rdg>ἀναγκαῖον</rdg></app> ἡγησάμην δη
 
     <lb n="11" break="no"/>λῶσαι, ὅτι οὔτε πλοῖον ὑπό τινος 
 
@@ -81,10 +81,10 @@
 
     <lb n="41"/>πατρὶ καὶ τῇ μητρὶ αὐτοῦ, ἐμῇ δὲ 
 
-    <lb n="42"/>μάμμῃ. τὰ δὲ ὑμέτερα ἐν <unclear>ὑποπαρετια</unclear> 
+    <lb n="42"/>μάμμῃ. τὰ δὲ <app type="editorial"><lem resp="BL 9.237">ἡμέτερα</lem><rdg>ὑμέτερα</rdg></app> ἐν <unclear>ὑποπαρετια</unclear> 
 
     <lb n="43"/>ἐστὶν τῆς ἐκείνων θειότητος, ὡς 
 
-    <lb n="44"/><choice><reg>ἐάν</reg><orig>ἐάμ</orig></choice> μοι μὴ πεισθῆτε, ἀναγκᾶτέ με 
+    <lb n="44"/><choice><reg>ἐάν</reg><orig>ἐάμ</orig></choice> μοι μὴ πεισθῆτε, <app type="editorial"><lem resp="PN M. G. Elmaghrabi (from image)"><choice><reg>ἀναγκᾶτέ</reg><orig>ἀνανκᾶτέ</orig></choice></lem><rdg>ἀναγκᾶτέ</rdg></app> με 
 
     <lb n="45"/>μὴ πολλάκις <choice><reg>ὑμῖν</reg><orig>ὑμεῖν</orig></choice> ἐνφανίζεσθαι. </ab></div>
