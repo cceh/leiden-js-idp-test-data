@@ -1,0 +1,19 @@
+<S=.la
+<=
+    (1, indent)anno *hedera* <#VIIII=9#> *hedera* (Imp(eratoris))
+
+    (2, indent)(Caesar(is)) (Aug(usti)) Vespasiani
+
+    3. L. Iulius Ursus (pr(aefectus)) (Aegy(pti)) vac.? rediens a
+
+    4. (Bern(icide)) hoc vac.? loco vac.? hydreuma quaeri praecepit.
+
+    5. hoc cum esset vac.? inventum vac.? praesidium et
+
+    6. lacus aedificari iussit (cura(m)) agente
+
+    (7, indent)M.Trebonio Valente vac.? (pr(aefecto)) mont<i>s
+
+    (8, indent)Bernicidis
+=>
+      
