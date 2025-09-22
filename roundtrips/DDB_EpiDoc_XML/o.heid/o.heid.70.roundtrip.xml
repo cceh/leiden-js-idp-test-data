@@ -7,9 +7,8 @@
 
     <lb n="4" break="no"/><unclear>βάλ</unclear>λον σοι <expan>μέρο<ex>ς</ex></expan> τρίτον <supplied reason="lost">γόμου ἀχύρου </supplied><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="5"/><expan>ὑπ<ex>ὲρ</ex></expan> <expan>ἠπείρο<ex>υ</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="2">β</num> 
-Ἀν<unclear>τωνε</unclear>ί<supplied reason="lost">νου τοῦ κυρίου</supplied>
+    <lb n="5"/><expan>ὑπ<ex>ὲρ</ex></expan> <expan>ἠπείρο<ex>υ</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="2">β</num> Ἀν<unclear>τωνε</unclear>ί<supplied reason="lost">νου τοῦ κυρίου</supplied>
 
-    <lb n="6"/>Ἐπεὶφ <num value="26">κ<unclear>ϛ</unclear></num>. <handShift new="m2"/>Ὧρ<unclear>ος</unclear> <supplied reason="lost"><expan>σεσημ<ex>είωμαι</ex></expan> τὸ</supplied>
+    <lb n="6"/>Ἐπεὶφ <num value="26">κ<unclear>ϛ</unclear></num>. <app type="editorial"><lem resp="O.Stras.2, p. 241, n. 188"><handShift new="m2"/>Ὧρ<unclear>ος</unclear> <supplied reason="lost"><expan>σεσημ<ex>είωμαι</ex></expan></supplied> <lb n="7"/><handShift new="m3"/><unclear>Ψ</unclear>εναµοῦ<unclear>ν</unclear><supplied reason="lost">ις Παοῦς <expan>σεσηµ<ex>είωµαι</ex></expan></supplied></lem><rdg><handShift new="m2"/>Ὧρ<unclear>ος</unclear> <supplied reason="lost"><expan>σεσημ<ex>είωμαι</ex></expan> τὸ</supplied>
 
-    <lb n="7"/><choice><reg>ἐπιβάλλον</reg><orig><unclear>ἐπιβά</unclear>λο<unclear>ν</unclear></orig></choice> <supplied reason="lost">μέρος τρίτον.</supplied></ab></div>
+    <lb n="7"/><choice><reg>ἐπιβάλλον</reg><orig><unclear>ἐπιβά</unclear>λο<unclear>ν</unclear></orig></choice> <supplied reason="lost">μέρος τρίτον.</supplied></rdg></app></ab></div>
