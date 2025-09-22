@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" quantity="28" unit="character"/><unclear>ας</unclear> <unclear>ὑπ</unclear>ὸ τοῦ <gap reason="lost" quantity="2" unit="character"/> 
 
     <lb n="2"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ου <supplied reason="lost">ἀκολο</supplied>ύ<unclear>θ</unclear><supplied reason="lost">ως τα</supplied><unclear>ῖς</unclear> <supplied reason="lost">γραφείσαις ὑ</supplied><unclear>π</unclear>ʼ αὐτοῦ 
@@ -21,7 +22,7 @@
 
     <lb n="11"/>διέγραψε Σεκούνδῳ τῷ τοῦ κ<supplied reason="lost">υ</supplied>ρίου Καίσαρος 
 
-    <lb n="12"/>οἰκονόμῳ <expan><ex>δραχμὰς</ex></expan> <choice><reg><num value="1500"><supplied reason="omitted">Α</supplied>φ</num></reg><orig>Φ</orig></choice> καὶ τὰ τούτων προσδιαγραφόμενα, 
+    <lb n="12"/>οἰκονόμῳ <expan><ex>δραχμὰς</ex></expan> <app type="editorial"><lem resp="BL 8.491"><num value="500">φ</num></lem><rdg><choice><reg>Φ</reg><orig><num value="1500"><supplied reason="omitted">Α</supplied>φ</num></orig></choice></rdg></app> καὶ τὰ τούτων προσδιαγραφόμενα, 
 
     <lb n="13"/><supplied reason="lost">ἀ</supplied><unclear>ν</unclear>ενεγκάμενος καὶ ἐπὶ <expan>τόπ<ex>ων</ex></expan> <app type="editorial"><lem resp="BL 1.426"><expan>προαποδεδωκ<ex>έναι</ex></expan></lem><rdg><expan>προαποδέδωκ<ex>ε</ex></expan></rdg></app>  <num value="1500">Αφ</num> 
 
@@ -39,4 +40,5 @@
 
     <lb n="20"/>τῇ <num value="20">κ</num> Μεσορὴ τοῦ <num value="5">ε</num> <expan><ex>ἔτους</ex></expan> <num value="1500">Αφ</num> κ<supplied reason="lost">αὶ τ</supplied>ὰς <expan>διομολ<ex>ογηθείσας</ex></expan> <num value="6">ϛ</num> <expan><ex>ἔτει</ex></expan> ἐν <expan>Μαρσ<supplied reason="lost">ι</supplied>σούχ<ex>ῳ</ex></expan> 
 
-    <lb n="21"/><expan>Πακήβκ<ex>εως</ex></expan> ἄλλας <num value="1500">Αφ</num> <expan><unclear>σ</unclear>ε<supplied reason="lost">σ</supplied><unclear>η</unclear><ex>μείωμαι</ex></expan> <supplied reason="lost">τ</supplied>ὰς <expan>λοιπ<ex>ὰς</ex></expan> <num value="3000">Γ</num>. </ab></div>
+    <lb n="21"/><expan>Πακήβκ<ex>εως</ex></expan> ἄλλας <num value="1500">Αφ</num> <expan><unclear>σ</unclear>ε<supplied reason="lost">σ</supplied><unclear>η</unclear><ex>μείωμαι</ex></expan> <supplied reason="lost">τ</supplied>ὰς <expan>λοιπ<ex>ὰς</ex></expan> <num value="3000">Γ</num>. 
+</ab></div>
