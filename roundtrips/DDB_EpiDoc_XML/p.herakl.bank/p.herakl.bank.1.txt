@@ -1,5 +1,4 @@
 <S=.grc
-
 <D=.a.part
 <D=.1.column<=
 1. [.?]
