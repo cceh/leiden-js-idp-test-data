@@ -1,0 +1,19 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) To Kleon, greetings, (from) the foremen of the free stonecutters. We are being wronged. 
+For what was agreed by Apollonios the dioiketes, nothing (of it) comes to us. ((4)) Diotimos has the written agreement. 
+Do your best as to make sure that (supplies) are given to us by Dionysios and Diotimos in accordance with what we have contracted for, 
+so that the work will not be left undone as has happened before. ((8)) If the men who are working find out that we have not received anything, 
+they will pawn their iron (tools)! Year 30, Pachons 19.
+               =>
+            =D>
+            <D=.v 
+               <=
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 111-112, © Peeters*/
+                  ((12)) To Kleon
+               =>
+            =D>
+         =T>
+      
