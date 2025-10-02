@@ -1,0 +1,17 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Alexandros to Kleon, greetings. [...] those [...] nomarchs [...] they give [...] about the [...] 
+to be given [...] we have written you that the [...] should be given to him [...] 5,000 are to be given. 
+((6)) Some want about 200 [...] of tamarisk (twigs). Write to him from Ptolemais [to give ...] as well as the nomarchy of Diogenes.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((9)) From Alexandros.
+ /*Translation: B. Van Beek in P.Petr.Kleon, p. 72, © Peeters*/
+               =>
+            =D>
+         =T>
+      

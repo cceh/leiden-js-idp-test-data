@@ -1,0 +1,16 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) [NN to Kleon], greetings. On the 22nd Themi[stos] had written me a letter about a sluice gate being opened, 
+a copy of which I immediately sent you. ((7)) Now again I have sent you in attachment [a copy] of the same [letter ...].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((10)) To Kleon
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 81, © Peeters*/
+               =>
+            =D>
+         =T>
+      
