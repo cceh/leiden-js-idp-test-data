@@ -1,0 +1,50 @@
+
+         <T=.de
+            <=
+               ((1)) An Sarapion, den königlichen Schreiber des Herakleides-Bezirkes des Arsinoites, [der die
+                      Strategie stellvertretend ausübt], von Chairemon, Sohn des Theon, und [den Kollegen,
+                      Sitologen] des Dorfes Aphrodites Berenikes Polis. ((3)) [Monatsrechnungen] der Getreideeingänge
+                      in summarischer Übersicht für die Ernte [des vergangenen siebten Jahres des Antoninus]
+                      Caesar, des Herren, vom Monat [Payni des vergangenen] siebten Jahres bis zum Monat
+                      Ha[thyr des laufenden] achten Jahres. Es sind:
+               ((8)) Payni: Es wurden eingezahlt in diesem Monat Artaben Weizen [… an Mehrbetrag] der
+                      Frachtkosten Artaben Weizen 7 1/2 1/8, übrige Artaben Weizen 1575 1/2 […].
+             ((10)) Für Aphrodites Polis durch die staatlichen Bauern: An Pachtzins Artaben Weizen 79 […
+                      an Zuschlägen Artaben Weizen …], Einkünfte (?) früher (verwaltet von?) der Nomarchie
+                      Artaben Weizen 456 1/2, [an Zuschlägen Artaben Weizen 65 1/4], an Saatgut Artaben
+                      Weizen 127 1/8, an Zuschlägen Artaben Weizen 7 3/4, es machen an Einkünften (?) Artaben
+                      Weizen 656 1/2 1/8. ((13)) An Transportgebühren […] der Nomarchie Artaben Weizen 456 1/2, an
+                      Zuschlägen Artaben Weizen 65 1/4, an Saatgut Artaben Weizen [127 1/8, an Zuschlägen]
+                      Artaben Weizen 7 3/4, an Transportgebühren vom Feld zur Tenne Artaben Weizen 109 1/3,
+                      es machen Artaben Weizen 765 1/2 [1/3 1/8].
+             ((16)) Es machen insgesamt für die Dioikesis durch die staatlichen Bauern Artaben Weizen […],
+                      an Saatgut Artaben Weizen 127 1/8, an Zuschlägen Artaben Weizen 7 3/4, an
+                      Transportgebühren vom Feld zur Tenne [Artaben Weizen 109 1/3].
+             ((18)) Und durch die Katöken: An Landsteuer in Naturalien Artaben Weizen (mind.) 280 [… an
+                      Zuschlägen Artaben Weizen …], an Zwangspachtabgabe Artaben Weizen 18 1/3 1/24, an
+                      Zuschlägen Artaben Weizen 2 1/3 […], auf das Konto des frumentum emptum für die
+                      Großpächter der Pa[llantiane und] der Antoniane ousiai Artaben Weizen 32, es machen
+                      [Artaben Weizen …].
+             ((22)) Es machen Artaben Weizen 356 1/12, auf das Konto des frumentum emptum [Artaben
+                      Weizen 32].
+             ((23)) Es machen insgesamt für das Dorf für die Dioikesis Artaben Weizen (mind.) 800 [… an
+                      Zuschlägen Artaben Weizen …], an Saatgut Artaben Weizen 127 1/8, an Zuschlägen Artaben
+                      Weizen 7 3/4, an Transportgebühren vom Feld zur Tenne [Artaben Weizen 109 1/3], auf das
+                      Konto des frumentum emptum Artaben Weizen 32, es machen Artaben Weizen […].
+             ((25)) Auf das Konto des Ousiakos Logos für die ousiai Vespasians: Für die Antoniane ousia:
+                      [An Pachtzins Artaben Weizen 22 1/12, an Zuschlägen] Artaben Weizen 3 1/6. Es machen
+                      Artaben Weizen 25 1/4.
+             ((27)) Für die Maikenatiane ousia: An Pachtzins Artaben Weizen 9 1/4, an Zuschlägen Artaben
+                      Weizen (mind.) 1, [an Saatgut (?) Artaben Weizen ..., an Zuschlägen (?)] Artabe Weizen 1/8,
+                      an Transportgebühren vom Feld zur Tenne Artaben Weizen 1 1/4 [… es machen Artaben
+                      Weizen …].
+             ((30)) Für die Sokratiane ousia: An Pachtzins Artaben Weizen 14 1/12, an Zuschlägen [Artaben
+                      Weizen ..., an Saatgut (?)] Artabe Weizen 1, an Zuschlägen Artabe Weizen 1/12. Es machen
+                      Artaben Weizen (mind.) 10 […].
+             ((32)) Es machen für den Ousiakos Logos der ousiai Vespasians […], an Saatgut Artaben
+                      Weizen 22 1/24, an Zuschlägen Artaben Weizen 1/6 1/24, [an Transportgebühren vom Feld
+                      zur Tenne Artabe Weizen …].
+                      /*Translation: A. Monte, P.Berl.Monte 8*/
+            =>
+         =T>
+      
