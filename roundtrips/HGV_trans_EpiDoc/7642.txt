@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) Etearchos to Kleon, greetings. I have attached below for you a copy of the letter from Petechonsis, the vice-engineer. 
+Please, by Zeus and [the gods], may I not end up being accused due to your quarrel! Farewell. Year [...].
+(((5))) [Petechonsis to Etearchos, greetings. ...] works with you [...] from Philadelpheia to Patsonthis, for all [...] day. 
+((8)) Please make the [...] of the works over which the dioiketes Apollonios leaves us [...] of 
+[...]los vice-engineer you hear and that something of the works suffers [...], it will come over your head.
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 76, © Peeters*/
+            =>
+         =T>
+      
