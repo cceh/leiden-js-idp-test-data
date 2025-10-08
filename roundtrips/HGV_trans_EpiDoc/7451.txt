@@ -1,0 +1,18 @@
+
+         <T=.en
+            <D=.a.fragment 
+               <=
+                  ((1)) [NN to Kleon, greetings.] I have sent you [a copy of the letter which Thra]syllos [has written to us]. 
+((5)) The sluice gate has to be opened so that the land in Theogenis may be irrigated as quickly as possible. Farewell. (((8))) Thrasyllos to [NN], greetings. 
+               =>
+            =D>
+            <D=.b+c.fragment 
+               <=
+                  ((9)) [...]. Because the water from the great canal coming from the locks in Ptolemais flows through slowly, 
+I have diverted it to the desert canal [...]. ((13)) In the great canal the [...] beneath two/by two [...] 
+in Ptolemais has been opened and what is now flowing through, is not sufficient for me. ((17)) Please, write immediately to Kleon to [...].
+/*Translation: B. Van Beek in P.Petr.Kleon, p. 79, © Peeters*/
+               =>
+            =D>
+         =T>
+      
