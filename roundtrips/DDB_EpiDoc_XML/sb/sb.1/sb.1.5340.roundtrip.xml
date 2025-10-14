@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><unclear>Κά</unclear>ρπ<unclear>ε</unclear> 
 
     <lb n="2"/>Λώρου 
@@ -23,8 +24,9 @@
 
     <lb n="12"/>Τεπτῦν<unclear>ι</unclear>ς 
 
-    <lb n="13"/>Τετρα<gap reason="illegible" quantity="4" unit="character"/> 
+    <lb n="13"/><app type="editorial"><lem resp="M. Stern, Tyche 39 (2024) 192-193 n. 15"><app type="alternative"><lem>Τετρα<gap reason="illegible" quantity="4" unit="character"/></lem><rdg>Τετρα<unclear>θύρων</unclear></rdg><rdg>Τετρα<unclear>κωμία</unclear></rdg></app></lem><rdg>Τετρα<gap reason="illegible" quantity="4" unit="character"/></rdg></app>
 
     <lb n="14"/>Τασσ<unclear>ά</unclear>τ 
 
-    <lb n="15"/>Φοῦρ<unclear>θιν</unclear> </ab></div>
+    <lb n="15"/>Φοῦρ<unclear>θιν</unclear> 
+</ab></div>
