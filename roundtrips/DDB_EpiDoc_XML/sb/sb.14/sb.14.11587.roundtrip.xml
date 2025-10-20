@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/> 
 
     <lb n="2"/><supplied reason="lost">παρὰ</supplied> Ταπαπέιτ<supplied reason="lost">ο</supplied>ς τῆς 
@@ -27,4 +28,31 @@
 
     <lb n="14"/>δι<supplied reason="lost">ὸ</supplied> ἀξιῶ ταγῆναι αὐτοῦ 
 
-    <lb n="15"/>τ<supplied reason="lost">ὸ ὄ</supplied>νο<supplied reason="lost">α</supplied> ἐν τοῖς <expan>τετελ<ex>ευτηκόσι</ex></expan> </ab></div>
+    <lb n="15"/>τ<supplied reason="lost">ὸ ὄ</supplied>νο<supplied reason="lost">α</supplied> ἐν τοῖς <app type="editorial"><lem resp="C.Pap.Gr. 21. 5b"><expan>τετελ<ex>ευτηκόσι</ex></expan> 
+
+    <lb n="15b"/><num value="40"><unclear>μ</unclear></num>
+<milestone rend="paragraphos" unit="undefined"/>
+    <lb n="16"/>Ταπαπέϊς</lem><rdg><expan>τετελ<ex>ευτηκόσι</ex></expan> <lb n="16"/>Ταπαπέϊς</rdg></app> <expan><ex>ὡς ἐτῶν</ex></expan> <num value="45">με</num> 
+
+    <lb n="17"/><expan>οὐλ<ex>ὴ</ex></expan> ποδὶ δεξιῷ 
+
+    <lb n="18"/>Ἄδραστος <expan><ex>ὡς ἐτῶν</ex></expan> <num value="50">ν</num> <expan>οὐλ<ex>ὴ</ex></expan> 
+
+    <lb n="19"/><expan>δακ<ex>τύλῳ</ex></expan> <expan><ex>τρίτῳ</ex></expan> <expan>χειρὸ<ex>ς</ex></expan> <expan>δεξιᾶ<ex>ς</ex></expan>. 
+
+    <lb n="20"/><handShift new="m2"/> Ταπαπέϊς ἡ <expan>προγεγρα<ex>μμένη</ex></expan> <expan>μ<ex>ετὰ</ex></expan> <expan>κ<ex>υρίου</ex></expan> 
+
+    <lb n="21"/>Ἀδράστου τοῦ <expan>προγεγρα<ex>μμένου</ex></expan> ὀμνύω 
+
+    <lb n="22"/><supplied reason="lost">Τιβέριο</supplied>ν Κλαύδιον Καίσαρα 
+
+    <lb n="23"/><supplied reason="lost">Σεβαστὸν Γ</supplied><unclear>ερμ</unclear>ανικὸν Αὐτοκρά<supplied reason="lost">το</supplied>ρα 
+
+    <lb n="24"/><supplied reason="lost">μὴ <expan>ἐψεῦ<ex>σθαι</ex></expan> καὶ ἀ</supplied>ληθῆ εἶ<unclear>ν</unclear><supplied reason="lost">α</supplied>ι πάντα τὰ 
+
+    <lb n="25"/><supplied reason="lost"><expan>προγεγρα<ex>μμένα</ex></expan>. </supplied><expan><supplied reason="lost">ε</supplied><unclear>ὐορ</unclear><ex>κούσῃ</ex></expan> μέν <unclear>μοι</unclear> <supplied reason="lost">ε</supplied>ὖ εἴη, <expan>ἐφιορ<ex>κούσῃ</ex></expan> 
+
+    <lb n="26"/><supplied reason="lost">δὲ τὰ <expan>ἐναν<ex>τία</ex></expan>. <handShift new="m3" cert="low"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/><unclear>φδ</unclear><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/><abbr><gap reason="lost" quantity="1" unit="character"/>λ</abbr> 
+
+    <lb n="27"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
