@@ -1,11 +1,10 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="30" type="textpart"><ab>
-<note xml:lang="en">Reprinted from SB 3.6960</note>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="2"/>δρασα<gap reason="illegible" quantity="4" unit="character"/><unclear>ε</unclear> 
+    <lb n="2"/><app type="editorial"><lem resp="BL 11.200">διὰ Σκ<unclear>α</unclear><gap reason="illegible" quantity="4" unit="character"/>ος</lem><rdg>δρασα<gap reason="illegible" quantity="4" unit="character"/><unclear>ε</unclear></rdg></app>
 
-    <lb n="3"/>λεων Βησαρίων 
+    <lb n="3"/><app type="editorial"><lem resp="BL 11.200">Λέων</lem><rdg>λεων</rdg></app> Βησαρίων 
 
     <lb n="4"/>ἱππεὺς <expan>τ<ex>ούρμης</ex></expan> <expan>Ἀντωνί<ex>ου</ex></expan> 
 
@@ -20,4 +19,4 @@
     <lb n="9"/>Πρίσκος Ἀμμω
 
     <lb n="10" break="no"/>νιανὸς ἔγραψα. 
-</ab></div></div>
+</ab></div>
