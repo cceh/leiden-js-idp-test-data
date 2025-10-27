@@ -1,8 +1,1 @@
-<S=.grc<D=.r<=
-
-    1. /*Reprint in BGU 10.1958*/
-
-    5. /*Reprint in P.Hamb. 2.189*/
-=>=D><D=.v<=
-
-    1. /*Reprint in P.Hamb. 2.189*/=>=D>
+<S=.grc<==>
