@@ -1,8 +1,1 @@
-<S=.grc<D=.r<=
-
-    1. .31lin 
-  
-    32. /*PapBiling 6,r,32 reprinted in PBrook 90*/
-=>=D><D=.v<=
-
-    1. (Lang: Demotic 12 lines) =>=D>
+<S=.grc<==>
