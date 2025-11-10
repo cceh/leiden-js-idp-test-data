@@ -1,30 +1,23 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>νς</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1"/><foreign xml:lang="grc"><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><unclear>π</unclear><gap reason="lost" quantity="1" unit="character"/><unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/>μ<gap reason="lost" extent="unknown" unit="character"/>ον<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/>μαρ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>εως <unclear>η</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>σι<gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="3"/>θιαν<gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>σα α<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="4"/>μ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>η<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="5"/>οι<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Ἀ</supplied><unclear>ν</unclear>των<unclear>ει</unclear><supplied reason="lost">ν </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="6"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>ν<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="7"/><handShift new="m2"/><gap reason="lost" extent="unknown" unit="character"/>ν<gap reason="illegible" quantity="1" unit="character"/><unclear>ι</unclear>μ<gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
+    <lb n="7"/><handShift new="m2"/>ἔ<unclear>ρ</unclear><supplied reason="lost">ρωσο </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+</foreign></ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>ατ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1"/><foreign xml:lang="grc"><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Θε</supplied>μ<unclear>άρ</unclear>σᾳ Οὐή<gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>φε<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="2"/>ἀ
 
-    <lb n="10"/><handShift new="m3"/><gap reason="lost" extent="unknown" unit="character"/>θα<gap reason="lost" extent="unknown" unit="character"/>
-
-    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> ἄδε</supplied>λφε Πο<supplied reason="lost">στόμιε πολλοῖς</supplied> 
-
-    <lb n="12"/><supplied reason="lost">χρό</supplied>νοις εὔχ<supplied reason="lost">ομαι ὑγιαίνειν</supplied>
-
-    <lb n="13"/><foreign xml:lang="la"><handShift new="m4"/><gap reason="lost" extent="unknown" unit="character"/> Sa<supplied reason="lost">b</supplied>i<supplied reason="lost">n</supplied>o ii 
-
-    <lb n="14"/><supplied reason="lost">et Anullino </supplied><expan><supplied reason="lost">c</supplied>o<ex>n</ex>s<ex>ulibus</ex></expan> </foreign>
-</ab></div>
+    <lb n="3" break="no"/>π<unclear>ὸ</unclear> Ποστ<supplied reason="lost">ομίο</supplied>υ</foreign>
+</ab></div></div>
