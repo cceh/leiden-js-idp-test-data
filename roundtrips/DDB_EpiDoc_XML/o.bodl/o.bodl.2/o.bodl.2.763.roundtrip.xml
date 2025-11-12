@@ -1,9 +1,10 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/>Κ<unclear>εφάλ</unclear>ω<unclear>ν</unclear> <unclear>καὶ</unclear> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/>Κ<unclear>εφάλ</unclear>ω<unclear>ν</unclear> <unclear>καὶ</unclear> <gap reason="illegible" quantity="10" unit="character"/> 
 
     <lb n="2"/><expan>πράκ<ex>τορες</ex></expan> <expan>ἀργ<ex>υρικῶν</ex></expan> <expan>Ν<unclear>ό</unclear><ex>του</ex></expan> <unclear>Π</unclear>ικῶτ<unclear>ι</unclear> <expan>Ψεναμο<ex>ύνιος</ex></expan>. 
 
-    <lb n="3"/><expan>ἔσχ<ex>ομεν</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>μερισ<ex>μοῦ</ex></expan> <expan>ἀνακ<ex>εχωρηκότων</ex></expan> <gap reason="illegible" quantity="4" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <unclear>δύο</unclear> <num value="2"><expan><ex>διώβολον</ex></expan></num> 
+    <lb n="3"/><expan>ἔσχ<ex>ομεν</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>μερισ<ex>μοῦ</ex></expan> <expan>ἀνακ<ex>εχωρηκότων</ex></expan> <gap reason="illegible" quantity="4" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="2"><unclear>δύο</unclear></num> <num value="2"><expan><ex>διώβολον</ex></expan></num> 
 
     <lb n="4"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="2">β</num> <num value="2"><expan><ex>διώβολον</ex></expan></num> καὶ <expan>ὑπ<ex>ὲρ</ex></expan> <expan><unclear>ἀνα</unclear>κ<ex>εχωρηκότων</ex></expan> <num value="14">ιδ</num> <expan><ex>ἔτους</ex></expan> <expan><ex>δραχμὴν</ex></expan> <num value="1">α</num> <num value="2"><expan><ex>διώβολον</ex></expan></num>. <expan><ex>ἔτους</ex></expan> <gap reason="illegible" quantity="2" unit="character"/> 
 
@@ -19,4 +20,5 @@
 
     <lb n="10"/>Καίσαρος τοῦ κυρ<unclear>ίου</unclear> <unclear>Ἁδ</unclear>ρια<unclear>νοῦ</unclear> 
 
-    <lb n="11"/><gap reason="illegible" quantity="2" unit="character"/> <gap reason="illegible" quantity="3" unit="character"/> </ab></div>
+    <lb n="11"/><gap reason="illegible" quantity="5" unit="character"/> 
+</ab></div>
