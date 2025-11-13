@@ -26,5 +26,5 @@
 
     <lb n="13" break="no"/><supplied reason="lost">νὸς</supplied> ἔ<supplied reason="lost">γρ</supplied>α<supplied reason="lost">ψα ὑπὲρ αὐτ</supplied>ῆς γράμματα <supplied reason="lost">μὴ </supplied><choice><reg><supplied reason="lost">εἰ</supplied>δυίας</reg><orig><supplied reason="lost">ἰ</supplied>δυίης</orig></choice> 
 
-    <lb n="14"/><supplied reason="lost">ἔτ</supplied>ους <num value="16"><hi rend="supraline">ιϛ</hi></num> Φαρμ<supplied reason="lost">οῦθι <num value="6">ϛ</num></supplied> ἀγοραν<unclear>ο</unclear><supplied reason="lost">μ </supplied><gap reason="lost" quantity="4" unit="character"/> 
+    <lb n="14"/><supplied reason="lost">ἔτ</supplied>ους <num value="16"><hi rend="supraline">ιϛ</hi></num> Φαρμ<supplied reason="lost">οῦθι <num value="6">ϛ</num></supplied>  <app type="editorial"><lem resp="R. Mascellari, La lingua delle petizioni, pp. 1050-51 (from photo)"><app type="alternative"><lem>ἀγορὰν <unclear>ε</unclear><gap reason="lost" quantity="5" unit="character"/></lem><rdg>ἀγορὰν <unclear>θ</unclear><gap reason="lost" quantity="5" unit="character"/></rdg></app></lem><rdg>ἀγοραν<unclear>ο</unclear><supplied reason="lost">μ </supplied><gap reason="lost" quantity="4" unit="character"/></rdg></app> 
 </ab></div>
