@@ -1,12 +1,12 @@
-<S=.la<D=.r,1<=
-
-    1. chrauttius veldeio su o(´) fratri 
+<S=.la<D=.r
+<D=.1.column<=
+    1. Chrauttius Veldeio su o(´) fratri 
 
     2. contubernali antiquo pluri
 
     3.- mam salutem 
 
-    4. et rogo te veldei frater miror 
+    4. et rogo te Veldei frater miror 
 
     5. quod ṃihi tot tempus nihil 
 
@@ -18,22 +18,22 @@
 
     9. sit et illum a me salutabis 
 
-    10. 〚s〛 uerbis meis et virilem 
+    10. 〚s〛 uerbis meis et Virilem 
 
     11. ueteriṇarium rogabis 
 
     12. illum ut forficem 
-=>=D><D=.r,2<=
+=>=D><D=.2.column<=
 
     13. quam mihi promisṣịt pretio 
 
     14. mittas per aliquem de nosṭṛịṣ 
 
-    15. et rogo te frater virilis 
+    15. et rogo te frater Virilis 
 
-    16. salutẹs a me ṭhuṭteṇam 
+    16. salutẹs a me Ṭhuṭteṇam 
 
-    17. sororem velbuteịụm 
+    17. sororem Velbuteịụm 
 
     18. rescribas nobis cụṃ.3 
 
@@ -42,15 +42,15 @@
     20. $m2(?)  <:opt<o>|reg|opt:> sis felicissimus 
 
     21. uale 
-=>=D><D=.v<=
+=>=D>=D><D=.v<=
 
     22. $m1  londini 
 
-    23. veldedeio 
+    23. Veldedeio 
 
     24. equisioni <:(co(n))s|reg|cos:>((ularis)) 
 
-    25. a chrauttio 
+    25. a Chrauttio 
 
     26. fṛạtre 
 =>=D>

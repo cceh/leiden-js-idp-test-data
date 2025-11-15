@@ -1,5 +1,5 @@
-<S=.la<D=.r,1<=
-
+<S=.la<D=.r
+<D=.2.column<=
     1. (Cl(audia)) *middot* Seuer a(´) Lepidinae [suae] 
 
     2. [sa]ḷ[u]ṭẹm 
@@ -11,7 +11,7 @@
     5. libenter f̣aci a(´)s ut uenias 
 
     6. ad nos iụcundiorem mihi 
-=>=D><D=.r,2<=
+=>=D><D=.2.column<=
 
     7. [diem] interuent u(´) tuo factur a(´) si 
 
@@ -28,7 +28,7 @@
     13. mea ita ụạḷeam 
 
     14. <:carissima|reg|karissima:> ẹt haue 
-=>=D><D=.v<=
+=>=D>=D><D=.v<=
 
     15. $m1  Sulpiciae Lep̣idinaẹ 
 

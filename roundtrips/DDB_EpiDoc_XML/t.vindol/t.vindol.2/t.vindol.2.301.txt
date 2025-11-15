@@ -1,29 +1,30 @@
-<S=.la<D=.r,1<=
+<S=.la<D=.r
+<D=.1.column<=
 
-    1. ṣ[eu]ẹṛ[u]ṣ candido suo 
+    1. Ṣ[eu]ẹṛ[u]ṣ Candido suo 
 
     2. salutem 
 
     3. sọuxtum saturnalicium 
 
-    4. ((asses)) <#iiii=#> aut <:sex|reg|sexs:> rogo frater 
+    4. ((asses)) <#iiii=4#> aut <:sex|reg|sexs:> rogo frater 
 
     5. explices et radices ne mi
 
     6.- nus ((denarii)) (s(emissem)) 
-=>=D><D=.r,2<=
+=>=D><D=.2.column<=
 
     7. vac.? 
 
     7. uale frater 
 
     8. vac.? 
-=>=D><D=.v<=
+=>=D>=D><D=.v<=
 
-    8. candido genialis 
+    8. Candido Genialis 
 
     9. (p̣ṛạẹf̣(ecti)) 
 
-    10. a seuero 
+    10. a Seuero 
 
     11. .4ị ṣẹṛụọ =>=D>

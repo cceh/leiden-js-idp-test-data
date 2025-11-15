@@ -1,10 +1,10 @@
-<S=.la
-<D=.r,1<=
-    1. octauius candido fratri suo 
+<S=.la<D=.r
+<D=.1.column<=
+    1. Octauius Candido fratri suo 
 
     2. salutem 
 
-    3. a marino nerụi pondo centum <#=100#> 
+    3. a Marino nerụi pondo centum <#=100#> 
 
     4. explicabo e quo tu de hac 
 
@@ -20,7 +20,7 @@
 
     10. nisi mittis mi <:aliquid|reg|aliquit:> ((denariorum)) 
 =>=D>
-<D=.r,2<=
+<D=.2.column<=
     11. minime quingentos <#=500#> futurum 
 
     12. est ut quod <:arrae|reg|arre:> dedi perdam 
@@ -31,7 +31,7 @@
 
     15. ((denariorum)) mi mitte coria <:quae|reg|que:> scribis 
 
-    16. esse cataractonio scribe 
+    16. esse Cataractonio scribe 
 
     17. dentur mi et <:carrum|reg|karrum:> de quo 
 
@@ -41,18 +41,18 @@
 
     20. <:nisi|reg|nissi:> iumenṭa non curaui <:vexare|reg|uexsaṛe:> 
 
-    21. dum uiae <:malae|reg|male:> sunt uịde cum ṭertio 
+    21. dum uiae <:malae|reg|male:> sunt uịde cum Ṭertio 
 
-    22. de ((denariis)) <#viii=#> (s(emisse)) quos a Fatale accepit 
+    22. de ((denariis)) <#viii=8#> (s(emisse)) quos a Fatale accepit 
 
     23. non illos mi vac.? accepto tulit 
 =>=D>
-<D=.r,3<=
+<D=.3.column<=
     24. sciṭọ <:me|reg|ṃae:> explese 〚exple〛 coria 
 
-    25. <#clxx=#> et bracis excussi habeo 
+    25. <#clxx=170#> et bracis excussi habeo 
 
-    26. (m(odios)) <#cxix=#> fac ((denarios)) mi mittas ut possị
+    26. (m(odios)) <#cxix=119#> fac ((denarios)) mi mittas ut possị
 
     27.- ṃ spicam habere in excusso
 
@@ -67,31 +67,31 @@
     32.- signarem et ita ((denarios))
 <:datur33.- us|reg|datur33.- urus:> erat dixi ei coria in
 
-    34.- tra (k(alendas)) martias daturum idibus 
+    34.- tra (K(alendas)) Martias daturum idibus 
 =>=D>
-<D=.r,4<=
-    35. ianuariis constituerat se uentur
+<D=.4.column<=
+    35. Ianuariis constituerat se uentur
 
     36.- um nec interueniṭ nex curauit 
 
     37. accipere cum haberẹt coriạ si 
 
-    38. pecuniam ḍaret dabam ei fronti
+    38. pecuniam ḍaret dabam ei Fronti
 
-    39.- nium iulium audio magno lice
+    39.- nium Iulium audio magno lice
 
     40.- re pro coriaṭione quem hic 
 
     41. comparauit ((denarios)) quinos <#=5#> 
 
-    42. saluta spectatum i.3
+    42. saluta Spectatum Iạṇụạ
 
-    43.- ṛiuṃ firmum 
+    43.- ṛiuṃ Firmum 
 
-    44. epistulas a gleục̣one accepi 
+    44. epistulas a Gleục̣one accepi 
 
     45. (uạḷ(e)) 
-=>=D>
+=>=D>=D>
 <D=.v<=
-    1. vindol 
+    1. (|Vindol|) 
 =>=D>
