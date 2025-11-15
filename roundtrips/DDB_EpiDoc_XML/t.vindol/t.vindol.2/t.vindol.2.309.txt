@@ -1,37 +1,37 @@
-<S=.la<D=.r,1<=
-
-    1. meṭṭo aduec̣to plurimam sụo 
+<S=.la<D=.r
+<D=.1.column<=
+    1. Meṭṭo Aduec̣to plurimam sụo 
 
     2. salutem 
 
-    3. missi tibi materias per saconem 
+    3. missi tibi materias per Saconem 
 
-    4. modiola              (n(umero)) <#xxxiiii=#>  
+    4. modiola              (n(umero)) <#xxxiiii=34#>  
 
-    5. <:axes|reg|axses:> carrarios (n(umero)) <#xxxiix=#>  
+    5. <:axes|reg|axses:> carrarios (n(umero)) <#xxxiix=38#>  
 
-    6. inibi <:axis|reg|axsis:> tornaṭus (n(umero)) [<#i=#> ][.?] 
+    6. inibi <:axis|reg|axsis:> tornaṭus (n(umero)) [<#i=1#> ][.?] 
 
-    7. radia                (n(umero)) <#ccc=#>  
+    7. radia                (n(umero)) <#ccc=300#>  
 
-    8. <:axes|reg|axses:> ad lectum (n(umero)) <#xxṿi=#>  
+    8. <:axes|reg|axses:> ad lectum (n(umero)) <#xxṿi=26#>  
 
-    9. sessiones            (n(umero)) <#viii=#>  
+    9. sessiones            (n(umero)) <#viii=8#>  
 
-    10. bruscas             [(n(umero))] <#ịị=#>  
+    10. bruscas             [(n(umero))] <#ịị=2#>  
 
-    11. p̣luṭeạ               (ṇ(umero)) <#x̣x̣=#>[.?] 
-=>=D><D=.r,2<=
+    11. p̣luṭeạ               (ṇ(umero)) <#x̣x̣=20#>[.?] 
+=>=D><D=.2.column<=
 
-    12. [.?].1             (n(umero)) <#xxix=#>  
+    12. [.?].1             (n(umero)) <#xxix=29#>  
 
-    13. [.?].2ilia        (n(umero)) <#vi=#>  
+    13. [.?].2ilia        (n(umero)) <#vi=6#>  
 
-    14. [.?] ṃissi tibi pelliculas caprinas (n(umero)) <#vi=#>  
+    14. [.?] ṃissi tibi pelliculas caprinas (n(umero)) <#vi=6#>  
 
     15. vac.? 
 
     16. $m2  [opto] bene ualeas frater 
-=>=D><D=.v<=
+=>=D>=D><D=.v<=
 
     1. $m1  .2lin =>=D>
