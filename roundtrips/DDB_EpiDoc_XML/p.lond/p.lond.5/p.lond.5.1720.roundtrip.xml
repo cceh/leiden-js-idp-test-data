@@ -39,4 +39,36 @@
     <lb n="19"/><gap reason="lost" extent="unknown" unit="line"/> 
 </ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="19"/><handShift new="m2" cert="low"/> <supplied reason="lost">ἀ</supplied><unclear>π</unclear>οταγὴ <expan>γεναμέ<ex>νη</ex></expan> <expan><unclear>Α</unclear><supplied reason="lost">ὐρ</supplied><ex>ηλίας</ex></expan> <choice><reg>Νόννας</reg><orig>Νοννα</orig></choice> <choice><reg>τῆς</reg><orig>η</orig></choice> <expan>Τσαβίν<supplied reason="lost">ο</supplied><ex>υ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> </ab></div></div>
+    <lb n="19"/><handShift new="m2" cert="low"/> <supplied reason="lost">ἀ</supplied><unclear>π</unclear>οταγὴ <expan>γεναμέ<ex>νη</ex></expan> <expan><unclear>Α</unclear><supplied reason="lost">ὐρ</supplied><ex>ηλίας</ex></expan> <choice><reg>Νόννας</reg><orig>Νοννα</orig></choice> <choice><reg>τῆς</reg><orig>η</orig></choice> <expan>Τσαβίν<supplied reason="lost">ο</supplied><ex>υ</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="1"/><foreign xml:lang="cop"> <g type="rho-cross"/> ⲡ<choice><reg xml:lang="grc">λόγος</reg><orig>ⲗⲟⲅⲟⲥ</orig></choice> <hi rend="supraline">ⲛ</hi><unclear>ⲁϣ</unclear>ⲧⲟⲓⲡ.<gap reason="lost" quantity="2" unit="character" precision="low"/>
+
+    <lb n="2"/>ⲡⲉⲧⲉⲙⲟⲩⲧ <g type="dipunct"/> ⲥⲟⲟⲩ
+
+    <lb n="3"/><hi rend="supraline">ⲛ</hi><choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig><expan>ϩⲟⲗⲟⲕ<ex>ⲟⲧⲧⲓⲛⲟⲥ</ex></expan></orig></choice> ⲛⲉϩ<unclear>ⲃⲏ</unclear>ⲟⲩⲉ <choice><reg xml:lang="grc">δέ</reg><orig>ⲇⲉ</orig></choice>
+
+    <lb n="4"/>ⲉⲧⲟⲩϩ <g type="dipunct"/> ⲛⲁ<hi rend="diaeresis">ⲓ</hi>  ⲛⲉ <supplied reason="lost"><g type="dipunct"/></supplied>
+
+    <lb n="5"/><num value="3">ϣⲟⲙⲧⲉ</num> <hi rend="supraline">ⲙ</hi>ⲡⲟϭ<unclear>ⲉ</unclear> <supplied reason="lost"><hi rend="supraline">ⲛ</hi></supplied>ϣⲱⲡ <hi rend="supraline">ⲛ</hi>ϩⲁⲧ <g type="dipunct"/> 
+
+    <lb n="6"/><num value="2">ϩⲛⲁⲩ</num> <hi rend="supraline">ⲛ</hi>ϫⲓ ⲛϩⲟⲙ<hi rend="supraline">ⲛⲧ</hi> <g type="dipunct"/> 
+
+    <lb n="7"/>ⲟⲩ<choice><reg xml:lang="grc">λακάνη</reg><orig>ⲗⲁⲕⲁⲛⲏ</orig></choice> ⲃⲁⲣⲱⲧ <g type="dipunct"/> ⲉⲣⲉ ⲛⲁ<hi rend="diaeresis">ⲓ</hi> 
+
+    <lb n="8"/>ⲟⲩⲏϩ ϩ<unclear>ⲁ</unclear> <hi rend="supraline">ⲛ</hi><unclear>ⲛⲟ</unclear>ⲩ<unclear>ⲃ</unclear> ϩⲟⲟⲩ <g type="rho-cross"/> <supplied reason="lost">ca<gap reason="illegible" extent="unknown" unit="character"/></supplied>
+
+    <lb n="9"/><g type="rho-cross"/> ⲛⲉⲧⲟⲩⲏϩ <choice><reg xml:lang="grc">δέ</reg><orig>ⲇⲉ</orig></choice> <supplied reason="lost"><hi rend="supraline">ⲛ</hi></supplied>ⲁⲧⲙⲏⲥⲉ ⲉ<unclear>ⲧⲉ</unclear>
+
+    <lb n="10"/>ⲟⲩ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig><expan>ϩⲟⲗⲟⲕ<ex>ⲟⲧⲧⲓⲛⲟⲥ</ex></expan></orig></choice> ⲙ<hi rend="supraline">ⲛ</hi> <num value="6">ⲥⲟⲉ</num> <hi rend="supraline">ⲛ</hi><choice><reg xml:lang="grc">κεράτιον</reg><orig>ⲕⲉⲣⲁⲧⲥⲉ</orig></choice> <g type="dipunct"/>
+
+    <lb n="11"/><hi rend="supraline">ⲛ</hi>ⲉⲩⲱ ⲛⲉ ⲛⲁⲓ <g type="dipunct"/> ⲟⲩ<choice><reg xml:lang="grc">νίψις</reg><orig><supplied reason="lost">ⲛ</supplied>ⲏⲯⲓⲥ</orig></choice> <hi rend="supraline">ⲛ</hi>ⲉⲓⲁ
+
+    <lb n="12"/>ϭⲓϫ <g type="dipunct"/> ⲟⲩⲁⲣⲏ <supplied reason="lost"><hi rend="supraline">ⲛ</hi></supplied>ϩⲟⲙ<hi rend="supraline">ⲛⲧ</hi> <g type="dipunct"/>
+
+    <lb n="13"/>ⲟⲩϫⲓ <hi rend="supraline">ⲛ</hi>ϩⲟⲙ<hi rend="supraline">ⲛⲧ</hi> <supplied reason="lost">ϣ</supplied><unclear>ⲏ</unclear>ⲙ <g type="middot"/>
+
+    <lb n="14"/>ⲟⲩⲕ<hi rend="supraline">ⲛ</hi>ϫⲟⲩ ⲟⲩ<choice><reg xml:lang="grc">κηριάπτης</reg><orig>ⲕⲉⲣⲁⲡⲧⲏⲥ</orig></choice> <g type="dipunct"/>
+
+    <lb n="15"/>ⲟⲩ<choice><reg xml:lang="grc">κούκουμα</reg><orig>ⲕⲟⲕⲟⲩⲙⲁ</orig></choice> ⲙⲟⲟⲩ<g type="middot"/> </foreign>
+
+ </ab></div></div>
