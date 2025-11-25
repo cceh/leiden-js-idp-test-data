@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><hi rend="diaeresis">ὑ</hi>πατείας τῶν δεσποτῶν ἡμῶν Κωνσταντίου 
 
     <lb n="2"/>τὸ <num value="4">δ</num> καὶ Κώνσταντος τὸ <num value="3">γ</num> Αὐγούστων. 
@@ -9,9 +10,9 @@
 
     <lb n="5"/>Παησίου καὶ Σαρμάτου πρεσβυτέρου καὶ Παπνουτίου 
 
-    <lb n="6"/>Παησίου τῶν πάντων ἀπὸ κώμης <hi rend="diaeresis">Ἰ</hi>σείου 
+    <lb n="6"/>Παησίου τῶν πάντων ἀπὸ κώμης  <app type="editorial"><lem resp="PN C. Balamoshev (from image)"><hi rend="diaeresis">Ἴ</hi>στ<unclear>ρ</unclear>ου 
 
-    <lb n="7"/>Ζα<unclear>πίτ</unclear>ου. ἐπέθετο ἡμῖν ἡ ὑμῶν <choice><reg>ἐμμέλεια</reg><orig>ἐμμέλια</orig></choice> 
+    <lb n="7"/><num value="7">ζ</num> πάγου</lem><rdg><hi rend="diaeresis">Ἰ</hi>σείου<lb n="7"/>Ζα<unclear>πίτ</unclear>ου</rdg></app>. ἐπέθετο ἡμῖν ἡ ὑμῶν <choice><reg>ἐμμέλεια</reg><orig>ἐμμέλια</orig></choice> 
 
     <lb n="8"/>ὥστε Χωοῦν Ἡρακλήου <hi rend="diaeresis">ὑ</hi>ποβληθέν
 
@@ -33,4 +34,5 @@
 
     <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="18"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
+    <lb n="18"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
