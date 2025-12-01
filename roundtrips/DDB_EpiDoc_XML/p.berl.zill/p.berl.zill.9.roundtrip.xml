@@ -4,13 +4,13 @@
 
     <lb n="2" rend="indent"/>χαίρειν. 
 
-    <lb n="3"/>ἐτάξου μοι πρὸ τῆς <num value="1">α</num> τοῦ Φαῶφι 
+    <lb n="3"/><choice><reg>ἐτάξω</reg><orig>ἐτάξου</orig></choice> μοι πρὸ τῆς <num value="1">α</num> τοῦ Φαῶφι 
 
     <lb n="4"/>ἐλθεῖν ἐπὶ τὰς κρόκας καὶ τὸν στή
 
     <lb n="5" break="no"/>μονα τῶν ἱματίων, καὶ οὐκ ἦλθες. 
 
-    <lb n="6"/>καλῶς οὖν ποιήσῃς ἐξαυτῆς ἐλεύ
+    <lb n="6"/>καλῶς οὖν <app type="editorial"><lem resp="PN C. Balamoshev (from image)"><choice><reg>ποιήσεις</reg><orig>ποιήσις</orig></choice></lem><rdg>ποιήσῃς</rdg></app> ἐξαυτῆς ἐλεύ
 
     <lb n="7" break="no"/>σῃ πρὸς ἐμὲ. δεῖ γὰρ αὐτὰ ἕως 
 
@@ -24,11 +24,11 @@
 
     <lb n="12"/>ἐξαυτῆς φάσιν πέμψον, ἵνα 
 
-    <lb n="13"/>ὧδε αὐτὰ ἀναβαλῶ. βλέπε 
+    <lb n="13"/>ὧδε αὐτὰ ἀναβάλω. βλέπε 
 
     <lb n="14"/>οὖν, μὴ ἄλλως ποιήσῃς. 
 
-    <lb n="15" rend="indent"/>ἔρρωσο. 
+    <lb n="15" rend="indent"/><app type="editorial"><lem resp="PN C. Balamoshev (from image)"><choice><reg>ἔρρωσο</reg><orig>ἔρροσο</orig></choice></lem><rdg>ἔρρωσο</rdg></app>. 
 
     <lb n="16"/><expan><ex>ἔτους</ex></expan> <num value="2">β</num> Σερουίου Γάλβα Αὐτοκράτορος 
 
