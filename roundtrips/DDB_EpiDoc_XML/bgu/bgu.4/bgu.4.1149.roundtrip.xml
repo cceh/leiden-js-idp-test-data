@@ -12,7 +12,7 @@
 
     <lb n="6"/>Φίλιος εἰληφέναι παρά τε τοῦ Μάρκου καὶ τῆς Ἰσιδώρας δι<supplied reason="lost">ὰ</supplied> 
 
-    <lb n="7"/>τῆς Κάστορος κολλυβιστικῆς τραπέζης εἰς ἃ <add place="above">ἔλαβον <expan><unclear>πα</unclear><ex>ρὰ</ex></expan></add> <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/></del> 
+    <lb n="7"/>τῆς Κάστορος κολλυβιστικῆς τραπέζης εἰς ἃ <add place="above">ἔλαβον <expan><unclear>πα</unclear><ex>ρὰ</ex></expan></add> <del rend="erasure"><gap reason="illegible" quantity="6" unit="character"/></del> 
 
     <lb n="8"/>αὐτοῦ ὅ τε Μᾶρκος καὶ Ἰσιδώρα σὺν Σέξστωι <del rend="erasure"><gap reason="illegible" quantity="4" unit="character"/><unclear>ν</unclear>τίῳ</del> 
 
@@ -26,7 +26,7 @@
 
     <lb n="13"/>εἰς τὰς ἐπὶ τὸ αὐτὸ δραχμὰς <num value="550">φν</num> ἐ<unclear>πὶ</unclear> λόγω<unclear>ι</unclear> <add place="above"><del rend="erasure">παρὰ <expan><unclear>Σα</unclear><ex>ραπίωνος</ex></expan></del></add> <expan>ἀργυ<ex>ρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> 
 
-    <lb n="14"/>διακοσίας εἴκοσι <num value="2">δύο</num> <add place="above"><del rend="erasure">Μάρκου καὶ Ἰσιδώρας</del></add> <del rend="erasure"><unclear>καὶ</unclear> <unclear>εἰς</unclear> <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>μενον</del>, ἐκπ<unclear>επ</unclear>λ<unclear>ηρῶσθαι</unclear> 
+    <lb n="14"/><num value="222">διακοσίας εἴκοσι δύο</num> <add place="above"><del rend="erasure">Μάρκου καὶ Ἰσιδώρας</del></add> <del rend="erasure"><unclear>καὶ</unclear> <unclear>εἰς</unclear> <gap reason="illegible" quantity="8" unit="character"/>μενον</del>, ἐκπ<unclear>επ</unclear>λ<unclear>ηρῶσθαι</unclear> 
 
     <lb n="15"/>δὲ καὶ τοῖς ἀμφοτέρων τῶν δανείων τόκοις μέχρι Φαμενὼθ 
 
@@ -58,7 +58,7 @@
 
     <lb n="29"/>καὶ ταύτης γείνεσθαι τὴν πρᾶξιν τῷ Γαίωι <app type="editorial"><lem resp="P. van Minnen, Tyche 36 (2021) 206 (KorrTyche 1075)">Ἰουλίωι
 
-    <lb n="30"/>Φιλίωι</lem><rdg>Ἰουλίωι <milestone rend="paragraphos" unit="undefined"/> <lb n="30"/>Φιλίωι</rdg></app> ἔκ τε αὐτῶν τῶν <num value="2">δύο</num> <add place="above">ὄντων <expan>ἀλληλ<ex>εγγύων</ex></expan> εἰς <expan>ἔκ<ex>τισιν</ex></expan></add> καὶ ἐξ ἑ<num value="1">νὸς</num> καὶ ἐξ ὁποτέρ<unclear>ου</unclear> 
+    <lb n="30"/>Φιλίωι</lem><rdg>Ἰουλίωι <milestone rend="paragraphos" unit="undefined"/> <lb n="30"/>Φιλίωι</rdg></app> ἔκ τε αὐτῶν τῶν <num value="2">δύο</num> <add place="above">ὄντων <expan>ἀλληλ<ex>εγγύων</ex></expan> εἰς <expan>ἔκ<ex>τισιν</ex></expan></add> καὶ ἐξ <num value="1">ἑνὸς</num> καὶ ἐξ ὁποτέρ<unclear>ου</unclear> 
 
     <lb n="31"/>οὗ ἐὰν αὐτῶν αἱρῆται <del rend="erasure">καὶ ἐκ τῶν ὑπαρχόντων αὐτοῖς πάντων, ἔτι δὲ</del> 
 

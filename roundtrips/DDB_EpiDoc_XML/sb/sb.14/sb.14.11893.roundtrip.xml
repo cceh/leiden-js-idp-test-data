@@ -15,7 +15,7 @@
 
     <lb n="8"/><unclear>ἐκ</unclear> <unclear>συν</unclear>τιμήσεως χαλκοῦ δραχμῶν 
 
-    <lb n="9"/><unclear>πεντα</unclear>κοσίων, ὁμ<unclear>οίως</unclear> δ<unclear>ὲ</unclear> καὶ ἐν τῶι 
+    <lb n="9"/><num value="500"><unclear>πεντα</unclear>κοσίων</num>, ὁμ<unclear>οίως</unclear> δ<unclear>ὲ</unclear> καὶ ἐν τῶι 
 
     <lb n="10"/><unclear>ὑπά</unclear>ρχοντί μοι παραδείσωι ἐρήμωι 
 
@@ -25,7 +25,7 @@
 
     <lb n="13"/><unclear>ἐκ</unclear> <unclear>σ</unclear>υντιμήσεως χαλκοῦ δραχμῶν 
 
-    <lb n="14"/><supplied reason="lost">πεντ</supplied>ακοσίων καὶ περὶ τὴν <unclear>αὐτὴν</unclear> <supplied reason="lost">ὧν</supplied> 
+    <lb n="14"/><num value="500"><supplied reason="lost">πεντ</supplied>ακοσίων</num> καὶ περὶ τὴν <unclear>αὐτὴν</unclear> <supplied reason="lost">ὧν</supplied> 
 
     <lb n="15"/><unclear>ὠνη</unclear>σάμην <unclear>μ</unclear>ου νεοφύτων φοινίκων 
 
@@ -35,9 +35,9 @@
 
     <lb n="18"/><gap reason="illegible" quantity="3" unit="character"/>υ<gap reason="illegible" quantity="4" unit="character"/>εων<gap reason="illegible" quantity="2" unit="character"/>αμ<gap reason="illegible" quantity="3" unit="character"/> χαλκοῦ 
 
-    <lb n="19"/><unclear>δραχμῶν</unclear> <unclear>δι</unclear>ακοσίων ὥστʼ εἶναι χαλκοῦ 
+    <lb n="19"/><unclear>δραχμῶν</unclear> <num value="200"><unclear>δι</unclear>ακοσίων</num> ὥστʼ εἶναι χαλκοῦ 
 
-    <lb n="20"/><unclear>δραχμὰς</unclear> <unclear>χι</unclear>λίας διακο<unclear>σίας</unclear> ὧν τὴν 
+    <lb n="20"/><unclear>δραχμὰς</unclear> <num value="1000"><unclear>χι</unclear>λίας διακο<unclear>σίας</unclear></num> ὧν τὴν 
 
     <lb n="21"/>γινομένην ἀπόμοιραν χαλκοῦ <expan><ex>δραχμὰς</ex></expan> <num value="120">ρκ</num> 
 
