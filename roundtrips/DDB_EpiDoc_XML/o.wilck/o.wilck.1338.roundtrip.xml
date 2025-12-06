@@ -5,6 +5,6 @@
 
     <lb n="3"/><expan>τρά<ex>πεζαν</ex></expan>, ἐφʼ ἧς Διόδοτος, βασιλεῖ εἰς τὸ <num value="22">κβ</num> <expan><ex>ἔτος</ex></expan> 
 
-    <lb n="4"/>α<gap reason="illegible" quantity="3" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/>ικοῦ Φιλοκλῆς Νίκωνος 
+    <lb n="4"/> <app type="editorial"><lem resp="BL 2.1.17">ἀμπ<unclear>ελ</unclear>ικοῦ</lem><rdg>α<gap reason="illegible" quantity="3" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/>ικοῦ</rdg></app> Φιλοκλῆς Νίκωνος 
 
     <lb n="5"/><expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> πεντήκοντα <expan><ex>γίνονται</ex></expan> <num value="50">ν</num>. <g type="xs"/> Ἀρίστων <expan>γρ<ex>αμματεύς</ex></expan>. </ab></div>
