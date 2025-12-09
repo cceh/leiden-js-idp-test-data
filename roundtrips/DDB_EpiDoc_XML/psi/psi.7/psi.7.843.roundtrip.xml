@@ -1,9 +1,10 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>τῷ δεσπότῃ μου γεούχῳ 
 
     <lb n="2"/>Εὐδαίμωνι Ἰωάννης ἐν κυρίῳ 
 
-    <lb n="3"/><unclear>χ</unclear>αίρειν 
+    <lb n="3" rend="indent"/><unclear>χ</unclear>αίρειν 
 
     <lb n="4"/><choice><reg>ὑπεδεξάμην</reg><orig>ὑπαιδεξάμ<supplied reason="lost">η</supplied>ν</orig></choice> γρά<supplied reason="lost">μ</supplied><unclear>μ</unclear>ατα τῆς <choice><reg>εὐγενείας</reg><orig>εὐγενία<add place="above">ς</add></orig></choice> 
 
@@ -13,7 +14,7 @@
 
     <lb n="7"/>π<unclear>α</unclear>ρεγένετο πρός με ἐπὶ τὸν οἰκο
 
-    <lb n="8" break="no"/>δόμον, ὡς ἐδήλωσέν μοι ἡ σὴ <choice><reg>εὐγενεί</reg><orig>εὐγενί</orig></choice><expan><ex>α</ex></expan>. 
+    <lb n="8" break="no"/>δόμον, ὡς ἐδήλωσέν μοι ἡ σὴ <choice><reg><expan>εὐγενεί<ex>α</ex></expan></reg><orig><expan>εὐγενί<ex>α</ex></expan></orig></choice>. 
 
     <lb n="9"/>παρακαλῶ καὶ <choice><reg>δέομαι</reg><orig>δαίομαι</orig></choice> <choice><reg>ὥστε</reg><orig>ὥσται</orig></choice> 
 
@@ -27,8 +28,9 @@
 
     <lb n="14"/>δοκοὺς φέρω καὶ σκεπάζω <hi rend="diaeresis">ἵ</hi>να 
 
-    <lb n="15"/>μὴ ἀτέλεστον <unclear>ὑ</unclear>πολ<unclear>ύ</unclear>σωμεν τὸ κυ
+    <lb n="15"/>μὴ ἀτέλεστον <app type="editorial"><lem resp="PN C. Balamoshev (from image)">ἀπολύσωμεν</lem><rdg><unclear>ὑ</unclear>πολ<unclear>ύ</unclear>σωμεν</rdg></app> τὸ κυ
 
     <lb n="16" break="no"/>ριακόν. <choice><reg>εἰ</reg><orig><hi rend="diaeresis">ἰ</hi></orig></choice> γὰρ ἐν ἄλλῳ τόπῳ 
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> δεσπότην </ab></div>
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> δεσπότην 
+</ab></div>
