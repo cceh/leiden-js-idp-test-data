@@ -1,5 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
     <lb n="1"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan> <num value="1">α</num></supplied><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost"> Ἀντωνείνου Καίσαρος τοῦ κυρ</supplied>ίου Τῦβι <num value="21">κα</num> 
 
     <lb n="2"/><gap reason="lost" quantity="21" unit="character"/><supplied reason="lost"> ἀναδο</supplied>θεὶς εἰς ἀμφοδαρ<unclear>χ</unclear>ίαν 
@@ -37,8 +37,8 @@
     <lb n="18"/><gap reason="lost" quantity="39" unit="character"/> 
 
     <lb n="19"/><gap reason="lost" extent="unknown" unit="line"/> 
-</ab></div><div n="2" type="textpart"><ab>
-
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
     <lb n="19"/><expan><ex>ἔτους</ex></expan> <num value="18">ιη</num> Ἀν<unclear>τ</unclear><supplied reason="lost">ω</supplied>νείνου Καίσαρος τοῦ κυρίου <del rend="erasure">ἐν <unclear>Μ</unclear>έμφι</del> Φαρμοῦ
 
     <lb n="20" break="no"/>θι <num value="12">ιβ</num>. ἐ<unclear>ν</unclear> <unclear>Μ</unclear>έμφι ἐξ αἰτημάτων Μεμφιτῶν. μεθʼ ἕτερα 
@@ -53,7 +53,7 @@
 
     <lb n="25" break="no"/>ματα <supplied reason="lost">κρί</supplied><unclear>ν</unclear>εται· τὰ γάρ διατεταγμένα μένει καὶ ἀσάλευ
 
-    <lb n="26" break="no"/>τά ἐσ<supplied reason="lost">τι κ</supplied>αὶ οἶμαι ὅτι ὑπὸ πάντων τηρεῖται τόδε· πα
+    <lb n="26" break="no"/>τά ἐσ<supplied reason="lost">τι κ</supplied>αὶ οἶμαι ὅτι ὑπὸ πάντων <app type="editorial"><lem resp="PN C. Balamoshev">τηρεῖται· τὸ δὲ</lem><rdg>τηρεῖται τόδε·</rdg></app> πα
 
     <lb n="27" break="no"/>ραβα<supplied reason="lost">ίνει</supplied>ν τὰ διατεταγμένα τοιοῦτόν ἐστιν ὁποῖον 
 
@@ -77,4 +77,5 @@
 
     <lb n="37"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="11" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="38"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div></div>
+    <lb n="38"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div></div>
