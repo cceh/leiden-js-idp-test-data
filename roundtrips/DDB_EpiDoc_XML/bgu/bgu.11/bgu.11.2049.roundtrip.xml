@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost"> ἐν Ἡ</supplied>ρακλ<supplied reason="lost">εί</supplied>ᾳ <supplied reason="lost">τῆς Θεμίστ</supplied><unclear>ο</unclear><supplied reason="lost">υ</supplied> 
 
     <lb n="2"/><supplied reason="lost">με</supplied><unclear>ρ</unclear><supplied reason="lost">ί</supplied><unclear>δ</unclear><supplied reason="lost">ο</supplied><unclear>ς</unclear> τοῦ Ἀρσινο<unclear>ε</unclear><supplied reason="lost">ίτου νομο</supplied>ῦ. 
@@ -23,9 +24,9 @@
 
     <lb n="12" break="no"/><unclear>οῦ</unclear>τον ἀναπόριφον <supplied reason="omitted">καὶ</supplied> ἀπέχειν <choice><reg>τι
 
-    <lb n="13" break="no"/>μὴν</reg><orig>τει<lb n="13" break="no"/>μὴν</orig></choice> ἀργυρίου δραχμὰς ἑκατὸν εἴκο
+    <lb n="13" break="no"/>μὴν</reg><orig>τει<lb n="13" break="no"/>μὴν</orig></choice> ἀργυρίου δραχμὰς <num value="120">ἑκατὸν εἴκο
 
-    <lb n="14" break="no"/>σι <num value="120"/> παραχ<supplied reason="lost">ρῆ</supplied>μα διὰ χειρὸς καὶ 
+    <lb n="14" break="no"/>σι</num> παραχ<supplied reason="lost">ρῆ</supplied>μα διὰ χειρὸς καὶ 
 
     <lb n="15"/><choice><reg>βεβαιώσειν</reg><orig>βεβαιωσι</orig></choice> πάσῃ <choice><reg>βεβαιωσει</reg><orig>βεβαιωσι</orig></choice>. 
 
@@ -37,4 +38,5 @@
 
     <lb n="19"/>καθὼς πρόκιται 
 
-    <lb n="20"/><supplied reason="lost">ἐντέτακ</supplied>ται διὰ τοῦ <unclear>ἐ</unclear><supplied reason="lost">ν </supplied><expan><supplied reason="lost">Ἡ</supplied><unclear>ρακ</unclear><ex>λείᾳ</ex></expan> <expan><unclear>γρ</unclear><ex>αφείου</ex></expan>. </ab></div>
+    <lb n="20"/><app type="editorial"><lem resp="W.G. Claytor, Pylon 8 (2025) 9 §11"><expan><unclear>ἐ</unclear>γρά<ex>φη</ex></expan> διὰ τοῦ ἐ<supplied reason="lost">ν</supplied> <expan><unclear>Ἡ</unclear>ρα<unclear>κ</unclear><ex>λείᾳ</ex></expan> <expan>γρα<ex>φείου</ex></expan></lem><rdg><supplied reason="lost">ἐντέτακ</supplied>ται διὰ τοῦ <unclear>ἐ</unclear><supplied reason="lost">ν </supplied><expan><supplied reason="lost">Ἡ</supplied><unclear>ρακ</unclear><ex>λείᾳ</ex></expan> <expan><unclear>γρ</unclear><ex>αφείου</ex></expan></rdg></app>. 
+</ab></div>
