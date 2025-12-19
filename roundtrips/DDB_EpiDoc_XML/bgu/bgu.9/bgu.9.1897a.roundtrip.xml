@@ -126,7 +126,7 @@
 
     <lb n="62"/><expan>Ἀλέξανδ<ex>ρος</ex></expan> <expan>γ<unclear>υ</unclear><ex>μνασίαρχος</ex></expan> 
 
-    <lb n="63"/>οἴκου <abbr>Πτολε</abbr> πατρὸς <unclear>Β</unclear>α<gap reason="lost" quantity="1" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/></abbr> <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <expan><ex>ἄρουραι</ex></expan> <num value="20"><unclear>κ</unclear></num> <num value="1/12" rend="tick"><unclear>ιβ</unclear></num> 
+    <lb n="63"/>οἴκου <app type="editorial"><lem resp="BL 9.29"><expan>Πτολε<ex>μαίου</ex></expan> πατρὸς <expan><unclear>β</unclear>α<supplied reason="lost">σι</supplied><unclear>λ</unclear><ex>ίσσης</ex></expan></lem><rdg><abbr>Πτολε</abbr> πατρὸς <unclear>Β</unclear>α<gap reason="lost" quantity="1" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/></abbr></rdg></app> <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <expan><ex>ἄρουραι</ex></expan> <num value="20"><unclear>κ</unclear></num> <num value="1/12" rend="tick"><unclear>ιβ</unclear></num> 
 
     <lb n="64"/>Χόις Ἡρᾶ 
 
