@@ -1,7 +1,7 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
     <lb n="1"/><unclear>π</unclear><supplied reason="lost">α</supplied>ρὰ Μυσθαρίωνος Ἡρακλείδου καὶ Πνεφερῶτος Σατα
 
-    <lb n="2" break="no"/>βοῦτος καὶ Μύσθου Ἀλεξίωνος καὶ Χαιρήμωνος <expan>Ε<unclear>ὐδ</unclear>αί<ex>μονος</ex></expan> 
+    <lb n="2" break="no"/>βοῦτος καὶ Μύσθου Ἀλεξίωνος καὶ <choice><reg>Χαιρήμονος</reg><orig>Χαιρήμωνος</orig></choice> <expan>Ε<unclear>ὐδ</unclear>αί<ex>μονος</ex></expan> 
 
     <lb n="3"/>καὶ Χαιρᾶτος Ἀπολλωνίου καὶ Ζωίλου Ἀπίωνος καὶ <expan>Ἁρ<unclear>πά</unclear>λ<ex>ου</ex></expan> 
 
@@ -13,7 +13,7 @@
 
     <lb n="7"/>μετόχοις <expan>σιτολ<ex>όγοις</ex></expan> τῆς αὐτῆς κώμης <expan>χαί<ex>ρειν</ex></expan>. <choice><reg>ἔχομεν</reg><orig>ἔχωμεν</orig></choice> π<supplied reason="lost">αρʼ</supplied> 
 
-    <lb n="8"/>ὑ<supplied reason="lost">μ</supplied>ῶν <unclear>ἄ</unclear>λλας μεθʼ ἃς προεπεσταλμέναι <choice><reg>εἰσὶ</reg><orig>προεπεσταλκαταὶ</orig></choice> ἡμῖν 
+    <lb n="8"/>ὑ<supplied reason="lost">μ</supplied>ῶν <unclear>ἄ</unclear>λλας μεθʼ ἃς <app type="editorial"><lem resp="BL 12.32"><choice><reg>προεπεστάλκατε</reg><orig>προεπεστάλκαται</orig></choice></lem><rdg><choice><reg>προεπεσταλμέναι εἰσὶ</reg><orig>προεπεστάλκαται</orig></choice></rdg></app> ἡμῖν 
 
     <lb n="9"/>πρὸ χρηματισμοῦ εἰς <choice><reg>δάνεια</reg><orig>δάνια</orig></choice> σπέρμα<unclear>τ</unclear>α τῆς τοῦ 
 
@@ -31,7 +31,7 @@
 
     <lb n="16"/><choice><reg>ἀνα<supplied reason="omitted">δι</supplied>δουμένων</reg><orig>ἀναδουμένων</orig></choice> <choice><reg>λήψεσθαι</reg><orig>λήμψεσσθαι</orig></choice> ὑπὸ τοῦ ὑφʼ ἡμῶν 
 
-    <lb n="17"/><choice><reg>ὑποσυσταθέντος</reg><orig>ἁποσυσταθεντες</orig></choice>, ὡς <choice><reg>ὑμεῖς</reg><orig>ὑμῖς</orig></choice> <choice><reg>ἐφεῖτε</reg><orig>ἐφῆται</orig></choice>, Πανεσνέως Ὅρου. 
+    <lb n="17"/><choice><reg>ὑποσυσταθέντος</reg><orig>ἀποσυσταθέντες</orig></choice>, ὡς <choice><reg>ὑμεῖς</reg><orig>ὑμῖς</orig></choice> <choice><reg>ἐφεῖτε</reg><orig>ἐφῆται</orig></choice>, Πανεσνέως <choice><reg>Ὥρου</reg><orig>Ὅρου</orig></choice>. 
 
     <lb n="18"/><handShift new="m2"/> Μυσθαρίων Ἡρακλείδου συν
 
@@ -45,8 +45,7 @@
 
     <lb n="23"/>γόνατι δεξιῷ.  <expan>Πετερμοῦ<unclear>θ</unclear><ex>ις</ex></expan> <expan><ex>ἐτῶν</ex></expan> <num value="30">λ</num> <expan>οὐλ<ex>ὴ</ex></expan> <expan>δακ<ex>τύλῳ</ex></expan> <choice><reg>μικρῷ</reg><orig>μικρο</orig></choice> <expan>χ<ex>ειρὸς</ex></expan> <expan><ex>ἀριστερᾶς</ex></expan> 
 
-    <lb n="24"/><unclear>οἱ</unclear> <unclear>ἑπτὰ</unclear> <num value="7"/> διʼ <abbr>Ἀφροδ</abbr>νομικοῦ φάμενοι μὴ 
-<choice><reg>εἰδέ<lb n="25" break="no"/>ναι</reg><orig>ἰδέ<lb n="25" break="no"/>νε</orig></choice> <expan>γρά<ex>μματα</ex></expan>. 
+    <lb n="24"/><unclear>οἱ</unclear> <unclear>ἑπτὰ</unclear> <num value="7"/> διʼ <abbr>Ἀφροδ</abbr>νομικοῦ φάμενοι μὴ <choice><reg>εἰδέ<lb n="25" break="no"/>ναι</reg><orig>ἰδέ<lb n="25" break="no"/>νε</orig></choice> <expan>γρά<ex>μματα</ex></expan>. 
 
     <lb n="26"/><expan><ex>ἔτους</ex></expan> <num value="8"><unclear>η</unclear></num> <unclear>Ἀντ</unclear>ωνίνου καὶ Οὐήρου τῶν κυρίων <expan>Σεβαστ<ex>ῶν</ex></expan> 
 
