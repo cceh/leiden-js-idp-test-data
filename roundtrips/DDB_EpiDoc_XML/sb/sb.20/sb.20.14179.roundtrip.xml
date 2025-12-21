@@ -5,13 +5,13 @@
 
     <lb n="3"/>κωμ<unclear>άρ</unclear>χου Ἀργεάδος κλήρων
 
-    <lb n="4"/>τῶν <unclear>πα</unclear>ρειλημμένων μετὰ τὴν
+    <lb n="4"/>τῶν <app type="editorial"><lem resp="PN R. Vecchiato (from photo)"><unclear>ἀ</unclear>νειλημμένων</lem><rdg><unclear>πα</unclear>ρειλημμένων</rdg></app> μετὰ τὴν
 
     <lb n="5"/>διαγραφὴν τοῦ σπόρου καθότι καὶ
 
     <lb n="6"/>ὁ κωμογραμματεὺς ἀναφέρει.
 <milestone rend="paragraphos" unit="undefined"/>
-    <lb n="7"/><expan><ex>ἑκατονταρούρων</ex></expan> κλήρων·
+    <lb n="7"/><app type="editorial"><lem resp="BL 10.225"><expan><ex>ἑκατονταρουρικῶν</ex></expan></lem><rdg><expan><ex>ἑκατονταρούρων</ex></expan></rdg></app> κλήρων·
 
     <lb n="9"/>Πυρρίου τοῦ Πύθωνος <expan><ex>ἄρουραι</ex></expan> <num value="100">ρ</num> <expan><ex>ἀφʼ ὧν</ex></expan>
 
