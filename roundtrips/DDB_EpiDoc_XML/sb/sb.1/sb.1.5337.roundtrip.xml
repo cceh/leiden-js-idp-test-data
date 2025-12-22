@@ -1,16 +1,1 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/>ἀπὸ Ἡρακλέως <gap reason="lost" extent="unknown" unit="character"/> 
-
-    <lb n="2"/>ἀπὸ Κυνῶν     <gap reason="lost" extent="unknown" unit="character"/> 
-
-    <lb n="3"/>ἀπὸ Μέμφεως   <gap reason="lost" extent="unknown" unit="character"/> 
-
-    <lb n="4"/>ἀπὸ Λητοῦς    <gap reason="lost" extent="unknown" unit="character"/> 
-
-    <lb n="5"/>ἀπὸ Νείλου πόλεως <expan><ex>δραχμαὶ</ex></expan> <num value="1500">Αφ</num> 
-
-    <lb n="6"/><expan>ὁ<ex cert="low">μοῦ</ex></expan> <expan><ex>λίτραι</ex></expan> <num value="1506">Αφϛ</num> 
-
-    <lb n="7"/><expan>γί<ex>νεται</ex></expan> <expan>τ<ex>ὸ</ex></expan> <expan>π<ex>ᾶ</ex></expan><unclear>ν</unclear> ἀπὸ <expan>Ἀρκαδί<ex>ας</ex></expan> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
-
-    <lb n="8"/><g type="slanting-stroke"/> <g type="slanting-stroke"/> ἀπ<unclear>ὸ</unclear> τοῦ <expan>Ἀρσιν<ex cert="low">οί</ex>τ<ex>ου</ex></expan> <expan><ex>λίτραι</ex></expan> <num value="2705">Βψε</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> </ab></div>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab/></div>
