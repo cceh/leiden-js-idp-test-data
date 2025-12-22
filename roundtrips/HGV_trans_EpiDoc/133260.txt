@@ -1,0 +1,17 @@
+
+         <T=.en
+            <=
+               ((1)) In the twelfth year of the Imperator Caesar Trajan Hadrian Augustus,
+                      on the 5th day of the epagomenai of the month Kaisareios, in Theadelpheia
+                      of the meris of Themistos ((5)) of the Arsinoite nome, Didas (son of X), being
+                      about forty two years old, (with a scar) ..., handed over to his nephew Y, being
+                      about twenty five years old, (with a scar) on the left ..., his own ((10)) son
+                      Z for a period of one year from the first of the month Sebastos of the coming
+                      thirteenth year of Hadrian Caesar the lord (to teach) him fully the ((15)) whole
+                      craft of carpentry ... as he himself knows ... maintaining and clothing the boy
+                      ... while it is not permitted to Didas to take the ((20)) boy away within the time
+                      and I will not take him away from you ...
+                      /*Translation: C. Eckerman, BASP 48 (2011) 48*/
+            =>
+         =T>
+      

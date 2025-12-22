@@ -1,7 +1,8 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/><expan>διεγρ<ex cert="low">άφη</ex></expan> διʼ <choice><reg>ὑμῶν</reg><orig>ἡμῶν</orig></choice> Κλαυδίου Περ
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><expan>διεγρ<ex cert="low">άφη</ex></expan> διʼ <app type="editorial"><lem resp="BL 2.1.70">ἡμῶν</lem><rdg><choice><reg>ὑμῶν</reg><orig>ἡμῶν</orig></choice></rdg></app> Κλαυδίου Περ
 
-    <lb n="2" break="no"/>ναίου καὶ <expan><ex>μετό</ex>χ<ex>ων</ex></expan> <expan>πρακ<ex>τόρων</ex></expan> <expan>ἀργ<ex>υρικῆς</ex></expan> <expan>κώ<ex>μης</ex></expan> <expan>Ἀπολ<ex>λωνιάδος</ex></expan> <num value="6">ϛ</num> <expan><ex>ἔτους</ex></expan> 
+    <lb n="2" break="no"/>ναίου καὶ <expan><ex>μετό</ex>χ<ex>ων</ex></expan> <expan>πρακ<ex>τόρων</ex></expan> <expan>ἀργ<ex>υρικῆς</ex></expan> <expan>κώ<ex>μης</ex></expan> <app type="editorial"><lem resp="BL 2.1.70"><expan>Ἀπόλ<ex>λωνος</ex></expan></lem><rdg><expan>Ἀπολ<ex>λωνιάδος</ex></expan></rdg></app> <num value="6">ϛ</num> <expan><ex>ἔτους</ex></expan> 
 
     <lb n="3"/><expan>ὑπ<ex>ὲρ</ex></expan> <expan>τέλ<ex>ους</ex></expan> ναυπηγῶν <expan>ὀνό<ex>ματος</ex></expan> <abbr>Πασμετ</abbr> 
 
@@ -15,12 +16,13 @@
 
     <lb n="8"/><expan><ex>δραχμὰς</ex></expan> <num value="8">η</num> Μεσορὴ <num value="6">ϛ</num>. 
 
-    <lb n="9"/><gap reason="illegible" quantity="3" unit="character"/><expan><ex>  </ex></expan> Ἡρακλείδου. 
+    <lb n="9"/><app type="editorial"><lem resp="BL 2.1.70">διὰ</lem><rdg><gap reason="illegible" quantity="3" unit="character"/><expan><ex>  </ex></expan></rdg></app> Ἡρακλείδου. 
 
-    <lb n="10"/><handShift new="m2"/> <expan>διεγρ<ex cert="low">άφη</ex></expan> διʼ <choice><reg>ὑμῶν</reg><orig>ἡμῶν</orig></choice> <expan>πρακ<ex>τόρων</ex></expan> <expan>ἀργ<ex>υρικῆς</ex></expan> <expan>Ἀπολ<ex>λωνιάδος</ex></expan> <expan>κώ<ex>μης</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>τέλ<ex>ους</ex></expan> 
+    <lb n="10"/><handShift new="m2"/> <expan>διεγρ<ex cert="low">άφη</ex></expan> διʼ <app type="editorial"><lem resp="BL 2.1.70">ἡμῶν</lem><rdg><choice><reg>ὑμῶν</reg><orig>ἡμῶν</orig></choice></rdg></app> <expan>πρακ<ex>τόρων</ex></expan> <expan>ἀργ<ex>υρικῆς</ex></expan> <app type="editorial"><lem resp="BL 2.1.70"><expan>Ἀπόλ<ex>λωνος</ex></expan></lem><rdg><expan>Ἀπολ<ex>λωνιάδος</ex></expan></rdg></app> <expan>κώ<ex>μης</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>τέλ<ex>ους</ex></expan> 
 
     <lb n="11"/>ναυπηγῶν <expan>ὀνό<ex>ματος</ex></expan> <abbr>Πασμετπ</abbr> καὶ 
 
-    <lb n="12"/>Πετοσείρεως Πανεβχοίνεως 
+    <lb n="12"/><app type="editorial"><lem resp="BL 2.1.70">Πετοσίρεως</lem><rdg>Πετοσείρεως</rdg></app> Πανεβχοίνεως 
 
-    <lb n="13"/><supplied reason="lost">τεσσα</supplied>ράκοντα <expan><ex>γίνονται</ex></expan> <expan><ex cert="low">δραχμαὶ</ex></expan> <num value="40">μ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num>. </ab></div>
+    <lb n="13"/><supplied reason="lost">τεσσα</supplied>ράκοντα <expan><ex>γίνονται</ex></expan> <expan><ex cert="low">δραχμαὶ</ex></expan> <num value="40">μ</num> <expan><ex>ὀβολοὶ</ex></expan> <num value="4">δ</num> <num value="1/2">𐅵</num>. 
+</ab></div>
