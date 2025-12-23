@@ -1,0 +1,15 @@
+
+         <T=.en
+            <=
+               ((1)) To Harpocration, strategos of Themistes and Polemon divisions of Arsinoite nome,
+               ((3)) from Panephremmis, son of Heron, grandson of Heron, his mother Tapheus, both from
+                      the village Theadelphia. ((6)) I register myself for the house-by-house registration of the past
+                      23rd year of the god Aelius Antoninus. ((9)) And I am the aforementioned Panephremmis, 59
+                      years old, have my residence in a tenement-house of an estate in the village Apias of the
+                      same division, therefore I present the declaration. ((14)) The first year of the Imperator Caesar
+                      Marcus Aurelius Antoninus Augustus and the Imperator Caesar Lucius Aurelius Verus
+                      Augustus, the first (?) of Mesore.
+                      /*Translation: M.O. Sayed, BACPS 27 (2010) 19*/
+            =>
+         =T>
+      
