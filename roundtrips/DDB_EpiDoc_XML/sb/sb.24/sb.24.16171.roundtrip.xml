@@ -1,10 +1,10 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1" rend="indent"/><expan>ἀπέδ<ex>οτο</ex></expan> <surplus>βαβ</surplus> <expan>Βαρβεσυ<ex>μης</ex></expan> Βαρσημαιου <expan>Ἀντων<ex>ιανῆς</ex></expan>
 
-    <lb n="1"/><expan>ἀπέδ<ex>οτο</ex></expan> <surplus>βαβ</surplus> <expan>Βαρβεσυ<ex>μης</ex></expan> Βαρσημαιου <expan>Ἀντων<ex>ιανῆς</ex></expan>
+    <lb n="2" rend="indent"/><num value="750"><hi rend="supraline">ψν</hi></num> <choice><reg>Νισραιαβου</reg><orig>Νισραειαβου</orig></choice> Ουορωδου Βηφουραιων
 
-    <lb n="2"/><num value="750">ψν</num> <choice><reg>Νισραιαβου</reg><orig>Νισραειαβου</orig></choice> Ουορωδου Βηφουραιων
-
-    <lb n="3"/><choice><reg>ὑπόπυρρον κατηρτυκυῖαν</reg><orig>ὑποπυρον  κατηρτικυεια</orig></choice> μηρῷ δεξιῷ.
+    <lb n="3" rend="indent"/><choice><reg>ὑπόπυρρον κατηρτυκυῖαν</reg><orig>ὑποπυρον  κατηρτικυεια</orig></choice> μηρῷ δεξιῷ.
 
     <lb n="4"/>ἐπὶ ὑπάτων τοῦ κυρίου ἡμῶν Αὐτοκράτορος Καίσαρος
 
@@ -14,7 +14,7 @@
 
     <lb n="7" break="no"/>νὸς Δαισίου ἑβδόμῃ τοῦ <choice><reg><num value="561">φξα</num></reg><orig>αξφ</orig></choice> ἔτους ἐν Αὐρηλίᾳ Κάρ
 
-    <lb n="8" break="no"/>παις <choice><reg>κολωνίᾳ</reg><orig>κολωνείᾳ</orig></choice> μητροπόλει Μεσοποταμίας ἐπὶ
+    <lb n="8" break="no"/>ραις <choice><reg>κολωνίᾳ</reg><orig>κολωνείᾳ</orig></choice> μητροπόλει Μεσοποταμίας ἐπὶ
 
     <lb n="9"/>μαρτύρων. ἀπέδοτο Αὐρήλιος Βαρβεσυμης Βαρ
 
@@ -32,24 +32,24 @@
 
     <lb n="16"/>παρὰ τοῦ πριαμένου  παρέδωκεν αὐτῷ τὴν
 
-    <lb n="17"/><choice><reg>ἱππάδα ὑγιῆ</reg><orig>ἱππαδαν  υγιην</orig></choice> καὶ ἀναδέχεται ἵνʼ ἐάν τις ἀντι
+    <lb n="17"/><choice><reg>ἱππάδα</reg><orig>ἱππαδαν</orig></choice> <choice><reg>ὑγιῆ</reg><orig>ὑγιῆν</orig></choice> καὶ ἀναδέχεται ἵνʼ ἐάν τις ἀντι
 
     <lb n="18" break="no"/>ποιηθῇ, αὐτὸν στάντα διεκδικήσειν τὴν πρᾶσιν·
 
     <lb n="19"/>εἰ δὲ μή, <choice><reg>ἐκτίσει</reg><orig>ἐκτείσει</orig></choice> τὴν <choice><reg>τιμὴν</reg><orig>τειμὴν</orig></choice> καὶ τὸ βλάβος, πίστε
 
-    <lb n="20" break="no"/>ως ἐπηρωτημένης καὶ <expan>ὡμ<ex>ολογημένης</ex></expan>. <note xml:lang="en">syrian</note>
+    <lb n="20" break="no"/>ως ἐπηρωτημένης καὶ <expan>ὡμ<ex>ολογημένης</ex></expan>. <gap reason="ellipsis" extent="unknown" unit="character"><desc>Syriac</desc></gap>
 
     <lb n="21"/><gap reason="ellipsis" quantity="4" unit="line"><desc>Syriac</desc></gap>
 
     <lb n="25"/>Αὐρήλιος Κωνας
 
     <lb n="26"/>ἐγράφη παρʼ ἐμοί.
-</ab></div><div n="v" type="textpart"><ab>
-
-    <lb n="27"/><gap reason="ellipsis" quantity="3" unit="line"><desc>Syriac</desc></gap><space quantity="3" unit="line"/>
-
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="27"/><gap reason="ellipsis" quantity="3" unit="line"><desc>Syriac</desc></gap>  <space quantity="3" unit="line"/>
 
     <lb n="30"/><gap reason="illegible" quantity="1" unit="line"/>
 
-    <lb n="31"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Syriac</desc></gap></ab></div></div>
+    <lb n="31"/><gap reason="ellipsis" quantity="1" unit="line"><desc>Syriac</desc></gap>
+</ab></div></div>
