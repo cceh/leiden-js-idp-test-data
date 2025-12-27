@@ -1,14 +1,1 @@
-<S=.grc<=
-    1. lost.?lin 
-
-    1. ~|ṛ |~la 
-
-    2. [.?] ~|p̣ẹṛiculo futurum |~la 
-
-    3. [.?] ~|ṃittam enim cenṭụṛionem |~la 
-
-    4. [.?] ~|q̣uị ịṇṣpiciat *middot* si *middot* ṛ[.?] |~la 
-
-    5. .1lin 
-
-    6. lost.?lin =>
+<S=.grc<==>
