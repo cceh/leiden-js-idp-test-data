@@ -1,0 +1,16 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) [NN] to Kleon, greetings. I have written for you below [...] son of Thamays: 13, Psenchonsis son of Haryotes: 9, [...] of Phanesis son of Sochotes: 12, 
+of Ameneus son of Nechthyris 2[0-29]. [... I have written] to you for your information and as I wanted to open a sluice gate [...]. Could you please send also the storekeeper and [...].
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((6)) To Kleon
+/*Translation with slight modifications: B. Van Beek in P.Petr.Kleon, p. 83, © Peeters*/
+               =>
+            =D>
+         =T>
+      
