@@ -1,0 +1,10 @@
+
+         <T=.en
+            <=
+                … wool bandages … wool bandages … wool bandages … ((5)) the number of the sick
+(((6))) the sick man Nicostratus … the sick man: oil for food, one sextans
+(((8))) Valerius: the sick man, oil for food, one ounce … the sick man … the sick man: oil for food, one sextans
+/*Translation: M. Sanchez*/
+            =>
+         =T>
+      
