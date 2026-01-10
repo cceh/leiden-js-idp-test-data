@@ -13,13 +13,13 @@
 
     <lb n="7"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="30">λ</num> <expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <choice><reg>ἀννήσου</reg><orig>ἀ<unclear>ν</unclear>νύσου</orig></choice>             <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
 
-    <lb n="8"/><expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <expan>κιτρ<ex>ίν</ex>ου</expan>                      <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
+    <lb n="8"/><expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <app type="editorial"><lem resp="BL 10.212">κίτρου</lem><rdg><expan>κιτρ<ex>ίν</ex>ου</expan></rdg></app>                      <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
 
     <lb n="9"/><expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <choice><reg>ὀρβαρίων</reg><orig>ὀρβαρων</orig></choice>            <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
 
     <lb n="10"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="1">α</num> <expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> ἑλίτου <expan>δ<ex>ιὰ</ex></expan> Μαρίωνος            <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
 
-    <lb n="11"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="3">γ</num> <expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <expan>κιτρ<ex>ίν</ex>ου</expan>                       <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
+    <lb n="11"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="3">γ</num> <expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <app type="editorial"><lem resp="BL 10.212">κίτρου</lem><rdg><expan>κιτρ<ex>ίν</ex>ου</expan></rdg></app>                       <expan>φ<ex>όλλεις</ex></expan> <num value="2">β</num> 
 
     <lb n="12"/><expan>ἡ<ex>μέρᾳ</ex></expan> <num value="4">δ</num> <expan><ex>ὑπὲρ</ex></expan> <expan>τι<ex>μῆς</ex></expan> <app type="editorial"><lem><expan>ῥοδαν<unclear>ῶ</unclear><ex>ν</ex></expan></lem><rdg><expan>ῥοδάν<unclear>ω</unclear><ex>ν</ex></expan></rdg></app> <expan>δ<ex>ιὰ</ex></expan> τῆς Εὐμορφίας    <expan>φ<ex>όλλεις</ex></expan> <num value="20">κ</num> 
 
