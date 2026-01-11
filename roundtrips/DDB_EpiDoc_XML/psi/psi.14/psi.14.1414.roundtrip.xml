@@ -15,7 +15,7 @@
 
     <lb n="8" break="no"/>των μου τῶν γραμμά
 
-    <lb n="9" break="no"/>των.  ο<supplied reason="lost">ὕτ</supplied>ως <unclear>ἐπ</unclear>α<unclear>να</unclear>γκά
+    <lb n="9" break="no"/>των. <app type="editorial"><lem resp="BL 5.127">ὅ<supplied reason="lost">π</supplied>ως</lem><rdg>ο<supplied reason="lost">ὕτ</supplied>ως</rdg></app> <unclear>ἐπ</unclear>α<unclear>να</unclear>γκά
 
     <lb n="10" break="no"/>σῃς γενέσθαι.  διεπ<unclear>ε</unclear>μ
 
@@ -49,7 +49,7 @@
 
     <lb n="25" break="no"/>φῆς χρεία γένηται <unclear>εἰ</unclear>σὶ ἄρου
 
-    <lb n="26" break="no"/>ραι τριάκοντα <num value="30"/> περὶ Τερῦθιν 
+    <lb n="26" break="no"/>ραι <num value="30">τριάκοντα</num> περὶ Τερῦθιν 
 
     <lb n="27"/>ἐκ τοῦ Κρατιδήμου καὶ ἄλ
 
