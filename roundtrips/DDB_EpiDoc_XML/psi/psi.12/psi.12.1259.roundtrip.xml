@@ -8,7 +8,7 @@
 
     <lb n="4" break="no"/>των. εἰδέναι σε θέλω ὅτι Μῶρος ὁ τοῦ προ
 
-    <lb n="5" break="no"/>θμαρίου ὁπότε <hi rend="diaeresis">ὑ</hi>πηρέτης ἦλθεν πρὸς ἐμὲ 
+    <lb n="5" break="no"/>θμαρίου <app type="editorial"><lem resp="BL 4.91">ὅ ποτε</lem><rdg>ὁπότε</rdg></app> <hi rend="diaeresis">ὑ</hi>πηρέτης ἦλθεν πρὸς ἐμὲ 
 
     <lb n="6"/>λέγων περὶ τῆς οἰκίας Πτολεμαίου τοῦ 
 
@@ -55,4 +55,4 @@
     <lb n="27"/>ἐρρῶσθαί σε εὔχομαι, κύριε ἄδελφε. 
 </ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="28"/>Σαραπίωνι υἱῷ Σπαρ<supplied reason="lost">τιάτου</supplied> <abbr>γυμνασιάρχ</abbr> ἀπὸ Νέπωτος. </ab></div></div>
+    <lb n="28"/>Σαραπίωνι υἱῷ <app type="editorial"><lem resp="BL 9.321">Σπαρ<supplied reason="lost">τᾶ</supplied></lem><rdg resp="BL 3.229">Σπαρ<supplied reason="lost">τάκου</supplied></rdg><rdg>Σπαρ<supplied reason="lost">τιάτου</supplied></rdg></app> <app type="editorial"><lem resp="BL 9.321"><expan>γυμνασιαρχ<ex>ήσαντος</ex></expan></lem><rdg><abbr>γυμνασιαρχ</abbr></rdg></app> ἀπὸ Νέπωτος. </ab></div></div>
