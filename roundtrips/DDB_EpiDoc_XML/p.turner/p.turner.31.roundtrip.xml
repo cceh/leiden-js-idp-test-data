@@ -1,11 +1,12 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <expan>στρ<ex>ατηγῷ</ex></expan> </supplied><expan><supplied reason="lost">Ἀ</supplied>ρσι<ex>νοίτου</ex></expan> <expan>Ἡρακλ<ex>είδου</ex></expan> μερίδος 
 
     <lb n="2"/><supplied reason="lost">παρὰ Πανεσνέως</supplied> <expan>Σωτηρίχ<ex>ου</ex></expan> καὶ Ἁρπάλου 
 
     <lb n="3"/><supplied reason="lost">καὶ <expan>μετόχ<ex>ων</ex></expan> </supplied><expan><supplied reason="lost">πρ</supplied>α<ex>κτόρων</ex></expan> <expan>ἀργυ<ex>ρικῶν</ex></expan> κώμης <expan>Σοκνο<ex>παίου</ex></expan> 
 
-    <lb n="4"/><supplied reason="lost">Νήσου κατʼ ἄνδρα εἰσ</supplied>πράξεως <expan>διαγεγρ<ex>αμμένων</ex></expan> 
+    <lb n="4"/><supplied reason="lost">Νήσου κατʼ ἄνδρα εἰσ</supplied>πράξεως τῶν <expan>διαγεγρ<ex>αμμένων</ex></expan> 
 
     <lb n="5"/><supplied reason="lost">ἡμῖν εἰς ἀρίθμησιν</supplied> μηνὸς Μεχεὶρ τοῦ 
 
@@ -39,4 +40,5 @@
 
     <lb n="19"/><supplied reason="lost">Σεβαστῶν καὶ Πουβλίου Σεπ</supplied>τιμίου <choice><reg>Γέτα</reg><orig>Γέτας</orig></choice> 
 
-    <lb n="20"/><supplied reason="lost">Καίσαρος Σεβαστοῦ    </supplied><gap reason="lost" extent="unknown" unit="character"/> Φαμενὼθ <num value="12">ιβ</num>. </ab></div>
+    <lb n="20"/><supplied reason="lost">Καίσαρος Σεβαστοῦ    </supplied><gap reason="lost" extent="unknown" unit="character"/> Φαμενὼθ <num value="12">ι<hi rend="supraline">β</hi></num>. 
+</ab></div>
