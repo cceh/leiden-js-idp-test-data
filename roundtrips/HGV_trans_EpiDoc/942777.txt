@@ -4,7 +4,7 @@
                ((1)) [...] ... [...]
 ((2)) [...] ... [...]
 (((3))) Apa Ermias. Jenes ... diesbezüglich entfallen [...] ... [...]
-(((4))) Ich, der Bruder Thomas, bin Zeuge. Ich, [der Bruder] [...] /*Translation: G. Schenke, P.KoelnAegypt. 2, p. 67*/
+(((4))) Ich, der Bruder Thomas, bin Zeuge. Ich, [der Bruder] [...] /*Translation: G. Schenke, P.Koeln.Aegypt. 2, p. 67*/
             =>
          =T>
       

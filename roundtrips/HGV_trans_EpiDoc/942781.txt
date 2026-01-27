@@ -8,7 +8,7 @@
 ((8)) Siehe, zwei Maß Wein haben wir von dir gemäß unserer Gewohnheit für die dritte Indiktion erhalten. 
 ((10)) Geschrieben am 14. Pachon der vierten Indiktion.
 (((11))) Ich, Papostolos, der Sohn des David
-(((12))) [...] [Ich, David, der Sohn des] Tiane [...] /*Translation with minor modifications: G. Schenke, P.KoelnAegypt. 2, p. 79*/
+(((12))) [...] [Ich, David, der Sohn des] Tiane [...] /*Translation with minor modifications: G. Schenke, P.Koeln.Aegypt. 2, p. 79*/
             =>
          =T>
       

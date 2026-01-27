@@ -1,0 +1,20 @@
+
+         <T=.fr
+            <D=.i.column 
+               <=
+                  ((1)) [Les] magistrats et le Conseil d'Hermoupolis [la] Grande, ancienne et très vénérable [et] brillante,
+                         au très puissant Aurélios Ploution, membre du Musée, salut.
+                  ((3)) Alors même que tu séjournais encore dans la ville reine [Rome], où
+                         tu as assuré de très grandes réussites à ta patrie auprès [de la]
+                         fortune céleste de notre maître Gallien Auguste, ce seul vœu [nous]
+                         restait, que tu rentres dans ta propre ville. ((6)) En effet, selon le vieil
+                         adage, dans les yeux d'un homme bienveillant il est doux de regarder. ((7)) Notre dieu ancestral,
+                         Hermès le trois fois très Grand, qui se tient à tes côtés
+                         en tout lieu, t'ayant assisté pour ton retour, de sorte que la mer reste calme
+                         en [chaque] élément [pour l'exultation (?)] de la très brillante Alexandrie
+                         […]
+                         /*Translation: M. Drew-Bear, CPR 35 18*/
+               =>
+            =D>
+         =T>
+      

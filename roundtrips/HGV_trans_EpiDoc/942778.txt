@@ -7,7 +7,7 @@
 (((4))) [Als] Sicherheit haben wir [euch] diese Urkunde geschrieben [... /*Jahr und Monat*/]
 (((5))) 15. Ich, der Bruder [...]
 (((6))) Ich, der Bruder Pscha, der [...]
-(((7))) Pkoui, der Lektor. /*Translation: G. Schenke, P.KoelnAegypt. 2, p. 69*/
+(((7))) Pkoui, der Lektor. /*Translation: G. Schenke, P.Koeln.Aegypt. 2, p. 69*/
             =>
          =T>
       

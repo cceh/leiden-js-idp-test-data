@@ -16,7 +16,7 @@
                <=
                   ((1)) [/*An*/ ...] heiligen und Christus tragenden Apa Georg, den Klostervorsteher und 
 ((2)) Archimandriten, von eurem Sohn Isaak aus 
-((3)) Telke. /*Translation: G. Schenke, P.KoelnAegypt. 2, p. 86*/
+((3)) Telke. /*Translation: G. Schenke, P.Koeln.Aegypt. 2, p. 86*/
                =>
             =D>
          =T>
