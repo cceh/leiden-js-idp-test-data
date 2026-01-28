@@ -1,0 +1,22 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/>να<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <num value="1">α</num> <expan><unclear>δοκ</unclear><ex>οί</ex></expan> 
+
+    <lb n="3"/><num value="2">β</num> ἀνὰ <expan>πή<unclear>χ</unclear><ex>εις</ex></expan> <num value="9"><unclear>θ</unclear></num> <supplied reason="lost"><num value="18">ιη</num></supplied> 
+
+    <lb n="4"/><num value="2">β</num> ἀνὰ <expan>πήχ<ex>εις</ex></expan> <num value="6">ϛ</num> <num value="12">ιβ</num> 
+
+    <lb n="5"/><subst><add place="inline"><num value="4">δ</num></add><del rend="corrected"><num value="2">β</num></del></subst> ἀνὰ <expan>πήχ<ex>εις</ex></expan> <num value="7">ζ</num> <num value="28">κη</num> 
+
+    <lb n="6"/><num value="2">β</num> ἀνὰ <expan>πήχ<ex>εις</ex></expan> <num value="4">δ</num> <num value="8">η</num> 
+
+    <lb n="7"/><expan>δοκ<ex>οὶ</ex></expan> <num value="10">ι</num> <expan>πήχ<ex>εις</ex></expan> <num value="66">ξϛ</num> 
+
+    <lb n="8"/><expan>λο<ex>ιπαὶ</ex></expan> ἐν <expan>αὐτ<ex>ῷ</ex></expan> <choice><reg>παλαιοῦ</reg><orig>παλεοῦ</orig></choice> λόγου <expan><ex>δραχμαὶ</ex></expan> <num value="28">κη</num> 
+
+    <lb n="9"/><expan>ὁμοί<ex>ως</ex></expan> ἔλαβε εἰς <choice><reg><supplied reason="omitted">σ</supplied>φραγῖδαν</reg><orig>φραγῖδαν</orig></choice> τοῦ πλοί<unclear>ου</unclear> 
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ὑπὲρ <expan>Δίων<ex>ος</ex></expan> τῇ αὐτῇ ἡμέρᾳ <expan><ex>δραχμὰς</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="16">ιϛ</num> </ab></div>

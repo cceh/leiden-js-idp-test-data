@@ -1,0 +1,37 @@
+<S=.la
+<=
+    1. (L(ucius))*middot* Cạẹc̣ịlius *middot* Secundus *middot* eques *middot* ala *middot* Paullini 
+
+    2. ṭụrma [*middot*] Dicaci *middot* <:(G(aii))|reg|(C(aii)):> *middot* Pompeio *middot* militi *middot* <:(cohor(te))|subst|cehor:> 
+
+    3. Aẹ.3 [*middot*] <:Habeti|subst|habiti:> ((centuria)) Betiti (salut(em)) fateor 
+
+    4. me *middot* <:tibi|reg|tibei:> *middot* debere *middot* (dr(achmas)) *middot* (Aug(ustas)) *middot* et *middot* (Pt(olemaicas)) *middot* <:ducentas|subst|ducertas:> <#=200#> 
+
+    5. quas *middot* tibi *middot* solvam *middot* stipendio *middot* proxumo 
+
+    6. et *middot* eorum *middot* <:usuras|subst|uturas:> *middot* in <:menses|subst|drenses:> *middot* singulos 
+
+    7. in *middot* (dr(achmis)) *middot* <#C=100#> *middot* (a(sses)) <#III=3#> *middot* sine ulla *middot* controversia *middot* 
+
+    8. extra *middot* alias *middot* (dr(achmas)) *middot* (Aug(ustas)) *middot* et *middot* (Pt(olemaicas)) *middot* <#CCCC=400#> *middot* ob p̣igne
+
+    9.- ra cassidem *middot* inargentatam *middot* et *middot* insi
+
+    10.- gne *middot* inargentatum *middot* et *middot* vaginam *middot* pugi
+
+    11.- onịṣ [*middot*] argenteum *middot* subiecto *middot* eboreo *middot* 
+
+    12. actum [*middot*] (Alexandr(eae)) *middot* ad (Aegypt(um)) *middot* <#IIX=8#> (K(alendas)) *middot* (Septe(mbres)) 
+
+    13. <:(G(aio))|reg|(C(aio)):> Ṣ[allus]tio *middot* Crispo *middot* (L(ucio)) *middot* Lentulo Scipione <:(co(n)s(ulibus))|reg|cos:> 
+
+    14. vac.? 
+
+    14. .3[.4].3 ịḷḷịṣ *middot* ṣc̣ṛịp̣si *middot* quod *middot* litteras 
+
+    15. .2[.5].5 vac.? 
+
+    16. $m2 ~|[Λούκιος] Κ̣α̣[ι]κ̣[ί]λ̣ι̣ο̣ς̣ Σ̣ε̣κ̣ό̣ν̣δ̣ο̣ς̣ ἱ̣π̣π̣εὺς ὁ προγεγραμμέ
+
+    17.- [νος ἔλαβον ὡς (πρόκ(ειται)) ((ἔτους)) <#ιγ=13#> Τιβερίου Καίσαρος Σ]ε̣β̣α̣σ̣τ̣ο̣ῦ (ἐ̣π̣α̣γ̣(ομένων)) <#β=2#> |~grc =>

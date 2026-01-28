@@ -1,0 +1,32 @@
+<S=.la
+<=
+    1. [*chirho* (Fl(avius)) Cons]ṭantinuṣ <:Theophanes|reg|Theofanes:> (com(es)) et ṿịr <:(ill(ustris))|reg|(inl(ustris)):> (com(es)) (dev(otissimorum)) (dom(esticorum)) et ṛei (miḷ(itaris)) (Ṭḥ[e]b(aici)) (lim(itis)) \(Fl(avio))/ <:vac.? Verte=P. van Minnen, Tyche 34 (2019) 266 (KorrTyche 946)|ed|.4.2u.1ṛte:> sive <:<:Tḥẹodoti[o]|alt|Tḥẹodoti:>=P. van Minnen, Tyche 34 (2019) 266 (KorrTyche 946)|ed|Tḥẹodoti:> 
+
+    2. (v(iro)) (d(evotissimo)) (trib(uno)) Hermupọḷi (deg(enti)) 
+
+    3. [cum] <:obtulero|reg|opḍulero:> sacra iussione domini nostri Anastasii piissimi ac <:ṭriumphatoris|reg|ṭriumfatọris:> semper Augusti 
+
+    4. [e qua n]ụmeriṣ ṣụp̣p̣lementi causạ i[u]niorẹs robustis corporibus adsociarentur Heracleon (fil(ium)) Constantinii 
+
+    5. [ortum e] civitati Ḥermupolitana in vexillaṭione prụdentiae tuae pro tempore credita edictio mea ṃịliṭạṛẹ prae[cip]it 
+
+    6. [eiusq]ụe nomen ṣị ex <:gen<t>e|reg|gene:> oritur mịlitaṛi et neque curialis nec <:praesidialis|reg|praesidaḷịṣ:> eṣt nec̣ <:inbecill[o]|reg|invecill[o]:> [c]orpọṛẹ ṇ[ec] 
+
+    7. [invalid]ụs nec censibus <:adscriptus|reg|adscribtos:> matriculis eiusdem numeri inseri facito ạnnonạs ei ex die Iduuṃ 
+
+    8. [.6].1m Sabiniano et Theodọṛo ṿịṛis clarissimis consulibus minisṭraṛi curaturus cum cẹṭẹṛis 
+
+    9. <:[contuberna]libus=G. Iovine, PapCongr. 28 (2019) 641|ed|[conturma]libus:> suis muniis militaribus o[p]eram navaturo ita <:tamen|reg|tamem:> si octavum dec̣imum anṇụm 
+
+    10. <:[complevi]sse=G. Iovine, PapCongr. 28 (2019) 641|ed|[peregi]sse:> dinoscitur 
+
+    11. $m2 *rho-cross* beṇẹ 
+
+    12. vale $m3  *rho-cross* complevi .8 
+
+    13. $m4 .4 (r(eceptum?)) 
+
+    14. bene .4.2 
+
+    15. vale 
+=>
