@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><g type="stauros"/> <supplied reason="lost">τῷ δεῖνι</supplied> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="2"/>Ἀπολλῶτος Διοσκόρου 
@@ -75,4 +76,5 @@
 
     <lb n="38" break="no"/>ι ὡς <expan>πρόκ<ex>ειται</ex></expan> <handShift new="m1"/> πρὸς τὰ ὅρια. 
 
-    <lb n="39"/><g type="stauros"/> διʼ ἐμοῦ Κύρου <expan>νομικ<ex>οῦ</ex></expan>. </ab></div>
+    <lb n="39"/><g type="stauros"/> διʼ ἐμοῦ Κύρου <expan>νομικ<ex>οῦ</ex></expan>. 
+</ab></div>
