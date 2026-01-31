@@ -1,6 +1,6 @@
 <S=.grc<D=.A,r<=
 
-    1. /*PPetr 3,28,A,r reprinted in WChr 337 */
+    1. /*PPetr 3,28,A,r reprinted in Chrest.Wilck. 337 */
 =>=D><D=.B<=
 
     1. /*PPetr 3,28,B reprinted in PPetr 2,2,2 */
@@ -64,4 +64,4 @@
     3. Μοσχίων[ι] 
 =>=D><D=.v,b<=
 
-    4. /*PPetr 3,28,E,v,b reprinted in MChr 45 */=>=D>
+    4. /*PPetr 3,28,E,v,b reprinted in Chrest.Mitt. 45 */=>=D>

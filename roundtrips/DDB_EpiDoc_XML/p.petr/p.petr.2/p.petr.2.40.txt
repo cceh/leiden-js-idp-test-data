@@ -1,6 +1,6 @@
 <S=.grc<D=.Arp<=
 
-    1. /*PPetr 2,40,A reprinted in WChr 452 */
+    1. /*PPetr 2,40,A reprinted in Chrest.Wilck. 452 */
 =>=D><D=.B,r<=
 
     1. Δωρόθεος Θεοδώρωι 

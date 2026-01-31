@@ -57,7 +57,7 @@
     28. [.?] ἀλλ[α] .2ει[.?] 
 =>=D><D=.FrBrp<=
 
-    1. /*PPetr 2,38,FrB reprinted in WChr 300 */
+    1. /*PPetr 2,38,FrB reprinted in Chrest.Wilck. 300 */
 =>=D><D=.FrCrp<=
 
-    1. /*PPetr 2,38,FrC reprinted in (ref=chr.mitt;;30=MChr 30)*/=>=D>
+    1. /*PPetr 2,38,FrC reprinted in (ref=chrest.mitt;;30=Chrest.Mitt. 30)*/=>=D>

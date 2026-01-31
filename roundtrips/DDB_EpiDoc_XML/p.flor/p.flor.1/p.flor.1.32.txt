@@ -1,6 +1,6 @@
 <S=.grc<D=.brp<=
 
-    1. /*PFlor 1,32,b reprinted in WChr 228 */
+    1. /*PFlor 1,32,b reprinted in Chrest.Wilck. 228 */
 =>=D><D=.a<=
 
     1. $m4  <:<#ροδ=174#>=BL 1.137|ed|.3:> 

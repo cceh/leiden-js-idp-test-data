@@ -69,9 +69,9 @@
     32. lost.?lin 
 =>=D>
 <D=.2.column<=
-    1. /*P.Lips. 1 33 r col.2 reprinted in M.Chr. 55 */
+    1. /*P.Lips. 1 33 r col.2 reprinted in Chrest.Mitt. 55 */
 =>=D>
 =D>
 <D=.vrp<=
-    1. /*P.Lips. 1 33 v reprinted in M.Chr. 55*/
+    1. /*P.Lips. 1 33 v reprinted in Chrest.Mitt. 55*/
 =>=D>

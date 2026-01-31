@@ -1,12 +1,12 @@
 <S=.grc<D=.A<=
 
-    1. /*PPetr 3,72,A reprinted in WChr 222 */
+    1. /*PPetr 3,72,A reprinted in Chrest.Wilck. 222 */
 =>=D><D=.B<=
 
-    1. /*PPetr 3,72,B reprinted in WChr 242 */
+    1. /*PPetr 3,72,B reprinted in Chrest.Wilck. 242 */
 =>=D><D=.C<=
 
-    1. /*PPetr 3,72,C reprinted in WChr 244 */
+    1. /*PPetr 3,72,C reprinted in Chrest.Wilck. 244 */
 =>=D><D=.D<=
 
     1. [.?]ος Ανδομ[.?] 

@@ -53,4 +53,4 @@
     26. [τοῦ ἐνεσ]τ̣ῶ̣τ̣ος ((ἔτους)) <#λη=38#> Θ̣ὼ̣θ̣ <#η̣=8#> 
 =>=D><D=.2rp<=
 
-    1. /*PLond 2,220,2 reprinted in (ref=chr.mitt;;35=MChr 35)*/=>=D>
+    1. /*PLond 2,220,2 reprinted in (ref=chrest.mitt;;35=Chrest.Mitt. 35)*/=>=D>

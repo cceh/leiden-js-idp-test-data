@@ -1,6 +1,6 @@
 <S=.grc<D=.A<=
 
-    1. /*reprinted in W.Chr. 443*/
+    1. /*reprinted in Chrest.Wilck. 443*/
 =>=D><D=.B<=
 
     1. /*non trans ? lin*/ 
@@ -60,4 +60,4 @@
     25. [Ἡρα]κλῆς Πετενο.2        ((πυροῦ)) ((ἀρτάβας)) .2 
 =>=D><D=.E<=
 
-    1. /*P.Lond 2.256r,E reprinted in (ref=chr.wilck;;344=WChr 344)*/=>=D>
+    1. /*P.Lond 2.256r,E reprinted in (ref=chrest.wilck;;344=Chrest.Wilck. 344)*/=>=D>

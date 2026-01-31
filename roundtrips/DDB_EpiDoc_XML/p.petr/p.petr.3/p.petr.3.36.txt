@@ -47,10 +47,10 @@
     23. εἶ καὶ ἔσει με <:σεσῳκώς|reg|σεσωικώς:> 
 =>=D><D=.A,v<=
 
-    1. /*PPetr 3,36,A,v reprinted in MChr 5 */
+    1. /*PPetr 3,36,A,v reprinted in Chrest.Mitt. 5 */
 =>=D><D=.B<=
 
-    1. /*PPetr 3,36,B reprinted in WChr 166 and PPetr 2,20 */
+    1. /*PPetr 3,36,B reprinted in Chrest.Wilck. 166 and PPetr 2,20 */
 =>=D><D=.C<=
 
     1. /*PPetr 3,36,C reprinted in PPetr 2,1 */
