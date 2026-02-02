@@ -1,0 +1,12 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+    
+    <lb n="1"/>ⲙ<gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/>ⲡⲁⲣϣⲓⲛ ⲃⲣⲣⲉ <g type="stauros"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><foreign xml:lang="grc"><expan>ἐγρ<ex>άφη</ex></expan> <expan>μη<ex>νὸς</ex></expan> Θὼθ <num value="10">ι</num>  <num value="7">ζ</num> <expan>ἰνδ<ex>ικτίονος</ex></expan></foreign>
+
+    <lb n="4"/><g type="stauros"/> ⲉⲛⲱⲭ <choice><reg xml:lang="grc">στοιχεῖν</reg><orig><expan>ⲥⲧ<supplied reason="lost">ⲟⲓⲭ<ex>ⲉⲓ</ex></supplied></expan></orig></choice> 
+</ab></div>
