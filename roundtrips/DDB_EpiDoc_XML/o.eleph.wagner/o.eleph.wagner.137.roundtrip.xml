@@ -1,0 +1,23 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><expan>χρ<ex>υσοῦ</ex></expan> <expan>νο<ex>μισμάτια</ex></expan> <num value="6">ϛ</num> <expan>κερ<ex>άτια</ex></expan> <num value="16">ιϛ</num>
+
+    <lb n="2"/><expan>παράσ<ex>ημον</ex></expan>
+
+    <lb n="3"/><g type="stauros"/> Ἰωάννης
+
+    <lb n="4"/>υἱὸς Παπνοῦτε
+
+    <lb n="5"/><foreign xml:lang="cop">ⲡⲣ<hi rend="supraline">ⲙ</hi> ⲑⲁⲗⲁϩⲕⲧ<hi rend="supraline">ⲥ</hi></foreign>
+
+    <lb n="6"/><milestone rend="horizontal-rule" unit="undefined"/>
+
+    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>νος
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ο</unclear>ς <choice><reg>Εὐλογήτου</reg><orig>ευλοκιτου</orig></choice>
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> ἄλλος
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Πα</supplied><unclear>π</unclear>νοῦτε
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><unclear>η</unclear>ς
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>
