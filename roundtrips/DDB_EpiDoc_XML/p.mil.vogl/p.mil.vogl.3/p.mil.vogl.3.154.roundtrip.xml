@@ -1,11 +1,14 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/>Φαμενὼθ <num value="16">ιϛ</num> 
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/>Φαμενὼθ <num value="16"><hi rend="supraline">ιϛ</hi></num> 
 
-    <lb n="2"/>Τούρβωνι <expan><ex>δραχμαὶ</ex></expan>λόγον 
-<choice><reg>ἀρρα<lb n="3" break="no"/>βῶνος</reg><orig>ἀρα<lb n="3" break="no"/>βῶνος</orig></choice> <expan>χόρτ<ex>ου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="500">φ</num> 
+    <lb n="2"/>Τούρβωνι <app type="editorial"><lem resp="BL 6.120">εἰς</lem><rdg><expan><ex>δραχμαὶ</ex></expan></rdg></app> λόγον <choice><reg>ἀρρα
+
+    <lb n="3" break="no"/>βῶνος</reg><orig>ἀρα<lb n="3" break="no"/>βῶνος</orig></choice> <expan>χόρτ<ex>ου</ex></expan> <app type="editorial"><lem resp="BL 6.120"><expan><ex>δραχμαὶ</ex></expan></lem><rdg><expan><ex>δραχμὰς</ex></expan></rdg></app> <num value="500">φ</num>, 
 
     <lb n="4"/>καὶ ἀπὸ Κερκεουθήσεως 
 
-    <lb n="5"/>τῷ αὐτῷ <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num> <num value="2">β</num> <expan><ex>ἔτους</ex></expan> 
+    <lb n="5" rend="indent"/> τῷ <app type="editorial"><lem resp="H.C. Youtie, ZPE 16 (1975) 266"><expan>α<ex>ὐτῷ</ex></expan></lem><rdg>αὐτῷ</rdg></app> <app type="editorial"><lem resp="BL 6.120"><expan><ex>δραχμαὶ</ex></expan></lem><rdg><expan><ex>δραχμὰς</ex></expan></rdg></app> <num value="100">ρ</num>, <app type="editorial"><lem resp="BL 6.120">καὶ</lem><rdg><num value="2">β</num> <expan><ex>ἔτους</ex></expan></rdg></app> 
 
-    <lb n="6"/>Παχὼν <num value="6">ϛ</num> τῷ αὐτῷ <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num> </ab></div>
+    <lb n="6"/>Παχὼν <num value="6"><hi rend="supraline">ϛ</hi></num> τῷ  <app type="editorial"><lem resp="H.C. Youtie, ZPE 16 (1975) 266"><expan>α<ex>ὐτῷ</ex></expan></lem><rdg>αὐτῷ</rdg></app> <app type="editorial"><lem resp="BL 6.120"><expan><ex>δραχμαὶ</ex></expan></lem><rdg><expan><ex>δραχμὰς</ex></expan></rdg></app> <num value="100"><unclear>ρ</unclear></num>. 
+</ab></div>
