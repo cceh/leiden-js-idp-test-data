@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/><expan>καγκ<unclear>έλλ</unclear><ex>ῳ</ex></expan> <expan><unclear>ἀ</unclear>ρ<ex>τάβας</ex></expan> <num value="2"><unclear>δύο</unclear></num> <num value="1/3"><unclear>τρίτ</unclear><supplied reason="lost">ον</supplied></num> <num value="1/12"><expan><unclear>δ</unclear><supplied reason="lost">ωδέκατ<ex>ον</ex></supplied></expan></num>, 
+
+    <lb n="2"/><expan><ex>ἀρτάβας</ex></expan> <num value="2">β</num> <num value="1/3" rend="tick">γ</num> <num value="1/12" rend="tick">ιβ</num>. <g type="stauros"/> Γεώ<hi rend="superscript"><g type="stauros"/></hi>ργιος, <expan><unclear>δ</unclear><ex>ι</ex>’</expan> ἐμ<unclear>οῦ</unclear> Φῖβ <g type="stauros"/>
+
+    <lb n="3"/><handShift new="m2"/><g type="stauros"/> <unclear>Καλ</unclear>ο<hi rend="superscript"><g type="stauros"/></hi><unclear>μηνᾶς</unclear> <g type="stauros"/> <figure><figDesc>paraphe</figDesc></figure>. <handShift new="m3"/><g type="stauros"/> Ἠ<hi rend="superscript"><g type="stauros"/></hi>λίας <g type="stauros"/> <figure><figDesc>paraphe</figDesc></figure>.</ab></div>

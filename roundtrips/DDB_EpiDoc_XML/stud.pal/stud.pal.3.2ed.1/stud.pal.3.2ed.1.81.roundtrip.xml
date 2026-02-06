@@ -1,0 +1,8 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+    <lb n="1"/><g type="stauros"/> <app type="alternative"><lem><abbr>ἐπληρώθ</abbr></lem><rdg><expan>ἐπληρώθ<ex>ην</ex></expan></rdg><rdg><expan>ἐπληρώθ<ex>ημεν</ex></expan></rdg></app> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/><gap reason="illegible" quantity="2" unit="character"/> <abbr>ἀναλωμα</abbr> τ<unclear>ο</unclear><supplied reason="lost">ῦ</supplied> οἰν<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><expan>φρο<ex>ντιστ  </ex></expan> τῶν ἐκεῖ <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><space extent="unknown" unit="character"/> Χ<unclear>οι</unclear><supplied reason="lost">ὰ</supplied><unclear>κ</unclear> <gap reason="lost" extent="unknown" unit="character"/> </ab></div>

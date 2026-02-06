@@ -1,0 +1,19 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><g type="rho-cross"/> ἔσχον καὶ <supplied reason="lost">ἐπληρώθην ἐγὼ </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="2"/>παρὰ τῶ<supplied reason="lost">ν</supplied> <app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><supplied reason="lost">ἀπὸ κώμης Καμίνων</supplied></rdg></app> <supplied reason="lost">τὸ <num value="1">ἓν</num> νόμισ</supplied>
+
+    <lb n="3" break="no"/>μα τοῦ ἐ<unclear>μ</unclear><supplied reason="lost">οῦ μισθοῦ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>καταξιω<unclear>σ</unclear><gap reason="lost" quantity="5" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="5"/>ἐγράφη <supplied reason="lost">μην</supplied>ὶ <choice><reg>Ἐπεὶ<unclear>φ</unclear></reg><orig>Ἐπὶ<unclear>φ</unclear></orig></choice> <gap reason="lost" extent="unknown" unit="character"/> 
+
+    <lb n="6"/><space extent="unknown" unit="character"/> <gap reason="lost" quantity="3" unit="character"/>ματ<gap reason="lost" extent="unknown" unit="character"/> 
+</ab></div> 
+<div n="v" type="textpart"><ab> 
+<lb n="7"/><supplied reason="lost"><handShift new="m2"/></supplied> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <expan><unclear>ὑπο</unclear>δέκτ<ex>ου</ex></expan> <expan>Καμίν<ex>ων</ex></expan>
+<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> <expan>νο<ex>μίσματος</ex></expan> <num value="1">α</num>.
+
+</ab></div> </div>

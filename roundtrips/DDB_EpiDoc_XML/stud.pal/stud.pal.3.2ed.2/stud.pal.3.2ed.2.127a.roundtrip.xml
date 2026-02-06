@@ -1,0 +1,15 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><g type="stauros"/> ἔχω ἐγὼ <choice><reg><app type="alternative"><lem>θυγάτηρ</lem><rdg>θυγάτριον</rdg></app></reg><orig>θηγάτρι</orig></choice> 
+
+    <lb n="2"/><choice><reg>Ἰωάννου</reg><orig>Ἰωάνου</orig></choice> ἁλουργὸς ἀπὸ 
+
+    <lb n="3"/>τῆς Ἀρσινοιτων πόλ<unclear>ε</unclear><add place="above"><unclear>ω</unclear><supplied reason="lost">ς</supplied></add> 
+
+    <lb n="4"/>ἀπὸ <choice><reg>ἀμφόδου</reg><orig>ἀμφότου</orig></choice> Ἁλυπίου 
+
+    <lb n="5"/><expan>χρ<ex>υσοῦ</ex></expan>  <surplus><expan>χρ<ex>υσοῦ</ex></expan></surplus> <expan>νό<ex>μισμα</ex></expan> <num value="1"><unclear>α</unclear></num> <gap reason="illegible" quantity="8" unit="character"/> 
+
+    <lb n="6"/><g type="stauros"/> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="8" unit="character"/> 
+</ab>
+</div>

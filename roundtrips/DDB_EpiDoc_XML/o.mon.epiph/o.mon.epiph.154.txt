@@ -1,0 +1,29 @@
+<S=.cop
+<D=.r<=
+    1. [*stauros* ϣⲟⲣ]ⲡ*dipunct* <:μέν=grc|reg|ⲙⲉⲛ:>*middot* ϯ
+
+    2.- [ϣⲓⲛⲉ] ⲉⲣⲟⲕ *dipunct* ⲡϫⲟⲉⲓⲥ
+
+    3. [ⲉϥⲉ]ⲥ*dipunct* ⲙⲟⲩ*dipunct* ⲉⲣⲟⲕ *dipunct*
+
+    4. [ⲁⲣⲓ] ⲡ̣ⲛⲁ*word-sep-apostrophe**dipunct* ⲛ̄ⲅ̄ⲃⲱⲕ*dipunct* <:[.?]
+
+    5. [.?]ⲛ̣|alt|[ⲉϩⲟⲩ]ⲛ̣:>*dipunct* <:ⲉⲙ̣ⲓ̣|alt|ⲉⲁ̣ⲓ̣:>*middot* <:ⲙⲡⲁ̣[.?]|alt|ⲙⲡⲱ̣[.?]:>
+
+    6. [ϣⲏ]ⲣⲏ*dipunct* ⲫⲉⲩ*dipunct* [.?]
+=>=D>
+<D=.v<=
+    7. <:ⲛ̣ⲧ̣ⲣ̣̄|alt|ⲛ̣ⲅ̣ⲣ̣̄:> ϣⲁ*middot* ⲉⲣⲟⲕ [.4]
+
+    8. ⲁⲛ*dipunct* ⲧ̄ⲛ̄ⲉⲓⲙⲉ*dipunct* ⲉⲩ.1[.3]
+
+    9. ⲉⲕⲧ̄ⲙ̄ⲃⲱⲕ*dipunct* ⲕⲱ *middot* ⲛ̄ⲛ<:ἀπόκληρος=grc|reg|ⲁ̣[ⲡⲟ]
+
+    10.- ⲕⲗⲏⲣⲟⲥ:>*dipunct* ⲧⲁⲁⲥ*dipunct* ⲛ̣[ⲡ]<:πρεσβύτερος=grc|reg|([ⲡ]
+
+    11.- ⲣⲉⲥⲃ(ⲩⲧⲉⲣⲟⲥ)):> *dipunct* ⲥ̣ⲉ̣ⲛⲉ[ⲧⲱⲙ]
+
+    12. ϩⲓⲧ̄ⲛ̄ ⲁⲃⲣⲁϩⲁⲙ
+
+    13. ⲡ<:ἐπίσκοπος=grc|reg|(ⲉⲡⲓⲥⲕ(ⲟⲡⲟⲥ)):>
+=>=D>
