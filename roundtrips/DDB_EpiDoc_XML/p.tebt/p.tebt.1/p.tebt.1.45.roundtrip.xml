@@ -1,10 +1,10 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
     <lb n="1"/>Μεγχεῖ κωμογ<supplied reason="lost">ραμματεῖ</supplied> 
 
     <lb n="2"/>Κερκεοσίρεως 
 
-    <lb n="3"/>παρὰ Δημᾶτος τοῦ Σεύθο<supplied reason="lost">υ</supplied> 
+    <lb n="3"/>παρὰ Δημᾶτος τοῦ <app type="editorial"><lem resp="BL 11.271">Σε<unclear>μ</unclear>θέ<supplied reason="lost">ως</supplied></lem><rdg>Σεύθο<supplied reason="lost">υ</supplied></rdg></app>
 
     <lb n="4"/>βασιλικοῦ γεωργοῦ καὶ 
 
@@ -34,7 +34,7 @@
 
     <lb n="17"/>ἄλλοις πλείστοις ἐν μαχαίραις 
 
-    <lb n="18"/>καὶ ἐλθόντες ἐπὶ τὴν 
+    <lb n="18"/>καὶ <app type="editorial"><lem resp="BL 11.271">ἐπελθόντες</lem><rdg>ἐλθόντες</rdg></app> ἐπὶ τὴν 
 
     <lb n="19"/>ὑπάρχουσάν μοι οἰκίαν 
 
@@ -81,6 +81,7 @@
     <lb n="40"/>χαλκοῦ <expan><ex>δραχμὰς</ex></expan> <num value="700">ψ</num>, 
 
     <lb n="41"/>σκοίκιον χαλκοῦν. 
-</ab></div><div n="v" type="textpart"><ab>
-
-    <lb n="1"/><expan>κω<ex>μογραμματεῖ</ex></expan>. </ab></div></div>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="1"/><expan>κω<ex>μογραμματεῖ</ex></expan>. 
+</ab></div></div>
