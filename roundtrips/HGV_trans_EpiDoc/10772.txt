@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+                      ...
+               ((2)) they carried off four goatskins and four fleeces. ((5)) Wherefore I entreat you to give
+                      instructions to the village inspector to hold the due inquiry, ((10)) and to keep the persons
+                      found guilty in a safe place that they may receive fitting punishment. Farewell. ((14)) Papontos,
+                      about fifty-five years old, having a scar on his right eyebrow. ((16)) The 18th year of Hadrianus
+                      Caesar the lord, Athur 28.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 107*/
+            =>
+         =T>
+      
