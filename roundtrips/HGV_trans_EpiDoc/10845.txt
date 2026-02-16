@@ -1,0 +1,16 @@
+
+         <T=.en
+            <=
+               ((1)) To Socrates and Didymus also called Tyrannus, ((2)) scribes of the metropolis, ((3)) from
+                      Ischyras, son of Protas, son of Mysthes, ((4)) his mother being Tasoucharion, daughter of
+                      Didas, of the quarter ((5)) Hermuthiace, and from his wife ((6)) Thaisarion, daughter of Ammonius,
+                      son of ((7)) Mysthes, her mother being Thaisas, of the same ((8)) quarter Hermuthiace. We
+                      give notice ((9)) of the son who has been born to us, ((10)) Ischyras, aged one year in the present
+                      fourteenth year of Antoninus ((11)) Caesar the lord. I therefore hand in this ((12)) announcement
+                      of the birth. ((13)) (Signed) Ischyras, aged 44, having no distinguishing mark. ((14)) Thaisarion,
+                      aged 24, having no distinguishing mark. ((15)) Written for them by Ammonius, scribe of
+                      the nome.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 28*/
+            =>
+         =T>
+      
