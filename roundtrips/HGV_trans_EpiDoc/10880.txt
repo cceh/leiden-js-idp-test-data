@@ -1,0 +1,14 @@
+
+         <T=.en
+            <=
+               ((1)) A... and Harpalus, son of Heraclides, to ..., son of Chaeremon, collector
+                      of the ...tax of the village Theadelphia. ((4)) We have received from you the sum
+                      agreed upon as our salary [as your deputies] for the present 14th year of Antoninus
+                      Caesar the lord, namely two hundred drachmae of silver, ((8)) total 200 dr.; and we will
+                      render to you the receipts among the documents for registration concerning the tax,
+                      the agreement of appointment made with us remaining valid. ((11)) (Signed) Written for
+                      the most part by me, Mystes.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 35*/
+            =>
+         =T>
+      

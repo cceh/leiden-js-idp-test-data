@@ -1,0 +1,29 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) Heron, son of Heron, of the village of Philagris, to Panesneus, son of Horus,
+                         and Maron, son of Apollonius, assistants in connexion with taxes upon cultivators at
+                         the village of Polydeucia. ((3)) I agree in accordance with this note of hand as your deputy to
+                         make the collection of, and to issue receipts for, the μονοδεσμία of hay and other taxes
+                         of the nomarchy on the 411 1/4 1/8 1/32 1/64 arourae assigned to you at Polydeucia, and
+                         cultivated by inhabitants of Philagris in Pale (?), ((9)) on the terms that, following the custom
+                         of former years, I, Heron, shall pay to you, Panesneus and partners, on the whole
+                         account five hundred and sixty drachmae of silver, total 560 dr., ((14)) in equal monthly
+                         instalments from the month of Pharmouthi to the month of Mesore of the present
+                         first year, ((16)) and that you shall make me an allowance for the sums paid by the aforesaid
+                         cultivators up to the present day. ((19)) I, Heron, the above mentioned, have written the
+                         body of the contract and agreed to all the aforesaid terms as is aforesaid. ((22)) The first
+                         year of the Emperor Caesar Marcus Aurelius Antoninus Augustus and the Emperor
+                         Caesar Lucius Aurelius Verus Augustus, Pauni 9.
+               =>
+            =D>
+            <D=.v 
+               <=
+                  ((1)) (Endorsed) Contract for deputing
+                         the share of Philagris to Heron.
+                         /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 34*/
+               =>
+            =D>
+         =T>
+      
