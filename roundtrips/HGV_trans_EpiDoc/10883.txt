@@ -1,0 +1,30 @@
+
+         <T=.en
+            <=
+               ((2)) To Philo and Sabinus, superintendents of bricks of the nome, ((4)) from Sanesneus,
+                      son of Orseus, of the village of Narmouthis in the division of Polemo. ((6)) If I receive
+                      the concession for the present year only, the 15th of the Emperor Caesar Nerva Trajanus
+               ((9)) Augustus Germanicus Dacicus, for the making and selling of bricks, ((11)) with power to
+                      pass on the right to others, in the village of Kerkethoëris in the same division with
+                      its farmsteads ((14)) and plains, I undertake to pay as rent eighty drachmae of silver and
+                      the extra payments, hundredths, and ((18)) auction expenses, which sum I will pay in equal
+                      monthly instalments from Sebastus to Caesareus, if you consent to the concession.
+              ((22)) Sanesneus, aged 60, having a scar on the left knee. ((23)) I, Castor, scribe of the nome,
+                      have drawn up this deed, since Sanesneus stated that he was unable to write.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 36*/
+            =>
+         =T>
+         <T=.de
+            <=
+               ((2)) An Philon und Sabinus, Aufseher über die Ziegelei im Gau, ((4)) von Sanesneus, Sohn des Orseus, aus dem Dorf
+                      Narmouthis in der Polemonos Meris. ((6)) Wenn mir ausschließlich für das gegenwärtige 15. Regierungsjahr des
+                      Kaisers Nerva Trajanus ((9)) Augustus Germanicus Dacicus die Ziegelherstellung und der Ziegelverkauf konzediert
+                      wird, ((11)) mit der Vollmacht, dieses Recht an andere im Dorf Kerkethoeris derselben Meris mit den Gütern ((14)) und
+                      Ebenen weiterzugeben, nehme ich auf mich, als Pacht 80 Silberdrachmen zu zahlen und die Zusatzzahlungen und
+                      Hundertstel und ((18)) Auktionskosten, wobei ich die Zahlung monatlich vom Monat Sebastos bis Kaisareios in
+                      gleichen Raten anweisen werde, wenn die Konzession gegeben wird. ((22)) Sanesneus im Alter von 60 Jahren, mit einem
+                      Mal am linken Knie. ((23)) Ich Kastor, habe es erstellt, da er sagte, er könne nicht schreiben.
+                      /*Translation: A.W. Mees, Organisationsformen römischer Töpfer-Manufakturen (2002) 383*/
+            =>
+         =T>
+      
