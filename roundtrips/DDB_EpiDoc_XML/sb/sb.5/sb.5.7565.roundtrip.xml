@@ -1,11 +1,11 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>τ</unclear>ης Ἀσκλᾶς Ἥρων<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1"/><app type="editorial"><lem resp="BGU XXII, p. 110"><supplied reason="lost">πληρω</supplied><unclear>τ</unclear>ὴς</lem><rdg><gap reason="lost" extent="unknown" unit="character"/><unclear>τ</unclear>ης</rdg></app> Ἀσκλᾶς Ἥρων<supplied reason="lost">ος </supplied><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> Ὡρίων Πτολείωνος 
+    <lb n="2"/><app type="editorial"><lem resp="BGU XXII, p. 110"><supplied reason="lost"><expan>πι<ex>ττακιάρχης</ex></expan></supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app> Ὡρίων Πτολείωνος 
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> Μάρων Ἀκοῦτος 
 
-    <lb n="3a"/><expan><ex>ὧν</ex></expan> <abbr>μη</abbr> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="2">β</num> 
+    <lb n="3a"/><expan><ex>ὧν</ex></expan> <app type="editorial"><lem resp="BL 13.197"><expan>μετ<ex>ρηθεῖσαι</ex></expan></lem><rdg><abbr>μη</abbr></rdg></app> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="2">β</num> 
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> Ὡρίων Πτόλλωνος <num value="8"><unclear>η</unclear></num> 
 
@@ -13,7 +13,7 @@
 
     <lb n="5"/><unclear><g type="unintelligible"/></unclear> Ὡρίων Ἥρωνος 
 
-    <lb n="5a"/><expan><ex>ὧν</ex></expan> <abbr>μη</abbr> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="4">δ</num> 
+    <lb n="5a"/><expan><ex>ὧν</ex></expan> <app type="editorial"><lem resp="BL 13.197"><expan>μετ<ex>ρηθεῖσαι</ex></expan></lem><rdg><abbr>μη</abbr></rdg></app> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="4">δ</num> 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> Φιλάδελφος Ἰσᾶς 
 
@@ -23,7 +23,7 @@
 
     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Ἥ</unclear>ρων Πρόκολου 
 
-    <lb n="9a"/><expan><ex>ὧν</ex></expan> <abbr>μη</abbr> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="14">ιδ</num> 
+    <lb n="9a"/><expan><ex>ὧν</ex></expan> <app type="editorial"><lem resp="BL 13.197"><expan>μετ<ex>ρηθεῖσαι</ex></expan></lem><rdg><abbr>μη</abbr></rdg></app> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="14">ιδ</num> 
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Ἥρων</unclear> Ἥρωνος <num value="8"><unclear>η</unclear></num> 
 
@@ -43,7 +43,7 @@
 
     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> Φαῦστος <expan>ἀπ<ex>άτωρ</ex></expan> Ἀθηναρ<supplied reason="lost">ίου </supplied><gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="16a"/><expan><ex>ὧν</ex></expan> <abbr>μη</abbr> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="16">ιϛ</num> 
+    <lb n="16a"/><expan><ex>ὧν</ex></expan> <app type="editorial"><lem resp="BL 13.197"><expan>μετ<ex>ρηθεῖσαι</ex></expan></lem><rdg><abbr>μη</abbr></rdg></app> <expan><ex>πυροῦ ἀρτάβαι</ex></expan> <num value="16">ιϛ</num> 
 
     <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/>αρίων Χαιρᾶ 
 
