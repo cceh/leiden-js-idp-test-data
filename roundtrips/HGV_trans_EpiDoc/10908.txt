@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) The 19th year of Antoninus Caesar the lord ... ((4)) Paid to Ammonius and Ptolemaeus
+                      and the rest of the farmers ((7)) of the tax on cutting and hair and trade ... ((9)) by Heraclides,
+                      son of Heraclides, on account of the tax on trade for the 19th year six drachmae five
+                      and a half obols of silver, ((13)) total 6 dr. 5 1/2 ob.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 58*/
+            =>
+         =T>
+      

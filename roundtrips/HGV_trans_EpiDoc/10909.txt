@@ -1,0 +1,13 @@
+
+         <T=.en
+            <=
+               ((1)) The 18th year of the Aurelii Antoninus and ((2)) Commodus the lords Augusti, Epeiph ((3)) 6.
+                      Paid to Sarapion, farmer of the tax on cutting and trade, ((4)) by Dionysius, son of Didymus,
+                      of the Linen-factories' quarter, ((5)) living at the village of Theadelphia, for the trade-tax
+                      of the same ((6)) year, eight drachmae of silver on account, total 8 dr. Also in the 19th year,
+                      Athur 13, ((7)) paid on account of the preceding 18th year, through Isidorus, assistant, five
+                      drachmae ((8)) ... obols and a half more.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 59*/
+            =>
+         =T>
+      
