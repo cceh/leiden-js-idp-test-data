@@ -1,0 +1,11 @@
+
+         <T=.en
+            <=
+               ((1)) The 10th year of the Emperor Caesar Titus ((2)) Aelius Hadrianus Antoninus Augustus
+               ((3)) Pius. Work has been done for the embankment works ((4)) of the same tenth year from the
+                      16th to the 20th Epeiph at ((5)) the Psinali...dyke at Theadelphia ((6)) by Horus, son of
+                      Panesneus, son of ((7)) Nepheros, his mother being Soëris. ((8)) Signed by me, Marinus.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 77*/
+            =>
+         =T>
+      

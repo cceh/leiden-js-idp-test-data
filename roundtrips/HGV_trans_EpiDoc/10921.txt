@@ -1,0 +1,12 @@
+
+         <T=.en
+            <=
+               ((1)) The tenth year of the Emperor ((2)) Caesar Titus Aelius Hadrianus ((3)) Antoninus Augustus
+                      Pius. ((4)) Work has been done for the embankment works of the same tenth year ((5)) for two
+                      days in accordance with the command ((6)) on Mesore 7 and 8 at the Psinali...dyke at
+                      Theadelphia ((7)) by Dius, son of Heraclides, son of Lycus, his mother being Tasooukis.
+               ((8)) Signed by me, Pretis.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 78*/
+            =>
+         =T>
+      
