@@ -1,0 +1,15 @@
+
+         <T=.en
+            <=
+               ((1)) To Castor, son of Antiphilus, of the Sosicosmian or Althean deme, ((3)) from Sarapion,
+                      son of Artemidorus, son of Ptolemaeus, of the Second Goosefarm quarter. ((5)) I wish
+                      to lease from you your business of perfume-selling and unguent-making, being desirous
+                      of the fourth part of the half-share falling to you in the division of Themistes, ((10)) with
+                      the exception of markets and festivals, for the present second year only, at a total rent
+                      of 45 drachmae of silver, ((15)) which I will pay monthly in equal instalments if you consent
+                      to the lease. ((19)) (Signed) I, Castor, son of Antiphilus, have made the lease as is above
+                      written. ((21)) The (second) year of Antoninus and Verus the lords Augusti, Thoth 5.
+                      /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 93*/
+            =>
+         =T>
+      

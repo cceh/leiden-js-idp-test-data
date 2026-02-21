@@ -1,0 +1,18 @@
+
+         <T=.en
+            <D=.r 
+               <=
+                  ((1)) The 11th year of the Emperor Caesar Trajanus Hadrianus Augustus, the 16th
+                         of the month Sebastus or Thoth, at Theadelphia in the division of Themistes of the ((5)) Arsinoite
+                         nome. Mystharion, son of Heron, aged about 40 years, having a scar on the little finger
+                         of the left hand, agrees that he has sold to Satabous, son of Pekusis, aged about 30 years,
+                         having a scar ((10)) on the little finger of the left hand, a female mouse-coloured donkey,
+                         shedding its first teeth, just as it is irrevocably, and that Mystharion has received from
+                         Satabous ((15)) the price agreed upon between them, 56 drachmae of silver, directly from hand
+                         to hand out of his house, and that he will guarantee the sale with every guarantee.
+                ((20)) (Signature of Mystharion written for him by Heraclides, and docket of the record office at Theadelphia.)
+                         /*Translation: B.P. Grenfell – A.S. Hunt, P.Fay. 92*/
+               =>
+            =D>
+         =T>
+      
