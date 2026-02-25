@@ -39,7 +39,7 @@ async function getCurrentSubmoduleCommit(): Promise<string> {
     }
 }
 
-async function getChangedFilesSince(lastCommit: string | null, config: typeof configs["edition"] | typeof configs["translation"]): Promise<{files: string[], stats: {added: number, modified: number, deleted: number}}> {
+async function getChangedFilesSince(lastCommit: string | null, config: typeof configs["edition"] | typeof configs["translation"]): Promise<{files: string[], deleted: string[], stats: {added: number, modified: number, deleted: number}}> {
     const relevantPath = config.sourcePath.replace("idp.data/", "");
     
     if (!lastCommit) {
@@ -49,8 +49,9 @@ async function getChangedFilesSince(lastCommit: string | null, config: typeof co
             .split('\n')
             .filter(file => file.trim())
             .map(file => join("idp.data", file));
-        return { 
-            files, 
+        return {
+            files,
+            deleted: [],
             stats: { added: files.length, modified: 0, deleted: 0 }
         };
     } else {
@@ -77,13 +78,14 @@ async function getChangedFilesSince(lastCommit: string | null, config: typeof co
         const deleted = filterRelevant(deletedResult.stdout);
         
         const allFiles = [...added, ...modified];
-        
-        return { 
-            files: allFiles, 
-            stats: { 
-                added: added.length, 
-                modified: modified.length, 
-                deleted: deleted.length 
+
+        return {
+            files: allFiles,
+            deleted,
+            stats: {
+                added: added.length,
+                modified: modified.length,
+                deleted: deleted.length
             }
         };
     }
@@ -186,15 +188,30 @@ async function getFilesToProcess(config: typeof configs["edition"] | typeof conf
             "First run - no previous state found"
         );
         
-        const { files: changedFiles, stats } = await getChangedFilesSince(lastProcessed, config);
+        const { files: changedFiles, deleted, stats } = await getChangedFilesSince(lastProcessed, config);
         filesToProcess.push(...changedFiles);
-        
+
         if (changedFiles.length > 0) {
             const parts = [];
             if (stats.added > 0) parts.push(`${stats.added} added`);
             if (stats.modified > 0) parts.push(`${stats.modified} modified`);
             if (stats.deleted > 0) parts.push(`${stats.deleted} deleted`);
             console.log(`Found ${changedFiles.length} changed files via git (${parts.join(', ')})`);
+        }
+
+        // Clean up outputs for deleted source files
+        for (const deletedFile of deleted) {
+            const outputBase = deletedFile
+                .replace(config.sourcePath, config.targetPath)
+                .replace(".xml", "");
+            for (const ext of [".txt", ".roundtrip.xml", ".txt.fail"]) {
+                try {
+                    await fs.unlink(outputBase + ext);
+                    console.log(`Deleted ${outputBase + ext}`);
+                } catch {
+                    // File doesn't exist - ignore
+                }
+            }
         }
     } else {
         console.log(`Submodule unchanged at commit ${currentCommit.substring(0, 8)}`);
