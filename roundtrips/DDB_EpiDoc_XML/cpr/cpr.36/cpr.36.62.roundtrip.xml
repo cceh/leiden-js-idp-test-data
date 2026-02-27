@@ -16,7 +16,7 @@
 
 </ab></div>
 <div n="v" type="textpart"><ab>
-<lb n="14"/><g type="stauros"/>
+<lb n="14" rend="indent"/> <foreign xml:lang="grc"><g type="stauros"/>
 
 <lb n="14"/><unclear><g type="stauros"/></unclear> <unclear>ὁ</unclear>μολογία Φιλο<unclear>θέου</unclear> <expan><unclear>στολ</unclear><ex>άρχου</ex></expan> ἀπὸ Π<unclear>αριγ</unclear>ορ<unclear>ι</unclear> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
 
@@ -26,5 +26,5 @@
 
 <lb n="17"/>τὸν δεσπότην μου καὶ ἡμᾶς <hi rend="diaeresis">ἵ</hi>ν<unclear>α</unclear> εὕρωμεν
 
-<lb n="18"/>ἀπ<unclear>ο</unclear>τελέσαι τὰ πράγματα τοῦ καιροῦ τούτου.
+<lb n="18"/>ἀπ<unclear>ο</unclear>τελέσαι τὰ πράγματα τοῦ καιροῦ τούτου.</foreign>
 </ab></div></div>
