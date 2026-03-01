@@ -1,0 +1,4 @@
+<S=.grc
+<=
+    1. *monogram* /*including the letters η,ρ,τ and α*/
+=>
