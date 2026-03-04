@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>Φανίαι τῶν πρώτων φίλων 
 
     <lb n="2"/>καὶ στρατηγῶι καὶ ἐπὶ τῶν προσόδων 
@@ -23,7 +24,7 @@
 
     <lb n="12"/>ὅθεν ἠνάγκασμαι ἅπασαν τὴν γῆν 
 
-    <lb n="13"/>ἐπανελέσθαι, καὶ <choice><reg>ἐμοῦ</reg><orig>καμοῦ</orig></choice> πρὸς τῶι ποτισμῶι 
+    <lb n="13"/>ἐπανελέσθαι, <choice><reg>καὶ ἐμοῦ</reg><orig>καμοῦ</orig></choice> πρὸς τῶι ποτισμῶι 
 
     <lb n="14"/>καὶ τοῖς ἔργοις γινομένου, ἡ τοῦ 
 
@@ -41,8 +42,7 @@
 
     <lb n="21"/>πυροῦ <expan><ex>ἀρτάβας</ex></expan> <num value="10">ι</num> καὶ τήλεως <expan><ex>ἀρτάβας</ex></expan> <num value="10">ι</num>, 
 
-    <lb n="22"/>οὐθένος τοιούτου ὄντος, καὶ διʼ ὃν 
-<choice><reg>πε<lb n="23" break="no"/>ποίηται</reg><orig>πε<lb n="23" break="no"/>πόηται</orig></choice> παραλογισμὸν συμβέβη
+    <lb n="22"/>οὐθένος τοιούτου ὄντος, καὶ διʼ ὃν <choice><reg>πε<lb n="23" break="no"/>ποίηται</reg><orig>πε<lb n="23" break="no"/>πόηται</orig></choice> παραλογισμὸν συμβέβη
 
     <lb n="24" break="no"/>κεν περισπᾶσθαί με ἀλόγως ἀπὸ 
 
@@ -66,4 +66,5 @@
 
     <lb n="34"/>βεβοηθημένος. 
 
-    <lb n="35"/>εὐτύχει. </ab></div>
+    <lb n="35"/>εὐτύχει. 
+</ab></div>
