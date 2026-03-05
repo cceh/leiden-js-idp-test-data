@@ -1,5 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
     <lb n="1"/><g type="stauros"/> 
 
     <lb n="2"/><g type="stauros"/> <choice><reg>ὑπατείας</reg><orig>ὑπατίας</orig></choice> τοῦ αὐτοῦ εὐσεβεστάτου ἡμῶν 
@@ -28,7 +28,7 @@
 
     <lb n="14"/>χρυσοχόων παρʼ αὐτῇ ἀποπληρῶσαι 
 
-    <lb n="15"/>ἀμέμπτως καὶ ἀόκνως ἀκατα
+    <lb n="15"/>ἀμέμπτως καὶ ἀόκνως καὶ ἀκατα
 
     <lb n="16" break="no"/>γνώστως καὶ δέξασθαί με παρʼ αὐτῆς 
 
@@ -52,9 +52,9 @@
 
     <lb n="26"/><unclear>ἐπὶ</unclear> τῷ καὶ αὐτὴν ζημιοῦσθαι τ<unclear>ὸν</unclear> πάντα 
 
-    <lb n="27"/><unclear>μου</unclear> <unclear>μι</unclear>σθόν. ἔδοξεν δὲ κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> το<gap reason="illegible" quantity="1" unit="character"/>τ<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> 
+    <lb n="27"/><unclear>μου</unclear> <unclear>μι</unclear>σθόν. ἔδοξεν δὲ κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> το<gap reason="illegible" quantity="1" unit="character"/>τ<gap reason="illegible" quantity="7" unit="character"/> 
 
-    <lb n="28"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>σ</unclear>εισ<gap reason="illegible" quantity="1" unit="character"/><unclear>ν</unclear> μή με ενε<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> 
+    <lb n="28"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>σ</unclear>εισ<gap reason="illegible" quantity="1" unit="character"/><unclear>ν</unclear> μή με ενε<gap reason="illegible" quantity="7" unit="character"/> 
 
     <lb n="29"/><gap reason="illegible" quantity="2" unit="character"/>της ἐργασιον οἱονδήποτε <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="3" unit="character"/> 
 
@@ -79,10 +79,11 @@
     <lb n="39"/><unclear>ἤδη</unclear> τὸν ἐμὸν μισθὸν εἰς πλῆρες. 
 
     <lb n="40"/><handShift new="m3"/>διι <expan>εμ<ex>υ</ex></expan> <expan>αναστ<ex>ασιυ</ex></expan> ετελιοτηη <g type="stauros"/>  
-</ab></div><div n="v" type="textpart"><ab>
-
+</ab></div>
+<div n="v" type="textpart"><ab>
     <lb n="41"/><g type="stauros"/> 
 
     <lb n="42"/><handShift new="m1"/> <g type="stauros"/> συνάλλαγμ<unclear>α</unclear> Σερήνου <expan>ἐργά<unclear>τ</unclear><ex>ου</ex></expan> <unclear>τ</unclear>ῶν χρυσοχόων <unclear>υἱ</unclear>οῦ 
 
-    <lb n="43"/>Ἀπολλῶ ἀπὸ τῆς <expan>Ὀξυρυγχ<ex>ιτῶν</ex></expan> <expan>πόλ<ex>εως</ex></expan>. </ab></div></div>
+    <lb n="43"/>Ἀπολλῶ ἀπὸ τῆς <expan>Ὀξυρυγχ<ex>ιτῶν</ex></expan> <expan>πόλ<ex>εως</ex></expan>. 
+</ab></div></div>
