@@ -1,6 +1,6 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 <div n="r" type="textpart"><ab>
-    <lb n="1"/><g type="stauros"/> οἶδεν ἡ περ<supplied reason="lost">ί</supplied><unclear>β</unclear>λεπτος ὑμῶν <choice><reg>γνησία</reg><orig>γ<add place="above">σ</add>νησία</orig></choice> φιλία ὡς δέδοκται <subst><add place="inline">ἀφ<unclear>ο</unclear>ρισθῆναι</add><del rend="corrected">αφ<unclear>ω</unclear>ρισθηναι</del></subst> τὴν μο<supplied reason="lost">ῖρ</supplied>αν τοῦ εὐαγοῦς 
+    <lb n="1"/><g type="stauros"/> οἶδεν ἡ περ<supplied reason="lost">ί</supplied><unclear>β</unclear>λεπτος ὑμῶν <choice><reg>γνησία</reg><orig>γ<add place="above">σ</add>νησία</orig></choice> φιλία ὡς δέδοκται <subst><add place="inline">ἀφ<unclear>ο</unclear>ρισθῆναι</add><del rend="corrected">ἀφ<unclear>ω</unclear>ρισθῆναι</del></subst> τὴν μο<supplied reason="lost">ῖρ</supplied>αν τοῦ εὐαγοῦς 
 
     <lb n="2"/><choice><reg>νοσοκομείου</reg><orig>νοσοκομίου</orig></choice> εἰς τὰς <supplied reason="lost">διανομ</supplied>ὰς καὶ μὴ παρελθεῖν τινα διὰ τῶν <choice><reg>ἐποικίων</reg><orig>ἐποικείων</orig></choice> αὐτοῦ.  ἐπειδὴ τοῦ παρόντος 
 
@@ -14,7 +14,7 @@
 
     <lb n="7"/>ἐπειδὴ ἀπροόπτως πρᾶγμα οὐ θέλω ἀναγαγεῖν αὐτοῖς, ἐὰν μὴ ἀκριβεύσωμαι ἀφʼ ὑμῶν περὶ 
 
-    <lb n="8"/>ἑκάστου πράγματος.  ἔδοξεν γὰρ ὡς εἴρηται ἀφορ<supplied reason="lost">ισ</supplied>θῆναι τὴν μοῖραν τοῦ εὐαγοῦς νοσοκομίου 
+    <lb n="8"/>ἑκάστου πράγματος.  ἔδοξεν γὰρ ὡς εἴρηται ἀφορ<supplied reason="lost">ισ</supplied>θῆναι τὴν μοῖραν τοῦ εὐαγοῦς <choice><reg>νοσοκομείου</reg><orig>νοσοκομίου</orig></choice> 
 
     <lb n="9"/>εἰς ἑκάστην διανομὴν γενησομένην, καὶ <app type="editorial"><lem resp="BL 8.6">ἐπικλάσω</lem><rdg>ἐπικλαύσω</rdg></app> ἐγὼ αὐτὴν τοῖς <expan>δυναμέ<ex>νοις</ex></expan> <choice><reg>ἐποικίοις</reg><orig><subst><add place="inline">ἐποικείοις</add><del rend="corrected">ἐποικείαις<certainty match=".." locus="value"/></del></subst></orig></choice>
 
@@ -23,6 +23,5 @@
 <div n="v" type="textpart"><ab>
     <lb n="1"/><gap reason="illegible" quantity="1" unit="line"/> 
 
-    <lb n="2"/><g type="stauros"/> τῷ <expan>δεσπό<ex>τῃ</ex></expan> <expan>μ<ex>ο</ex>υ</expan> ἀδελφῷ <expan>τ<ex>ῷ</ex></expan> <unclear>α</unclear><gap reason="lost" quantity="1" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/></abbr> <expan>περιβλ<ex>έπτῳ</ex></expan> <expan>πα<ex>ν</ex>τιμ<ex>αξίῳ</ex></expan> <expan>πρ<ex>οσ</ex>κ<ex>υνήτῳ</ex></expan> <expan>ἀξιω<ex>τάτῳ</ex></expan> 
-<expan>γνη<ex>σίῳ</ex></expan> κυρίῳ Σε<unclear>ν</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>ι</unclear>τῳ <abbr>α<gap reason="illegible" quantity="1" unit="character"/>τ</abbr> <g type="stauros"/> <app type="editorial"><lem resp="Cf. BL 12.4">Κομιτᾶς <gap reason="illegible" quantity="2" unit="character"/></lem><rdg><unclear>Κο</unclear>μιτ<gap reason="illegible" quantity="5" unit="character"/></rdg></app>  <g type="stauros"/> 
+    <lb n="2"/><g type="stauros"/> τῷ <expan>δεσπό<ex>τῃ</ex></expan> <app type="editorial"><lem resp="CPR XXXVI, pp. 50-51">μου <expan><ex>καὶ</ex></expan> ἀδελφῷ τὰ <expan><unclear>πά</unclear><ex>ντα</ex></expan> <expan>περιβλ<ex>έπτῳ</ex></expan> <expan>πά<ex>σης</ex></expan> <expan>τιμ<ex>ῆς</ex></expan> <expan><ex>καὶ</ex></expan> <expan>πρ<ex>οσ</ex>κ<ex>υνήσεως</ex></expan> ἀξ<unclear>ίῳ</unclear> <expan>γνη<ex>σίῳ</ex></expan> κυρίῳ Σε<unclear>νουθ</unclear>ίῳ ἀν<unclear>υσ</unclear>τ<unclear>ῇ</unclear></lem><rdg><expan>μ<ex>ο</ex>υ</expan> ἀδελφῷ <expan>τ<ex>ῷ</ex></expan> <unclear>α</unclear><gap reason="lost" quantity="1" unit="character"/><abbr><gap reason="illegible" quantity="1" unit="character"/></abbr> <expan>περιβλ<ex>έπτῳ</ex></expan> <expan>πα<ex>ν</ex>τιμ<ex>αξίῳ</ex></expan> <expan>πρ<ex>οσ</ex>κ<ex>υνήτῳ</ex></expan> <expan>ἀξιω<ex>τάτῳ</ex></expan> <expan>γνη<ex>σίῳ</ex></expan> κυρίῳ Σε<unclear>ν</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>ι</unclear>τῳ <abbr>α<gap reason="illegible" quantity="1" unit="character"/>τ</abbr></rdg></app> <g type="stauros"/> <app type="editorial"><lem resp="Cf. BL 12.4">Κομιτᾶς <gap reason="illegible" quantity="2" unit="character"/></lem><rdg><unclear>Κο</unclear>μιτ<gap reason="illegible" quantity="5" unit="character"/></rdg></app>  <g type="stauros"/> 
 </ab></div></div>
