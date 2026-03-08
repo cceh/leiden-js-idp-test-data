@@ -22,7 +22,7 @@
 
     <lb n="10"/>μοι τοῦτο συνέβη, <choice><reg>ἐπειδὴ</reg><orig>ἐπιδὴ</orig></choice> ου<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">· ὅθ</supplied><unclear>ε</unclear><supplied reason="lost">ν δέομαί</supplied> 
 
-    <lb n="11"/>σου λοιπὸν καὶ <choice><reg>ἂν</reg><orig>κὰν</orig></choice> νῦν· εὐχοῦ περὶ ἐμοῦ, ὅτι κα<unclear>κ</unclear><supplied reason="lost">ῶς</supplied> 
+    <lb n="11"/><app type="editorial"><lem resp="BL 13.116">σου. λοιπὸν <choice><reg>καὶ ἂν</reg><orig>κἂν</orig></choice> νῦν εὔχου</lem><rdg>σου λοιπὸν κἂν νῦν· εὐχοῦ</rdg></app> περὶ ἐμοῦ, ὅτι κα<unclear>κ</unclear><supplied reason="lost">ῶς</supplied> 
 
     <lb n="12"/>θλίβομαι καὶ τὴν ἁγίαν προσφοράν. μὴ <unclear>ἀ</unclear><supplied reason="lost">μελήσῃς</supplied> 
 
@@ -30,7 +30,7 @@
 
     <lb n="14"/>περὶ ἡμῶν. γνωρίζω δὲ τῇ σῇ θεοσε<unclear>β</unclear><supplied reason="lost">είᾳ, ὅτι ἔχουσα</supplied> 
 
-    <lb n="15"/>ἐν ἑτοίμῳ ὀλίγου <choice><reg>τυρίον</reg><orig>τυριν</orig></choice> <choice><reg>ἀπέστειλα</reg><orig>ἀπέστιλα</orig></choice> διὰ <gap reason="lost" quantity="8" unit="character"/> 
+    <lb n="15"/>ἐν ἑτοίμῳ <app type="editorial"><lem resp="BL 7.73">ὀλίγον</lem><rdg>ὀλίγου</rdg></app> <choice><reg>τυρίον</reg><orig>τυρὶν</orig></choice> <choice><reg>ἀπέστειλα</reg><orig>ἀπέστιλα</orig></choice> διὰ <gap reason="lost" quantity="8" unit="character"/> 
 
     <lb n="16"/>τοῦ καὶ κομίζοντός σοι τό<unclear>δ</unclear><supplied reason="lost">ε τὸ ἐπιστόλιον </supplied><gap reason="lost" quantity="6" unit="character"/> 
 
