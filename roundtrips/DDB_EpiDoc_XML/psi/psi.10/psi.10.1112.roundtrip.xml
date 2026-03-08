@@ -1,7 +1,7 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
     <lb n="1"/><expan>λαογρά<ex>φοις</ex></expan> Ποιμενικῆς 
 
-    <lb n="2"/>παρὰ Αὐρηλίου Δι<gap reason="illegible" quantity="2" unit="character"/> 
+    <lb n="2"/>παρὰ Αὐρηλίου <app type="editorial"><lem resp="BL 10.247">Δι<unclear>δύ</unclear><supplied reason="lost">μου</supplied></lem><rdg>Δι<gap reason="illegible" quantity="2" unit="character"/></rdg></app> 
 
     <lb n="3"/>τοῦ <expan>κ<ex>αὶ</ex></expan> Θέωνος τοῦ <unclear>Ν</unclear><gap reason="illegible" quantity="3" unit="character"/> 
 
@@ -9,7 +9,7 @@
 
     <lb n="5"/>τὰ <expan>κελ<ex>ευσθέντα</ex></expan> ὑπὸ Αὐρηλίου Ζή
 
-    <lb n="6" break="no"/>νωνος <hi rend="diaeresis">Ἰ</hi>ανουαρίου <unclear>παρ</unclear><supplied reason="lost">ὰ</supplied> 
+    <lb n="6" break="no"/>νωνος <hi rend="diaeresis">Ἰ</hi>ανουαρίου <app type="editorial"><lem resp="BL 3.228"><unclear>καὶ</unclear></lem><rdg><unclear>παρ</unclear><supplied reason="lost">ὰ</supplied></rdg></app> 
 
     <lb n="7"/>Κλαυδίου Μασκουλλίνου 
 
@@ -40,10 +40,9 @@
 
     <lb n="21"/><expan>οἰκ<ex>ίαν</ex></expan> διπυργιαίαν, <hi rend="diaeresis">ὑ</hi>φʼ ἣν 
 
-    <lb n="22"/><choice><reg>κατάγαιον</reg><orig>καταγιον</orig></choice> καὶ <hi rend="diaeresis">ὑ</hi>ποφωτ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/>, 
+    <lb n="22"/><choice><reg>κατάγαιον</reg><orig>κατάγιον</orig></choice> καὶ <hi rend="diaeresis">ὑ</hi>ποφωτ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/>, 
 
-
-    <lb n="23"/>καὶ <choice><reg>πλατεῖαν</reg><orig>πλατῖαν</orig></choice> καὶ <expan>εἴσοδ<ex>ον</ex></expan> καὶ 
+    <lb n="23"/>καὶ <app type="editorial"><lem resp="BL 8.406">πλαγίαν </lem><rdg><choice><reg>πλατεῖαν</reg><orig>πλατῖαν</orig></choice></rdg></app> καὶ <expan>εἴσοδ<ex>ον</ex></expan> καὶ 
 
     <lb n="24"/><expan>ἔξοδ<ex>ον</ex></expan>. τοὺς δὲ προαναγραφο
 

@@ -9,6 +9,6 @@
 
     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> εν</supplied>εχθέντος ὑμῖν σιδήρου ἵνα παρασκε<supplied reason="lost">υάσ</supplied>ητε <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> τοῦτο καὶ μόνον τὸν παρόντα στρατιώτην <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="5"/><app type="editorial"><lem resp="F. Morelli, CPR XXXVI 25.5 n."><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">διὰ γὰρ</supplied> τοῦτο καὶ μόνον</lem><rdg><gap reason="lost" extent="unknown" unit="character"/> τοῦτο καὶ μόνον</rdg></app> τὸν παρόντα στρατιώτην <gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>περὶ τούτων <g type="stauros"/> <expan>Ἁθὺ<ex>ρ</ex></expan> <num value="9">θ</num> <expan>ἰνδ<ex>ικτίονος</ex></expan> <num value="8">η</num> <g type="stauros"/> </ab></div>
