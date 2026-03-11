@@ -10,19 +10,17 @@
 
     <lb n="5"/><choice><reg>γεωργόν</reg><orig>γεοργόν</orig></choice>, <choice><reg>ὅστις</reg><orig>τις</orig></choice> αὐτὰ <choice><reg>ἑλκύσει</reg><orig>ἑλκύση</orig></choice>, ἀλλὰ 
 
-    <lb n="6"/>τὰ σπέρματα τίς διδοῖς καὶ περὶ τοῦ 
+    <lb n="6"/>τὰ σπέρματα τίς διδοῖ; καὶ περὶ τοῦ 
 
     <lb n="7"/>ὑπολ<supplied reason="lost">ό</supplied>γου τῶν σῶν. ἔλαβε ἡ ἀδελ
 
-    <lb n="8" break="no"/>φή σου ἀ<supplied reason="lost">ρ</supplied>τάβας ἓξ <num value="6"/> ἐκτὸς σπερ
+    <lb n="8" break="no"/>φή σου ἀ<supplied reason="lost">ρ</supplied>τάβας <num value="6">ἓξ</num> ἐκτὸς σπερ
 
     <lb n="9" break="no"/>μάτων. <unclear>γρ</unclear>άψον Κουπανηοῦτι 
 
     <lb n="10"/>περὶ τῆς οἰκίας· <choice><reg>ἐπεὶ</reg><orig>ἐπὶ</orig></choice> γὰ<unclear>ρ</unclear> λέγει 
 
-    <lb n="11"/>Ταῆσ<supplied reason="lost">ι</supplied>ς· οὐ δίδωμι ἐνοίκιο<unclear>ν</unclear>· ὀφεί
-
-    <lb n="12" break="no"/>λ<supplied reason="lost">ει</supplied> γάρ μοι χαλκὸν <add place="above">ἀντὶ</add> τῶν ἐνοικίων, 
+    <lb n="11"/>Ταῆσ<supplied reason="lost">ι</supplied>ς· οὐ δίδωμι ἐνοίκιο<unclear>ν</unclear>· <app type="editorial"><lem resp="PN F. Reiter (BerlPap)"><choice><reg>ὀφεί<lb n="12" break="no"/>λει</reg><orig>ὀφεί<lb n="12" break="no"/>λι</orig></choice></lem><rdg><choice><reg>ὀφεί<lb n="12" break="no"/>λ<supplied reason="lost">ει</supplied></reg><orig>ὀφεί<lb n="12" break="no"/>λ<supplied reason="lost">ι</supplied></orig></choice></rdg></app> γάρ μοι χαλκὸν <add place="above">ἀντὶ</add> τῶν ἐνοικίων, 
 
     <lb n="13"/><unclear>κ</unclear><supplied reason="lost">αὶ ἔ</supplied>τι <choice><reg>μέμφεται</reg><orig>μεμφη</orig></choice> σου τὴν ἀδελφὴν 
 
@@ -32,7 +30,7 @@
 
     <lb n="16"/>τῇ οἰκίᾳ σου τὸ ἐνοίκιον. 
 
-    <lb n="17"/>ἵνα εὕρωμεν καὶ <subst><add place="inline"><choice><reg>ἡμεῖς</reg><orig>ἡμῖς</orig></choice></add><del rend="corrected">ηραις</del></subst> 
+    <lb n="17"/><app type="editorial"><lem resp="PN F. Reiter (BerlPap)"><hi rend="diaeresis">ἵ</hi>να</lem><rdg>ἵνα</rdg></app> εὕρωμεν καὶ <subst><add place="inline"><choice><reg>ἡμεῖς</reg><orig>ἡμῖς</orig></choice></add><del rend="corrected">ηραις</del></subst> 
 
     <lb n="18"/>εὔλογον λαλῆσαι αὐτῇ, γράψον 
 
