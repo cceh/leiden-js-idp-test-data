@@ -27,7 +27,7 @@
 
     <lb n="14" break="no"/>τισμὸν οἰκίαν μικρὰν ἐν Λύκων 
 
-    <lb n="15"/>πόλει ἐπὶ λαύρας Λυκαν<unclear>ω</unclear><gap reason="lost" quantity="3" unit="character"/>ων 
+    <lb n="15"/>πόλει ἐπὶ λαύρας <app type="editorial"><lem resp="BL 11.51">Λυκαγω<supplied reason="lost">γ</supplied>ῶν</lem><rdg>Λυκαν<unclear>ω</unclear><gap reason="lost" quantity="3" unit="character"/>ων</rdg></app> 
 
     <lb n="16"/><handShift new="m2"/> ἐμ<supplied reason="lost">αυτὴν Σενεσνεῦν</supplied> <expan><ex>ἐτῶν</ex></expan> <num value="40">μ</num>, 
 
