@@ -7,15 +7,15 @@
 
     <lb n="4"/><unclear>Αὐρηλίωι</unclear> <unclear>Ἀμμω</unclear><supplied reason="lost">νίωι γυμνα</supplied>
 
-    <lb n="5" break="no"/>σιαρχήσαντι καὶ <supplied reason="lost">ἐξηγητεύσαν</supplied>
+    <lb n="5" break="no"/>σιαρχήσαντι καὶ <app type="editorial"><lem resp="BL 8.365"><supplied reason="lost">πρυτανεύσαν</supplied>
 
-    <lb n="6" break="no"/>τι βουλευτῆι τ<supplied reason="lost" cert="low">ῆς Ὀξυρυγχιτῶν</supplied> 
+    <lb n="6" break="no"/>τι</lem><rdg><supplied reason="lost">ἐξηγητεύσαν</supplied><lb n="6" break="no"/>τι</rdg></app> βουλευτῆι τ<supplied reason="lost" cert="low">ῆς Ὀξυρυγχιτῶν</supplied> 
 
     <lb n="7"/>πόλεως καὶ <supplied reason="lost" cert="low">ὡς χρηματίζει</supplied> 
 
     <lb n="8"/>χαίρειν· ὁμολ<supplied reason="lost">ογῶ πεπ</supplied>ρα
 
-    <lb n="9" break="no"/>κέναι σοι ὄνον θή<supplied reason="lost">λε</supplied>ιαν 
+    <lb n="9" break="no"/>κέναι σοι ὄνον <app type="editorial"><lem resp="BL 8.365"><num value="1"><hi rend="supraline">α</hi></num> θή<unclear>λε</unclear>ιαν</lem><rdg>θή<supplied reason="lost">λε</supplied>ιαν</rdg></app> 
 
     <lb n="10"/>τετράβολον μυόχρωμον 
 
