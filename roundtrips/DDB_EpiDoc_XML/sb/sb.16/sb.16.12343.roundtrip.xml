@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan> <num value="10">ι</num> Τ</supplied><unclear>ῦβι</unclear> <num value="10"><unclear>ι</unclear></num>. ὁμολογ<supplied reason="lost">εῖ Πτο</supplied>
 
     <lb n="2" break="no"/>λ<unclear>ε</unclear>μαῖος <unclear>διαγεγραφ</unclear><supplied reason="lost">έναι</supplied> 
@@ -15,7 +16,7 @@
 
     <lb n="8"/>τῶν ὄντων ἐν Αὐήρει, 
 
-    <lb n="9"/>ὧν <expan>ὑπέθ<unclear>ε</unclear><ex>το</ex></expan> αὐτῆι Ἀχομ
+    <lb n="9"/>ὧν <app type="editorial"><lem resp="BL 8.381"><expan>ὑπέθη<ex>κεν</ex></expan></lem><rdg><expan>ὑπέθ<unclear>ε</unclear><ex>το</ex></expan></rdg></app> αὐτῆι Ἀχομ
 
     <lb n="10" break="no"/>μνεῦις Πετενοντή
 
@@ -23,4 +24,5 @@
 
     <lb n="12"/><num value="9">θ</num> <expan><ex>ἔτους</ex></expan> καὶ τοῦ <num value="10">ι</num> <expan><ex>ἔτους</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num>, 
 
-    <lb n="13"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="100">ρ</num>, <expan>χα<unclear>λ</unclear><ex>κ  </ex></expan> <num value="2">β</num> <expan>ἀλλ<ex>αγῆς</ex></expan> <expan><ex>ὀβολὸν</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>. </ab></div>
+    <lb n="13"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="100">ρ</num>, <expan>χα<unclear>λ</unclear><ex>κ  </ex></expan> <num value="2">β</num> <expan>ἀλλ<ex>αγῆς</ex></expan> <expan><ex>ὀβολὸν</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num>. 
+</ab></div>

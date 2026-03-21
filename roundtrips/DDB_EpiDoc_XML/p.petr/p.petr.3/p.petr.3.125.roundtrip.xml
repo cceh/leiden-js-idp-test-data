@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>λεωνος 
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> το</supplied>ῦ παρὰ 
@@ -29,10 +30,11 @@
 
     <lb n="15"/><supplied reason="lost">α</supplied>ὐτῶι τῶν λογευτῶν· καὶ περὶ τοῦ ἀργυρίου δὲ 
 
-    <lb n="16"/>ἔφη ἀποβεβίασθα<supplied reason="lost">ι Κ</supplied>λεινία<supplied reason="lost">ν </supplied><gap reason="lost" quantity="1" unit="character"/><unclear>π</unclear>ενεμαν τὸν 
+    <lb n="16"/>ἔφη ἀποβεβιάσθα<supplied reason="lost">ι Κ</supplied>λεινία<supplied reason="lost">ν </supplied><gap reason="lost" quantity="1" unit="character"/><unclear>π</unclear>ενεμαν τὸν 
 
     <lb n="17"/><supplied reason="lost">λογευ</supplied>τὴν ὥστε δοῦναι τοῖς ἀποστέλλουσι 
 
     <lb n="18"/><gap reason="lost" quantity="8" unit="character"/>α<unclear>ρ</unclear>ιδα ἐπὶ τὸ σήσαμον 
 
-    <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ἔφη ἀποβεβίασθαι <gap reason="illegible" quantity="4" unit="character"/>α </ab></div>
+    <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> ἔφη ἀποβεβιάσθαι <gap reason="illegible" quantity="4" unit="character"/>α 
+</ab></div>
