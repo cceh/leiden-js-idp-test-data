@@ -1,0 +1,13 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><choice><reg>Σενοννῶφρις</reg><orig><subst><add place="inline">Σενωνόφρις</add><del rend="corrected">Σενωνοφρ<unclear>εθ</unclear><certainty match=".." locus="value"/></del></subst></orig></choice>
+
+    <lb n="2"/>Ταθῶτις
+
+    <lb n="3" rend="indent"/>μητρός.
+
+    <lb n="4"/><choice><reg>Φαῶφι</reg><orig>Παπει</orig></choice>  <num value="1"><hi rend="supraline">α</hi></num>,
+
+    <lb n="5"/><expan><ex>ἔτους</ex></expan> <num value="16">ι<hi rend="supraline">ϛ</hi></num>.
+</ab>
+      </div>
