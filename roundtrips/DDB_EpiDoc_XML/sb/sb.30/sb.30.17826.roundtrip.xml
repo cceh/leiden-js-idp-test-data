@@ -1,0 +1,9 @@
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><abbr><gap reason="lost" extent="unknown" unit="character"/><unclear>τ</unclear>ο</abbr> Βελλῆς τοῦ Μιροπάτης
+
+    <lb n="2"/><supplied reason="lost">μητρὸς</supplied> <choice><corr>Ἀγάθης</corr><sic>Ἀθαγης</sic></choice>.
+
+    <lb n="3"/><expan><ex>ἔτους</ex></expan> <num value="15">κε</num>, <choice><reg>Ἐπεὶφ</reg><orig>Ἐπὴφ</orig></choice> <num value="1"><hi rend="supraline">α</hi></num>.
+</ab>
+      </div>
