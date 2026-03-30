@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><expan>βιβλ<ex>ιοφύλαξιν</ex></expan> <expan>ἐνκτήσ<ex>εων</ex></expan> <expan>Ἑρμοπολ<ex>ίτου</ex></expan> 
 
     <lb n="2"/>παρὰ Αὐρηλίων Ἑρμείνου τοῦ καὶ Μώρου καὶ 
@@ -27,7 +28,7 @@
 
     <lb n="14"/>καὶ χρηστηρίων καὶ ἀνηκόντων πάν
 
-    <lb n="15" break="no"/>των ἐν <expan>Ἑρμοπόλ<ex>ει</ex></expan> ἐπʼ ἀμφόδου Φρουρίου Λιβός. 
+    <lb n="15" break="no"/>των ἐν <app type="editorial"><lem resp="N. Litinas, APF 41 (1995) 68 n. 8">Ἑρμοῦ <expan>πόλ<ex>ει</ex></expan></lem><rdg><expan>Ἑρμοπόλ<ex>ει</ex></expan></rdg></app> ἐπʼ ἀμφόδου Φρουρίου Λιβός. 
 
     <lb n="16"/>διὸ ἀναφέρο<unclear>μεν</unclear> <unclear>κ</unclear>αὶ ὀμνύομεν τὴν Μ<supplied reason="lost">ά</supplied>ρκου 
 
@@ -45,4 +46,5 @@
 
     <lb n="23"/>λοιπογραφεῖσθαι καὶ ἀδήλου ὄντος εἰ <choice><reg>ὑμῖν</reg><orig><hi rend="diaeresis">ὑ</hi>μεῖν</orig></choice> διαφέρει ἡ κληρονο
 
-    <lb n="24" break="no"/>μία αὐτοῦ, ἔσχον <hi rend="diaeresis">ἴ</hi>σον. </ab></div>
+    <lb n="24" break="no"/>μία αὐτοῦ, ἔσχον <hi rend="diaeresis">ἴ</hi>σον. 
+</ab></div>

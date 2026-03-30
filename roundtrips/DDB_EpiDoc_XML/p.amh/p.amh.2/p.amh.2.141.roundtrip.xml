@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><supplied reason="lost">Αὐρ</supplied>ηλίῳ Δι<supplied reason="lost">οκλεῖ </supplied><gap reason="lost" quantity="8" unit="character"/> <expan>πρ<unclear>α</unclear><supplied reason="lost">ιπ<ex>οσίτῳ</ex></supplied></expan><supplied reason="lost"> <num value="12">ιβ</num> πάγου</supplied> 
 
     <lb n="2"/>νομοῦ <supplied reason="lost">Ἑρμοπολεί</supplied>του 
@@ -17,7 +18,7 @@
 
     <lb n="9"/><supplied reason="lost">κατε</supplied>νεγκόντες εἰς τὸ ἔδαφος πληγαῖς 
 
-    <lb n="10"/>ἱκαναῖς με <choice><reg>κατέκτει<supplied reason="lost">να</supplied>ν</reg><orig>κατέκ<unclear>τ</unclear>ι<supplied reason="lost">να</supplied>ν</orig></choice> γρόνθοις τε καὶ λακτί
+    <lb n="10"/>ἱκαναῖς με <app type="editorial"><lem resp="PN C. Balamoshev (from image)">κατέκο<unclear>ψα</unclear>ν</lem><rdg><choice><reg>κατέκτει<supplied reason="lost">να</supplied>ν</reg><orig>κατέκ<unclear>τ</unclear>ι<supplied reason="lost">να</supplied>ν</orig></choice></rdg></app> γρόνθοις τε καὶ λακτί
 
     <lb n="11" break="no"/><supplied reason="lost">σ</supplied>μασιν καθʼ ὅλων τῶν σωμάτων ὡς καὶ 
 
@@ -45,4 +46,5 @@
 
     <lb n="23"/><expan>Φλ<ex>αούιος</ex></expan> Ἀμμώνιος οὐετρανὸς <expan>ἀξιωθ<ex>εὶς</ex></expan> ἔγραψα 
 
-    <lb n="24"/><expan>ὑπ<ex>ὲρ</ex></expan> αὐτῆς γράμμα<supplied reason="lost">τ</supplied>α μὴ εἰδυ<hi rend="diaeresis">ί</hi>ης. </ab></div>
+    <lb n="24"/><expan>ὑπ<ex>ὲρ</ex></expan> αὐτῆς γράμμα<supplied reason="lost">τ</supplied>α μὴ εἰδυ<hi rend="diaeresis">ί</hi>ης. 
+</ab></div>
