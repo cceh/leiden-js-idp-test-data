@@ -1,9 +1,8 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
     <lb n="1"/>κ<unclear>υρίῳ</unclear> μου γεούχῳ Παπνοῦτις 
 
     <lb n="2"/>χαίρειν. 
-
 
     <lb n="3"/>καθὼς ἐκέλευσάς μοι <choice><reg>ἀπαντῆσαι</reg><orig>ἀπαντῆσε</orig></choice> εἰς Βερκὺ <hi rend="diaeresis">ἵ</hi>να 
 
@@ -39,11 +38,11 @@
 
     <lb n="19" break="no"/>δέξαι</reg><orig><hi rend="diaeresis">ὑ</hi>πο<lb n="19" break="no"/>δέξε</orig></choice> περὶ τοῦ σίτου καὶ τοῦ μέτρου. τινὲς <choice><reg>αὐτῶν</reg><orig><unclear>α</unclear>ὐτο͂ν</orig></choice> 
 
-    <lb n="20"/>λέγουσιν ὅτι <choice><reg>δέχου</reg><orig>δευου</orig></choice> μέτρησον, ἐὰν δὲ εὕρομεν 
+    <lb n="20"/>λέγουσιν ὅτι <app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 221"><choice><reg><app type="alternative"><lem>δεῦ</lem><rdg>δεῦρο</rdg></app></reg><orig>δεύου</orig></choice></lem><rdg><choice><reg>δέχου</reg><orig>δευου</orig></choice></rdg></app> μέτρησον, ἐὰν δὲ εὕρομεν 
 
     <lb n="21"/>ἀπʼ αὐτῶν <choice><reg>ἀγνώμονας</reg><orig>ἀγνώμ<unclear>ον</unclear>ες</orig></choice>, λαμβάνομεν κ<unclear>αὶ</unclear> <choice><reg>ἡμεῖς</reg><orig>ἡμῖς</orig></choice> 
 
-    <lb n="22"/><unclear>στρ</unclear>α<unclear>τιώ</unclear>τας καὶ <choice><reg cert="low"><surplus>β</surplus> κελεύομεν</reg><orig>β<gap reason="illegible" quantity="1" unit="character"/>ελεύομεν</orig></choice> αὐτοὺς. εἰ μὲν <choice><reg>θέλεις</reg><orig>θέλις</orig></choice>, 
+    <lb n="22"/><unclear>στρ</unclear>α<unclear>τιώ</unclear>τας καὶ <app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 221">β<unclear>α</unclear>κλεύομεν</lem><rdg><choice><reg cert="low"><surplus>β</surplus> κελεύομεν</reg><orig>β<gap reason="illegible" quantity="1" unit="character"/>ελεύομεν</orig></choice></rdg></app> αὐτοὺς. εἰ μὲν <choice><reg>θέλεις</reg><orig>θέλις</orig></choice>, 
 
     <lb n="23"/>ὡ<unclear>ς</unclear> <unclear>καὶ</unclear> <unclear>ὁ</unclear> ἕτερος <choice><reg>πραιπόσιτος</reg><orig>πρεπόσιτος</orig></choice> <choice><reg>ὑποδέχει</reg><orig><hi rend="diaeresis">ὑ</hi>ποδέχι</orig></choice>, καὶ <choice><reg>ἡμεῖς</reg><orig>ἡμῖς</orig></choice> ὑπο
 
@@ -56,9 +55,9 @@
     <lb n="27" break="no"/><unclear>σαι</unclear> <choice><reg>ἀπαντῆσαι</reg><orig>ἀπαντῆσε</orig></choice> ἐνταῦθα ἔ<unclear>σται</unclear> π<supplied reason="lost">ρ</supplied><unclear>ᾶ</unclear>γ<g type="apostrophe"/>μ<unclear>α</unclear> ὑποθη
 
     <lb n="28" break="no"/><gap reason="lost" quantity="4" unit="character"/>ν. ἐρρῶσθαί <choice><reg>σε</reg><orig>σοι</orig></choice> <supplied reason="lost">εὔχο</supplied>μαι, κ<supplied reason="lost">ύριέ μου</supplied> <choice><reg>γεοῦχε</reg><orig>γεοῦχω</orig></choice>. 
-</ab></div><div n="v" type="textpart"><ab>
-
-    <lb n="29"/>ὁ <choice><reg>βοηθὸς</reg><orig>βωηθὸ<unclear>ς</unclear></orig></choice> Ἀπολλωνίου ἀρχὴν ἔβ<unclear>α</unclear>λε <gap reason="illegible" quantity="4" unit="character"/>ε<gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><unclear>λ</unclear><gap reason="illegible" quantity="2" unit="character"/>του μέτρου <choice><reg>ὡς</reg><orig>ὁς</orig></choice> <unclear>ἐ</unclear>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="29"/>ὁ <choice><reg>βοηθὸς</reg><orig>βωηθὸ<unclear>ς</unclear></orig></choice> Ἀπολλωνίου ἀρχὴν ἔβ<unclear>α</unclear>λε <gap reason="illegible" quantity="4" unit="character"/>ε<gap reason="illegible" quantity="7" unit="character"/><unclear>λ</unclear><gap reason="illegible" quantity="2" unit="character"/>του μέτρου <choice><reg>ὡς</reg><orig>ὁς</orig></choice> <unclear>ἐ</unclear>
 
     <lb n="30" break="no"/>μέτρησεν Εὐλόγιος πραιπόσιτος τῆς <unclear>ἡ</unclear>μῶν πα<unclear>λι</unclear><gap reason="illegible" quantity="1" unit="character"/> <unclear>μ</unclear>ερί<unclear>δ</unclear>ος καὶ <choice><reg>εἰ</reg><orig>ἠ</orig></choice> <choice><reg>θέλεις</reg><orig><unclear>θ</unclear>έλις</orig></choice> <unclear>με</unclear> 
 
@@ -70,4 +69,5 @@
 
     <lb n="34"/>μοι τὰ ὀνόματα καθὼς πρὸ τοῦ τελοῦντες. 
 
-    <lb n="35"/><expan>ἀπόδ<ex>ος</ex></expan> τῷ δεσπότῃ μου <figure><figDesc>drawing</figDesc></figure> γε<supplied reason="lost">ο</supplied><unclear>ύ</unclear>χῳ. </ab></div></div>
+    <lb n="35"/><expan>ἀπόδ<ex>ος</ex></expan> τῷ δεσπότῃ μου <figure><figDesc>drawing</figDesc></figure> γε<supplied reason="lost">ο</supplied><unclear>ύ</unclear>χῳ. 
+</ab></div></div>
