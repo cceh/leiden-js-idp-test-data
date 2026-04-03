@@ -8,9 +8,9 @@
 
     <lb n="2"/><expan>π<ex>αρὰ</ex></expan> Πέτρου καὶ <expan>κληρονόμ<ex>ων</ex></expan> ἄπα Νακίου <expan>δ<ex>ιὰ</ex></expan> τὸ τὰς <expan>ἀρούρ<ex>ας</ex></expan> τῆς <expan>αὐτ<ex>ῆς</ex></expan> <expan>μηχ<ex>ανῆς</ex></expan> 
 
-    <lb n="3"/><expan>δοθ<ex>ῆναι</ex></expan> τοῖς <expan>εἰρημ<ex>ένοις</ex></expan> γεωργοῖς <expan>λόγ<ex>ῳ</ex></expan> ἐνχόρτου, <hi rend="diaeresis">ὑ</hi>πὲρ οὗ τὴν <expan>ἄρ<unclear>δε</unclear><ex>υσιν</ex></expan> <expan>ποιήσ<ex>ονται</ex></expan> 
+    <lb n="3"/><expan>δοθ<ex>ῆναι</ex></expan> τοῖς <expan>εἰρημ<ex>ένοις</ex></expan> γεωργοῖς <expan>λόγ<ex>ῳ</ex></expan> ἐνχόρτου, <hi rend="diaeresis">ὑ</hi>πὲρ οὗ τὴν <app type="editorial"><lem resp="BL 9.191"><expan>ἀρδ<ex>είαν</ex></expan></lem><rdg><expan>ἄρ<unclear>δε</unclear><ex>υσιν</ex></expan></rdg></app> <expan>ποιήσ<ex>ονται</ex></expan> 
 
-    <lb n="4"/>εἰς τὰ <expan>πωμάρ<ex>ια</ex></expan> καὶ εἰς τὰ <expan>χωρ<ex>ία</ex></expan> ἐκ τῶν <hi rend="diaeresis">ἰ</hi>δίων αὐτῶν κτηνῶν 
+    <lb n="4"/>εἰς τὰ <expan>πωμάρ<ex>ια</ex></expan> καὶ εἰς τὰ <expan>χωρ<ex>ία</ex></expan> ἐκ τῶν <hi rend="diaeresis">ἰ</hi>δίων αὐτῶν <app type="editorial"><lem resp="BL 11.155">κτηνῶν</lem><rdg>κτημάτων</rdg></app> 
 
     <lb n="5"/>ἀντὶ τῶν <expan>γεουχικ<ex>ῶν</ex></expan> <choice><reg><expan>βοϊδ<ex>ίων</ex></expan></reg><orig><expan>βοειδ<ex>ίων</ex></expan></orig></choice> τοῦ <expan>ἐνδόξ<ex>ου</ex></expan> <expan>οἴκ<ex>ου</ex></expan> καὶ ἐπὶ τῆς <num value="3">γ</num> <expan>ἰνδ<ex>ικτίονος</ex></expan> σίτου <expan>κ<ex>αγκέλλῳ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="21">κα</num> <num value="1/2">𐅵</num>. <del rend="erasure"><expan>νο<ex>μίσματα</ex></expan>  <num value="5">ε</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num></del> 
 
@@ -136,7 +136,7 @@
 
     <lb n="64"/><hi rend="diaeresis">ὑ</hi>πὲρ <expan>τιμ<ex>ῆς</ex></expan> χαρτῶν <expan>ἀγορασθ<ex>έντων</ex></expan> εἰς χρείαν <choice><reg><expan>ἀποκρισ<ex>ιαρίων</ex></expan></reg><orig><expan>ἀποκρεισ<ex>ιαρίων</ex></expan></orig></choice> τῆς <expan>διοικήσ<ex>εως</ex></expan> τοῦ <expan>κόμ<ex>ετος</ex></expan> Μηνᾶ <expan>νό<ex>μισμα</ex></expan> <num value="1">α</num> <num value="1/2">𐅵</num> <expan>π<ex>αρὰ</ex></expan> <expan>κερ<ex>άτια</ex></expan> <num value="6">ϛ</num> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num>. 
 
-    <lb n="65"/><hi rend="diaeresis">ὑ</hi>πὲρ <expan>τιμ<ex>ῆς</ex></expan> λίθων <expan>λαχανοπικ<ex>ῶν</ex></expan> <expan>ἀγορασθ<ex>έντων</ex></expan> καὶ <expan>δοθ<ex>έντων</ex></expan> εἰς τὸ <expan>γεουχικ<ex>ὸν</ex></expan> <choice><reg>ἐλαιουργεῖον</reg><orig>ἐλαιουργῖον</orig></choice> τοῦ <expan>κτήμ<ex>ατος</ex></expan> 
+    <lb n="65"/><hi rend="diaeresis">ὑ</hi>πὲρ <expan>τιμ<ex>ῆς</ex></expan> λίθων <expan>λαχανοκοπικ<ex>ῶν</ex></expan> <expan>ἀγορασθ<ex>έντων</ex></expan> καὶ <expan>δοθ<ex>έντων</ex></expan> εἰς τὸ <expan>γεουχικ<ex>ὸν</ex></expan> <choice><reg>ἐλαιουργεῖον</reg><orig>ἐλαιουργῖον</orig></choice> τοῦ <expan>κτήμ<ex>ατος</ex></expan> 
 
     <lb n="66"/>Μεγαλῆς Παρορίου <hi rend="diaeresis">ὑ</hi>πὸ Ἀπφουᾶν ἐλαιουργὸν ἀπὸ τοῦ αὐτοῦ <expan>κτήμ<ex>ατος</ex></expan> Μεχεὶρ <num value="11">ια</num> <expan>ἰνδ<ex>ικτίονος</ex></expan> <num value="3">γ</num> <expan>νο<ex>μίσματος</ex></expan> <num value="1/2">𐅵</num> <num value="1/4" rend="tick">δ</num> <expan>π<ex>αρὰ</ex></expan> <expan>κερ<ex>άτια</ex></expan> <num value="3">γ</num> <num value="1/4" rend="tick">δ</num>. 
 
