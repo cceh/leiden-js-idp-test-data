@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" quantity="15" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>κ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/>
 
     <lb n="2"/><supplied reason="lost">παρὰ Σαρα</supplied><unclear>π</unclear>ίωνος <supplied reason="lost">Δ</supplied>ημητρ<supplied reason="lost">ίου</supplied> τοῦ <unclear>Κ</unclear><supplied reason="lost">ο</supplied><unclear>λ</unclear>ύλιος μη
@@ -9,7 +10,7 @@
 
     <lb n="5"/>κ<unclear>ατὰ</unclear> <supplied reason="lost">τὰ κελε</supplied>υσθέντα ὑπὸ <supplied reason="lost">Σ</supplied>ε<supplied reason="lost">μπρ</supplied><unclear>ων</unclear><supplied reason="lost">ί</supplied>ου Λιβεραλίο<supplied reason="lost">υ</supplied> 
 
-    <lb n="6"/><unclear>τ</unclear>οῦ <unclear>ἡ</unclear><supplied reason="lost">γημο</supplied><unclear>νε</unclear>ύσαντος ἣν <unclear>ἔ</unclear><supplied reason="lost">χ</supplied><unclear>ω</unclear> ἐπʼ <supplied reason="lost">ὀνό</supplied>ματος Δ<supplied reason="lost">ιονυ</supplied>
+    <lb n="6"/><unclear>τ</unclear>οῦ <unclear>ἡ</unclear><supplied reason="lost">γεμο</supplied><unclear>νε</unclear>ύσαντος ἣν <unclear>ἔ</unclear><supplied reason="lost">χ</supplied><unclear>ω</unclear> ἐπʼ <supplied reason="lost">ὀνό</supplied>ματος Δ<supplied reason="lost">ιονυ</supplied>
 
     <lb n="7" break="no"/>σίο<unclear>υ</unclear> <supplied reason="lost">Ἀ</supplied>πίων<supplied reason="lost">ος</supplied> τοῦ Ἑρμ<supplied reason="lost">ο</supplied><unclear>δ</unclear><supplied reason="lost">ώρου μητρ</supplied><unclear>ὸς</unclear> <supplied reason="lost">Διδ</supplied><unclear>ύ</unclear>μη<supplied reason="lost">ς ἀπὸ</supplied> 
 
@@ -21,9 +22,9 @@
 
     <lb n="11"/>Ν<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>ς</unclear> ἀπὸ κώμης Τυχινφ<supplied reason="lost">ά</supplied>γ<unclear>ω</unclear>ν τῆς κάτω 
 
-    <lb n="12"/>τοπαρχίας ἀργυρίου δραχμῶν <choice><reg>δισχιλίων</reg><orig>δισχειλίων</orig></choice> τρι<supplied reason="lost">α</supplied>
+    <lb n="12"/>τοπαρχίας ἀργυρίου δραχμῶν <num value="2300"><choice><reg>δισχιλίων</reg><orig>δισχειλίων</orig></choice> τρι<supplied reason="lost">α</supplied>
 
-    <lb n="13" break="no"/>κοσ<supplied reason="lost">ίω</supplied>ν <num value="2300"/> κεφαλ<unclear>αί</unclear><supplied reason="lost">ο</supplied>υ καὶ τόκων κατὰ χειρόγραφον 
+    <lb n="13" break="no"/>κοσ<supplied reason="lost">ίω</supplied>ν</num> κεφαλ<unclear>αί</unclear><supplied reason="lost">ο</supplied>υ καὶ τόκων κατὰ χειρόγραφον 
 
     <lb n="14"/>γ<unclear>ε</unclear>γ<supplied reason="lost">ον</supplied><unclear>ὸς</unclear> <unclear>τῷ</unclear> Φαμεν<unclear>ὼ</unclear>θ τ<supplied reason="lost">ο</supplied><unclear>ῦ</unclear> <choice><reg>τρεισκαιδεκάτου</reg><orig>τρισκαιδεκάτου</orig></choice> ἔτους 
 
@@ -43,9 +44,9 @@
 
     <lb n="22"/><supplied reason="lost">κώ</supplied><unclear>μ</unclear><supplied reason="lost">ην Τυχι</supplied><unclear>ν</unclear>φάγ<unclear>ω</unclear><supplied reason="lost">ν ἐκ</supplied> τοῦ Εὐηνορος κλήρου 
 
-    <lb n="23"/>ἀρο<supplied reason="lost">υρῶ</supplied><unclear>ν</unclear> <num value="3">τριῶν</num> καὶ ἐκ τοῦ <gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="5" unit="character"/>δου ἀπὸ ἀρουρῶν 
+    <lb n="23"/>ἀρο<supplied reason="lost">υρῶ</supplied><unclear>ν</unclear> <num value="3">τριῶν</num> καὶ ἐκ τοῦ <app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 229-230"><unclear>Μο</unclear>σχίδου</lem><rdg><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="5" unit="character"/>δου</rdg></app> ἀπὸ ἀρουρῶν 
 
-    <lb n="24"/><unclear>δ</unclear><supplied reason="lost">εκ</supplied><unclear>ατρ</unclear><supplied reason="lost">ι</supplied>ῶν <num value="13"/> ἀρου<unclear>ρ</unclear>ῶν <num value="4">τεσσάρων</num> καὶ ἐκ τοῦ 
+    <lb n="24"/><num value="13"><unclear>δ</unclear><supplied reason="lost">εκ</supplied><unclear>ατρ</unclear><supplied reason="lost">ι</supplied>ῶν</num> ἀρου<unclear>ρ</unclear>ῶν <num value="4">τεσσάρων</num> καὶ ἐκ τοῦ 
 
     <lb n="25"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear>χίδου ἀρουρῶν <num value="7">ἑπτὰ</num> <num value="1/2">ἡμίσους</num>
 
@@ -55,4 +56,5 @@
 
     <lb n="28" break="no"/><supplied reason="lost">στέγου καὶ αὐ</supplied><unclear>λ</unclear>ῆ<unclear>ς</unclear> <supplied reason="lost">καὶ τούτ</supplied><unclear>ων</unclear> <choice><reg>ψιλῶν</reg><orig>ψειλῶν</orig></choice> τό<supplied reason="lost">π</supplied>ων 
 
-    <lb n="29"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
+    <lb n="29"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
