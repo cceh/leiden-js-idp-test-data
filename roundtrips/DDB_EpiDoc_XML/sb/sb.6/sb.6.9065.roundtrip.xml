@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>β<unclear>α</unclear>σιλίσσῃ Κλεοπάτραι κα<unclear>ὶ</unclear> <gap reason="lost" quantity="8" unit="character"/> 
 
     <lb n="2"/>Ἡρακλεία Ἀπο<unclear>λλω</unclear>νίο<unclear>υ</unclear>. ἐν τῶι <num value="1">α</num> προσαγορευθέντι δὲ <num value="3">γ</num> <expan><ex>ἔτει</ex></expan> ὁ γενόμενός μου ἀνὴρ 
@@ -9,7 +10,7 @@
 
     <lb n="5"/>τά τε <unclear>ἄλ</unclear>λα τὰ ἐν ἔθει σημήνας, κατέλιπέν μοι τὰ <choice><reg>σεσημασμένα</reg><orig>σεσημαμμένα</orig></choice> διὰ ταύτης καὶ τῆς ἐξ ἀμφοτέρων 
 
-    <lb n="6"/>γενομένης θυγατρὸς Εἰσιδώρας ἐπίτροπον ἀνεγλόγιστον <choice><reg>διοικοῦσα<supplied reason="omitted">ν</supplied></reg><orig>διοικουσα</orig></choice> ἕκαστα καθὼς ἐὰν προαιρῶμαι 
+    <lb n="6"/>γενομένης θυγατρὸς Εἰσιδώρας ἐπίτροπον ἀνεγλόγιστον <choice><reg>διοικοῦσα<supplied reason="omitted">ν</supplied></reg><orig>διοικοῦσα</orig></choice> ἕκαστα καθὼς ἐὰν προαιρῶμαι 
 
     <lb n="7"/><unclear>μ</unclear>ηδ<unclear>ενὶ</unclear> ἐξόντος τῶν πρὸς ὁποτέρου ἔγγιστα γένους προσεῖ<supplied reason="lost">ναι τ</supplied><unclear>ῆ</unclear>ι ἐπιτροπείᾳ μηδʼ ἀπογρά
 
@@ -25,7 +26,7 @@
 
     <lb n="13"/><supplied reason="lost">μέρος οἰκίας καὶ</supplied> <unclear>α</unclear><supplied reason="lost">ἰθρίο</supplied><unclear>υ</unclear> καὶ αὐλῆς καὶ ἄλλων τῶν συνκυρόντων πάντων <unclear>πα</unclear><supplied reason="lost">ν</supplied><unclear>τοί</unclear>ων 
 
-    <lb n="14"/><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> καὶ ἐν τῷ ἐν τῇ</supplied> <unclear>α</unclear>ὐτῇ πόλει ἱερῶι Πτεσῆπ θεοῦ <choice><reg>μεγίσ<supplied reason="omitted">τ</supplied>ου</reg><orig>μεγισου</orig></choice> παστοφορίου καὶ 
+    <lb n="14"/><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost"> καὶ ἐν τῷ ἐν τῇ</supplied> <unclear>α</unclear>ὐτῇ πόλει ἱερῶι <app type="editorial"><lem resp="BL 8.338">τοῦ Εσηπ</lem><rdg>Πτεσῆπ</rdg></app> θεοῦ μεγίσ<supplied reason="omitted">τ</supplied>ου παστοφορίου καὶ 
 
     <lb n="15"/><supplied reason="lost">τῶν συνκυρόντων πάντων</supplied> <expan><ex>τέταρτον</ex></expan> μέρος, καὶ ἐν τῶι ἐν τῆι αὐτῇ πόλ<unclear>ει</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>ι Σαραπιδείωι χηνοβοσκίου <expan><ex>τέταρτον</ex></expan> 
 
@@ -57,6 +58,7 @@
 
     <lb n="29"/><gap reason="lost" quantity="42" unit="character"/><supplied reason="lost"> σὺν τῇ</supplied> <unclear>τετελειω</unclear>μένῃ ὑπογραφῇ 
 
-    <lb n="30"/><gap reason="lost" quantity="39" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/> <unclear>π</unclear>αραχωροῦσα ἑτέραις, 
+    <lb n="30"/><gap reason="lost" quantity="39" unit="character"/><gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" quantity="1" unit="character"/> <unclear>π</unclear>αραχωροῦσα ἑτέραις, 
 
-    <lb n="31"/><supplied reason="lost" cert="low">αἷς ἐὰν αἱρῶμαι. τούτου δὲ γενομένου ἔσομαι</supplied> <unclear>εὐεργετη</unclear>μένη. εὐτυχεῖτε. </ab></div>
+    <lb n="31"/><supplied reason="lost" cert="low">αἷς ἐὰν αἱρῶμαι. τούτου δὲ γενομένου ἔσομαι</supplied> <unclear>εὐεργετη</unclear>μένη. εὐτυχεῖτε. 
+</ab></div>

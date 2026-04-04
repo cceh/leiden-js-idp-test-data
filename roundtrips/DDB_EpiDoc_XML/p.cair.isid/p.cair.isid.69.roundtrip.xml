@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>Αὐρηλί<supplied reason="lost">ῳ Χ</supplied>ρήστῳ στρατηγῷ <expan><unclear>Ἀ</unclear><supplied reason="lost">ρσινο</supplied><unclear>είτο</unclear><ex>υ</ex></expan> 
 
     <lb n="2"/>παρὰ Αὐρηλίου Ἰσιδώρου Πτολεμαίου ἀπὸ κώ
@@ -11,9 +12,9 @@
 
     <lb n="6" break="no"/>τὸς τοίνυν οὐ δεόντως καὶ ῥιψοκινδύνως 
 
-    <lb n="7"/>ἀπαιτηθεὶς χρυσίου γράμματα τρία <num value="3"/> καὶ ἀσήμου 
+    <lb n="7"/>ἀπαιτηθεὶς χρυσίου γράμματα <num value="3">τρία</num> καὶ ἀσήμου 
 
-    <lb n="8"/>γράμματα ὀκτὼ <num value="8"/> ὑπὸ Ἀκοτᾶ Πτολεμαίου ἀπὸ τῆς 
+    <lb n="8"/>γράμματα <num value="8">ὀκτὼ</num> ὑπὸ Ἀκοτᾶ Πτολεμαίου ἀπὸ τῆς 
 
     <lb n="9"/>αὐτῆς κώμης ὑπὲρ ὧν αὐτὸς ἀεὶ <choice><reg>γεωργεῖ</reg><orig>γεωργῖ</orig></choice> 
 
@@ -53,14 +54,15 @@
 
     <lb n="28"/>τα<unclear>ῦτα</unclear> ἔνγραφα ἀξιῶν ἀχθῆναι αὐτὸν ἐπὶ σοῦ καὶ τὰς 
 
-    <lb n="29"/><choice><reg>ἐνεργεῖς</reg><orig>ἐνεργῖς</orig></choice> τὰς <choice><reg>ἀποδείξεις</reg><orig>ἀποδίξις</orig></choice> ποιήσασθαι διὰ τοῦ <choice><reg>ὁριοδείκτου</reg><orig>ὁρι<lb n="15" break="no"/>οδίκτου</orig></choice> 
+    <lb n="29"/><choice><reg>ἐνεργεῖς</reg><orig>ἐνεργῖς</orig></choice> τὰς <choice><reg>ἀποδείξεις</reg><orig>ἀποδίξις</orig></choice> ποιήσασθαι διὰ τοῦ <choice><reg>ὁριοδείκτου</reg><orig>ὁριοδίκτου</orig></choice> 
 
     <lb n="30"/>καὶ <choice><reg>ἀγρογειτόνων</reg><orig>ἀγρογιτό<supplied reason="lost">νω</supplied>ν</orig></choice> εἴ ποτε ἐγεώργησα <choice><reg>ταυτηνὶ</reg><orig>ταυτηνεὶ</orig></choice> 
 
-    <lb n="31"/>τὴν γῆν <supplied reason="lost">πρὸς τὸ </supplied><choice><reg><supplied reason="lost">μέ</supplied>νειν</reg><orig><supplied reason="lost">μέ</supplied>νιν</orig></choice> μοι τὸν λόγον <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> 
+    <lb n="31"/>τὴν γῆν <supplied reason="lost">πρὸς τὸ </supplied><choice><reg><supplied reason="lost">μέ</supplied>νειν</reg><orig><supplied reason="lost">μέ</supplied>νιν</orig></choice> μοι τὸν λόγον <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="7" unit="character"/> 
 
     <lb n="32"/><handShift new="m2" cert="low"/> <choice><reg>ὑπατείας</reg><orig>ὑπατίας</orig></choice> <unclear>Τα</unclear>τί<supplied reason="lost">ου Ἀνδρονίκου καὶ Πο</supplied>μπηίου Πρ<unclear>ό</unclear>βου <supplied reason="lost">τῶν </supplied><expan><supplied reason="lost">λαμπρο</supplied><unclear>τ</unclear><ex>άτων</ex></expan> 
 
     <lb n="33"/>ἐπάρχ<unclear>ω</unclear><supplied reason="lost">ν. <handShift new="m3"/> Αὐρ</supplied>ήλιος Ἰσίδω<supplied reason="lost">ρος ἐπιδέδωκ</supplied>α. 
 
-    <lb n="34"/>Αὐρήλιος <gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> ἔγραψ</supplied>α ὑπὲρ αὐτοῦ <supplied reason="lost">ἀγραμμάτου</supplied>. </ab></div>
+    <lb n="34"/>Αὐρήλιος <gap reason="lost" quantity="6" unit="character"/><supplied reason="lost"> ἔγραψ</supplied>α ὑπὲρ αὐτοῦ <supplied reason="lost">ἀγραμμάτου</supplied>. 
+</ab></div>
