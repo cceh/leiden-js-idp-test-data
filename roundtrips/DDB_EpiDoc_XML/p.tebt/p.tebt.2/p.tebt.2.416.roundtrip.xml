@@ -1,6 +1,6 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
 
-    <lb n="1"/>Κάλμα Σαραπιάδι τῇ ἀδελ
+    <lb n="1"/><app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 230-231"><choice><reg>Καλλέας</reg><orig>Καλλ<unclear>ε</unclear>α</orig></choice></lem><rdg>Κάλμα</rdg></app> Σαραπιάδι τῇ ἀδελ
 
     <lb n="2" break="no"/>φῆι χαίρειν. 
 
@@ -8,7 +8,7 @@
 
     <lb n="4" break="no"/>νάμην ἐν Ἀλεξανδρίᾳ. 
 
-    <lb n="5"/>μὴ οὖν ελ<unclear>ο</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>η<unclear>σ</unclear>ης ὃ μέλ
+    <lb n="5"/>μὴ οὖν <app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 230-231"><choice><reg>ὀλιγοψ<supplied reason="lost">υ</supplied>χήσῃς</reg><orig>ὀλο<unclear>ψ</unclear><supplied reason="lost">υ</supplied>χήσῃς</orig></choice></lem><rdg resp="BL 2.2.170">ἐλο<unclear>ι</unclear><supplied reason="lost">π</supplied>η<unclear>θ</unclear>ῇς</rdg><rdg>ελ<unclear>ο</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>η<unclear>σ</unclear>ης</rdg></app> ὃ μέλ
 
     <lb n="6" break="no"/>λω <choice><reg>μένειν</reg><orig>μένιν</orig></choice> εἰς Ἀντινόου. ἐγε
 
@@ -21,14 +21,14 @@
     <lb n="10"/>ἐνθάδε, ἐν <choice><reg>τάχει</reg><orig><unclear>τ</unclear><supplied reason="lost">ά</supplied><unclear>χ</unclear>ι</orig></choice>
 <choice><reg>παραγίνο<lb n="11" break="no"/>μαι</reg><orig>παραγείνο<lb n="11" break="no"/>με</orig></choice> πρ<supplied reason="lost">ὸ</supplied><unclear>ς</unclear> <unclear>σὲ</unclear> εἰς τὴν χώραν. 
 
-    <lb n="12"/>Κάλμα Πρωτοῦτι τῇ ἀδελφῇ 
+    <lb n="12"/><app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 230-231"><choice><reg>Καλλέας</reg><orig>Καλλ<unclear>εα</unclear></orig></choice></lem><rdg>Κάλμα</rdg></app> Πρωτοῦτι τῇ ἀδελφῇ 
 
     <lb n="13"/>χαίρειν. 
 
     <lb n="14"/>πᾶν ποίησον συντηρῆσαι 
 
     <lb n="15"/>τὴν γυναῖκάν μου ἕως 
-<choice><reg>παρα<lb n="16" break="no"/>γένωμαι</reg><orig>παρα<lb n="16" break="no"/>γένομε</orig></choice>· <choice><reg>μετάδος</reg><orig>μετάδ<unclear>ε</unclear>ς</orig></choice> καὶ Ἀκουτᾶ
+<choice><reg>παρα<lb n="16" break="no"/>γένωμαι</reg><orig>παρα<lb n="16" break="no"/>γένομε</orig></choice>· <app type="editorial"><lem><choice><reg>μετάδος</reg><orig>μετάδ<unclear>ε</unclear>ς</orig></choice></lem><rdg resp="C. Balamoshev, ZPE 236 (2025) 230-231">μετ<unclear>α</unclear>δοὺς</rdg></app> καὶ Ἀκουτᾶ
 
     <lb n="17" break="no"/>τι τῷ ἀδελφῷ ὅτι ἐὰν <choice><reg>χρείαν</reg><orig>χρίαν</orig></choice> 
 
@@ -45,4 +45,4 @@
     <lb n="23"/>ἐρρῶσθαί <unclear>σε</unclear> εὔχομαι. 
 </ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="24"/><expan>ἀπόδ<ex>ος</ex></expan> Σαραπ<supplied reason="lost">ι</supplied>άδι <supplied reason="lost">π</supplied><unclear>α</unclear>ρὰ <subst><add place="inline">Κάλμα</add><del rend="corrected">κ<gap reason="illegible" quantity="3" unit="character"/>α</del></subst> </ab></div></div>
+    <lb n="24"/><expan>ἀπόδ<ex>ος</ex></expan> Σαραπ<supplied reason="lost">ι</supplied>άδι <app type="editorial"><lem resp="PN C. Balamoshev (from image)"><expan><unclear>π</unclear><ex>αρὰ</ex></expan></lem><rdg><supplied reason="lost">π</supplied><unclear>α</unclear>ρὰ</rdg></app> <app type="editorial"><lem resp="C. Balamoshev, ZPE 236 (2025) 230-231"><choice><reg>Καλλέου</reg><orig>Καλλ<unclear>εα</unclear></orig></choice></lem><rdg><subst><add place="inline">Κάλμα</add><del rend="corrected">κ<gap reason="illegible" quantity="3" unit="character"/>α</del></subst></rdg></app> </ab></div></div>
