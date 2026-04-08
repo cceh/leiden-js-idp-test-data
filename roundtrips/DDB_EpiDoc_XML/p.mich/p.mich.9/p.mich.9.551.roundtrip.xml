@@ -13,7 +13,7 @@
 
     <lb n="7" break="no"/>κλείδου μερίδος τοῦ Ἀρσι
 
-    <lb n="8" break="no"/>νοείτου νομοῦ. <app type="editorial"><lem resp="H.C. Youtie, Scriptiunculae Posteriores II, 694, n. 1">ὁμολογεῖ
+    <lb n="8" break="no"/>νοείτου νομοῦ. <app type="editorial"><lem resp="H.C. Youtie, Scriptiunculae Posteriores II 694, n. 1">ὁμολογεῖ
 
     <lb n="9"/><handShift new="m2"/>Ἀμμώνιος</lem><rdg>ὁμολογεῖ <lb n="9"/>Ἀμμώνιος</rdg></app> Σεουήρου 
 
@@ -25,7 +25,7 @@
 
     <lb n="13"/>νομοῦ Γαίωι <choice><reg>Οὐαλερ<supplied reason="omitted">ί</supplied>ῳ</reg><orig>Οὐαλερῳ</orig></choice> 
 
-    <lb n="14"/>Λόγγῳ <choice><reg>ἀπολυσίμ<add place="above">ῳ</add></reg><orig>ἀπολυσίμου</orig></choice> <app type="editorial"><lem resp="BL 12.123"><choice><reg>στρα<lb n="15" break="no"/>τείας</reg><orig>στρα
+    <lb n="14"/>Λόγγῳ <choice><reg>ἀπολυσίμ<add place="above">ῳ</add></reg><orig>ἀπολυσίμου</orig></choice> ἀπὸ <app type="editorial"><lem resp="BL 12.123"><choice><reg>στρα<lb n="15" break="no"/>τείας</reg><orig>στρα
 
     <lb n="15" break="no"/>τίας</orig></choice></lem><rdg>στρα<lb n="15" break="no"/>τιᾶς</rdg></app> <choice><reg>ἐκ</reg><orig>ἐγ λεγεῶνος</orig></choice>
 
@@ -35,7 +35,7 @@
 
     <lb n="18"/>ἄρρενα πῶλον <expan>ἄβολ<ex>ον</ex></expan> μυό
 
-    <lb n="19" break="no"/>χρουν <app type="editorial"><lem resp="H.C. Youtie (cit. W.G. Claytor, ZPE 194 (2015), 207)">ἀναπόρριφον</lem><rdg>ἀναπόριφον</rdg></app>. ἀπέχει 
+    <lb n="19" break="no"/>χρουν <app type="editorial"><lem resp="H.C. Youtie (cit. W.G. Claytor, ZPE 194 (2015) 207)">ἀναπόρριφον</lem><rdg>ἀναπόριφον</rdg></app>. ἀπέχει 
 
     <lb n="20"/><supplied reason="omitted">ὁ</supplied> <expan>ὁμολ<ex>ογῶν</ex></expan> τιμὴν <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> διακοσίας 
 
@@ -63,4 +63,4 @@
 
     <lb n="32"/>αὐτοῦ <surplus>του</surplus> Διόδωρος <expan>Ἀπολλ<unclear>ω</unclear><ex>νίου</ex></expan> 
 
-    <lb n="33"/>μὴ <expan>εἰδό<ex>τος</ex></expan> <expan>γρά<ex>μματα</ex></expan>.  <handShift new="m5"/> <expan>ἐν<ex>τέτακται</ex></expan> <expan>δι<ex>ὰ</ex></expan> <app type="editorial"><lem resp="H.C. Youtie (cit. W.G. Claytor, ZPE 194 (2015), 207)"><expan>Κερ<ex>κεσούχων</ex></expan></lem><rdg><expan>Κ<ex>ερκεσ</ex>ού<ex>χων</ex></expan></rdg></app> <expan>γρ<ex>αφείου</ex></expan>. </ab></div>
+    <lb n="33"/>μὴ <expan>εἰδό<ex>τος</ex></expan> <expan>γρά<ex>μματα</ex></expan>.  <handShift new="m5"/> <expan>ἐν<ex>τέτακται</ex></expan> <expan>δι<ex>ὰ</ex></expan> <app type="editorial"><lem resp="H.C. Youtie (cit. W.G. Claytor, ZPE 194 (2015) 207)"><expan>Κερ<ex>κεσούχων</ex></expan></lem><rdg><expan>Κ<ex>ερκεσ</ex>ού<ex>χων</ex></expan></rdg></app> <expan>γρ<ex>αφείου</ex></expan>. </ab></div>
