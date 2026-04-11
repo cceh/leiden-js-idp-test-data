@@ -1,17 +1,16 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>ὑπόμνημα Ζήνωνι παρὰ <unclear>Π</unclear><gap reason="lost" quantity="3" unit="character"/>
 
     <lb n="2" break="no"/>νος. καλῶς ἂν <choice><reg>ποιήσαις</reg><orig>ποήσαις</orig></choice> κα<supplied reason="lost">θὰ</supplied> 
 
-    <lb n="3"/>καὶ ἐν Ἀλεξανδρήαι ἠξ<supplied reason="lost">ίουν</supplied> 
+    <lb n="3"/>καὶ ἐν <choice><reg>Ἀλεξανδρείαι</reg><orig>Ἀλεξανδρήαι</orig></choice> ἠξ<supplied reason="lost">ίουν</supplied> 
 
-    <lb n="4"/><choice><reg>δοὺς</reg><orig><unclear>δ</unclear><supplied reason="lost">ο</supplied><unclear>υ</unclear><supplied reason="lost">ν</supplied><unclear>α</unclear>ι</orig></choice> εἰς ἀνήλωμα τοῖς <unclear>ἔ</unclear><supplied reason="lost">ν</supplied>
+    <lb n="4"/><choice><reg>δοὺς</reg><orig><unclear>δ</unclear><supplied reason="lost">ο</supplied><unclear>ῦ</unclear><supplied reason="lost">ν</supplied><unclear>α</unclear>ι</orig></choice> εἰς ἀνήλωμα τοῖς <unclear>ἔ</unclear><supplied reason="lost">ν</supplied>
 
     <lb n="5" break="no"/>δον <expan><ex>δραχμὰς</ex></expan> <num value="10">ι</num> καὶ εἰς τὴν ἑορτὴ<supplied reason="lost">ν</supplied> 
 
     <lb n="6"/>πυρῶν μάλιστα μὲν <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
-
-    <lb n="7"/><space extent="unknown" unit="character"/> 
 
     <lb n="7"/><num value="10">ι</num> <expan>ἀρ<ex>τάβας</ex></expan>, εἰ δὲ μή γε, τὰς <num value="6">ϛ</num> <add place="above">καὶ</add> οἴν<supplied reason="lost">ου</supplied> 
 
@@ -27,4 +26,5 @@
 
     <lb n="13"/>κομιῆι. 
 
-    <lb n="14"/>εὐτύχει. </ab></div>
+    <lb n="14"/>εὐτύχει. 
+</ab></div>
