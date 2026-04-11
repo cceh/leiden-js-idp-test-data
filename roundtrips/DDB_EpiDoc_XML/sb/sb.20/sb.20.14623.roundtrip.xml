@@ -6,9 +6,9 @@
 
     <lb n="3"/>σοι ἔγραφον τὴν ἐπι
 
-    <lb n="4" break="no"/>στολήν, ἐπορευσά
+    <lb n="4" break="no"/>στολήν, <app type="editorial"><lem resp="BL 11.230">ἐπορευό
 
-    <lb n="5" break="no"/>μην εἰς Κροκοδίλων
+    <lb n="5" break="no"/>μην</lem><rdg>ἐπορευσά<lb n="5" break="no"/>μην</rdg></app> εἰς Κροκοδίλων
 
     <lb n="6"/>πόλιν πρὸς Φιλέαν·
 
