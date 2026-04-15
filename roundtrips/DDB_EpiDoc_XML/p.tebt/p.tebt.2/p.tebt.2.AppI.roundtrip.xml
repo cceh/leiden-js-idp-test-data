@@ -1,8 +1,8 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="FrA" type="textpart"><ab>
 
-    <lb n="1"/>ναυβίου κατοίκων <gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="1" rend="indent"/>ναυβίου κατοίκων <gap reason="lost" extent="unknown" unit="character"/> 
 
-    <lb n="2"/>ἀρουρῶν <num value="5">ε</num> <num value="1/2">𐅵</num>, 
+    <lb n="2" rend="indent"/>ἀρουρῶν <num value="5">ε</num> <num value="1/2">𐅵</num>, 
 
     <lb n="3"/><supplied reason="lost">ὡ</supplied>ς δεῖ ποιῆσαι. ποίει ἑκά<supplied reason="lost">στῃ</supplied> 
 
