@@ -1,6 +1,6 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 <ab>
-    <lb n="1"/>Γαλα<unclear>τί</unclear><supplied reason="lost">ωι</supplied> βασιλικῷ γραμματεῖ 
+    <lb n="1"/><app type="editorial"><lem resp="BL 12.135">Γαλα<unclear>τί</unclear><supplied reason="lost">ωνι</supplied></lem><rdg>Γαλα<unclear>τί</unclear><supplied reason="lost">ωι</supplied></rdg></app> βασιλικῷ γραμματεῖ 
 
     <lb n="2"/>παρὰ Θεογένους τοῦ Θεογ<supplied reason="lost">ένους.</supplied> <expan><supplied reason="lost">βο</supplied><unclear>υλ</unclear>όμ<ex>ενος</ex></expan> 
 
@@ -22,9 +22,9 @@
 
     <lb n="11" break="no"/>κῆς γῆς ἀρουρῶν <num value="40">τεσσαράκοντα</num>, 
 
-    <lb n="12"/><choice><reg>τελεῖν</reg><orig>τελεσωι</orig></choice> ἀντὶ τῶν προτελουμέν<supplied reason="lost">ων</supplied> 
+    <lb n="12"/><choice><reg>τελεῖν</reg><orig>τελέσωι</orig></choice> ἀντὶ τῶν προτελουμέν<supplied reason="lost">ων</supplied> 
 
-    <lb n="13"/>ὑπὲρ τούτων τιμῆς χλωρῶν ἐν <app type="editorial"><lem>στ<supplied reason="lost">ερεοῖς</supplied></lem><rdg>στ<gap reason="lost" quantity="4" unit="character"/></rdg></app> 
+    <lb n="13"/>ὑπὲρ τούτων τιμῆς χλωρῶν ἐν <app type="editorial"><lem resp="BL 8.234">στ<supplied reason="lost">ερεοῖς</supplied></lem><rdg>στ<gap reason="lost" quantity="4" unit="character"/></rdg></app> 
 
     <lb n="14"/>γένεσι ὑπὲρ ἀρουρῶν <num value="20">εἴκοσι</num> ἑκάστη<supplied reason="lost">ς ἀρού</supplied>
 
