@@ -2,7 +2,7 @@
 
     <lb n="1"/><g type="stauros"/> <unclear>χμγ</unclear> 
 
-    <lb n="1"/><g type="rho-cross"/> <expan>γνῶσ<ex>ις</ex></expan> τῶν <choice><reg><expan>ἀπαι<supplied reason="omitted">τη</supplied>θ<ex>έντων</ex></expan></reg><orig>ἀπαιθ</orig></choice> <expan><unclear>π</unclear><ex>αρὰ</ex></expan> τ<unclear>ῶ</unclear>ν υ<hi rend="diaeresis">ἱ</hi>ῶν τοῦ <choice><reg cert="low">μελισσέως</reg><orig><supplied reason="lost">με</supplied><unclear>λι</unclear>σέως</orig></choice> 
+    <lb n="1"/><g type="rho-cross"/> <expan>γνῶσ<ex>ις</ex></expan> τῶν <choice><reg><expan>ἀπαι<supplied reason="omitted">τη</supplied>θ<ex>έντων</ex></expan></reg><orig>ἀπαιθ</orig></choice> <expan><unclear>π</unclear><ex>αρὰ</ex></expan> τ<unclear>ῶ</unclear>ν υ<hi rend="diaeresis">ἱ</hi>ῶν τοῦ <choice><reg cert="low"><supplied reason="lost">με</supplied>λισσέως</reg><orig><supplied reason="lost">με</supplied><unclear>λι</unclear>σέως</orig></choice> 
 
     <lb n="2"/>ἐξ <expan>ἀφορ<ex>μῆς</ex></expan> <expan>το<ex>ῦ</ex></expan> <expan>πεδίτο<ex>υ</ex></expan>, Ἐπεὶφ <num value="5">ε</num>  <num value="11">ια</num> <expan>ἰνδ<ex>ικτίονος</ex></expan> 
 <milestone rend="paragraphos" unit="undefined"/>
@@ -22,7 +22,7 @@
 
     <lb n="10"/><expan><unclear>π</unclear><ex>αρὰ</ex></expan> τῶν <expan>ἐλαιουργ<ex>ῶν</ex></expan>        <supplied reason="lost"><expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> 
 
-    <lb n="11"/><expan><unclear>π</unclear><ex>αρὰ</ex></expan> τῶν <expan>χαλκ<ex>έων</ex></expan> <surplus><expan>6χαλκ<ex>οτύπων</ex></expan></surplus>7 <supplied reason="lost"><expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> 
+    <lb n="11"/><expan><unclear>π</unclear><ex>αρὰ</ex></expan> τῶν <app type="editorial"><lem resp="BL 1.109"><expan>χαλκ<ex>έων</ex></expan></lem><rdg><expan>χαλκ<ex>οτύπων</ex></expan></rdg></app> <supplied reason="lost"><expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> 
 
     <lb n="12"/><expan><unclear>π</unclear><ex>αρὰ</ex></expan> τῶν ῥαπτῶν              <supplied reason="lost"><expan>νο<ex>μίσματα</ex></expan> </supplied><gap reason="lost" quantity="1" unit="character"/> 
 

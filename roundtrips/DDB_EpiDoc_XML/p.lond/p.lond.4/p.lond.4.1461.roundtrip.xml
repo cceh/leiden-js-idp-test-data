@@ -210,7 +210,7 @@
 
     <lb n="71"/><gap reason="lost" extent="unknown" unit="line"/> 
 
-    <lb n="72"/><expan>εἰ<ex>ς</ex></expan> <supplied reason="lost"><expan>τ<ex>ὴν</ex></expan> <expan>παγαρχ<ex>ίαν</ex></expan> Ἀνταίου <expan>κ<ex>αὶ</ex></expan> Ἀπόλλωνος </supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> <num value="7">ζ</num><surplus> <gap reason="illegible" extent="unknown" unit="character"/> </surplus>7</supplied> 
+    <lb n="72"/><expan>εἰ<ex>ς</ex></expan> <supplied reason="lost"><expan>τ<ex>ὴν</ex></expan> <expan>παγαρχ<ex>ίαν</ex></expan></supplied> <app type="editorial"><lem resp="BL 1.303"><supplied reason="lost">Ἀνταίου <expan>κ<ex>αὶ</ex></expan> Ἀπόλλωνος </supplied><gap reason="lost" extent="unknown" unit="character"/></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 
     <lb n="73"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
