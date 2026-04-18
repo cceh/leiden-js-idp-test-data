@@ -1919,7 +1919,7 @@
 
     16. *filled-circle* *check* (Aurel(ius)) Mocimus Siṃon 
 
-    17. $m2 ~|(ζ(ήτει)) /*?*/|~grc  〚Chafer A[v]iṛ〛 {10m1}10 (Aurel(ius)) Germạnus 
+    17. $m2 ~|(ζ(ήτει)) /*?*/|~grc  〚Chafer A[v]iṛ〛 $m1 (Aurel(ius)) Germạnus 
 
     18. *filled-circle* *check* (Aurẹl(ius)) Fḷavịụṣ Ṃarinus 
 
