@@ -15,7 +15,8 @@
     <lb n="7"/>κόμισαι παρὰ τοῦ <unclear>ἀ</unclear>ν<unclear>α</unclear>διδ<supplied reason="lost">όν</supplied><unclear>ν</unclear>τος 
 
     <lb n="8"/>σοι τὸ ἐπιστόλιον τὴν 
-<choice><reg>στραγ<lb n="9" break="no"/>γίδα</reg><orig>στραγ<lb n="9" break="no"/>γιδαν</orig></choice> ὡς ἔγραψας καὶ σφραγί
+<app type="editorial"><lem resp="BL 8.152"><choice><reg>σφρα<lb n="9" break="no"/>γῖδα</reg><orig>σφραγ<lb n="9" break="no"/>γῖδαν</orig></choice></lem><rdg>
+<choice><reg>στραγ<lb n="9" break="no"/>γίδα</reg><orig>στραγ<lb n="9" break="no"/>γίδαν</orig></choice></rdg></app> ὡς ἔγραψας καὶ σφραγί
 
     <lb n="10" break="no"/>δια <num value="4">δ</num> ὡς ἔγραψας.  ἄσπαζε τοὺς 
 
