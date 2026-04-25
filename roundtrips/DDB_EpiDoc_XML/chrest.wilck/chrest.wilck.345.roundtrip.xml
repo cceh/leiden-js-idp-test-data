@@ -10,9 +10,9 @@
 
     <lb n="5"/><supplied reason="lost">διὰ </supplied><gap reason="lost" quantity="2" unit="character"/>τος Α<gap reason="lost" quantity="11" unit="character"/>νεζ<gap reason="illegible" quantity="1" unit="character"/>υ<gap reason="lost" quantity="5" unit="character"/> 
 
-    <lb n="6"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ρφ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> τ</supplied>οῦἈπολ<supplied reason="lost">λ </supplied><gap reason="lost" quantity="5" unit="character"/> 
+    <lb n="6"/><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ρφ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> τ</supplied>οῦ Ἀπολ<supplied reason="lost">λ </supplied><gap reason="lost" quantity="5" unit="character"/> 
 
-    <lb n="7"/><gap reason="lost" quantity="4" unit="character"/> Ἑρμαί<supplied reason="lost">ου,</supplied> <expan>οὐσ<ex>ιακῆς</ex></expan> <supplied reason="lost">γῆς <expan><ex>ἀρουρ  </ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> <num value="1/32" rend="tick">λβ</num> <num value="1/64" rend="tick">ξδ</num> <gap reason="lost" quantity="5" unit="character"/> 
+    <lb n="7"/><gap reason="lost" quantity="4" unit="character"/> Ἑρμαί<supplied reason="lost">ου</supplied>, <expan>οὐσ<ex>ιακῆς</ex></expan> <supplied reason="lost">γῆς <expan><ex>ἀρουρ  </ex></expan> </supplied><gap reason="lost" quantity="2" unit="character"/> <num value="1/2">𐅵</num> <num value="1/8" rend="tick">η</num> <num value="1/32" rend="tick">λβ</num> <num value="1/64" rend="tick">ξδ</num> <gap reason="lost" quantity="5" unit="character"/> 
 
     <lb n="8"/><supplied reason="lost">δι</supplied>ὰ Ἑρμᾶ Πολυδε<supplied reason="lost">ύ</supplied>κους καὶ Δ<gap reason="lost" quantity="7" unit="character"/> 
 
@@ -24,7 +24,7 @@
 
     <lb n="12"/><supplied reason="lost">τῆς κ</supplied>ώμης πάντων ἐξ ἀλληλεγγύης 
 
-    <lb n="13"/><supplied reason="lost">καὶ γ</supplied><unclear>ῆ</unclear>ς <expan>προσόδ<ex>ου</ex></expan> <expan><ex>ἀρούρας</ex></expan> <num value="80">π</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="47">μζ</num> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num> 
+    <lb n="13"/><supplied reason="lost">καὶ γ</supplied><unclear>ῆ</unclear>ς <expan>προσόδ<ex>ου</ex></expan> <expan><ex>ἀρούρας</ex></expan> <app type="editorial"><lem resp="B. Borrelli and W.G. Claytor, Tyche 39 (2024) 52"><num value="50">ν</num></lem><rdg><num value="80">π</num></rdg></app> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="47">μζ</num> <num value="1/2">𐅵</num> <num value="1/12" rend="tick">ιβ</num> 
 
     <lb n="14"/><supplied reason="lost">διὰ τ</supplied>ῶν αὐτῶν <expan>πρεσβ<ex>υτέρων</ex></expan> καὶ Ἀπύγχεως 
 
@@ -37,7 +37,7 @@
 
     <lb n="2"/><gap reason="lost" quantity="17" unit="character"/>τος καὶ 
 
-    <lb n="3"/> <gap reason="lost" quantity="16" unit="character"/> <expan><supplied reason="lost">α</supplied>ρμιβοῦτ<ex>ο</ex>ς</expan> καὶ 
+    <lb n="3"/> <gap reason="lost" quantity="16" unit="character"/><expan><supplied reason="lost">α</supplied>ρμιβοῦτ<ex>ο</ex>ς</expan> καὶ 
 
     <lb n="4"/><gap reason="lost" quantity="17" unit="character"/><supplied reason="lost"> τ</supplied>ῆς αὐτῆς καὶ 
 
@@ -57,7 +57,7 @@
 
     <lb n="12"/>Κλαυδιανοῦ <expan>ἀπάτ<ex>ορος</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <expan>Ἀφροδ<supplied reason="lost">οῦ</supplied>τ<ex>ος</ex></expan> καὶ 
 
-    <lb n="13"/><app type="editorial"><lem resp="BL cf. 1.433">Νουμισσίου</lem><rdg>Νου<gap reason="illegible" quantity="1" unit="character"/>ισσίου</rdg></app> <expan>ἀπάτ<ex>ορος</ex></expan> <expan>μη<ex>τρὸς</ex></expan> Ταμύσθας καὶ 
+    <lb n="13"/><app type="editorial"><lem resp="BL 1.433">Νουμισσίου</lem><rdg>Νου<gap reason="illegible" quantity="1" unit="character"/>ισσίου</rdg></app> <expan>ἀπάτ<ex>ορος</ex></expan> <expan>μη<ex>τρὸς</ex></expan> Ταμύσθας καὶ 
 
     <lb n="14"/>τῶν λοιπῶν γεωργῶν τῆς κώμης. 
 </ab></div><div n="3" type="textpart"><ab>
@@ -76,16 +76,16 @@
 
     <lb n="7"/>τ<supplied reason="lost">ι τ</supplied>ούτων δ<gap reason="lost" quantity="13" unit="character"/><supplied reason="lost"> τὴν</supplied> 
 
-    <lb n="8"/>δὲ γῆν πᾶσαν βε<unclear>β</unclear><supplied reason="lost">ρεγμένην </supplied><gap reason="lost" quantity="5" unit="character"/> 
+    <lb n="8"/>δὲ γῆν πᾶσαν <app type="editorial"><lem resp="B. Borrelli and W.G. Claytor, Tyche 39 (2024) 52">βε<unclear>β</unclear><supplied reason="lost">ρέχθαι καὶ λελιμ</supplied> <lb n="9" break="no"/>νᾶσθαι</lem><rdg>βε<unclear>β</unclear><supplied reason="lost">ρεγμένην </supplied><gap reason="lost" quantity="5" unit="character"/> 
 
-    <lb n="9"/>νασθαι ἣν καὶ πο<supplied reason="lost">τίσω καὶ κατασπερῶ</supplied> 
+    <lb n="9"/>νασθαι</rdg></app> ἣν καὶ πο<supplied reason="lost">τίσω καὶ κατασπερῶ</supplied> 
 
-    <lb n="10"/>πυρῷ καὶ κριθ<supplied reason="lost">ῇ καὶ </supplied><gap reason="lost" quantity="12" unit="character"/> 
+    <lb n="10"/>πυρῷ καὶ κριθ<supplied reason="lost">ῇ καὶ </supplied><app type="editorial"><lem resp="B. Borrelli and W.G. Claytor, Tyche 39 (2024) 52"><app type="alternative"><lem><gap reason="lost" quantity="12" unit="character"/></lem><rdg><supplied reason="lost">τῷ δέοντι καιρῷ καί</supplied></rdg></app></lem><rdg><gap reason="lost" quantity="12" unit="character"/></rdg></app>
 
     <lb n="11"/>ἐδωδίμ<supplied reason="lost">ο</supplied>ις γένε<supplied reason="lost">σι </supplied><gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> δανει</supplied>
 
     <lb n="12" break="no"/>ζόμενα σπέρμα<supplied reason="lost">τα καθαρὰ καὶ </supplied><gap reason="lost" quantity="6" unit="character"/> 
 
-    <lb n="13"/>εἰς τὴν γῆν <choice><reg>ὑγ<supplied reason="lost">ιῶς</supplied></reg><orig>ὑγε<supplied reason="lost">ιῶς</supplied></orig></choice> <supplied reason="lost">καταθήσεσθαι</supplied><gap reason="lost" quantity="3" unit="character"/> 
+    <lb n="13"/>εἰς τὴν γῆν <choice><reg>ὑγ<supplied reason="lost">ιῶς</supplied></reg><orig>ὑγε<supplied reason="lost">ιῶς</supplied></orig></choice> <supplied reason="lost">καταθήσεσθαι</supplied> <app type="editorial"><lem resp="B. Borrelli and W.G. Claytor, Tyche 39 (2024) 52"><supplied reason="lost">μηδ</supplied> <lb n="14" break="no"/>ὲν ἐξ αὐτῶν ὑ<unclear>π</unclear><supplied reason="lost">ολογούμενος</supplied> <gap reason="lost" quantity="3" unit="character"/></lem><rdg><gap reason="lost" quantity="3" unit="character"/> 
 
-    <lb n="14"/>εν ἐξ αὐτ<unclear>ῶν</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="15" unit="character"/> </ab></div></div>
+    <lb n="14"/>εν ἐξ αὐτ<unclear>ῶν</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="15" unit="character"/></rdg></app> </ab></div></div>
