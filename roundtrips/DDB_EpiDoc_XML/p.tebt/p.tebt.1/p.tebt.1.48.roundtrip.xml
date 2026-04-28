@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>Μεγχεῖ κωμογραμματεῖ 
 
     <lb n="2"/>Κερκεοσίρεως 
@@ -27,7 +28,7 @@
 
     <lb n="14" break="no"/>λέως παρουσίαν ἀγορὰν <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρταβῶν</ex></expan> <num value="80">π</num>, 
 
-    <lb n="15"/>τῆι δὲ <num value="3">γ</num> τοῦ ὑποκειμένου μηνὸς 
+    <lb n="15"/>τῆι δὲ <num value="3">γ</num> τοῦ <app type="editorial"><lem resp="BL 11.271">προκειμένου</lem><rdg>ὑποκειμένου</rdg></app> μηνὸς 
 
     <lb n="16"/>ὄντων πρὸς τῆι παραδόσει 
 
@@ -63,4 +64,5 @@
 
     <lb n="32"/><supplied reason="lost">τοὺς σὺν αὐ</supplied>τῶι ἐπὶ <unclear>τ</unclear><supplied reason="lost">ὸν</supplied> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> 
 
-    <lb n="33"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
+    <lb n="33"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
