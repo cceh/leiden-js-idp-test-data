@@ -12,9 +12,9 @@
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <expan>Πασήμ<ex>ιος</ex></expan> <expan>Νείλων<ex>ος</ex></expan> 
 
-    <lb n="7"/><app type="editorial"><lem resp="BL cf. 2.1.22"><expan><gap reason="lost" quantity="6" unit="character"/>η<ex>ς</ex></expan></lem><rdg><gap reason="lost" quantity="3" unit="character"/>η</rdg></app> <expan>Ἁρβήχιο<ex>ς</ex></expan> <app type="editorial"><lem resp="BL 2.1.22"><expan>Ἀμε<ex>νώθου</ex></expan></lem><rdg><abbr>Ἀμω</abbr></rdg></app> 
+    <lb n="7"/><app type="editorial"><lem resp="BL 2.1.22"><expan><gap reason="lost" quantity="6" unit="character"/>η<ex>ς</ex></expan></lem><rdg><gap reason="lost" quantity="3" unit="character"/>η</rdg></app> <expan>Ἁρβήχιο<ex>ς</ex></expan> <app type="editorial"><lem resp="N. Gonis, APF 64 (2018) 53"><abbr>Ἀπολ</abbr></lem><rdg resp="BL 2.1.22"><expan>Ἀμε<ex>νώθου</ex></expan></rdg><rdg><abbr>Ἀμω</abbr></rdg></app> 
 
-    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>ιεμος <abbr>Πεμω</abbr> 
+    <lb n="8"/><app type="editorial"><lem resp="N. Gonis, APF 64 (2018) 43"><gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">Πο</supplied>ριεύθ<ex>ου</ex></expan> <expan>Πικῶ<ex>τος</ex></expan></lem><rdg><gap reason="lost" extent="unknown" unit="character"/>ιεμος <abbr>Πεμω</abbr></rdg></app> 
 
     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> Παναμέως <expan>Πετενε<ex>φώτου</ex></expan> 
 
