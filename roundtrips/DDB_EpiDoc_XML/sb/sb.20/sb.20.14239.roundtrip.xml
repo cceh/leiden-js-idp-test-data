@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><supplied reason="lost"><num value="10">ι</num></supplied><num value="6">ϛ</num>
 
     <lb n="2"/>Πουλῆμι<unclear>ς</unclear> <expan>γυ<ex>μνασίαρχος</ex></expan> <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <supplied reason="lost"><expan>χ<ex>αλκοῦ</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <expan>γεω<ex>μετρίας</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="18">ιη</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
@@ -155,11 +156,11 @@
 
     <lb n="78"/><expan>Ἡρωδιανό<ex>ς</ex></expan>
 
-    <lb n="79"/>Κάρος <expan>Ἀνουβώνο<ex>ς</ex></expan> <supplied reason="lost"><expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <expan>χ<ex>αλκοῦ</ex></expan> <num value="400">υ</num>
+    <lb n="79"/>Κάρος <expan>Ἀνουβωνο<ex>ς</ex></expan> <expan><supplied reason="lost">κ<ex>ατ</ex></supplied>οί<ex>κων</ex></expan> <expan>χ<ex>αλκοῦ</ex></expan> <num value="400">υ</num>
 
-    <lb n="80"/>Ζωῆς Διδύμου <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <expan>χ<ex>αλκοῦ</ex></expan> <num value="150">ρν</num>
-</supplied><abbr>
-    <lb n="81"/>Ὀλβανὸς</abbr> <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <supplied reason="lost"><expan>χ<ex>αλκοῦ</ex></expan></supplied> <num value="305">τε</num>
+    <lb n="80"/>Ζωῆς Διδύμου <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <expan>χ<ex>αλκοῦ</ex></expan> <num value="150">ρν</num> 
+
+    <lb n="81"/><app type="editorial"><lem resp="BL 11.229">Ὀλβανὸς <abbr>Ὀρσεν</abbr></lem><rdg><abbr>Ὀλβανὸς</abbr></rdg></app> <expan>κ<ex>ατ</ex>οί<ex>κων</ex></expan> <supplied reason="lost"><expan>χ<ex>αλκοῦ</ex></expan></supplied> <num value="305">τε</num>
 
     <lb n="82"/>Πασίων
 
@@ -255,7 +256,7 @@
 
     <lb n="128"/><abbr>Διδυ</abbr> <expan>Διοσκόρο<ex>υ</ex></expan> <expan>γεω<ex>μετρίας</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="16">ιϛ</num>
 
-    <lb n="129"/>Εὐδαίμων Προλεμα<supplied reason="omitted">ί</supplied>ου <abbr>χ</abbr> <expan>γρα<ex>μματικοῦ</ex></expan> <expan>φυλ<ex>ακιτῶν</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
+    <lb n="129"/>Εὐδαίμων <app type="editorial"><lem resp="BL 11.229">Πτολεμα<supplied reason="omitted">ί</supplied>ου</lem><rdg>Προλεμα<supplied reason="omitted">ί</supplied>ου</rdg></app> <abbr>χ</abbr> <expan>γρα<ex>μματικοῦ</ex></expan> <expan>φυλ<ex>ακιτῶν</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="3">γ</num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
 
     <lb n="130"/>Ἑλένη Πτολεμαίου <expan>ἐλ<ex>αίας</ex></expan> <expan>χ<ex>αλκοῦ</ex></expan> <num value="400">υ</num>
 
@@ -268,8 +269,9 @@
     <lb n="134"/>Ἡλένη Πτολεμαίου <expan>γεω<ex>μετρίας</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="10">ι</num>
 
     <lb n="135"/>Χάρης Χάρητος <expan>ἀριθ<ex>μητικοῦ</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="16">ιϛ</num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
-</ab><div n="ms" type="textpart"><ab>
-
+</ab>
+<div n="ms" type="textpart"><ab>
     <lb n="97"/><del rend="erasure"><gap reason="illegible" extent="unknown" unit="character"/></del>
 
-    <lb n="98"/><del rend="erasure"><gap reason="illegible" extent="unknown" unit="character"/></del></ab></div></div>
+    <lb n="98"/><del rend="erasure"><gap reason="illegible" extent="unknown" unit="character"/></del>
+</ab></div></div>
