@@ -1,0 +1,23 @@
+
+         <T=.en
+            <=
+               ((1)) To Bolanus, strategus of the divisions of Themistes and Polemon in the Arsinoite nome.
+               ((3)) I, Soterichus, son of Democrates son of Apion, surnamed Marianos, assistant of the sitologi of
+                      the village of Theadelphia for the produce of the 6th year, ((6)) swear by the fortune of the Emperor
+                      Caesar Lucius Septimius Severus Pius Pertinax Arabicus Adiabenicus Parthicus Maximus Augustus
+               ((9)) and the Emperor Caesar Marcus Aurelius Antoninus Augustus ((11)) that I will recover by the fifteenth
+                      of Mecheir one thousand eight hundred and twenty silver drachmae, ((13)) being the value of 227 1/2 artabae
+                      of wheat measured to us on deposit by Chariton and his partners, ((16)) collectors of the crown-tax of the
+                      same village of Theadelphia, and paid in by us on account of the state cultivators of the same village.
+             ((19)) If I do not recover it, I shall pay to the collector the half-portion pertaining to me, nine hundred
+                      and ten silver drachmae, ((23)) without prejudice to the claim of Chariton against my partner Isas for the
+                      910 drachmae of the other half; otherwise may I be liable to the consequences of the oath.
+             ((26)) (2nd hand) I, Soterichus, have sworn the oath, (1st hand) and (2nd hand) I will pay as
+                      aforesaid.
+             ((28)) (1st hand) The 7th year of the Emperor Caesar Lucius Septimius Severus Pius Pertinax Arabicus
+                      Adiabenicus Parthicus Maximus Augustus and the Emperor Caesar Marcus Aurelius Antoninus
+                      Augustus, Phaophi 2.
+                      /*Translation: R.A. Coles, JEA 52 (1966) 133 Nr. 2*/
+            =>
+         =T>
+      
