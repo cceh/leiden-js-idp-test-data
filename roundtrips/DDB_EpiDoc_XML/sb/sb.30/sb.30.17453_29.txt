@@ -1,0 +1,16 @@
+<S=.grc
+<=
+(1, indent) σ
+(2, indent) σ υ σ
+(3, indent) σ υ ο υ σ
+(4, indent) σ υ ο σ ο υ σ
+(5, indent) σ υ ο σ ι σ ο υ σ
+(6, indent) σ υ ο σ ι α ι σ ο υ σ
+7. σ υ ο σ ι α θ α ι σ ο υ σ
+(8, indent) σ υ ο σ ι α ι σ ο υ σ
+(9, indent) σ υ ο σ ι σ ο υ σ
+(10, indent) σ υ ο σ ο υ σ
+(11, indent) σ υ ο υ σ
+(12, indent) σ υ σ
+(13, indent) σ
+=>

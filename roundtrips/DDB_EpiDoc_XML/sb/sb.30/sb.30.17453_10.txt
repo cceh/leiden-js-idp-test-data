@@ -1,0 +1,6 @@
+<S=.grc
+<=
+    1. A #sign 
+
+    2. P #sign  
+=>
