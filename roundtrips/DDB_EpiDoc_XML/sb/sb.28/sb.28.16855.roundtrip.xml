@@ -1,5 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="r" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
     <lb n="1"/><handShift new="m1"/> Κυδίαι τῶν δι<supplied reason="lost">αδό</supplied>χων καὶ στρατηγῶι 
 
     <lb n="2"/>π<unclear>α</unclear>ρʼ Ἡρακλείδου <supplied reason="lost">Μ</supplied><unclear>υ</unclear>σοῦ τῶν ὑπὸ 
@@ -12,7 +12,7 @@
 
     <lb n="6"/>κ<unclear>α</unclear>τα<gap reason="lost" quantity="6" unit="character"/> καταγαγ<supplied reason="lost">όντος</supplied> μου 
 
-    <lb n="7"/>εἰς Μ<unclear>έ</unclear><supplied reason="lost">μφιν ψ</supplied>υχαγωγ<supplied reason="lost">ηθέντα</supplied> ὑπὸ 
+    <lb n="7"/>εἰς Μ<unclear>έ</unclear><supplied reason="lost">μφιν ψ</supplied>υχαγωγ<supplied reason="lost">ηθέντα</supplied> ὑπό 
 
     <lb n="8"/>τινων ἐ<supplied reason="lost">ξεχ</supplied>ώρησε. τῆ<supplied reason="lost">ς δὲ ἀν</supplied><unclear>α</unclear>ζυγῆς 
 
@@ -69,8 +69,9 @@
     <lb n="34"/><handShift new="m2"/> <expan>πρ<ex>ονοηθῆναι</ex></expan>.
 
     <lb n="35"/><handShift new="m3"/> <abbr>προ<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/></abbr> <abbr><gap reason="illegible" quantity="1" unit="character"/>υ</abbr> <expan><ex>ἔτους</ex></expan> <num value="3">γ</num> Παῦνι <num value="3">γ</num>. 
-</ab></div><div n="v" type="textpart"><ab>
-
+</ab></div>
+<div n="v" type="textpart"><ab>
     <lb n="1"/><supplied reason="lost"><expan><ex>ἔτους</ex></expan> <num value="3">γ</num> Π</supplied>αῦνι <num value="3">γ</num> Ἡ<unclear>ρ</unclear><supplied reason="lost">ακ</supplied><unclear>λ</unclear>είδ<unclear>ο</unclear>υ Μ<unclear>υσ</unclear><supplied reason="lost">ο</supplied><unclear>ῦ</unclear> 
 
-    <lb n="2"/><supplied reason="lost">περὶ </supplied><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" quantity="3" unit="character"/>ς <expan>αἰχ<unclear>μ</unclear>α<ex>λώτων</ex></expan> <expan>διαδεδρα<ex>κότων</ex></expan>. </ab></div></div>
+    <lb n="2"/><supplied reason="lost">περὶ </supplied><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" quantity="3" unit="character"/>ς <expan>αἰχ<unclear>μ</unclear>α<ex>λώτων</ex></expan> <expan>διαδεδρα<ex>κότων</ex></expan>. 
+</ab></div></div>
