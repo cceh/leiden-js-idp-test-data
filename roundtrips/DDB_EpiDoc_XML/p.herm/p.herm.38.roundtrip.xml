@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
 
     <lb n="1"/><supplied reason="lost">λόγος </supplied><expan><supplied reason="lost">ἀνα</supplied>λωμάτ<ex>ων</ex></expan> χρ<unclear>υσ</unclear>ικοῦ τῆς <num value="1">α</num> <expan><hi rend="diaeresis">ἰ</hi>ν<ex>δικτίονος</ex></expan>· 
@@ -27,7 +28,7 @@
 
     <lb n="13"/><space extent="unknown" unit="character"/> 
 
-    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <expan>νο<ex>μισμάτια</ex></expan> <num value="7">ζ</num> <expan>π<ex>αρὰ</ex></expan> <num value="40">μ</num> <expan>κ<ex>εράτια</ex></expan> <num value="23">κγ</num> <num value="1/2">𐅵</num>, <expan>τ<ex>ῷ</ex></expan> <expan>κ<ex>όμετι</ex></expan> <expan>νο<ex>μισμάτια</ex></expan> <num value="6">ϛ</num> <expan>π<ex>αρὰ</ex></expan> <num value="7">ζ</num> <num value="1/2">𐅵</num>, 
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <expan>νο<ex>μισμάτια</ex></expan> <num value="7">ζ</num> <expan>π<ex>αρὰ</ex></expan> <num value="40">μ</num> <expan>κ<ex>εράτια</ex></expan> <num value="23">κγ</num> <num value="1/2">𐅵</num>, <app type="editorial"><lem resp="BL 5.45"><expan>τ<ex>ὰ</ex></expan> <expan>κ<ex>αὶ</ex></expan> <expan>νο<ex>μισμάτια</ex></expan> <num value="6">ϛ</num> <expan>κ<ex>εράτια</ex></expan> <num value="7">ζ</num> <num value="1/2">𐅵</num></lem><rdg><expan>τ<ex>ῷ</ex></expan> <expan>κ<ex>όμετι</ex></expan> <expan>νο<ex>μισμάτια</ex></expan> <num value="6">ϛ</num> <expan>π<ex>αρὰ</ex></expan> <num value="7">ζ</num> <num value="1/2">𐅵</num></rdg></app>, 
 
     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear>φ <expan><ex>ὑπὲρ</ex></expan> τοῦ χρυσικοῦ  <expan>νο<ex>μισμάτια</ex></expan> <num value="4">δ</num> <expan>κ<ex>εράτια</ex></expan> <num value="14">ι<unclear>δ</unclear></num>, 
 
@@ -35,4 +36,5 @@
 
     <lb n="16"/><expan>νο<ex>μισμάτια</ex></expan> <num value="1">α</num> <expan>κ<ex>εράτια</ex></expan> <num value="11">ια</num> <num value="1/2">𐅵</num>. 
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="line"/> </ab></div>
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="line"/> 
+</ab></div>
