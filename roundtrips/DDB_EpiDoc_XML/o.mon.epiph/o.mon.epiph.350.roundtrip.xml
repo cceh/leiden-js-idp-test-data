@@ -1,0 +1,23 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><g type="rho-cross"/> ⲉⲩⲡⲣⲉⲡⲓⲟⲥ ⲡⲓ<choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan>ⲉⲗⲁⲭ<ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice> ⲉⲧⲥ
+
+    <lb n="2" break="no"/>ϩⲁ<hi rend="diaeresis">ⲓ</hi> ⲉⲧϣⲓⲛⲉ ⲉⲛⲉϥⲙⲉⲣⲁⲧⲉ ⲡⲁ
+
+    <lb n="3" break="no"/>ⲥⲟⲛ <hi rend="diaeresis">ⲓ</hi>ⲱϩⲁⲛⲛⲏⲥ <hi rend="supraline">ⲙⲛ</hi> ⲡⲁⲥⲟⲛ ⲉⲛⲱⲭ
+
+    <lb n="4"/>ⲁⲩⲱ ϯϣⲓⲛⲉ ⲉⲛⲉⲛⲥⲛⲏⲩ ⲉⲧϩⲁⲧⲉ<hi rend="supraline">ⲧⲛ</hi>
+
+    <lb n="5"/>ⲁⲣⲓ ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁⲡⲏ</orig></choice> ⲉⲓⲥ ⲛⲉⲥⲛⲏⲩ <subst><add place="inline">ⲁ<hi rend="diaeresis">ⲓ</hi><hi rend="supraline">ⲧⲛ</hi>ⲛⲟⲟⲩ
+
+    <lb n="6" break="no"/>ⲥⲟⲩ</add><del rend="corrected">ⲁⲕ<hi rend="supraline">ⲧⲛ</hi>ⲛⲟⲟⲩ<lb n="6" break="no"/>ⲥⲟⲩ</del></subst> <hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi><choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁⲡⲏ</orig></choice> ⲁ<unclear>ⲕ</unclear>ⲩⲗⲁⲥ <hi rend="supraline">ⲙⲛ</hi> ⲡⲉⲧⲣⲱ
+
+    <lb n="7" break="no"/>ⲛⲉ ϯ ⲛⲉⲛⲉⲓⲁⲁⲩ ⲛⲁⲩ<g type="middot"/> ⲛⲟⲩ<hi rend="diaeresis">ⲓ</hi> <choice><reg xml:lang="grc">μέν</reg><orig>ⲙⲉⲛ</orig></choice> ⲙⲁⲣⲟ<supplied reason="lost">ⲩ</supplied>
+
+    <lb n="8"/>ⲙⲁⲩⲁⲁⲩ<g type="middot"/> ⲛⲟⲩ<hi rend="diaeresis">ⲓ</hi> ⲟⲛ <hi rend="supraline">ⲙⲛ</hi> <app type="alternative"><lem>ⲡ<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ⲉ</unclear></lem><rdg>ⲡ<gap reason="lost" quantity="2" unit="character"/><unclear>ϣⲉ</unclear></rdg></app> ⲙⲁⲣⲟⲩ ⲙⲁⲩ
+
+    <lb n="9" break="no"/>ⲁⲁⲩ <app type="alternative"><lem><hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ⲧ<unclear>ⲁⲗ</unclear><gap reason="lost" quantity="6" unit="character"/>ⲟⲩ</lem><rdg><hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ⲧ<unclear>ⲥⲁ</unclear><supplied reason="lost">ⲃⲟⲓ ⲉⲣⲱ</supplied>ⲟⲩ</rdg></app> ϫⲉ ⲁϣⲛⲉ
+
+    <lb n="10"/>ⲟⲩϫⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ϩⲙ</hi> <supplied reason="lost">ⲡϫⲟⲉⲓⲥ <g type="stauros"/> ϣ</supplied>ⲗⲏⲗ ⲉϫⲱ<hi rend="diaeresis">ⲓ</hi> 
+</ab>
+      </div>
