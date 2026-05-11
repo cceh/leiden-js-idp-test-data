@@ -1,7 +1,7 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/><g type="stauros"/> <g type="check"/> <choice><reg>κούρσωρσι</reg><orig>κουρωσρσει</orig></choice> <expan><ex>τετρα</ex>κνίδ<ex>ιον</ex></expan> <num value="1">α</num> 
+    <lb n="1"/><g type="stauros"/> <g type="check"/> <choice><reg>κούρσωρσι</reg><orig>κούρσωρσει</orig></choice> <expan><ex>τετρα</ex>κνίδ<ex>ιον</ex></expan> <num value="1">α</num> 
 
-    <lb n="2"/><choice><reg>πραίκωσι</reg><orig>βρεκορσι</orig></choice>             <expan><ex>τετρα</ex>κνίδ<ex>ιον</ex></expan> <num value="1">α</num> 
+    <lb n="2"/><choice><reg>πραίκωσι</reg><orig>βρέκορσι</orig></choice>             <expan><ex>τετρα</ex>κνίδ<ex>ιον</ex></expan> <num value="1">α</num> 
 
     <lb n="3"/>δημίοις                           <expan><ex>τετρα</ex>κνίδ<ex>ιον</ex></expan> <num value="1">α</num> 
 
@@ -11,6 +11,6 @@
 
     <lb n="6"/>Μηνᾷ καὶ <hi rend="diaeresis">Ἰ</hi>σὰκ 
 
-    <lb n="7"/><expan>βοηθ<ex>οῖς</ex></expan> <expan>σινγουλαρ<ex>ίου</ex></expan> 
+    <lb n="7"/><expan>βοηθ<ex>οῖς</ex></expan> <app type="editorial"><lem resp="Oxyrhynchus, a City and its Texts, p. 356, n. 5"><expan>σιγ<g type="apostrophe"/>γουλαρ<ex>ίου</ex></expan></lem><rdg><expan>σινγουλαρ<ex>ίου</ex></expan></rdg></app> 
 
     <lb n="8"/><expan><ex>τετρα</ex>κνίδ<ex>ιον</ex></expan> <num value="1">α</num> </ab></div>
