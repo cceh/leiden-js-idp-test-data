@@ -25,9 +25,9 @@
 
     <lb n="13"/>εἶναι καὶ τὸ παιδά
 
-    <lb n="14" break="no"/>ριον παρὰ σοὶ <app type="editorial"><lem resp="BL 9.315"><choice><reg>ἀν<supplied reason="lost">ασῴ</supplied>
+    <lb n="14" break="no"/>ριον παρὰ σοὶ <app type="editorial"><lem resp="BL 9.315">ἀν<supplied reason="lost">ασῴ</supplied>
 
-    <lb n="15" break="no"/>ζει<supplied reason="omitted">ν</supplied></reg><orig>ἀν<supplied reason="lost">ασωι</supplied>ζει</orig></choice></lem><rdg>α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/>ζει</rdg></app>. καλῶς <choice><reg>ποιή<supplied reason="lost">σεις</supplied></reg><orig>πο<unclear>ή</unclear><supplied reason="lost">σεις</supplied></orig></choice> 
+    <lb n="15" break="no"/>ζει<supplied reason="omitted">ν</supplied></lem><rdg>α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/> <lb n="15" break="no"/>ζει<supplied reason="omitted" cert="low">ν</supplied></rdg></app>. καλῶς <choice><reg>ποιή<supplied reason="lost">σεις</supplied></reg><orig>πο<unclear>ή</unclear><supplied reason="lost">σεις</supplied></orig></choice> 
 
     <lb n="16"/>δανείσας εἰς ἔτη τρία. 
 
