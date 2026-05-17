@@ -15,8 +15,12 @@
     <lb n="7"/><gap reason="lost" extent="unknown" unit="line"/> 
 </ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Περι</supplied>τίου <num value="26">κϛ</num>  Ζήν<supplied reason="lost">ωνι</supplied>. 
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> Περι</supplied>τίου <num value="26">κϛ</num>   
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/> 
 
-    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> Εὐφραγόρας. </ab></div></div>
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> Εὐφραγόρας. 
+
+    <lb n="4"/>Ζήν<supplied reason="lost">ωνι</supplied>.
+
+</ab></div></div>

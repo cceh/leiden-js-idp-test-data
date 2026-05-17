@@ -1,10 +1,10 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 <div n="r" type="textpart"><ab>
-    <lb n="1"/><g type="stauros"/> τὰ γραφέντα παρὰ τῆς ὑμετέρας ἀδελφότητος ἐδεξάμην, καὶ πρὸ τοῦ 
+    <lb n="1"/><g type="stauros"/> τὰ γραφέντα παρὰ τῆς ὑμετέρας <app type="editorial"><lem resp="BL 11.156">γνησίας</lem><rdg/></app> ἀδελφότητος ἐδεξάμην, καὶ πρὸ τοῦ 
 
     <lb n="2"/>αὐτὴν ἀνελθεῖν αὔριον παρασκευάσῃ τοὺς ἀπὸ Τερύθεως <subst><add place="inline">δοῦναι</add><del rend="corrected">δευναι</del></subst> τοῖς ἀπὸ 
 
-    <lb n="3"/>Λεωνίδου περὶ <app type="editorial"><lem resp="L. Putelli, FS Maltomini, 179">Τα<unclear>μπετι</unclear></lem><rdg>τ<unclear>ὰ</unclear></rdg></app> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
+    <lb n="3"/>Λεωνίδου περὶ <app type="editorial"><lem resp="L. Putelli, FS Maltomini, 179">Τα<unclear>μπετι</unclear></lem><rdg>τ<unclear>ὰ</unclear> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap></rdg></app> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
 
     <lb n="4"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> 
 
