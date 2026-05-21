@@ -1,0 +1,33 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ϣⲁ ϣⲱ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ⲡϣⲁ<g type="word-sep-apostrophe"/> ⲁⲁⲡⲁ ⲕⲟⲩ
+
+    <lb n="4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ϫⲉ ⲁⲧⲉⲧⲛⲙ<hi rend="supraline">ⲛ</hi><lb n="5" break="no"/><supplied reason="lost" cert="low">ⲧⲉⲓⲱⲧ</supplied> <choice><reg xml:lang="grc">κελεῦειν</reg><orig><supplied reason="lost">ⲕⲉⲗⲉ</supplied>ⲩⲉ</orig></choice> ⲉⲧⲣⲉⲩ<hi rend="supraline">ⲣ</hi> ϣⲁ<g type="word-sep-apostrophe"/>
+
+    <lb n="6"/><app type="editorial"><lem resp="PN F. Krueger (photograph)"><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ϩⲙ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>ϩⲙ</rdg></app> ⲡⲉϥⲙ<unclear>ⲁ</unclear> ϫⲓ<hi rend="supraline">ⲛ</hi>
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> ϣⲁ ⲧⲉⲛⲟⲩ <g type="middot"/> ⲁⲡⲁ <hi rend="diaeresis">ⲓ</hi>ⲱϩⲁⲛ
+
+    <lb n="8" break="no"/><gap reason="lost" extent="unknown" unit="character"/>ⲱⲣⲕ ⲛⲏⲧⲛ <hi rend="supraline">ⲙ</hi>ⲡⲛⲟⲩⲧⲉ
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>ϫⲉ ⲧⲟⲩⲣⲏⲧⲉ ⲙ<unclear>ⲡⲉⲙ</unclear>
+
+    <lb n="10" break="no"/><gap reason="lost" extent="unknown" unit="character"/>ⲛⲟⲩⲟⲉⲓϣ <g type="middot"/> ⲁⲡⲁ <hi rend="diaeresis">ⲓ</hi>ⲱ
+
+    <lb n="11" break="no"/><app type="editorial"><lem resp="PN L. Vanderheyden (photograph)"><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲕ</unclear>ⲥⲟⲟⲩⲛ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/>ⲥⲟⲟⲩⲛ</rdg></app> ⲁⲩⲱ ⲛ
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>ϣ ⲙⲟⲟϣⲉ <gap reason="illegible" quantity="1" unit="character"/>
+
+    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>ⲛϩⲏⲧ ⲁⲣⲓ <gap reason="illegible" quantity="1" unit="character"/>
+
+    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>ⲁⲛ ⲛⲁⲓ<unclear>ϣ</unclear>
+
+    <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/>ϣⲗ <gap reason="illegible" quantity="2" unit="character"/>  <gap reason="lost" extent="unknown" unit="character"/>
+
+    <app type="editorial"><lem resp="PN L. Vanderheyden (photograph)"><lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg/></app>
+</ab>
+      </div>
