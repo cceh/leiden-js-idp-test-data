@@ -55,11 +55,11 @@
 
     <lb n="28" break="no"/>λ<supplied reason="lost">α</supplied>χεν, υἱὸν Δίδυμον ἀξι
 
-    <lb n="29" break="no"/>ῶ <unclear>σ</unclear><supplied reason="lost">υντάξαι</supplied> <unclear>γράψ</unclear>αι τοῖς <expan>πρὸ<ex>ς</ex></expan> 
+    <lb n="29" break="no"/>ῶ <app type="editorial"><lem resp="BL 8.327">ὑ<supplied reason="lost">μ</supplied><unclear>ᾶς</unclear> <unclear>συντ</unclear>άξαι</lem><rdg><unclear>σ</unclear><supplied reason="lost">υντάξαι</supplied> <unclear>γράψ</unclear>αι</rdg></app> τοῖς <expan>πρὸ<ex>ς</ex></expan> 
 
-    <lb n="30"/>τούτοις οὖσι <supplied reason="lost">λ</supplied>αβοῦσι μου χι
+    <lb n="30"/>τούτοις οὖσι <supplied reason="lost">λ</supplied>αβοῦσι μου <choice><reg>χει
 
-    <lb n="31" break="no"/>ρογ<supplied reason="lost">ρ</supplied>αφίαν περὶ του ἀληθῆ 
+    <lb n="31" break="no"/>ρογ<supplied reason="lost">ρ</supplied>αφίαν</reg><orig>χι<lb n="31" break="no"/>ρογ<supplied reason="lost">ρ</supplied>αφίαν</orig></choice> περὶ του ἀληθῆ 
 
     <lb n="32"/>εἶν<supplied reason="lost">α</supplied>ι τὰ <choice><reg>προκείμενα</reg><orig>προκίμαινα</orig></choice> <choice><reg>εἰπεῖν</reg><orig>ιἰπῖν</orig></choice>, 
 
@@ -69,7 +69,7 @@
 
     <lb n="35"/><choice><reg>εἴσκρισιν</reg><orig>ἴσκρισιν</orig></choice> καὶ <choice><reg>ἐφηβείαν</reg><orig>ἐφηβίαν</orig></choice> τοῦ προ
 
-    <lb n="36" break="no"/>γεγραμμένου μου ὑοῦ Διδύ
+    <lb n="36" break="no"/>γεγραμμένου μου υἱοῦ Διδύ
 
     <lb n="37" break="no"/>μου γράμματα, <choice><reg>ἔπειτα</reg><orig>ἔπιτ<unclear>α</unclear></orig></choice> τῷ 
 
