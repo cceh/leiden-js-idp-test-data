@@ -1,4 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<ab>
     <lb n="1"/>ἔτους <num value="3">γ</num> <expan>Λουκ<ex>ίου</ex></expan> <expan>Σεπ<ex>τιμίου</ex></expan> Σεουήρου 
 
     <lb n="2"/><expan>Περτίνακ<ex>ος</ex></expan> Σεβαστοῦ 
@@ -9,4 +10,5 @@
 
     <lb n="5"/><expan>ὀρι<ex>νῇ</ex></expan> <expan>Πολ<ex>έμωνος</ex></expan> <expan>Τεβ<ex>τύνεως</ex></expan> <expan><ex>πενθ</ex>ή<ex>μερον</ex></expan> 
 
-    <lb n="6"/>Κοπρῆς <abbr>Ἀπ</abbr> <abbr>Πτολ</abbr>. </ab></div>
+    <lb n="6"/>Κοπρῆς <app type="editorial"><lem resp="PN W. Graham Claytor (parallels)"><expan>ἀπ<ex>άτωρ</ex></expan></lem><rdg><abbr>Ἀπ</abbr></rdg></app> <abbr>Πτολ</abbr>. 
+</ab></div>
