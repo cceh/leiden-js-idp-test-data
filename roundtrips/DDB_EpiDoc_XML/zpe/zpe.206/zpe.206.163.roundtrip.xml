@@ -4,7 +4,7 @@
 
     <lb n="2"/>π<supplied reason="lost">αρὰ Μ</supplied>αρσύου τοῦ Θε<unclear>ο</unclear>
 
-    <lb n="3" break="no"/>μνήστου τῶν ἐξ  Ὀννή<unclear>ους</unclear>. 
+    <lb n="3" break="no"/>μνήστου τῶν ἐξ Ὀννή<unclear>ους</unclear>. 
 
     <lb n="4"/>ἀδικοῦμαι ὑπὸ Ἀντιόχου 
 
@@ -22,7 +22,7 @@
 
     <lb n="11"/><supplied reason="lost">πα</supplied><unclear>ρ</unclear>’ ἕκα<unclear>σ</unclear>τον <add place="above">με</add> ἀδικεῖσθαί με ὑπ’ αὐ
 
-    <lb n="12" break="no"/><unclear>τ</unclear>οῦ, <unclear>ἀ</unclear>φ<unclear>ορ</unclear>ίσaς τὰ ἐμαυτ<unclear>ο</unclear><supplied reason="lost">ῦ</supplied> πρό
+    <lb n="12" break="no"/><unclear>τ</unclear>οῦ, <unclear>ἀ</unclear>φ<unclear>ορ</unclear>ίσας τὰ ἐμαυτ<unclear>ο</unclear><supplied reason="lost">ῦ</supplied> πρό
 
     <lb n="13" break="no"/>βατ<unclear>α</unclear> <unclear>καὶ</unclear> παραδείξας αὐτῶι τ<unclear>ὰ</unclear>
 
@@ -30,22 +30,22 @@
 
     <lb n="15" break="no"/><unclear>τ</unclear>α ἐπενέγκας μοι ψευ<supplied reason="lost">δ</supplied>ῆ αἰτίαν
 
-    <lb n="16"/><supplied reason="lost">ἐ</supplied><unclear>π</unclear>έδωκεν κατ’ ἐμοῦ <choice><reg>προσαγγελί<lb n="17" break="no"/><supplied reason="lost">α</supplied>ν</reg><orig> προσανγελί
+    <lb n="16"/><supplied reason="lost">ἐ</supplied><unclear>π</unclear>έδωκεν κατ’ ἐμοῦ <choice><reg>προσαγγελί<lb n="17" break="no"/><supplied reason="lost">α</supplied>ν</reg><orig>προσανγελί
 
     <lb n="17" break="no"/><supplied reason="lost">α</supplied>ν</orig></choice> Τρύφ<unclear>ω</unclear>ν<unclear>ι</unclear> τῶι φυλ<supplied reason="lost">α</supplied>κίτ<unclear>η</unclear>ι τ<unclear>ῆ</unclear>ς
 
     <lb n="18"/><supplied reason="lost">κ</supplied>ώμης οἰόμενός μ<supplied reason="lost">ε κ</supplied>αταδυ
 
-    <lb n="19" break="no"/><supplied reason="lost">ναστ</supplied><unclear>ε</unclear><supplied reason="lost">ύ</supplied><unclear>σ</unclear>ειν, ὠς <unclear>ε</unclear><supplied reason="lost">ἰλ</supplied><unclear>η</unclear>φότος μου
+    <lb n="19" break="no"/><supplied reason="lost">ναστ</supplied><unclear>ε</unclear><supplied reason="lost">ύ</supplied><unclear>σ</unclear>ειν, ὡς <unclear>ε</unclear><supplied reason="lost">ἰλ</supplied><unclear>η</unclear>φότος μου
 
     <lb n="20"/><supplied reason="lost">c<gap reason="illegible" atLeast="9" atMost="10" unit="character"/></supplied> <supplied reason="lost">π</supplied>ροβα<supplied reason="lost">τ<gap reason="illegible" quantity="3" unit="character"/></supplied>κ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>εν ὑπο
 
     <lb n="21"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 </ab></div>
 <div n="v" type="textpart"><ab>
-    <lb n="1"/><handShift new="m2"/><expan><ex>ἔτους</ex></expan> <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">Με</supplied><unclear>σορὴ</unclear> <gap reason="illegible" quantity="1" unit="character"/><hi rend="supraline">θ</hi> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="1"/><handShift new="m2"/><expan><ex>ἔτους</ex></expan> <gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">Με</supplied><unclear>σορὴ</unclear> <num atLeast="19" atMost="29"><gap reason="illegible" quantity="1" unit="character"/><hi rend="supraline">θ</hi></num> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="2"/>περι <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ατ</unclear><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> υ<supplied reason="lost">c<gap reason="illegible" quantity="4" unit="character"/></supplied> <expan><ex cert="low">αρουρου</ex></expan>
+    <lb n="2"/>περι <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ατ</unclear><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> υ<supplied reason="lost">c<gap reason="illegible" quantity="4" unit="character"/></supplied><expan><ex cert="low">αρουρου</ex></expan>
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 </ab></div>

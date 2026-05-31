@@ -1,6 +1,6 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 <ab>
-    <lb n="1" rend="indent"/><expan><ex>ἔτους</ex></expan> <gap reason="illegible" quantity="5" unit="character"/><supplied reason="lost" cert="low"><gap reason="illegible" extent="unknown" unit="character"/> </supplied>
+    <lb n="1"/><expan><ex>ἔτους</ex></expan> <gap reason="illegible" quantity="5" unit="character"/><supplied reason="lost" cert="low"><gap reason="illegible" extent="unknown" unit="character"/> </supplied>
 
     <lb n="2"/><gap reason="lost" quantity="4" unit="character" precision="low"/>έους
 
@@ -14,7 +14,7 @@
 
     <lb n="7"/><gap reason="lost" quantity="6" unit="character" precision="low"/>μοῦνιν καὶ Πνεφορῶν ἐκ <expan><ex>τοῦ</ex></expan> Δωροθέο<unclear>υ</unclear>
 
-    <lb n="8"/><gap reason="lost" quantity="6" unit="character" precision="low"/> Ὀννώφριος ἐν <expan>περιέ<ex>τρωι</ex></expan> τῆς <expan><unclear>κ</unclear>ώ<ex>μῆς</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> <expan><ex>γίνεται</ex></expan> <num value="2"><unclear>β</unclear></num><gap reason="illegible" quantity="2" unit="character"/>
+    <lb n="8"/><gap reason="lost" quantity="6" unit="character" precision="low"/> Ὀννώφριος ἐν <expan>περιμέ<ex>τρωι</ex></expan> τῆς <expan><unclear>κ</unclear>ώ<ex>μης</ex></expan> <gap reason="illegible" quantity="1" unit="character"/> <expan><ex>γίνεται</ex></expan> <num value="2"><unclear>β</unclear></num><gap reason="illegible" quantity="2" unit="character"/>
 
     <lb n="9"/><supplied reason="lost" cert="low"><gap reason="illegible" quantity="5" unit="character" precision="low"/> </supplied> <supplied reason="lost">ἀ</supplied><unclear>μ</unclear>πελώνων καὶ παρα<unclear>δε</unclear>ί<supplied reason="lost">σων</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
@@ -32,7 +32,7 @@
 
     <lb n="16"/><supplied reason="lost">κ</supplied><unclear>α</unclear>ταλείπονται <num value="26">κϛ</num> <num value="32" rend="tick">λβ</num>, <expan><ex>ὧν</ex></expan> <expan>δι<ex>άφορον</ex></expan> <expan>σχ<unclear>ο</unclear><supplied reason="lost">ι</supplied><ex>νισμοῦ</ex></expan> <gap reason="illegible" quantity="5" unit="character"/><supplied reason="lost" cert="low"><gap reason="illegible" quantity="3" unit="character"/> </supplied> <expan><unclear>χέ</unclear><ex>ρσου</ex></expan> <gap reason="illegible" quantity="1" unit="character"/>
 
-    <lb n="17"/><supplied reason="lost" cert="low"><gap reason="illegible" quantity="1" unit="character"/> </supplied><gap reason="illegible" quantity="1" unit="character"/> Στεφάνου τοῦ Στεφάνου <expan>μετ<unclear>ε</unclear><ex>πιγεγραμμέναι</ex></expan> Διο<unclear>νυσί</unclear>ωι
+    <lb n="17"/><supplied reason="lost" cert="low"><gap reason="illegible" quantity="1" unit="character"/> </supplied> <gap reason="illegible" quantity="1" unit="character"/> Στεφάνου τοῦ Στεφάνου <expan>μετ<unclear>ε</unclear><ex>πιγεγραμμέναι</ex></expan> Διο<unclear>νυσί</unclear>ωι
 
     <lb n="18"/>Διδύμου ἐκ τοῦ Διονυσίου  <expan><ex>πρότερον</ex></expan> <gap reason="illegible" quantity="4" unit="character"/> <abbr>Ἡ<unclear>ρακλε</unclear>ίδ</abbr>
 
