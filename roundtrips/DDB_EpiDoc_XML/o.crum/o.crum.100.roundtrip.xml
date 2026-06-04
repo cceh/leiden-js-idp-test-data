@@ -1,0 +1,29 @@
+<div xml:lang="cop" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ⲧⲁⲁ<supplied reason="lost">ⲥ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ⲡⲁⲩⲗⲟⲥ ϩⲓⲧⲛ ϩⲏⲗⲓⲁ<supplied reason="lost">ⲥ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ⲉⲓⲧⲛⲛⲟⲟⲩ ⲡⲁⲩⲗⲟⲥ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/>ⲉⲧⲃⲉ ⲧ<num value="2">ⲥⲩⲛⲧⲉ</num> ⲛ<choice><reg xml:lang="grc">λῶδιξ</reg><orig>ⲗⲱⲧⲓⲝ</orig></choice> <unclear>ⲁ</unclear><supplied reason="lost">ⲩⲱ</supplied>
+
+    <lb n="5"/>ⲁⲓ<choice><reg xml:lang="grc">εὐχαριστεῖν</reg><orig>ⲉⲩⲭⲁⲣⲓⲥⲧⲁ</orig></choice> ⲛⲧⲟⲧⲕ ⲉⲙⲁ<supplied reason="lost">ⲧⲉ</supplied>
+
+    <lb n="6"/><app type="alternative"><lem>ⲙⲡⲉⲩ</lem><rdg>ⲙⲡⲉϥ</rdg></app><choice><reg xml:lang="grc">καταφρονεῖν</reg><orig>ⲕⲁⲧⲁⲫⲣⲟⲛⲉⲓ</orig></choice> ϯⲛⲟⲩ ⲁⲣ<supplied reason="lost">ⲓ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/>ⲁⲓⲧⲛⲛⲟⲟⲩϥ ⲛⲁⲕ ⲟⲩⲱϣ ⲛⲅ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/>ⲛⲡⲣⲏϣ ⲛⲁⲓ ⲙⲛ ⲑⲁⲓⲧⲉ ⲕⲁⲙⲏ ⲁⲩ<supplied reason="lost">ⲱ</supplied>
+
+    <lb n="9"/><choice><reg xml:lang="grc">πανάριον</reg><orig>ⲡⲁⲛⲁⲣⲉ</orig></choice> ⲕⲛⲁϩⲉ ⲉϯ<num value="2">ⲥⲩⲛⲧⲉ</num> ⲛⲕ
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>ⲕⲓϩⲉ<gap reason="illegible" quantity="2" unit="character"/>ⲉϩⲉⲛⲁϥⲧ<unclear>ⲃ</unclear><gap reason="illegible" quantity="1" unit="character"/>ⲣ<gap reason="lost" extent="unknown" unit="character"/>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="11"/>ⲕⲉⲫⲩⲁ <g type="dipunct"/> ⲉⲥϫⲓⲕⲓ  <app type="editorial"><lem resp="PN L. Vanderheyden (photograph)">ϩⲉⲛ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ϩⲉⲛ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+
+    <lb n="12"/><hi rend="supraline">ⲛ</hi>ⲅⲧ<hi rend="supraline">ⲛ</hi>ⲛⲟⲟⲩⲥⲟⲩ <hi rend="supraline">ⲛ</hi>ⲧⲟⲟⲧϥ <space quantity="1" unit="character"/> <app type="editorial"><lem resp="PN F. Krueger (common phraseology)">ⲁⲣⲓ ⲡ<supplied reason="lost">ⲛⲁ</supplied> <gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲁⲣⲓ ⲡ<gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+
+    <lb n="13"/>ⲉⲓ ⲉϩⲟⲩⲛ <hi rend="supraline">ⲛ</hi>ⲅⲣⲡ<choice><reg xml:lang="grc">πάσχα</reg><orig>ⲡⲁⲥⲭⲁ</orig></choice> ϩⲁϩⲧ<hi rend="supraline">ⲛ</hi> ϯ <app type="editorial"><lem resp="PN F. Krueger (common phraseology)"><supplied reason="lost">ⲟⲩϫⲁⲓ</supplied><lb n="14"/>ϩⲛ ⲡϫⲟⲉⲓⲥ</lem><rdg><gap reason="lost" extent="unknown" unit="character"/><lb n="14"/>ϩ<hi rend="supraline">ⲛ</hi> ⲡϫⲟⲉⲓⲥ</rdg></app> <g type="stauros"/>
+</ab></div></div>
