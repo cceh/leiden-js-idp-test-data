@@ -1,5 +1,5 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
-    <lb n="1"/><expan>δια<ex>γε</ex>γρ<ex>άφηκεν</ex></expan> <app type="editorial"><lem resp="BL 7.183">Χεμτσνεὺς</lem><rdg><expan>Χεμπν<ex>εῦς</ex></expan></rdg></app> Πενάμεως 
+    <lb n="1"/><expan>δια<ex>γε</ex>γρ<ex>άφηκεν</ex></expan> <app type="editorial"><lem resp="BL 7.183">Χεμτσνεὺς</lem><rdg><expan>Χεμπν<ex>εῦς</ex></expan></rdg></app> <app type="editorial"><lem resp="BL 10.178">Πελιλεως</lem><rdg>Πενάμεως</rdg></app> 
 
     <lb n="2"/><expan>ὑ<ex>πὲρ</ex></expan> <expan>λαο<ex>γραφίας</ex></expan> <num value="1">α</num> <expan><ex>ἔτους</ex></expan> <expan><ex>δραχμὰς</ex></expan> δέκα πέντε, <expan>γ<ex>ίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="15">ιε</num>, 
 
@@ -9,4 +9,4 @@
 
     <lb n="5"/>Γερμανικοῦ Αὐτοκράτορος, 
 
-    <lb n="6"/><expan>Φαρ<ex>μοῦθι</ex></expan> <num value="24">κδ</num>. <expan>σεσ<ex>ημείωμαι</ex></expan>. </ab></div>
+    <lb n="6"/><expan>Φαρ<ex>μοῦθι</ex></expan> <num value="24">κδ</num>. <app type="editorial"><lem resp="BL 10.178">Βάσσος</lem><rdg><expan>σεσ<ex>ημείωμαι</ex></expan></rdg></app>. </ab></div>
