@@ -1,5 +1,5 @@
-<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><div n="1" type="textpart"><ab>
-
+<div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<div n="1" subtype="column" type="textpart"><ab>
     <lb n="1"/>Πᾶις <expan>Σαταβοῦτ<ex>ος</ex></expan> 
 
     <lb n="2"/><expan>Στοτοῆτ<ex>ις</ex></expan> ἀδελφός 
@@ -18,7 +18,7 @@
 
     <lb n="9"/>Ἅρπ<supplied reason="lost">α</supplied>λος υἱός 
 
-    <lb n="10"/>Καλᾶς ἄλλος υἱός 
+    <lb n="10"/><app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130"><expan>Καλατ<ex>ῦτις</ex></expan></lem><rdg>Καλᾶς</rdg></app> ἄλλος υἱός 
 
     <lb n="11"/>Πανομιεὺς <expan>Πανομ<ex>ιέως</ex></expan> 
 
@@ -30,23 +30,23 @@
 
     <lb n="15"/>Ὧρος <expan>Στοτοήτ<ex>ιος</ex></expan> 
 
-    <lb n="16"/>Παβοῦς <expan>Παβοῦ<unclear>τ</unclear><ex>ος</ex></expan> 
+    <lb n="16"/>Παβοῦς <app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130"><expan>Παβουκ<ex>ᾶ</ex></expan> <expan><unclear>σ</unclear>ιτολ<unclear>ό</unclear><ex>γος</ex></expan></lem><rdg><expan>Παβοῦ<unclear>τ</unclear><ex>ος</ex></expan></rdg></app>  
 
     <lb n="17"/>Σαταβοῦς ἀδελφός 
 
-    <lb n="18"/>Σωτᾶς βασιαρξ 
+    <lb n="18"/>Ἑριεὺς ἀδελφός
 
-    <lb n="19"/>Ἑριεὺς ἀδελφός 
+    <lb n="19"/>Σωτᾶς <app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130"><choice><reg>κασίαρχος</reg><orig>κασίαρξ</orig></choice></lem><rdg>βασιαρξ</rdg></app>
 
     <lb n="20"/>Ἀπολλὼς ἀδελφός 
 
     <lb n="21"/>Σαταβοῦς ἀδελφός 
 
-    <lb n="22"/>Λα<unclear>χ</unclear>ετᾶς βασιαρξ 
+    <lb n="22"/><app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130">Λαβετᾶς <choice><reg>κασίαρχος</reg><orig>κασίαρξ</orig></choice></lem><rdg>Λα<unclear>χ</unclear>ετᾶς βασιαρξ</rdg></app>  
 
     <lb n="23"/>Πωλίων ἠπητής 
 
-    <lb n="24"/>Σωτᾶς <expan>Παβοῦτ<ex>ος</ex></expan> <abbr>νας</abbr> 
+    <lb n="24"/>Σωτᾶς <expan>Παβοῦτ<ex>ος</ex></expan> <abbr>νασ</abbr> 
 
     <lb n="25"/>Ἀπῦγχις Τούρβων 
 
@@ -83,8 +83,8 @@
     <lb n="41"/>Δημᾶς Δημᾶς 
 
     <lb n="42"/>Ὀρσενοῦφις <expan>ἀδελφ<ex>ός</ex></expan> 
-</ab></div><div n="2" type="textpart"><ab>
-
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
     <lb n="1"/>Παοῦς <expan>ἀ<supplied reason="lost">δε</supplied>λφ<ex>ός</ex></expan> 
 
     <lb n="2"/><gap reason="illegible" quantity="4" unit="line"/> 
@@ -134,8 +134,8 @@
     <lb n="29"/>Ὧρος Τ<gap reason="illegible" quantity="1" unit="character"/>α<gap reason="lost" quantity="4" unit="character"/> 
 
     <lb n="30"/>Ἑριεὺς <gap reason="illegible" quantity="4" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> 
-</ab></div><div n="3" type="textpart"><ab>
-
+</ab></div>
+<div n="3" subtype="column" type="textpart"><ab>
     <lb n="1"/>Πακῦσις Σώτου 
 
     <lb n="2"/>Ἰοῦστος ἀδελφός 
@@ -178,7 +178,7 @@
 
     <lb n="21"/>Ὀρσενοῦφις <expan>Σώτ<ex>ου</ex></expan> <expan>Πετεχ<ex>ώνσιος</ex></expan> 
 
-    <lb n="22"/><expan>Σωτήριχ<ex>ος</ex></expan> Σωτηρίχου <abbr>Τανβ</abbr> 
+    <lb n="22"/><expan>Σωτήριχ<ex>ος</ex></expan> Σωτηρίχου <app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130"><expan>Ταυβ<ex>άστεως</ex></expan> <certainty match=".." locus="value"/></lem><rdg><abbr>Τανβ</abbr></rdg></app>  
 
     <lb n="23"/>Ὀρσενοῦφις ἀδελφός 
 
@@ -211,8 +211,8 @@
     <lb n="37"/>Πακῦσις <expan>Πακύσ<ex cert="low">εως</ex></expan> <expan>Ἁρ<unclear>ή</unclear><ex>ους</ex></expan> 
 
     <lb n="38"/><expan>Ἀνδρώμαχ<ex>ος</ex></expan> ἀδελφός 
-</ab></div><div n="4" type="textpart"><ab>
-
+</ab></div>
+<div n="4" subtype="column" type="textpart"><ab>
     <lb n="1"/>Ὀννόφρις <expan>τυμπανιστ<ex>ής</ex></expan> 
 
     <lb n="2"/>Σωτήριχος <expan>ἀπάτ<ex>ωρ</ex></expan> 
@@ -255,11 +255,11 @@
 
     <lb n="21"/>Σαλλᾶς Διονυσίου 
 
-    <lb n="22"/>Σωτᾶς Νεβτῖχις 
+    <lb n="22"/>Σωτᾶς <app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130"><expan>Νεβτίχ<ex>ιος</ex></expan> <expan>ἱε<ex>ροψάλτης</ex></expan></lem><rdg>Νεβτῖχις</rdg></app>  
 
     <lb n="23"/><choice><reg>Οὐικτορῖνος</reg><orig>Οὐικτορῖνες</orig></choice> <expan>δοῦλ<ex>ος</ex></expan> 
 
-    <lb n="24"/>Μέλας Σωταβᾶς 
+    <lb n="24"/>Μέλας <app type="editorial"><lem resp="G. Messeri, AnalPap 33 (2021) 130">Σωτακᾶς</lem><rdg>Σωταβᾶς</rdg></app> 
 
     <lb n="25"/>Πιεῦς γέρδις 
 
@@ -284,8 +284,8 @@
     <lb n="35"/>Ζηνᾶς 
 
     <lb n="36"/>Ἁτρῆς Πεκλῶρις 
-</ab></div><div n="5" type="textpart"><ab>
-
+</ab></div>
+<div n="5" subtype="column" type="textpart"><ab>
     <lb n="1"/>Πτολεμ<unclear>αῖ</unclear>ς Πεθέος 
 
     <lb n="2"/>Πεθεῦς υἱός 
@@ -304,4 +304,5 @@
 
     <lb n="9"/>Λάμπων ἀπάτωρ 
 
-    <lb n="10"/>Πατῶς ξυρητής </ab></div></div>
+    <lb n="10"/>Πατῶς ξυρητής 
+</ab></div></div>
