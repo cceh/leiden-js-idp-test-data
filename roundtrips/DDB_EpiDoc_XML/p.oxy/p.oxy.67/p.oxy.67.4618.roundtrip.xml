@@ -1,7 +1,7 @@
 <div xml:lang="grc" type="edition" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ</supplied> <unclear>ἁ</unclear>γίου Βίκτορος
 
-    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ</supplied> ἁγίου <choice><reg>Νίλου</reg><orig>Νείλου</orig></choice>
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τοῦ</supplied> ἁγίου Νείλου
 
     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> το</supplied><unclear>ῦ</unclear> <unclear>Ε</unclear>ὐ<unclear>αγ</unclear>γελιστοῦ
 
@@ -19,9 +19,9 @@
 
     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> το</supplied><unclear>ῦ</unclear> ἁγίου Κολλούθου
 
-    <lb n="11"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἐ</supplied><unclear>κκ</unclear>λησ<ex>ία</ex></expan>
+    <lb n="11"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἐ</supplied><unclear>κκ</unclear>λησ<ex>ία</ex></expan> Μαρτυρίου
 
-    <lb n="12"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἐ</supplied><unclear>κκ</unclear>λησ<ex>ία</ex></expan>
+    <lb n="12"/> <gap reason="lost" extent="unknown" unit="character"/> <expan><supplied reason="lost">ἐ</supplied><unclear>κκ</unclear>λησ<ex>ία</ex></expan> Παρ<unclear>ὰ</unclear> <expan>Ποταμ<ex>όν</ex></expan>
 
     <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> το</supplied><unclear>ῦ</unclear> ἁγίου Γαβρι<unclear>ή</unclear>λ
 
