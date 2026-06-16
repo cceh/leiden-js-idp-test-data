@@ -1,0 +1,11 @@
+<S=.la
+<=
+    1. Dida Damanai *middot* filius  *middot* nationis [ *middot*] Daqus
+
+    2. eques  *middot*  alae  *middot*  Vocontiorum  *middot*  turma  *middot*  Maturii
+
+    3. <:armatus|reg|armatum:>  *middot*  feci  *middot*  <:statione|reg|stationi:>  *middot* <:menses|reg|meses:> *middot* quinque
+
+    4. pro <:salute|reg|salutem:> *middot* <:imperatoris|reg|Imperatore:> *middot* feliciter. 
+=>
+      
