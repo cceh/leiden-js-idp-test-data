@@ -28,5 +28,5 @@
 
     <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/>ⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ
 
-    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ⲥⲡⲉⲓ<lb n="17" break="no"/><choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan><supplied reason="lost">ⲉ</supplied><unclear>ⲗⲁⲭ</unclear><ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice>
+    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ⲥ ⲡⲉⲓ<lb n="17" break="no"/><choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan><supplied reason="lost">ⲉ</supplied><unclear>ⲗⲁⲭ</unclear><ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice>
 </ab></div>
