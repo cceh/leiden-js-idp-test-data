@@ -22,7 +22,7 @@
 
     <lb n="11" break="no"/>ϩⲏⲧ <hi rend="supraline">ⲙ</hi>ⲧⲟⲛ ⲁⲛⲟⲕ ⲡⲱⲕ <choice><reg xml:lang="grc">γάρ</reg><orig>ⲅⲁⲣ</orig></choice> <app type="alternative"><lem><hi rend="supraline">ⲙ</hi>ⲡ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg><hi rend="supraline">ⲙ</hi>ⲡ<supplied reason="lost">ⲉⲓⲧⲁϩⲟ</supplied></rdg></app>
 
-    <lb n="12"/><hi rend="supraline">ⲛ</hi>ⲉⲓ ⲉⲛϩⲏⲧ ϣⲁ<unclear>ⲛ</unclear>ⲧⲉⲡϣⲁ ⲟⲩⲉⲓ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/>
+    <lb n="12"/><hi rend="supraline">ⲛ</hi>ⲉⲓ ⲉⲛϩⲏⲧ ϣⲁ<unclear>ⲛ</unclear>ⲧⲉⲡϣⲁ <app type="alternative"><lem>ⲟⲩⲉⲓ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/></lem><rdg>ⲟⲩⲉⲓⲛⲉ</rdg></app>
 
     <lb n="13"/>ⲉⲣϣⲁⲛⲡⲛⲟⲩⲧⲉ ϯ ⲑⲉ ⲛⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲧⲉⲛⲉⲕϣⲗⲏⲗ
 

@@ -12,9 +12,9 @@
 
     <lb n="6"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> ⲑⲉ <hi rend="supraline">ⲛ</hi>ⲧⲁⲛⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛⲙⲛⲧ</hi>ⲉⲓⲱⲧ ϫⲉ
 
-    <lb n="7"/>ⲉⲣϣⲁⲛ ⲡ<choice><reg xml:lang="grc">ἀρχιμανδρίτης</reg><orig><expan>ⲁⲣⲭⲏⲙⲁⲛⲧ<ex>ⲣⲓⲧⲏⲥ</ex></expan></orig></choice> ⲃⲱⲕ ⲛⲁϥ ϣⲁ<hi rend="diaeresis">ⲓ</hi>
+    <lb n="7"/>ⲉⲣϣⲁⲛⲡ<choice><reg xml:lang="grc">ἀρχιμανδρίτης</reg><orig><expan>ⲁⲣⲭⲏⲙⲁⲛⲧ<ex>ⲣⲓⲧⲏⲥ</ex></expan></orig></choice> ⲃⲱⲕ ⲛⲁϥ <choice><reg>ϣⲁ<hi rend="diaeresis">ⲓ</hi><hi rend="supraline">ⲛ</hi></reg><orig>ϣⲁ<hi rend="diaeresis">ⲓ</hi>
 
-    <lb n="8" break="no"/>ⲉⲓ<hi rend="supraline">ⲛ</hi> ⲧ<choice><reg xml:lang="grc">ἀπόκρισις</reg><orig>ⲁⲡⲟⲕⲣⲓⲥⲓⲥ</orig></choice> ⲉⲓⲥ ϩⲏⲧⲉ ⲁ<hi rend="diaeresis">ⲓ</hi>ⲉ<hi rend="diaeresis">ⲓ</hi> ⲁ<hi rend="diaeresis">ⲓ</hi>ϩⲉ
+    <lb n="8" break="no"/>ⲉⲓ<hi rend="supraline">ⲛ</hi></orig></choice> ⲧ<choice><reg xml:lang="grc">ἀπόκρισις</reg><orig>ⲁⲡⲟⲕⲣⲓⲥⲓⲥ</orig></choice> ⲉⲓⲥ ϩⲏⲧⲉ ⲁ<hi rend="diaeresis">ⲓ</hi>ⲉ<hi rend="diaeresis">ⲓ</hi> ⲁ<hi rend="diaeresis">ⲓ</hi>ϩⲉ
 
     <lb n="9"/>ⲉⲣⲟⲥ ⲉⲁϩⲉⲛⲕⲉϣⲁϫⲉ ϣⲱⲡⲉ ⲁ<hi rend="diaeresis">ⲓ</hi>
 

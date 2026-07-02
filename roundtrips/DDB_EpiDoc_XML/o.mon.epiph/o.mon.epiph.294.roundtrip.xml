@@ -2,9 +2,9 @@
 <ab>
     <lb n="1"/><foreign xml:lang="grc"><choice><reg>Ἰησοῦς Χριστὸς νικᾷ</reg><orig><expan>Ἰ<ex>ησο</ex>ῦ</expan> <expan>Χ<ex>ριστο</ex>ῦ</expan> νικᾷ</orig></choice></foreign>
 
-    <lb n="2"/><supplied reason="lost"><g type="stauros"/> ⲁ</supplied>ⲛⲟⲕ ⲉⲛⲱⲭ ⲉϥⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> ⲛⲁⲡⲉϥⲉⲓⲱⲧ
+    <lb n="2"/><supplied reason="lost"><g type="stauros"/> ⲁ</supplied>ⲛⲟⲕ ⲉⲛⲱⲭ ⲉϥⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <choice><reg><hi rend="supraline">ⲙ</hi>ⲡⲉϥⲉⲓⲱⲧ</reg><orig>ⲛⲁ ⲡⲉϥⲉⲓⲱⲧ</orig></choice>
 
-    <lb n="3"/><supplied reason="lost"><hi rend="supraline">ⲙ</hi></supplied><hi rend="supraline">ⲛ</hi>ⲧⲉϥⲙⲁⲁⲩ ϫⲉ ⲁⲣ<hi rend="diaeresis">ⲓ</hi> ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁⲡⲏ</orig></choice> ⲛⲧⲉ
+    <lb n="3"/><supplied reason="lost"><hi rend="supraline">ⲙ</hi></supplied><hi rend="supraline">ⲛ</hi> ⲧⲉϥⲙⲁⲁⲩ ϫⲉ ⲁⲣ<hi rend="diaeresis">ⲓ</hi> ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁⲡⲏ</orig></choice> ⲛⲧⲉ
 
     <lb n="4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <num value="20">ϫⲱⲟⲩⲧ</num> <hi rend="supraline">ⲛ</hi>ϣⲉ ⲛⲍⲉⲃⲉⲇⲁⲓⲟⲥ 
 
@@ -12,7 +12,7 @@
 
     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> ϩⲁⲣⲟⲟⲩ ⲁⲩⲱ <unclear>ⲛ</unclear>ⲉ<unclear>ⲓⲁ</unclear>ϫⲓⲧ<unclear>ⲥ</unclear>
 
-    <lb n="7"/><supplied reason="lost"><hi rend="supraline">ⲙ</hi>ⲡ</supplied><unclear>ⲉ</unclear>ⲣⲕ<hi rend="supraline">ⲱ</hi> ⲛϣⲟⲩⲛⲉϥ ⲥⲟⲩ<unclear>ⲟ</unclear>
+    <lb n="7"/><choice><reg><hi rend="supraline">ⲙ</hi>ⲡⲣϭⲱ</reg><orig><supplied reason="lost"><hi rend="supraline">ⲙ</hi>ⲡ</supplied><unclear>ⲉ</unclear>ⲣⲕ<hi rend="supraline">ⲱ</hi></orig></choice> ⲛϣⲟⲩ <choice><reg><hi rend="supraline">ⲛ</hi> ⲛⲉϥⲥⲟⲩ<unclear>ⲟ</unclear></reg><orig>ⲛⲉϥⲥⲟⲩ<unclear>ⲟ</unclear></orig></choice>
 
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" extent="unknown" unit="character"/>
 </ab>
